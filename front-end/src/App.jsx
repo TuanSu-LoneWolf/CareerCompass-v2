@@ -1,7 +1,7 @@
 import './index.css'
 import Header from "./components/library/header/header.jsx"
 import { CardBase, SchoolCard } from './components/library/cards/card.jsx';
-import logoCC from "./assets/Logo_CC_tron.svg";
+import logoCC from "../public/Logo_CC_tron.svg";
 import { SignUpForm } from './components/library/signUpForm/signUpForm.jsx';
 import { LoginForm } from './components/library/loginForm/loginForm.jsx';
 

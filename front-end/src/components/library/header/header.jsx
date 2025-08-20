@@ -3,7 +3,7 @@ import Button from "../buttons/button.jsx";
 import { Menu, X } from "lucide-react"; //icon Menu
 import { useState } from "react"; 
 import "./header.css";
-import Logo from "../../../assets/Logo_CC_tron_co_chu.svg";
+import Logo from "../../../../public/Logo_CC_tron_co_chu copy.svg";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
