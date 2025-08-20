@@ -1,6 +1,7 @@
 import "./card.css"
 import Button from "../buttons/button.jsx";
 import { Link } from "react-router-dom";
+import { School } from "lucide-react";
 
 // CardBase
 export function CardBase({ children, className ="" }) {
@@ -13,14 +14,13 @@ export function CardBase({ children, className ="" }) {
 
 // SchoolCard
 export function SchoolCard({ name, code, majorsCount }) {
-  const logo = name?.trim().charAt(0).toUpperCase();
 
   return (
     <div className="card-base flex flex-col gap-3 items-start w-fit justify-between min-h-[220px] max-w-[350px]">
       <div className="flex gap-4">
         <div className="flex items-center">
           <div className="flex justify-center items-center bg-amber-50 border-1 border-[--secondary] rounded-full w-15 h-15 text-[var(--secondary)] leading-none font-bold text-3xl">
-            {logo}
+            <School className="w-8 h-8"></School>
           </div>
         </div>
         <div>

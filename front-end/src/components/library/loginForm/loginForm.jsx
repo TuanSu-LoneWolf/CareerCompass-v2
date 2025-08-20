@@ -39,7 +39,7 @@ export function LoginForm({ logo, name }) {
 
       <div className="space-y-4">
         <Input
-          name="email"
+          label="Email"
           type="email"
           placeholder="Địa chỉ email"
           variant="primary"
@@ -47,7 +47,7 @@ export function LoginForm({ logo, name }) {
           error={errors.email}
         />
         <Input
-          name="password"
+          label="Mật khẩu"
           type="password"
           placeholder="Mật khẩu"
           variant="primary"
@@ -55,13 +55,37 @@ export function LoginForm({ logo, name }) {
           error={errors.password}
         />
       </div>
-
       <button
         type="submit"
-        className="w-full bg-[var(--primary)] text-white font-bold py-2 rounded-md hover:bg-[var(--primary-hover)] transition"
+        className="w-full bg-[var(--primary)] text-white font-bold py-2 rounded-md hover:bg-[var(--primary-hover)] transition cursor-pointer mb-0"
       >
         Đăng nhập
       </button>
+
+      {/* GoogleLogin */}
+      <div className="w-full">
+
+        {/* Divider */}
+        <div className="flex items-center my-4">
+          <div className="flex-grow h-px bg-gray-300"></div>
+          <span className="px-2 text-gray-500 text-sm">hoặc</span>
+          <div className="flex-grow h-px bg-gray-300"></div>
+        </div>
+
+        {/* Google button */}
+        <button type="button" className="w-full flex items-center justify-center gap-2 outline-none border border-gray-300 text-gray-500 rounded-lg py-2 hover:bg-gray-50 transition cursor-pointer mb-4">
+          <img
+            src="https://www.svgrepo.com/show/355037/google.svg"
+            alt="Google"
+            className="w-5 h-5"
+          />
+          <span>Đăng nhập bằng Google</span>
+        </button>
+        <div className="flex justify-center items-center gap-1">
+          <span>Chưa có tài khoản?</span>
+          <a href="/SignUpPage" className="text-[var(--primary)] font-bold">Đăng ký</a>
+        </div>
+      </div>
     </form>
   );
 }

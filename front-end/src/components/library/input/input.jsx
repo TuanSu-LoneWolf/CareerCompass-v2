@@ -34,7 +34,7 @@ export function Input({
   const isPassword = type === "password";
 
   return (
-    <div className="flex flex-col w-full">
+    <div className="flex flex-col w-full mb-2">
       {label && (
         <label htmlFor={name} className={`mb-1 text-sm font-medium ${error ? "text-red-500" : "text-[var(--primary)]"} flex justify-between`}>
           {label}

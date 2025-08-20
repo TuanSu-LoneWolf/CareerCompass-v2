@@ -40,7 +40,7 @@ export function SignUpForm({ logo, name }) {
     >
       <div className="flex flex-col items-center px-5">
         <img className="block mx-auto w-40" src={logo}/>
-        <h2 className="inline-block mx-auto my-3">Đăng ký tài khoản {name}</h2>
+        <h2 className="inline-block mx-auto mt-3">Đăng ký tài khoản {name}</h2>
         <p className="text-center text-[var(--primary)]">Mỗi người nên sử dụng riêng một tài khoản, tài khoản nhiều người sử dụng chung sẽ bị khóa.</p>
       </div>
 
@@ -78,13 +78,36 @@ export function SignUpForm({ logo, name }) {
           error={errors.confirmPassword}
         />
       </div>
-
       <button
         type="submit"
-        className="w-full bg-[var(--primary)] text-white font-bold py-2 rounded-md hover:bg-[var(--primary-hover)] transition"
+        className="w-full bg-[var(--primary)] text-white font-bold py-2 rounded-md hover:bg-[var(--primary-hover)] transition cursor-pointer mb-0"
       >
         Đăng ký
       </button>
+      {/* GoogleSignUp */}
+      <div className="w-full">
+
+        {/* Divider */}
+        <div className="flex items-center my-4">
+          <div className="flex-grow h-px bg-gray-300"></div>
+          <span className="px-2 text-gray-500 text-sm">hoặc</span>
+          <div className="flex-grow h-px bg-gray-300"></div>
+        </div>
+
+        {/* Google button */}
+        <button type="button" className="w-full flex items-center justify-center gap-2 outline-none border border-gray-300 text-gray-500 rounded-lg py-2 hover:bg-gray-50 transition cursor-pointer mb-4">
+          <img
+            src="https://www.svgrepo.com/show/355037/google.svg"
+            alt="Google"
+            className="w-5 h-5"
+          />
+          <span>Đăng nhập bằng Google</span>
+        </button>
+        <div className="flex justify-center items-center gap-1">
+          <span>Đã có tài khoản?</span>
+          <a href="/LoginPage" className="text-[var(--primary)] font-bold">Đăng nhập</a>
+        </div>
+      </div>
     </form>
   );
 }

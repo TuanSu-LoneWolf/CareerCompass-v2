@@ -31,10 +31,10 @@ const Header = () => {
 
         {/* Buttons (desktop only) */}
         <div className="header-actions hidden md:flex">
-          <Link to="/">
+          <Link to="/LoginPage">
             <Button type="outline">Login</Button>
           </Link>
-          <Link to="/">
+          <Link to="/SignUpPage">
             <Button type="primary">Sign Up</Button>
           </Link>
         </div>
