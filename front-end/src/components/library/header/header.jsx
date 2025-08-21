@@ -5,11 +5,11 @@ import { useState } from "react";
 import "./header.css";
 import Logo from "../../../../public/Logo_CC_tron_co_chu copy.svg";
 
-const Header = () => {
+export function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="header">
+    <header className="header fixed">
       <div className="header-container">
         {/* Logo */}
         <NavLink to="/" className="header-logo">
@@ -106,6 +106,3 @@ const Header = () => {
     </header>
   );
 };
-
-
-export default Header;
