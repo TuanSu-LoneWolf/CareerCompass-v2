@@ -5,7 +5,7 @@ export function SignUpPage() {
     <div className="w-screen h-screen flex justify-center items-center">
       <SignUpForm
       logo={logoCC}
-      name="CareerCompass"
+      name="Career Compass"
     ></SignUpForm>
     </div>
   )

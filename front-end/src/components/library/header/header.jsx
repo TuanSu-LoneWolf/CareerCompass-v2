@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import Button from "../buttons/button.jsx";
 import { Menu, X } from "lucide-react"; //icon Menu
 import { useState } from "react"; 
@@ -12,36 +12,42 @@ const Header = () => {
     <header className="header">
       <div className="header-container">
         {/* Logo */}
-        <Link to="/" className="header-logo">
+        <NavLink to="/" className="header-logo">
           <img src={Logo} alt="CareerCompass" className="h-10" />
-        </Link>
+        </NavLink>
 
         {/* Navigation */}
         <nav className="header-nav">
-          <Link to="/about" className="header-link">
-            About
-          </Link>
-          <Link to="/services" className="header-link">
-            Services
-          </Link>
-          <Link to="/contact" className="header-link">
-            Contact
-          </Link>
+          <NavLink to="/" className="header-link">
+            Trang chủ
+          </NavLink>
+          <NavLink to="/universities-majors" className="header-link">
+            Danh sách Đại học
+          </NavLink>
+          <NavLink to="/career-guidance" className="header-link">
+            Hướng nghiệp
+          </NavLink>
+          <NavLink to="/interview-practice" className="header-link">
+            Luyện phỏng vấn
+          </NavLink>
+          <NavLink to="/cv-check" className="header-link">
+            Kiểm tra CV
+          </NavLink>
         </nav>
 
         {/* Buttons (desktop only) */}
-        <div className="header-actions hidden md:flex">
-          <Link to="/LoginPage">
-            <Button type="outline">Login</Button>
+        <div className="header-actions hidden lg:flex">
+          <Link to="/signup">
+            <Button type="outline">Đăng ký</Button>
           </Link>
-          <Link to="/SignUpPage">
-            <Button type="primary">Sign Up</Button>
+          <Link to="/login">
+            <Button type="primary">Đăng nhập</Button>
           </Link>
         </div>
 
         {/* Mobile menu button */}
         <button
-          className="header-menu-btn md:hidden"
+          className="header-menu-btn lg:hidden"
           onClick={() => setIsOpen(!isOpen)}
         >
           {isOpen ? (
@@ -70,21 +76,31 @@ const Header = () => {
         </div>
 
         <nav className="flex flex-col gap-6">
-          <Link to="/about" onClick={() => setIsOpen(false)}>
-            About
-          </Link>
-          <Link to="/services" onClick={() => setIsOpen(false)}>
-            Services
-          </Link>
-          <Link to="/contact" onClick={() => setIsOpen(false)}>
-            Contact
-          </Link>
+          <NavLink to="/" className="header-link">
+            Trang chủ
+          </NavLink>
+          <NavLink to="/universities-majors" className="header-link">
+            Danh sách Đại học
+          </NavLink>
+          <NavLink to="/career-guidance" className="header-link">
+            Hướng nghiệp
+          </NavLink>
+          <NavLink to="/interview-practice" className="header-link">
+            Luyện phỏng vấn
+          </NavLink>
+          <NavLink to="/cv-check" className="header-link">
+            Kiểm tra CV
+          </NavLink>
         </nav>
 
         {/* Buttons (mobile only) */}
         <div className="flex flex-col gap-3 mt-8">
-          <Button type="outline">Login</Button>
-          <Button type="primary">Sign Up</Button>
+          <Link to="/signup">
+            <Button type="outline" className="w-full">Đăng ký</Button>
+          </Link>
+          <Link to="/login">
+            <Button type="primary" className="w-full">Đăng nhập</Button>
+          </Link>
         </div>
       </div>
     </header>

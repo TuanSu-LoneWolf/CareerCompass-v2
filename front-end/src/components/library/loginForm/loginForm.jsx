@@ -29,17 +29,18 @@ export function LoginForm({ logo, name }) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="card-base max-w-lg mx-auto bg-white shadow-md rounded-xl p-6 space-y-6"
+      className="card-base w-[95%] sm:w-lg mx-auto bg-white shadow-md rounded-xl p-6 space-y-6 max-h-screen overflow-auto hide-scrollbar"
     >
       <div className="flex flex-col items-center px-2">
         <img className="block mx-auto w-40" src={logo}/>
-        <h2 className="inline-block mx-auto my-3">Đăng nhập tài khoản {name}</h2>
+        <h2 className="inline-block mx-auto my-3 text-center">Đăng nhập tài khoản {name}</h2>
         <p className="text-center text-[var(--primary)]">Mỗi người nên sử dụng riêng một tài khoản, tài khoản nhiều người sử dụng chung sẽ bị khóa.</p>
       </div>
 
       <div className="space-y-4">
         <Input
           label="Email"
+          name="email"
           type="email"
           placeholder="Địa chỉ email"
           variant="primary"
@@ -48,6 +49,7 @@ export function LoginForm({ logo, name }) {
         />
         <Input
           label="Mật khẩu"
+          name="password"
           type="password"
           placeholder="Mật khẩu"
           variant="primary"
@@ -83,7 +85,7 @@ export function LoginForm({ logo, name }) {
         </button>
         <div className="flex justify-center items-center gap-1">
           <span>Chưa có tài khoản?</span>
-          <a href="/SignUpPage" className="text-[var(--primary)] font-bold">Đăng ký</a>
+          <a href="/signup" className="text-[var(--primary)] font-bold">Đăng ký</a>
         </div>
       </div>
     </form>

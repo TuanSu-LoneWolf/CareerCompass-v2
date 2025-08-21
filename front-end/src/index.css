@@ -26,6 +26,22 @@ body {
   background-color: #cbdbfb
 }
 
+/* Ẩn cho Chrome, Safari */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Ẩn cho Firefox */
+.hide-scrollbar {
+  scrollbar-width: none;
+}
+
+/* Ẩn cho IE, Edge cũ */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+}
+
+
 @layer components {
   h1 {
     @apply text-2xl font-bold leading-[1.5];

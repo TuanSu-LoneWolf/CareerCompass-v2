@@ -17,7 +17,7 @@
 }
 
 .header-nav {
-  @apply hidden md:flex gap-6;
+  @apply hidden lg:flex gap-6;
 }
 
 .header-nav a {
@@ -38,7 +38,19 @@
 }
 
 .header-menu-btn {
-  @apply md:hidden p-2 rounded-lg hover:bg-gray-100 transition;
+  @apply p-2 rounded-lg hover:bg-gray-100 transition;
+}
+
+.header-link.active {
+  @apply text-[var(--primary)];
+}
+
+.header-link.active:hover {
+  @apply text-[var(--primary)];
+}
+
+.header-link.active:hover::after {
+  @apply w-0;
 }
 
 /* --- Mobile menu --- */
@@ -49,7 +61,7 @@
 
 /* Mobile off-canvas menu */
 .header-mobile {
-  @apply fixed top-0 left-0 h-screen w-3/4 bg-white shadow-2xl p-6 flex flex-col z-50 transition-transform duration-300;
+  @apply fixed top-0 left-0 h-screen w-md max-w-screen bg-white shadow-2xl p-6 flex flex-col z-50 transition-transform duration-300;
   transform: translateX(-100%);
 }
 
