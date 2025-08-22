@@ -36,11 +36,11 @@ export function SignUpForm({ logo, name }) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="card-base w-[95%] sm:w-lg mx-auto bg-white shadow-md rounded-2xl p-6 space-y-6 max-h-screen overflow-auto hide-scrollbar"
+      className="card-base w-[95%] sm:w-lg mx-auto bg-[var(--card)] shadow-md rounded-2xl p-6 space-y-6 max-h-screen overflow-auto hide-scrollbar"
     >
       <div className="flex flex-col items-center px-5">
         <img className="block mx-auto w-40" src={logo}/>
-        <h2 className="inline-block mx-auto mt-3 text-center">Đăng ký tài khoản {name}</h2>
+        <h2 className="inline-block mx-auto mt-3 text-center text-[var(--muted-foreground)]">Đăng ký tài khoản {name}</h2>
         <p className="text-center text-[var(--primary)]">Mỗi người nên sử dụng riêng một tài khoản, tài khoản nhiều người sử dụng chung sẽ bị khóa.</p>
       </div>
 
@@ -93,13 +93,13 @@ export function SignUpForm({ logo, name }) {
 
         {/* Divider */}
         <div className="flex items-center my-4">
-          <div className="flex-grow h-px bg-gray-300"></div>
-          <span className="px-2 text-gray-500 text-sm">hoặc</span>
-          <div className="flex-grow h-px bg-gray-300"></div>
+          <div className="flex-grow h-px bg-[var(--foreground-light)]"></div>
+          <span className="px-2 text-[var(--muted-foreground)] text-sm">hoặc</span>
+          <div className="flex-grow h-px bg-[var(--foreground-light)]"></div>
         </div>
 
         {/* Google button */}
-        <button type="button" className="w-full flex items-center justify-center gap-2 outline-none border border-gray-300 text-gray-500 rounded-lg py-2 hover:bg-gray-50 transition cursor-pointer mb-4">
+        <button type="button" className="w-full flex items-center justify-center gap-2 outline-none border border-[var(--border)] text-[var(--muted-foreground)] rounded-lg py-2 hover:border-[var(--secondary)] hover:text-[var(--secondary)] transition cursor-pointer mb-4">
           <img
             src="https://www.svgrepo.com/show/355037/google.svg"
             alt="Google"
@@ -107,7 +107,7 @@ export function SignUpForm({ logo, name }) {
           />
           <span>Đăng nhập bằng Google</span>
         </button>
-        <div className="flex justify-center items-center gap-1">
+        <div className="flex justify-center items-center gap-1 text-[var(--muted-foreground)]">
           <span>Đã có tài khoản?</span>
           <a href="/login" className="text-[var(--primary)] font-bold">Đăng nhập</a>
         </div>

@@ -10,7 +10,7 @@
   }
 
   .outline {
-    @apply px-3.5 py-1.5 border rounded-xl font-bold cursor-pointer bg-[var(--popover)] text-[var(--foreground)] border-gray-300 outline-none hover:bg-[var(--popover-hover)] hover:border-[var(--primary)] hover:text-[var(--primary)] transition-all;
+    @apply px-3.5 py-1.5 border rounded-xl font-bold cursor-pointer bg-[var(--header)] text-[var(--foreground)] border-gray-300 outline-none hover:bg-[var(--popover-hover)] dark:hover:bg-[var(--header)] hover:border-[var(--primary)] hover:text-[var(--primary)] transition-all;
   }
 
   .outline-secondary {

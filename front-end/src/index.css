@@ -2,28 +2,107 @@
 
 :root {
   --font-size: 14px;
-  --background: #ffffff;
-  --foreground: #364153;
-  --popover: oklch(1 0 0);
-  --popover-hover: #f5f8ff;
+  --header: rgba(255, 255, 255, 0.9);
+  --mode-hover: #E5E7EB;
+
+  /* Background từ Figma */
+  --background: #EFF6FF;
+
+  /* Colors */
+  --foreground-light: #D1D5DB;
+  --foreground: #374151;              
+  --popover: oklch(1 0 0);            
+  --popover-hover: #f5f8ff;           
   --popover-foreground: oklch(17.764% 0.00002 271.152);
-  --primary: #2563EB;
-  --primary-hover: #0951eb;
+  --primary: #2563EB;                  
+  --primary-hover: #0951eb;            
+  --primary-foreground: #ffffff;       
+  --secondary: #F59E0B;                
+  --secondary-hover: #f98f16;          
+  --secondary-foreground: #ffffff;     
+  --muted: #ececf0;                    
+  --muted-foreground: #717182;         
+  --destructive: #d4183d;              
+  --destructive-foreground: #ffffff;   
+
+  /* Các biến từ Figma thêm mới (không trùng) */
+  --brand-primary: #2563EB;
+  --brand-secondary: #F59E0B;
+  --brand-bg-light: #EFF6FF;
+  --brand-text: #374151;
+  --card: #ffffff;
+  --card-foreground: #374151;
+  --accent: #F59E0B;
+  --accent-foreground: #ffffff;
+  --border: rgba(37, 99, 235, 0.1);
+  --input: transparent;
+  --input-background: #ffffff;
+  --switch-background: #e2e8f0;
+  --font-weight-medium: 500;
+  --font-weight-normal: 400;
+  --ring: #2563EB;
+  --chart-1: #2563EB;
+  --chart-2: #F59E0B;
+  --chart-3: #10b981;
+  --chart-4: #f97316;
+  --chart-5: #8b5cf6;
+  --radius: 0.75rem;
+  --sidebar: #ffffff;
+  --sidebar-foreground: #374151;
+  --sidebar-primary: #2563EB;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #f8fafc;
+  --sidebar-accent-foreground: #374151;
+  --sidebar-border: rgba(37, 99, 235, 0.1);
+  --sidebar-ring: #2563EB;
+}
+
+
+.dark {
+  --background: #0f172a;
+  --foreground-light: #94a3b8;
+  --foreground: #f1f5f9;
+  --card: #1e293b;
+  --card-foreground: #f1f5f9;
+  --popover: #1e293b;
+  --popover-foreground: #f1f5f9;
+  --primary: #3b82f6;
   --primary-foreground: #ffffff;
-  --secondary: #F59E0B;
-  --secondary-hover: #f98f16;
-  --secondary-foreground: #ffffff;
-  --muted: #ececf0;
-  --muted-foreground: #717182;
-  --destructive: #d4183d;
+  --secondary: #fbbf24;
+  --secondary-foreground: #0f172a;
+  --muted: #334155;
+  --muted-foreground: #94a3b8;
+  --accent: #fbbf24;
+  --accent-foreground: #0f172a;
+  --destructive: #ef4444;
   --destructive-foreground: #ffffff;
+  --border: rgba(59, 130, 246, 0.2);
+  --input: #334155;
+  --ring: #3b82f6;
+  --font-weight-medium: 500;
+  --font-weight-normal: 400;
+  --chart-1: #3b82f6;
+  --chart-2: #fbbf24;
+  --chart-3: #22c55e;
+  --chart-4: #fb923c;
+  --chart-5: #a855f7;
+  --sidebar: #1e293b;
+  --sidebar-foreground: #f1f5f9;
+  --sidebar-primary: #3b82f6;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #334155;
+  --sidebar-accent-foreground: #f1f5f9;
+  --sidebar-border: rgba(59, 130, 246, 0.2);
+  --sidebar-ring: #3b82f6;
+  --header: rgba(30, 41, 59, 0.9);
+  --mode-hover: #374151;
 }
 
 body {
   font-family: 'Inter', sans-serif;
   color: var(--foreground);
   font-size: var(--font-size);
-  background-color: #cbdbfb
+  background-color: var(--background);
 }
 
 /* Ẩn cho Chrome, Safari */

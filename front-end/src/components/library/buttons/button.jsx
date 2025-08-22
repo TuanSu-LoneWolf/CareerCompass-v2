@@ -1,5 +1,5 @@
 import './button.css'
-import loadingIcon from '../../../../public/loading.png';
+import loadingIcon from '../../../assets/loading.png';
 
 const Button = ({
     children,
