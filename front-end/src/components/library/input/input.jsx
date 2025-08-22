@@ -17,7 +17,7 @@ export function Input({
   const [showPassword, setShowPassword] = useState(false);
 
   const base =
-    "w-full px-3 py-2 rounded-lg border outline-none transition text-gray-700 placeholder-gray-400 disabled:bg-gray-100 disabled:cursor-not-allowed flex items-center gap-2";
+    "w-full px-3 py-2 rounded-lg border outline-none transition text-[var(--input-foreground)] placeholder-gray-400 disabled:bg-gray-100 disabled:cursor-not-allowed flex items-center gap-2";
 
   const variants = {
     primary:
@@ -49,7 +49,7 @@ export function Input({
         </label>
       )}
 
-      <div className="relative flex items-center bg-[var(--input)] border-[var(--border)] rounded-lg">
+      <div className="relative flex items-center bg-[var(--input)] border-[var(--border)] text-[var(--input-foreground)] rounded-lg">
         {IconLeft && (
           <IconLeft className="absolute left-3 text-gray-400 w-4 h-4 pointer-events-none" />
         )}
@@ -71,9 +71,9 @@ export function Input({
             aria-label={showPassword ? "Ẩn mật khẩu" : "Hiện mật khẩu"}
           >
             {showPassword ? (
-              <EyeOff className="w-4 h-4 hover:text-[var(--secondary)]" />
+              <EyeOff className="w-4 h-4 hover:text-[var(--secondary)] cursor-pointer" />
             ) : (
-              <Eye className="w-4 h-4 hover:text-[var(--secondary)]" />
+              <Eye className="w-4 h-4 hover:text-[var(--secondary)] cursor-pointer" />
             )}
           </button>
         ) : (
