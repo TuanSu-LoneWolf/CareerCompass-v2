@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 .header {
-  @apply w-full shadow-md font-bold bg-white;
+  @apply w-full shadow-md font-bold bg-[var(--header)] backdrop-blur-sm;
 }
 
 .header-container {
@@ -38,7 +38,7 @@
 }
 
 .header-menu-btn {
-  @apply p-2 rounded-lg hover:bg-gray-100 transition;
+  @apply p-2 rounded-lg hover:bg-[var(--mode-hover)] transition;
 }
 
 .header-link.active {
@@ -61,7 +61,7 @@
 
 /* Mobile off-canvas menu */
 .header-mobile {
-  @apply fixed top-0 left-0 h-screen w-md max-w-screen bg-white shadow-2xl p-6 flex flex-col z-50 transition-transform duration-300;
+  @apply fixed top-0 left-0 h-screen w-md max-w-screen bg-[var(--header)] shadow-2xl p-6 flex flex-col z-50 transition-transform duration-300;
   transform: translateX(-100%);
 }
 

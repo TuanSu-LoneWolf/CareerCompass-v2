@@ -2,12 +2,12 @@ import { Facebook, Instagram, Linkedin, Twitter, Youtube } from "lucide-react";
 
 export function Footer() {
   return (
-    <footer className="bg-gray-900 text-gray-300 py-10 px-6">
+    <footer className="bg-gray-900 text-gray-300 py-10 px-6 border border-gray-700">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
         
         {/* Logo + About */}
         <div>
-          <img src="../../../../public/Logo_CC_tron_co_chu.svg" className="w-40"></img>
+          <img src="/Logo_CC_tron_co_chu.svg" className="w-40"></img>
           <p className="mt-3 text-sm text-justify">
             Nền tảng định hướng nghề nghiệp thông minh, giúp học sinh khám phá bản thân và chọn ngành phù hợp.
           </p>
