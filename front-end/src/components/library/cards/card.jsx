@@ -1,5 +1,5 @@
 import "./card.css"
-import Button from "../buttons/button.jsx";
+import { Button } from "../buttons/button.jsx";
 import { Link } from "react-router-dom";
 import { School } from "lucide-react";
 

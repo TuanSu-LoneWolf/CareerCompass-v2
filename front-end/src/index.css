@@ -7,6 +7,7 @@
 
   /* Background từ Figma */
   --background: #EFF6FF;
+  --feature-background: rgba(255, 255, 255, 0.9);
 
   /* Colors */
   --foreground-light: #D1D5DB;
@@ -14,10 +15,10 @@
   --popover: oklch(1 0 0);            
   --popover-hover: #f5f8ff;           
   --popover-foreground: oklch(17.764% 0.00002 271.152);
-  --primary: #2563EB;                  
+  --primary: rgb(37, 99, 235);                  
   --primary-hover: #0951eb;            
   --primary-foreground: #ffffff;       
-  --secondary: #F59E0B;                
+  --secondary: rgb(245, 158, 11);                
   --secondary-hover: #f98f16;          
   --secondary-foreground: #ffffff;     
   --muted: #ececf0;                    
@@ -60,6 +61,7 @@
 
 .dark {
   --background: #0f172a;
+  --feature-background: #0f172a;
   --foreground-light: #94a3b8;
   --foreground: #f1f5f9;
   --card: #1e293b;

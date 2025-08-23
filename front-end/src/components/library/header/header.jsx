@@ -1,5 +1,5 @@
 import { NavLink, Link } from "react-router-dom";
-import Button from "../buttons/button.jsx";
+import { Button } from "../buttons/button.jsx";
 import { Menu, X, Sun, Moon } from "lucide-react";
 import { useState, useEffect } from "react"; 
 import "./header.css";
@@ -33,7 +33,7 @@ export function Header() {
   }, []);
 
   return (
-    <header className="header fixed">
+    <header className="header sticky top-0 z-50">
       <div className="header-container">
         {/* Logo */}
         <NavLink to="/" className="header-logo">
