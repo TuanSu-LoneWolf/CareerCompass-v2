@@ -8,26 +8,32 @@ import Logo from "../../../assets/Logo_CC_tron_co_chu.svg";
 export function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
-  // Dark mode: mặc định sync với system
+  // Dark mode: ưu tiên user đã chọn, nếu chưa thì sync system
   const [darkMode, setDarkMode] = useState(() => {
-    return window.matchMedia &&
-           window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const saved = localStorage.getItem("theme");
+    if (saved === "dark") return true;
+    if (saved === "light") return false;
+    return window.matchMedia("(prefers-color-scheme: dark)").matches;
   });
 
-  // Add/remove class "dark" vào <html>
+  // Apply class "dark" và lưu vào localStorage
   useEffect(() => {
     if (darkMode) {
       document.documentElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
     } else {
       document.documentElement.classList.remove("dark");
+      localStorage.setItem("theme", "light");
     }
   }, [darkMode]);
 
-  // Lắng nghe system theme thay đổi
+  // Lắng nghe system theme thay đổi nhưng chỉ khi user chưa chọn
   useEffect(() => {
     const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
-    const handleChange = (e) => setDarkMode(e.matches);
-
+    const handleChange = (e) => {
+      const saved = localStorage.getItem("theme");
+      if (!saved) setDarkMode(e.matches);
+    };
     mediaQuery.addEventListener("change", handleChange);
     return () => mediaQuery.removeEventListener("change", handleChange);
   }, []);

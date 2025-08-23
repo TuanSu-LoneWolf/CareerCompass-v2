@@ -33,6 +33,7 @@
   --brand-text: #374151;
   --card: #ffffff;
   --card-foreground: #374151;
+  --card-hover: linear-gradient(to_top_left,rgba(255,255,255,0.1),rgba(245,158,11,0.01));
   --accent: #F59E0B;
   --accent-foreground: #ffffff;
   --border: rgba(37, 99, 235, 0.1);
@@ -43,10 +44,16 @@
   --font-weight-normal: 400;
   --ring: #2563EB;
   --chart-1: #2563EB;
+  --bg-chart-1: rgb(239, 246, 255);
   --chart-2: #F59E0B;
   --chart-3: #10b981;
+  --bg-chart-3: rgb(240, 253, 244);
   --chart-4: #f97316;
+  --bg-chart-4: rgb(255, 247, 237);
   --chart-5: #8b5cf6;
+  --bg-chart-5: rgb(250, 245, 255);
+  --chart-6: rgb(219, 39, 119);
+  --bg-chart-6: #fdf2f8;
   --radius: 0.75rem;
   --sidebar: #ffffff;
   --sidebar-foreground: #374151;
@@ -66,6 +73,7 @@
   --foreground: #f1f5f9;
   --card: #1e293b;
   --card-foreground: #f1f5f9;
+  --card-hover: linear-gradient(to top left, rgba(30,41,59,1), rgba(245,158,11,0.1));
   --popover: #1e293b;
   --popover-foreground: #f1f5f9;
   --primary: #3b82f6;
@@ -83,11 +91,17 @@
   --ring: #3b82f6;
   --font-weight-medium: 500;
   --font-weight-normal: 400;
-  --chart-1: #3b82f6;
-  --chart-2: #fbbf24;
-  --chart-3: #22c55e;
-  --chart-4: #fb923c;
-  --chart-5: #a855f7;
+  --chart-1: rgb(96, 165, 250);
+  --bg-chart-1: rgb(30, 58, 138, 0.3);
+  --chart-2: #F59E0B;
+  --chart-3: rgb(74, 222, 128);
+  --bg-chart-3: rgb(20, 83, 45, 0.3);
+  --chart-4: rgb(251, 146, 60);
+  --bg-chart-4: rgb(124, 45, 18, 0.3);
+  --chart-5: rgb(168, 85, 247);
+  --bg-chart-5: rgb(76, 29, 149, 0.3);
+  --chart-6: rgb(244, 114, 182);
+  --bg-chart-6: rgb(131, 24, 67, 0.3);
   --sidebar: #1e293b;
   --sidebar-foreground: #f1f5f9;
   --sidebar-primary: #3b82f6;
@@ -105,6 +119,33 @@ body {
   color: var(--foreground);
   font-size: var(--font-size);
   background-color: var(--background);
+}
+
+.card {
+  position: relative;
+}
+
+.card::before {
+  z-index: 10;
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top left, rgba(255,255,255,0.1), rgba(245,158,11,0.03));
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+/* Dark mode */
+.dark .card {
+  background-color: #1e293b;
+}
+
+.dark .card::before {
+  background: linear-gradient(to top left, rgba(30,41,59,0.1), rgba(245,158,11,0.05));
 }
 
 /* Ẩn cho Chrome, Safari */
@@ -142,5 +183,9 @@ body {
 
   p {
     @apply text-[var(--font-size)] font-normal leading-[1.5];
+  }
+
+  .zoom {
+    @apply transform transition-all duration-500 hover:scale-105;
   }
 }

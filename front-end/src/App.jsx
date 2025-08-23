@@ -25,6 +25,12 @@ function App() {
                 </>
               }
               SubHeadLine="Career Compass giúp bạn khám phá bản thân, chọn ngành học và ngôi trường phù hợp, đồng thời hỗ trợ luyện phỏng vấn và kiểm tra CV. Đây là nền tảng đồng hành cùng bạn trong từng bước chuẩn bị, để hành trình sự nghiệp thành công bắt đầu từ hôm nay."
+              FeatureTitle={
+                <>
+                Tính năng nổi bật của{" "}<span className="text-[var(--primary)]">Career Compass</span>               
+                </>
+              }
+              FeatureSubTitle="Khám phá các công cụ mạnh mẽ giúp bạn định hướng và phát triển sự nghiệp một cách hiệu quả"
               img="/career-compass-student-confused-choosing-university.png"
             />
           }
