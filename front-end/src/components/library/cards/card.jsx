@@ -39,12 +39,15 @@ export function SchoolCard({ name, code, majorsCount }) {
 }
 
 // Info card
-export function InfoCard({ icon, title, subTitle, button, color, link, className="" }) {
+export function InfoCard({ 
+  icon, title, subTitle, button, color, link, onClick, className = "" 
+}) {
   if (!icon) return null;
   const Icon = icon;
 
-  return (
-    <a href={link} className={`card zoom hover:shadow-xl transition-all flex flex-col gap-6 p-6 border border-[var(--border)] rounded-xl group hover:border-[rgb(245,158,11,0.3)] bg-[var(--card)] z-10 ${className}`}>
+  // Nội dung card chung
+  const content = (
+    <>
       <div>
         <div className="flex gap-1.5">
           <div className={`flex justify-center items-center rounded-xl w-12 h-12 mb-4 ${color}`}>
@@ -52,13 +55,47 @@ export function InfoCard({ icon, title, subTitle, button, color, link, className
           </div>
         </div>
         <div>
-          <h4 className="text-[var(--card-foreground)] group-hover:text-[var(--secondary)] mb-2">{title}</h4>
+          <h4 className="text-[var(--card-foreground)] group-hover:text-[var(--secondary)] mb-2">
+            {title}
+          </h4>
           <p className="text-[var(--muted-foreground)]">{subTitle}</p>
         </div>
       </div>
-      <a href={link}>
-        <Button type="primary" className="z-20 w-full" start>{button}</Button>
-      </a>
-    </a>
+      <Button type="primary" className="z-20 w-full" start>
+        {button}
+      </Button>
+    </>
+  );
+
+  // Ưu tiên link > onClick > fallback
+  if (link) {
+    return (
+      <Link
+        to={link}
+        className={`card zoom justify-between cursor-pointer hover:shadow-xl transition-all flex flex-col gap-6 p-6 border border-[var(--border)] rounded-xl group hover:border-[rgb(245,158,11,0.3)] bg-[var(--card)] z-10 ${className}`}
+      >
+        {content}
+      </Link>
+    );
+  }
+
+  if (onClick) {
+    return (
+      <div
+        onClick={onClick}
+        className={`card zoom justify-between cursor-pointer hover:shadow-xl transition-all flex flex-col gap-6 p-6 border border-[var(--border)] rounded-xl group hover:border-[rgb(245,158,11,0.3)] bg-[var(--card)] z-10 ${className}`}
+      >
+        {content}
+      </div>
+    );
+  }
+
+  return (
+    <div
+      className={`card zoom flex flex-col gap-6 p-6 border rounded-xl ${className}`}
+    >
+      {content}
+    </div>
   );
 }
+
