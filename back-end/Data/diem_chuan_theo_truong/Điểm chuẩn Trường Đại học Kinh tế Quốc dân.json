@@ -1,0 +1,1063 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Kinh tế Quốc dân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-quoc-dan-c48506.html",
+  "thoigian": "2025-08-28 11:03:22",
+  "nganh": [
+    {
+      "stt": "1",
+      "ma": "Kế toán",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.4
+        },
+        "2023": {
+          "gia_tri": 20.0
+        },
+        "2024": {
+          "gia_tri": 27.04
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "ma": "Kiểm toán",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.15
+        },
+        "2023": {
+          "gia_tri": 21.3
+        },
+        "2024": {
+          "gia_tri": 27.2
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "ma": "Kinh tế quốc tế",
+      "nganh": "28,05",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.75
+        },
+        "2023": {
+          "gia_tri": 25.7
+        },
+        "2024": {
+          "gia_tri": 27.35
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "ma": "Kinh doanh quốc tế",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "gia_tri": 21.5
+        },
+        "2024": {
+          "gia_tri": 27.5
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "ma": "Marketing",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "gia_tri": 20.5
+        },
+        "2024": {
+          "gia_tri": 27.55
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "ma": "Quản trị kinh doanh",
+      "nganh": "27,75",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.45
+        },
+        "2023": {
+          "gia_tri": 20.5
+        },
+        "2024": {
+          "gia_tri": 27.25
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "ma": "Tài chính - Ngân hàng",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.25
+        },
+        "2023": {
+          "gia_tri": 20.0
+        },
+        "2024": {
+          "gia_tri": 27.1
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "ma": "Kinh doanh thương mại",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.7
+        },
+        "2023": {
+          "gia_tri": 20.2
+        },
+        "2024": {
+          "gia_tri": 27.35
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "ma": "Kinh tế học (ngành Kinh tế)",
+      "nganh": "27,55",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.45
+        },
+        "2023": {
+          "gia_tri": 23.9
+        },
+        "2024": {
+          "gia_tri": 27.1
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "ma": "Quản trị khách sạn",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.85
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.75
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "ma": "Quản trị nhân lực",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.45
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.1
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "ma": "Quản trị dịch vụ du lịch và lữ hành",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.85
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.75
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "ma": "Khoa học máy tính *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.7
+        },
+        "2023": {
+          "gia_tri": 20.3
+        },
+        "2024": {
+          "gia_tri": 35.35
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "ma": "Hệ thống thông tin quản lý *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.5
+        },
+        "2023": {
+          "gia_tri": 20.1
+        },
+        "2024": {
+          "gia_tri": 36.15
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "ma": "Bất động sản",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.65
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.4
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "ma": "Bảo hiểm",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.4
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.4
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "ma": "Thống kê kinh tế *",
+      "nganh": "27,30",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.2
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 36.2
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "ma": "Toán kinh tế *",
+      "nganh": "27,40",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.15
+        },
+        "2023": {
+          "gia_tri": 21.8
+        },
+        "2024": {
+          "gia_tri": 35.95
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "ma": "Kinh tế đầu tư",
+      "nganh": "27,70",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.5
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.5
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "ma": "Kinh tế nông nghiệp",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.2
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "ma": "Kinh tế tài nguyên thiên nhiên",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.35
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "ma": "Ngôn ngữ Anh **",
+      "nganh": "37,30",
+      "diem": {
+        "2022": {
+          "thi_thpt": 35.85
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 36.5
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "ma": "Kinh tế phát triển",
+      "nganh": "27,50",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.5
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.35
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "ma": "Khoa học quản lý",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.85
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.05
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "ma": "Quản lý công",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.6
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.75
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "ma": "Quản lý tài nguyên và môi trường",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.4
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "ma": "Luật",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.3
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.6
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "ma": "Luật kinh tế",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.85
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "ma": "Quản lý đất đai",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.2
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.55
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "ma": "Công nghệ thông tin *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 35.3
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "ma": "Logistics và Quản lý chuỗi cung ứng",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.2
+        },
+        "2023": {
+          "gia_tri": 23.5
+        },
+        "2024": {
+          "gia_tri": 27.4
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "ma": "Thương mại điện tử",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.1
+        },
+        "2023": {
+          "gia_tri": 24.5
+        },
+        "2024": {
+          "gia_tri": 27.65
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "ma": "Quản lý dự án",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.3
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.15
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "ma": "Quan hệ công chúng",
+      "nganh": "28,10",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.6
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.2
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "ma": "Khởi nghiệp và phát triển kinh doanh (BBAE) **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 34.9
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 36.1
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "ma": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary) học bằng tiếng Anh",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.4
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.45
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "ma": "Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "gia_tri": 23.2
+        },
+        "2024": {
+          "gia_tri": 26.85
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "ma": "Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": 26.9
+        }
+      }
+    },
+    {
+      "stt": "39",
+      "ma": "Kinh doanh số (E-BDB)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.8
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.85
+        }
+      }
+    },
+    {
+      "stt": "40",
+      "ma": "Phân tích kinh doanh (BA)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.2
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.15
+        }
+      }
+    },
+    {
+      "stt": "41",
+      "ma": "Quản trị điều hành thông minh (E-SOM)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.9
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.65
+        }
+      }
+    },
+    {
+      "stt": "42",
+      "ma": "Quản trị chất lượng đổi mới (E-MQI)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.45
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.6
+        }
+      }
+    },
+    {
+      "stt": "43",
+      "ma": "Công nghệ tài chính (BFT)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.9
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": 26.75
+        }
+      }
+    },
+    {
+      "stt": "44",
+      "ma": "Quản trị khách sạn quốc tế (IHME) **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 34.6
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 35.65
+        }
+      }
+    },
+    {
+      "stt": "45",
+      "ma": "Quản lý công và chính sách (E-PMP)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.1
+        }
+      }
+    },
+    {
+      "stt": "46",
+      "ma": "Quản trị kinh doanh (E-BBA)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.8
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.1
+        }
+      }
+    },
+    {
+      "stt": "47",
+      "ma": "Kinh tế học tài chính (FE)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": "-"
+        }
+      }
+    },
+    {
+      "stt": "48",
+      "ma": "Logistics và quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC) **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 36.25
+        },
+        "2023": {
+          "gia_tri": 22.7
+        },
+        "2024": {
+          "gia_tri": 36.4
+        }
+      }
+    },
+    {
+      "stt": "49",
+      "ma": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.9
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 27.05
+        }
+      }
+    },
+    {
+      "stt": "50",
+      "ma": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.65
+        },
+        "2023": {
+          "gia_tri": 21.3
+        },
+        "2024": {
+          "gia_tri": 27.15
+        }
+      }
+    },
+    {
+      "stt": "51",
+      "ma": "Kinh doanh nông nghiệp",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 26.6
+        }
+      }
+    },
+    {
+      "stt": "52",
+      "ma": "Kiểm toán tích hợp chứng chỉ quốc tế (AUD-ICAEW)",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 27.2
+        },
+        "2023": {
+          "gia_tri": 22.5
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "53",
+      "ma": "POHE - Quản trị lữ hành **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 34.8
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 35.65
+        }
+      }
+    },
+    {
+      "stt": "54",
+      "ma": "POHE - Truyền thông Marketing **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 38.15
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 37.1
+        }
+      }
+    },
+    {
+      "stt": "55",
+      "ma": "POHE - Luật kinh doanh **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 35.5
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 36.2
+        }
+      }
+    },
+    {
+      "stt": "56",
+      "ma": "POHE - Quản trị kinh doanh thương mại **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 36.95
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 36.85
+        }
+      }
+    },
+    {
+      "stt": "57",
+      "ma": "POHE - Quản lý thị trường **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 35.0
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 35.65
+        }
+      }
+    },
+    {
+      "stt": "58",
+      "ma": "POHE - Thẩm định giá **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 35.0
+        },
+        "2023": {
+          "gia_tri": "-"
+        },
+        "2024": {
+          "gia_tri": 35.85
+        }
+      }
+    },
+    {
+      "stt": "59",
+      "ma": "Hệ thống thông tin *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "60",
+      "ma": "An toàn thông tin *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "61",
+      "ma": "Tài chính và Đầu tư (BFI)/ Ngành Tài chính-Ngân hàng **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "62",
+      "ma": "Khoa học dữ liệu *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "63",
+      "ma": "Trí tuệ nhân tạo *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "64",
+      "ma": "Kỹ thuật phần mềm *",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "65",
+      "ma": "Quản trị giải trí và sự kiện **",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "66",
+      "ma": "Quản trị khách sạn",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "gia_tri": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tân Tạo",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tan-tao-c49459.html",
+  "thoigian": "2025-08-28 11:16:49",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Bác sĩ đa khoa)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "khac": 22.0
+        },
+        "2024": {
+          "khac": 22.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    }
+  ]
+}

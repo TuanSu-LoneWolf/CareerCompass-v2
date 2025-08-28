@@ -1,0 +1,97 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Cán bộ Thành phố Hồ Chí Minh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-can-bo-thanh-pho-ho-chi-minh-c49363.html",
+  "thoigian": "2025-08-28 11:15:16",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản lý nhà nước",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.8
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "khac": 22.5
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Xây dựng Đảng và Chính quyền Nhà nước",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 18.75
+        },
+        "2023": {
+          "khac": 22.5
+        },
+        "2024": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Chính trị học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.9
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "khac": 21.5
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.0
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "khac": 23.5
+        },
+        "2024": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.3
+        },
+        "2022": {
+          "thi_thpt": 17.25
+        },
+        "2023": {
+          "khac": 21.5
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    }
+  ]
+}

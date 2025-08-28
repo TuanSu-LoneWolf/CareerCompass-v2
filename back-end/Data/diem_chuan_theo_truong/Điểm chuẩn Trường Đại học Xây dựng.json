@@ -1,0 +1,1010 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Xây dựng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-xay-dung-ha-noi-c48516.html",
+  "thoigian": "2025-08-28 11:03:34",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Ngành Kiến trúc/ Chuyên ngành Kiến trúc công nghệ",
+      "diem": {
+        "2023": {
+          "thi_thpt": 20.64
+        },
+        "2024": {
+          "thi_thpt": 21.3
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Kiến trúc Nội thất",
+      "diem": {
+        "2023": {
+          "thi_thpt": 21.53
+        },
+        "2024": {
+          "thi_thpt": 21.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Kiến trúc cảnh quan",
+      "diem": {
+        "2023": {
+          "thi_thpt": 19.23
+        },
+        "2024": {
+          "thi_thpt": 21.2
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Quy hoạch vùng và đô thị",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 21.1
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 21.9
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngành Kỹ thuật xây dựng/ Chuyên ngành Xây dựng Dân dụng và Công nghiệp",
+      "diem": {
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 22.5
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật xây dựng/ Chuyên ngành Hệ thống kỹ thuật trong công trình",
+      "diem": {
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 22.3
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngành Kỹ thuật xây dựng/ Chuyên ngành Tin học xây dựng",
+      "diem": {
+        "2023": {
+          "thi_thpt": 21.2
+        },
+        "2024": {
+          "thi_thpt": 23.2
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngành Kỹ thuật xây dựng/ Có 08 chuyên ngành: 1) Địa Kỹ thuật công trình và Kỹ thuật địa môi trường 2) Kỹ thuật Trắc địa và Địa tin học 3) Kết cấu công trình 4) Công nghệ kỹ thuật xây dựng 5) Kỹ thuật Công trình thủy 6) Kỹ thuật công trình năng lượng 7) Kỹ thuật Công trình biển 8) Kỹ thuật cơ sở hạ tầng",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngành Kỹ thuật xây dựng công trình Giao thông/ Chuyên ngành Xây dựng Cầu đường",
+      "diem": {
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 21.45
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngành Kỹ thuật Cấp thoát nước/ Chuyên ngành Kỹ thuật nước - Môi trường nước",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngành Kỹ thuật Môi trường",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngành Kỹ thuật vật liệu",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 21.2
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngành Công nghệ kỹ thuật Vật liệu xây dựng",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 19.75
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngành Công nghệ thông tin",
+      "diem": {
+        "2023": {
+          "thi_thpt": 24.25
+        },
+        "2024": {
+          "thi_thpt": 24.75
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngành Khoa học Máy tính",
+      "diem": {
+        "2023": {
+          "thi_thpt": 23.91
+        },
+        "2024": {
+          "thi_thpt": 24.6
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngành Kỹ thuật cơ khí",
+      "diem": {
+        "2023": {
+          "thi_thpt": 22.65
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngành Kỹ thuật cơ khí/ Chuyên ngành Máy xây dựng",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 20.75
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngành Kỹ thuật cơ khí/ Chuyên ngành Kỹ thuật cơ điện",
+      "diem": {
+        "2023": {
+          "thi_thpt": 22.4
+        },
+        "2024": {
+          "thi_thpt": 23.95
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Ngành Kỹ thuật cơ khí/ Chuyên ngành Kỹ thuật ô tô",
+      "diem": {
+        "2023": {
+          "thi_thpt": 23.37
+        },
+        "2024": {
+          "thi_thpt": 24.35
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Ngành Kinh tế xây dựng",
+      "diem": {
+        "2023": {
+          "thi_thpt": 22.4
+        },
+        "2024": {
+          "thi_thpt": 23.9
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Ngành Quản lý xây dựng/ Chuyên ngành Kinh tế và quản lý đô thị",
+      "diem": {
+        "2023": {
+          "thi_thpt": 21.25
+        },
+        "2024": {
+          "thi_thpt": 23.45
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Ngành Quản lý xây dựng/ Chuyên ngành Kinh tế và quản lý bất động sản",
+      "diem": {
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "thi_thpt": 23.25
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Ngành Quản lý xây dựng/ Chuyên ngành Quản lý hạ tầng, đất đai đô thị",
+      "diem": {
+        "2023": {
+          "thi_thpt": 19.4
+        },
+        "2024": {
+          "thi_thpt": 22.5
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Ngành Logistics và Quản lý chuỗi cung ứng",
+      "diem": {
+        "2023": {
+          "thi_thpt": 24.49
+        },
+        "2024": {
+          "thi_thpt": 24.8
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Ngành Kỹ thuật xây dựng (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+      "diem": {
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Ngành Khoa học máy tính (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",
+      "diem": {
+        "2023": {
+          "thi_thpt": 22.9
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "2023": {
+          "thi_thpt": 22.4
+        },
+        "2024": {
+          "thi_thpt": 23.8
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Mỹ thuật đô thị",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 18.01
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Công nghệ thông tin/ Công nghệ đa phương tiện",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 22.9
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Quản lý dự án",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 23.9
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư Việt - Pháp PFIEV)",
+      "diem": {
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "nganh": "Kiến trúc",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Kiến trúc công nghệ"
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": 16.5
+        },
+        "2020": {
+          "Năm 2020": 20.75
+        },
+        "2021": {
+          "Năm 2021": 22.25
+        }
+      }
+    },
+    {
+      "nganh": "Kiến trúc",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Kiến trúc cảnh quan"
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": 21.25
+        }
+      }
+    },
+    {
+      "nganh": "Quy hoạch vùng và đô thị",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 16.23
+        },
+        "2018": {
+          "Năm 2018": 16.0
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 17.5
+        }
+      }
+    },
+    {
+      "nganh": "Quy hoạch vùng và đô thị (Chuyên ngành Quy hoạch - Kiến trúc)",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": 16.0
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 20.0
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Xây dựng Dân dụng và Công nghiệp"
+        },
+        "2018": {
+          "Năm 2018": 17.5
+        },
+        "2019": {
+          "Năm 2019": 19.5
+        },
+        "2020": {
+          "Năm 2020": 21.75
+        },
+        "2021": {
+          "Năm 2021": 23.5
+        }
+      }
+    },
+    {
+      "nganh": "Hệ thống kỹ thuật trong công trình",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 17.0
+        },
+        "2018": {
+          "Năm 2018": 18.0
+        },
+        "2019": {
+          "Năm 2019": 19.75
+        },
+        "2020": {
+          "Năm 2020": 22.25
+        }
+      }
+    },
+    {
+      "nganh": "Tin học xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.7
+        },
+        "2018": {
+          "Năm 2018": 17.0
+        },
+        "2019": {
+          "Năm 2019": 19.0
+        },
+        "2020": {
+          "Năm 2020": 23.0
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": 15.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 18.5
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật xây dựng công trình giao thông",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Xây dựng Cầu đường"
+        },
+        "2018": {
+          "Năm 2018": 16.0
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 17.25
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật Cấp thoát nước",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Cấp thoát nước - Môi trường nước"
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": 15.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 16.0
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật môi trường",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": 15.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 16.0
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật vật liệu",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 16.0
+        }
+      }
+    },
+    {
+      "nganh": "Công nghệ Kỹ thuật Môi trường",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.0
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật xây dựng công trình thủy",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Xây dựng Cảng - Đường thuỷ"
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": "-"
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": null
+        }
+      }
+    },
+    {
+      "nganh": "Xây dựng Thuỷ lợi - Thuỷ điện",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.0
+        },
+        "2018": {
+          "Năm 2018": "-"
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật xây dựng Công trình biển",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.0
+        },
+        "2018": {
+          "Năm 2018": "-"
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        }
+      }
+    },
+    {
+      "nganh": "Công nghệ kỹ thuật Vật liệu xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.0
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        }
+      }
+    },
+    {
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 19.0
+        },
+        "2018": {
+          "Năm 2018": 21.25
+        },
+        "2019": {
+          "Năm 2019": 24.25
+        },
+        "2020": {
+          "Năm 2020": 25.35
+        }
+      }
+    },
+    {
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": 18.5
+        },
+        "2019": {
+          "Năm 2019": 23.0
+        },
+        "2020": {
+          "Năm 2020": 25.0
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật cơ khí",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Máy xây dựng"
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": 15.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 16.0
+        }
+      }
+    },
+    {
+      "nganh": "Cơ giới hoá xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.0
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 21.75
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật ô tô",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": 23.25
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật cơ khí",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": 16.0
+        },
+        "2020": {
+          "Năm 2020": 16.0
+        },
+        "2021": {
+          "Năm 2021": 22.25
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật Trắc địa - Bản đồ",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Kỹ thuật Trắc địa xây dựng - Địa chính"
+        },
+        "2018": {
+          "Năm 2018": 15.0
+        },
+        "2019": {
+          "Năm 2019": "-"
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": null
+        }
+      }
+    },
+    {
+      "nganh": "Kinh tế xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 18.0
+        },
+        "2018": {
+          "Năm 2018": 19.0
+        },
+        "2019": {
+          "Năm 2019": 21.75
+        },
+        "2020": {
+          "Năm 2020": 24.0
+        }
+      }
+    },
+    {
+      "nganh": "Quản lý xây dựng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": "Kinh tế và quản lý đô thị"
+        },
+        "2018": {
+          "Năm 2018": 16.05
+        },
+        "2019": {
+          "Năm 2019": 17.0
+        },
+        "2020": {
+          "Năm 2020": 20.0
+        },
+        "2021": {
+          "Năm 2021": 23.25
+        }
+      }
+    },
+    {
+      "nganh": "Kinh tế và quản lý bất động sản",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": 15.45
+        },
+        "2018": {
+          "Năm 2018": 16.5
+        },
+        "2019": {
+          "Năm 2019": 19.5
+        },
+        "2020": {
+          "Năm 2020": 23.5
+        }
+      }
+    },
+    {
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": 24.75
+        }
+      }
+    },
+    {
+      "nganh": "Kỹ thuật xây dựng (Chương trình đào tạo liên kết với ĐH Mississippi - Hoa Kỳ)",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": 19.0
+        }
+      }
+    },
+    {
+      "nganh": "Khoa học máy tính (Chương trình đào tạo liên kết với ĐH Mississippi - Hoa Kỳ)",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": 23.1
+        }
+      }
+    },
+    {
+      "nganh": "Quản lý xây dựng/ Chuyên ngành Quản lý hạ tầng, đất đai đô thị",
+      "diem": {
+        "Chuyên ngành": {
+          "Chuyên ngành": null
+        },
+        "2018": {
+          "Năm 2018": null
+        },
+        "2019": {
+          "Năm 2019": null
+        },
+        "2020": {
+          "Năm 2020": null
+        },
+        "2021": {
+          "Năm 2021": 16.0
+        }
+      }
+    }
+  ]
+}

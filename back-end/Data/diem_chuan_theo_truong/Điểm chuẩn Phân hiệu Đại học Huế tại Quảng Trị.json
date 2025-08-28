@@ -1,0 +1,97 @@
+{
+  "ten_truong": "Điểm chuẩn Phân hiệu Đại học Huế tại Quảng Trị",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-dai-hoc-hue-tai-quang-tri-c48981.html",
+  "thoigian": "2025-08-28 11:09:42",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ kỹ thuật môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kinh tế xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "ten_truong": "Khoa Y Dược - Đại học Quốc gia Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-y-duoc-dai-hoc-quoc-gia-ha-noi-c48492.html",
+  "thoigian": "2025-08-28 11:03:05",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 28.15
+        },
+        "2022": {
+          "thi_thpt": 27.3
+        },
+        "2023": {
+          "thi_thpt": 26.75
+        },
+        "2024": {
+          "thi_thpt": 27.15
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.05
+        },
+        "2022": {
+          "thi_thpt": 25.7
+        },
+        "2023": {
+          "thi_thpt": 24.35
+        },
+        "2024": {
+          "thi_thpt": 25.1
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.85
+        },
+        "2022": {
+          "thi_thpt": 25.15
+        },
+        "2023": {
+          "thi_thpt": 23.95
+        },
+        "2024": {
+          "thi_thpt": 24.83
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật Hình ảnh Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.4
+        },
+        "2022": {
+          "thi_thpt": 24.55
+        },
+        "2023": {
+          "thi_thpt": 23.55
+        },
+        "2024": {
+          "thi_thpt": 24.49
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.35
+        },
+        "2022": {
+          "thi_thpt": 24.55
+        },
+        "2023": {
+          "thi_thpt": 23.85
+        },
+        "2024": {
+          "thi_thpt": 24.49
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Răng hàm mặt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.5
+        },
+        "2022": {
+          "thi_thpt": 26.4
+        },
+        "2023": {
+          "thi_thpt": 26.8
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        }
+      }
+    }
+  ]
+}

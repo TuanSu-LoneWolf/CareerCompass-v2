@@ -1,0 +1,61 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Sĩ quan Không quân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-si-quan-khong-quan-c49140.html",
+  "thoigian": "2025-08-28 11:11:38",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Chỉ huy tham mưu Không quân (Phi công quân sự) - Hệ đại học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.6
+        },
+        "2022": {
+          "thi_thpt": 19.6
+        },
+        "2023": {
+          "thi_thpt": 21.1
+        },
+        "2024": {
+          "thi_thpt": 22.35
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sĩ quan dù - Tìm kiếm cứu nạn ĐK",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 21.05
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật Hàng không (Hệ Cao đẳng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "thi_thpt": 18.2
+        },
+        "2024": {
+          "thi_thpt": 19.05
+        }
+      }
+    }
+  ]
+}

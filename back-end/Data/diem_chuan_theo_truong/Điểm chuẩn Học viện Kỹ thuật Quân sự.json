@@ -1,0 +1,91 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Kỹ thuật Quân sự",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-ky-thuat-quan-su-c48760.html",
+  "thoigian": "2025-08-28 11:06:14",
+  "nganh": [
+    {
+      "stt": "Xét tuyển thí sinh nam",
+      "nganh": "25,90",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.93
+        },
+        "2023": {
+          "khac": 26.05
+        },
+        "2024": {
+          "thi_thpt": 23.9
+        },
+        "Thí sinh đăng ký ưu tiên xét tuyển, xét tuyển HSG bậc THPT": {
+          "khac": 24.91
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.05
+        }
+      }
+    },
+    {
+      "stt": "Xét tuyển thí sinh nữ",
+      "nganh": "28,05",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 28.15
+        },
+        "2024": {
+          "thi_thpt": 27.9
+        },
+        "Thí sinh đăng ký ưu tiên xét tuyển, xét tuyển HSG bậc THPT": {
+          "khac": 26.87
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.85
+        }
+      }
+    },
+    {
+      "stt": "Xét tuyển thí sinh nam",
+      "nganh": "24,45",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.07
+        },
+        "2023": {
+          "khac": 24.4
+        },
+        "2024": {
+          "thi_thpt": 23.15
+        },
+        "Thí sinh đăng ký ưu tiên xét tuyển, xét tuyển HSG bậc THPT": {
+          "khac": 24.42
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.26
+        }
+      }
+    },
+    {
+      "stt": "Xét tuyển thí sinh nữ",
+      "nganh": "27,25",
+      "diem": {
+        "2022": {
+          "thi_thpt": 29.23
+        },
+        "2023": {
+          "khac": 27.8
+        },
+        "2024": {
+          "thi_thpt": 27.15
+        },
+        "Thí sinh đăng ký ưu tiên xét tuyển, xét tuyển HSG bậc THPT": {
+          "khac": 26.28
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.87
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Mở Thành phố Hồ Chí Minh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-mo-thanh-pho-ho-chi-minh-c49304.html",
+  "thoigian": "2025-08-28 11:13:56",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.8
+        },
+        "2022": {
+          "thi_thpt": 24.9
+        },
+        "2023": {
+          "khac": 25.0
+        },
+        "2024": {
+          "khac": 24.2
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.1
+        },
+        "2022": {
+          "thi_thpt": 24.1
+        },
+        "2023": {
+          "khac": 25.0
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.9
+        },
+        "2022": {
+          "thi_thpt": 23.2
+        },
+        "2023": {
+          "khac": 23.3
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 23.9
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.8
+        },
+        "2022": {
+          "thi_thpt": 23.4
+        },
+        "2023": {
+          "khac": 24.0
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Xã hội học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.1
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "khac": 24.1
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.4
+        },
+        "2022": {
+          "thi_thpt": 23.3
+        },
+        "2023": {
+          "khac": 24.0
+        },
+        "2024": {
+          "khac": 20.75
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.95
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "khac": 25.25
+        },
+        "2024": {
+          "khac": 24.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.45
+        },
+        "2022": {
+          "thi_thpt": 24.7
+        },
+        "2023": {
+          "khac": 24.9
+        },
+        "2024": {
+          "khac": 23.75
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.85
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "khac": 23.9
+        },
+        "2024": {
+          "khac": 23.2
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.7
+        },
+        "2022": {
+          "thi_thpt": 23.3
+        },
+        "2023": {
+          "khac": 23.8
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kiểm toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.2
+        },
+        "2022": {
+          "thi_thpt": 24.25
+        },
+        "2023": {
+          "khac": 24.1
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị nhân lực",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.25
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "khac": 24.3
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.9
+        },
+        "2022": {
+          "thi_thpt": 23.5
+        },
+        "2023": {
+          "khac": 23.7
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.2
+        },
+        "2022": {
+          "thi_thpt": 23.2
+        },
+        "2023": {
+          "khac": 23.4
+        },
+        "2024": {
+          "khac": 24.75
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.7
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "khac": 23.9
+        },
+        "2024": {
+          "khac": 24.75
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 19.3
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.55
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "khac": 24.0
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.1
+        },
+        "2022": {
+          "thi_thpt": 25.4
+        },
+        "2023": {
+          "khac": 24.5
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 16.5
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Quản lý xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 17.5
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.8
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "khac": 21.5
+        },
+        "2024": {
+          "khac": 21.6
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Đông Nam Á học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 22.6
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.8
+        },
+        "2022": {
+          "thi_thpt": 25.2
+        },
+        "2023": {
+          "khac": 24.6
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 23.8
+        },
+        "2023": {
+          "khac": 23.4
+        },
+        "2024": {
+          "khac": 23.4
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.7
+        },
+        "2022": {
+          "thi_thpt": 24.3
+        },
+        "2023": {
+          "khac": 24.2
+        },
+        "2024": {
+          "khac": 22.25
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 20.25
+        },
+        "2023": {
+          "khac": 20.9
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Quản lý công",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 19.5
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Tâm lý học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 23.8
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Bảo hiểm",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Công nghệ tài chính",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.9
+        },
+        "2022": {
+          "thi_thpt": 22.4
+        },
+        "2023": {
+          "khac": 23.6
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Trung Quốc CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Nhật CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị kinh doanh CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.4
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "khac": 22.6
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Tài chính - Ngân hàng CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.25
+        },
+        "2022": {
+          "thi_thpt": 20.6
+        },
+        "2023": {
+          "khac": 22.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.15
+        },
+        "2022": {
+          "thi_thpt": 21.5
+        },
+        "2023": {
+          "khac": 21.25
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Luật kinh tế CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.1
+        },
+        "2022": {
+          "thi_thpt": 21.5
+        },
+        "2023": {
+          "khac": 23.1
+        },
+        "2024": {
+          "khac": 20.5
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ sinh học CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 16.5
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 16.5
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Khoa học máy tính CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 24.3
+        },
+        "2023": {
+          "khac": 22.7
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Kinh tế CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "khac": 23.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kiểm toán CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    }
+  ]
+}

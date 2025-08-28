@@ -1,0 +1,385 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Công nghệ Đông Á",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dong-a-co-so-bac-ninh-c48821.html",
+  "thoigian": "2025-08-28 11:07:00",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị Kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 16.5
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật Xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật Điện - Điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật nhiệt (nhiệt - lạnh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ Điều khiển - Tự động hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ chế tạo máy",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "hoc_ba": 21.0
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "thi_thpt": 12.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.5
+        },
+        "2022": {
+          "hoc_ba": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "thi_thpt": 12.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 19.5
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét điểm thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ten_truong": "Điểm chuẩn Phân hiệu Điểm chuẩn Trường Đại học Y Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-truong-dai-hoc-y-ha-noi-tai-thanh-hoa-c49066.html",
+  "thoigian": "2025-08-28 11:10:36",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y đa khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.75
+        },
+        "2022": {
+          "thi_thpt": 26.8
+        },
+        "2023": {
+          "thi_thpt": 26.39
+        },
+        "2024": {
+          "thi_thpt": 26.67
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.2
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 20.25
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật Phục hồi chức năng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    }
+  ]
+}

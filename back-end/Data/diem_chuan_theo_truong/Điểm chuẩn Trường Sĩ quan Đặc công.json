@@ -1,0 +1,37 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Sĩ quan Đặc công",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-si-quan-dac-cong-c48790.html",
+  "thoigian": "2025-08-28 11:06:38",
+  "nganh": [
+    {
+      "stt": "- Thí sinh có hộ khẩu thường trú phía Bắc",
+      "nganh": "- Xét theo KQ thi THPT: 23,90",
+      "diem": {
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 18.05
+        },
+        "2024": {
+          "thi_thpt": 22.45
+        }
+      }
+    },
+    {
+      "stt": "- Thí sinh có hộ khẩu thường trú phía Nam",
+      "nganh": "- Xét theo KQ thi THPT: 24,30",
+      "diem": {
+        "2022": {
+          "thi_thpt": 20.15
+        },
+        "2023": {
+          "thi_thpt": 22.45
+        },
+        "2024": {
+          "thi_thpt": 22.2
+        }
+      }
+    }
+  ]
+}

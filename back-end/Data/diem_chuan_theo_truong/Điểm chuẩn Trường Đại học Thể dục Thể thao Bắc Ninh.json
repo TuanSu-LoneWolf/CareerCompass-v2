@@ -1,0 +1,61 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thể dục Thể thao Bắc Ninh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-the-duc-the-thao-bac-ninh-c48807.html",
+  "thoigian": "2025-08-28 11:06:52",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Huấn luyện thể thao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.7
+        },
+        "2024": {
+          "thi_thpt": 18.35
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý TDTT",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.7
+        },
+        "2024": {
+          "thi_thpt": 18.35
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Y sinh học TDTT",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.7
+        },
+        "2024": {
+          "thi_thpt": 18.35
+        }
+      }
+    }
+  ]
+}

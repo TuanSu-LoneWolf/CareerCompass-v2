@@ -1,0 +1,127 @@
+{
+  "ten_truong": "Khoa Ngoại Ngữ - Đại Học Thái Nguyên",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-ngoai-ngu-dai-hoc-thai-nguyen-c48865.html",
+  "thoigian": "2025-08-28 11:07:30",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2020": {
+          "khac": 24.0
+        },
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "khac": 25.53
+        },
+        "2023": {
+          "thi_thpt": 23.7
+        },
+        "2024": {
+          "khac": 25.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.9
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Tiếng Trung Quốc",
+      "diem": {
+        "2020": {
+          "khac": 21.5
+        },
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "khac": 26.55
+        },
+        "2023": {
+          "thi_thpt": 24.4
+        },
+        "2024": {
+          "khac": 26.8
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.15
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2020": {
+          "khac": 19.5
+        },
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "khac": 23.63
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "khac": 25.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Pháp",
+      "diem": {
+        "2020": {
+          "khac": 18.0
+        },
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "khac": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2020": {
+          "khac": 22.0
+        },
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "khac": 25.33
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "khac": 26.7
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.0
+        }
+      }
+    }
+  ]
+}

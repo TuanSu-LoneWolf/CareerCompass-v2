@@ -1,0 +1,163 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Ngoại giao",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-ngoai-giao-c48698.html",
+  "thoigian": "2025-08-28 11:05:25",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quan hệ quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.6
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh ( Tiếng Anh hệ số 2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.9
+        },
+        "2022": {
+          "thi_thpt": 35.07
+        },
+        "2023": {
+          "thi_thpt": 35.99
+        },
+        "2024": {
+          "thi_thpt": 35.38
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kinh tế quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.4
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 26.15
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 25.76
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 25.47
+          }
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.3
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Truyền thông quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.9
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 26.6
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 25.8
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 25.6
+          }
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Luật thương mại quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Châu Á - Thái Bình Dương học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        }
+      }
+    }
+  ]
+}

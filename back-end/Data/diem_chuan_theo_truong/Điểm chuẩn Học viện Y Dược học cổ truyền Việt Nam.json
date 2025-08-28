@@ -1,0 +1,61 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Y Dược học cổ truyền Việt Nam",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-c48713.html",
+  "thoigian": "2025-08-28 11:05:34",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y học cổ truyền",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.3
+        },
+        "2022": {
+          "thi_thpt": 25.55
+        },
+        "2023": {
+          "thi_thpt": 25.05
+        },
+        "2024": {
+          "thi_thpt": 25.57
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.95
+        },
+        "2022": {
+          "thi_thpt": 24.4
+        },
+        "2023": {
+          "thi_thpt": 22.7
+        },
+        "2024": {
+          "thi_thpt": 23.52
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "ten_truong": "Đại Học Công Nghệ Giao Thông Vận Tải",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-giao-thong-van-tai-co-so-thai-nguyen-c48868.html",
+  "thoigian": "2025-08-28 11:07:35",
+  "nganh": [
+    {
+      "stt": "Công nghệ Kỹ thuật Xây dựng Cầu đường bộ",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ kỹ thuật xây dựng dân dụng và công nghiệp",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "khac": null
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ kỹ thuật Ô tô",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế xây dựng",
+      "nganh": "-",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán doanh nghiệp",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ kỹ thuật công trình xây dựng",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "Logistics và vận tải đa phương thức",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": 15.0
+        },
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 6.0
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ kỹ thuật giao thông",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Khai thác vận tải",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "Xét học bạ theo điểm trung bình chung lớp 12": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 6.0
+        }
+      }
+    }
+  ]
+}

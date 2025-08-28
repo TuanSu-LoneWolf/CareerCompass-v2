@@ -1,0 +1,58 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Hải Quân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-hoc-vien-hai-quan-c49135.html",
+  "thoigian": "2025-08-28 11:11:35",
+  "nganh": [
+    {
+      "stt": "Miền Bắc",
+      "nganh": "Miền Nam",
+      "diem": {
+        "2022": {
+          "thi_thpt": "Miền Bắc"
+        },
+        "2023": {
+          "thi_thpt": "Miền Nam"
+        },
+        "2024": {
+          "thi_thpt": "Miền Bắc"
+        },
+        "col5": {
+          "thi_thpt": "Miền Nam"
+        },
+        "col6": {
+          "thi_thpt": "Miền Bắc"
+        },
+        "col7": {
+          "thi_thpt": "Miền Nam"
+        }
+      }
+    },
+    {
+      "stt": "Chỉ huy tham mưu Hải quân",
+      "nganh": "- Xét tuyển HSG bậc THPT: 24,40 - Xét theo KQ thi THPT: 24,55",
+      "diem": {
+        "2022": {
+          "thi_thpt": 23.35
+        },
+        "2023": {
+          "thi_thpt": 23.7
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        },
+        "col5": {
+          "thi_thpt": 23.7
+        },
+        "col6": {
+          "thi_thpt": 24.1
+        },
+        "col7": {
+          "thi_thpt": 24.21
+        },
+        "col8": {
+          "thi_thpt": 20.6
+        }
+      }
+    }
+  ]
+}

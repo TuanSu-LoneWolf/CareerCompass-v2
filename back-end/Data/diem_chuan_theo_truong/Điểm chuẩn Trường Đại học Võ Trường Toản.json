@@ -1,0 +1,217 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Võ Trường Toản",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-vo-truong-toan-c49425.html",
+  "thoigian": "2025-08-28 11:16:12",
+  "nganh": [
+    {
+      "stt": "Y khoa",
+      "nganh": "- Phương thức 1: 21 - Phương thức 2: học lực Giỏi cả năm lớp 12 - Phương thức 3:",
+      "diem": {
+        "2020": {
+          "hoc_ba": 22.0
+        },
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "hoc_ba": 12.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 12.0
+        }
+      }
+    },
+    {
+      "stt": "Dược học",
+      "nganh": "- Phương thức 1: 20 - Phương thức 2: học lực Giỏi cả năm lớp 12 - Phương thức 3:",
+      "diem": {
+        "2020": {
+          "hoc_ba": 21.0
+        },
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "hoc_ba": 12.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 12.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "- Phương thức 1: 14 - Phương thức 2: 18",
+      "diem": {
+        "2020": {
+          "hoc_ba": 15.0
+        },
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "- Phương thức 1: 14 - Phương thức 2: 18",
+      "diem": {
+        "2020": {
+          "hoc_ba": 15.0
+        },
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Tài chính – Ngân hàng",
+      "nganh": "- Phương thức 1: 14 - Phương thức 2: 18",
+      "diem": {
+        "2020": {
+          "hoc_ba": 15.0
+        },
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "hoc_ba": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Luật",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "hoc_ba": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh doanh quốc tế",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "hoc_ba": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản lý nhà nước",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "hoc_ba": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Thương mại điện tử",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "hoc_ba": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        }
+      }
+    }
+  ]
+}

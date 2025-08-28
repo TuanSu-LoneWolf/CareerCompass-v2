@@ -1,0 +1,127 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Y khoa Vinh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-khoa-vinh-c49074.html",
+  "thoigian": "2025-08-28 11:10:43",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Bác sĩ đa khoa)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.7
+        },
+        "2022": {
+          "khac": "-"
+        },
+        "2023": {
+          "thi_thpt": 24.75
+        },
+        "2024": {
+          "khac": "-"
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.0
+        },
+        "Xét theo học bạ": {
+          "khac": "-"
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y học dự phòng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "khac": 22.55
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 23.45
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 20.35
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "khac": 20.5
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 23.15
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 20.6
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "khac": 25.45
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "khac": 25.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "khac": "-"
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "khac": "-"
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.5
+        },
+        "Xét theo học bạ": {
+          "khac": "-"
+        }
+      }
+    }
+  ]
+}

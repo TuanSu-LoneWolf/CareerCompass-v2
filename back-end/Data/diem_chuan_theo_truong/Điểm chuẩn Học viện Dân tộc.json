@@ -1,0 +1,28 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Dân tộc",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-dan-toc-c62296.html",
+  "thoigian": "2025-08-28 11:05:59",
+  "nganh": [
+    {
+      "stt": "Kinh tế giáo dục vùng dân tộc thiểu số",
+      "nganh": "15,0",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 15.5
+        },
+        "2024": {
+          "thi_thpt": 15.5
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    }
+  ]
+}

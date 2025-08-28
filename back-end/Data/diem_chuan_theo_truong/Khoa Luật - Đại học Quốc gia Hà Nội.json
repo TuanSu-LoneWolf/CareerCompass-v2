@@ -1,0 +1,61 @@
+{
+  "ten_truong": "Khoa Luật - Đại học Quốc gia Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-luat-dai-hoc-quoc-gia-ha-noi-c48485.html",
+  "thoigian": "2025-08-28 11:03:03",
+  "nganh": [
+    {
+      "stt": "Luật (chương trình Chất lượng cao)",
+      "nganh": "18.25 (A01, D01, D07, D78)",
+      "diem": {
+        "2019": {
+          "khac": 21.2
+        },
+        "2020": {
+          "khac": 23.75
+        },
+        "2021": {
+          "khac": 25.85
+        },
+        "2022": {
+          "thi_thpt": 24.7
+        }
+      }
+    },
+    {
+      "stt": "Luật kinh doanh",
+      "nganh": "20.75 (A00, A01, D01, D03, D78, D82)",
+      "diem": {
+        "2019": {
+          "khac": 21.95
+        },
+        "2020": {
+          "khac": 24.55
+        },
+        "2021": {
+          "khac": 26.05
+        },
+        "2022": {
+          "thi_thpt": 25.1
+        }
+      }
+    },
+    {
+      "stt": "Luật thương mại quốc tế",
+      "nganh": "",
+      "diem": {
+        "2019": {
+          "khac": 21.95
+        },
+        "2020": {
+          "khac": 24.8
+        },
+        "2021": {
+          "khac": 26.5
+        },
+        "2022": {
+          "thi_thpt": 25.7
+        }
+      }
+    }
+  ]
+}

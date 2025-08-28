@@ -1,0 +1,1242 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Bách khoa Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-bach-khoa-ha-noi-c48512.html",
+  "thoigian": "2025-08-28 11:03:32",
+  "nganh": [
+    {
+      "stt": "1",
+      "ma": "BF1",
+      "nganh": "Kỹ thuật sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.34
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.5
+        },
+        "2023": {
+          "thi_thpt": 23.25
+        },
+        "2024": {
+          "gia_tri": 51.84
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "ma": "BF-E19",
+      "nganh": "Kỹ thuật sinh học (Chương trình tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": 52.95
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "ma": "BF2",
+      "nganh": "Kỹ thuật thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.94
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.6
+        },
+        "2023": {
+          "thi_thpt": 23.35
+        },
+        "2024": {
+          "gia_tri": 56.05
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "ma": "BF-E12",
+      "nganh": "Kỹ thuật thực phẩm (Chương trình tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.44
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.6
+        },
+        "2023": {
+          "thi_thpt": 23.35
+        },
+        "2024": {
+          "gia_tri": 54.8
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "ma": "CH1",
+      "nganh": "Kỹ thuật hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.2
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.05
+        },
+        "2023": {
+          "thi_thpt": 23.03
+        },
+        "2024": {
+          "gia_tri": 50.6
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "ma": "CH2",
+      "nganh": "Hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.96
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.05
+        },
+        "2023": {
+          "thi_thpt": 23.03
+        },
+        "2024": {
+          "gia_tri": 51.58
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "ma": "CH3",
+      "nganh": "Kỹ thuật in",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.45
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.05
+        },
+        "2023": {
+          "thi_thpt": 23.03
+        },
+        "2024": {
+          "gia_tri": 53.96
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "ma": "CH-E11",
+      "nganh": "Kỹ thuật hóa dược (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.6
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.35
+        },
+        "2023": {
+          "thi_thpt": 23.7
+        },
+        "2024": {
+          "gia_tri": 55.83
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "ma": "ED2",
+      "nganh": "Công nghệ giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.8
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.5
+        },
+        "2023": {
+          "thi_thpt": 23.15
+        },
+        "2024": {
+          "gia_tri": 58.69
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "ma": "EE1",
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.5
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.4
+        },
+        "2023": {
+          "thi_thpt": 23.05
+        },
+        "2024": {
+          "gia_tri": 61.27
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "ma": "EE2",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.46
+        },
+        "2022": {
+          "danh_gia_tu_duy": 17.43
+        },
+        "2023": {
+          "thi_thpt": 27.61
+        },
+        "2024": {
+          "gia_tri": 72.23
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "ma": "EE-E18",
+      "nganh": "Hệ thống điện và năng lượng tái tạo (Chương trình tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.71
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.4
+        },
+        "2023": {
+          "thi_thpt": 23.55
+        },
+        "2024": {
+          "gia_tri": 56.27
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "ma": "EE-E8",
+      "nganh": "Kỹ thuật điều khiển - Tự động hóa (Chương trình tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.26
+        },
+        "2022": {
+          "danh_gia_tu_duy": 17.04
+        },
+        "2023": {
+          "thi_thpt": 25.99
+        },
+        "2024": {
+          "gia_tri": 68.74
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "ma": "EE-EP",
+      "nganh": "Tin học công nghiệp và Tự động hóa (Chương trình Việt Pháp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.14
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.99
+        },
+        "2024": {
+          "gia_tri": 58.29
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "ma": "EM2",
+      "nganh": "Quản lý công nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.75
+        },
+        "2022": {
+          "danh_gia_tu_duy": 17.67
+        },
+        "2023": {
+          "thi_thpt": 23.3
+        },
+        "2024": {
+          "gia_tri": 53.55
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "ma": "EM3",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.04
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.1
+        },
+        "2023": {
+          "thi_thpt": 25.35
+        },
+        "2024": {
+          "gia_tri": 55.58
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "ma": "EM4",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.76
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.23
+        },
+        "2023": {
+          "thi_thpt": 25.2
+        },
+        "2024": {
+          "gia_tri": 51.04
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "ma": "EM5",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.83
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.28
+        },
+        "2023": {
+          "thi_thpt": 25.2
+        },
+        "2024": {
+          "gia_tri": 52.45
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "ma": "EM-E13",
+      "nganh": "Phân tích kinh doanh (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.55
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.16
+        },
+        "2023": {
+          "thi_thpt": 24.18
+        },
+        "2024": {
+          "gia_tri": 51.42
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "ma": "EM-E14",
+      "nganh": "Logistics và quản lý chuỗi cung ứng (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.3
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.03
+        },
+        "2023": {
+          "thi_thpt": 24.51
+        },
+        "2024": {
+          "gia_tri": 52.57
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "ma": "ET1",
+      "nganh": "Kỹ thuật điện tử - viễn thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.8
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.05
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "gia_tri": 66.46
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "ma": "ET-E16",
+      "nganh": "Truyền thông số và kỹ thuật đa phương tiện (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.59
+        },
+        "2022": {
+          "danh_gia_tu_duy": 16.92
+        },
+        "2023": {
+          "thi_thpt": 24.19
+        },
+        "2024": {
+          "gia_tri": 62.72
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "ma": "ET-E4",
+      "nganh": "Kỹ thuật điện tử - viễn thông (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.59
+        },
+        "2022": {
+          "danh_gia_tu_duy": 16.92
+        },
+        "2023": {
+          "thi_thpt": 24.19
+        },
+        "2024": {
+          "gia_tri": 64.17
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "ma": "ET-E5",
+      "nganh": "Kỹ thuật y sinh (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.88
+        },
+        "2022": {
+          "danh_gia_tu_duy": 15.25
+        },
+        "2023": {
+          "thi_thpt": 23.89
+        },
+        "2024": {
+          "gia_tri": 56.55
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "ma": "ET-E9",
+      "nganh": "Hệ thống nhúng thông minh và IoT (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.93
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.78
+        },
+        "2023": {
+          "thi_thpt": 24.14
+        },
+        "2024": {
+          "gia_tri": 65.23
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "ma": "ET-LUH",
+      "nganh": "Điện tử - viễn thông - ĐH Leibniz (Đức)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.13
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.5
+        },
+        "2023": {
+          "thi_thpt": 23.15
+        },
+        "2024": {
+          "gia_tri": 56.67
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "ma": "EV1",
+      "nganh": "Kỹ thuật môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.01
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.05
+        },
+        "2023": {
+          "thi_thpt": 23.03
+        },
+        "2024": {
+          "gia_tri": 51.12
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "ma": "EV2",
+      "nganh": "Quản lý tài nguyên và môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.53
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.03
+        },
+        "2024": {
+          "gia_tri": 50.6
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "ma": "FL1",
+      "nganh": "Tiếng Anh KHKT và công nghệ",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.11
+        },
+        "2022": {
+          "danh_gia_tu_duy": 16.28
+        },
+        "2023": {
+          "thi_thpt": 23.06
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "ma": "FL2",
+      "nganh": "Tiếng Anh chuyên nghiệp quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.11
+        },
+        "2022": {
+          "danh_gia_tu_duy": 16.28
+        },
+        "2023": {
+          "thi_thpt": 23.06
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "ma": "HE 1",
+      "nganh": "Kỹ thuật nhiệt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.39
+        },
+        "2023": {
+          "thi_thpt": 23.26
+        },
+        "2024": {
+          "gia_tri": 53.84
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "ma": "IT1",
+      "nganh": "CNTT: Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 28.43
+        },
+        "2022": {
+          "danh_gia_tu_duy": 22.25
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": 83.9
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "ma": "IT2",
+      "nganh": "CNTT: Kỹ thuật máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 28.1
+        },
+        "2022": {
+          "danh_gia_tu_duy": 21.19
+        },
+        "2023": {
+          "thi_thpt": 28.29
+        },
+        "2024": {
+          "gia_tri": 79.22
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "ma": "IT-E10",
+      "nganh": "Khoa học dữ liệu và trí tuệ nhân tạo (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 28.04
+        },
+        "2022": {
+          "danh_gia_tu_duy": 22.68
+        },
+        "2023": {
+          "thi_thpt": 22.68
+        },
+        "2024": {
+          "gia_tri": 83.97
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "ma": "IT-E15",
+      "nganh": "An toàn không gian số - Cyber Security (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.44
+        },
+        "2022": {
+          "danh_gia_tu_duy": 20.58
+        },
+        "2023": {
+          "thi_thpt": 20.58
+        },
+        "2024": {
+          "gia_tri": 76.61
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "ma": "IT-E6",
+      "nganh": "Công nghệ thông tin (Việt - Nhật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.4
+        },
+        "2022": {
+          "danh_gia_tu_duy": 18.39
+        },
+        "2023": {
+          "thi_thpt": 27.25
+        },
+        "2024": {
+          "gia_tri": 72.03
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "ma": "IT-E7",
+      "nganh": "Công nghệ thông tin Glol ICT",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.85
+        },
+        "2022": {
+          "danh_gia_tu_duy": 21.96
+        },
+        "2023": {
+          "thi_thpt": 21.96
+        },
+        "2024": {
+          "gia_tri": 79.12
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "ma": "IT-EP",
+      "nganh": "Công nghệ thông tin (Việt - Pháp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.19
+        },
+        "2022": {
+          "danh_gia_tu_duy": 16.26
+        },
+        "2023": {
+          "thi_thpt": 16.26
+        },
+        "2024": {
+          "gia_tri": 69.67
+        }
+      }
+    },
+    {
+      "stt": "39",
+      "ma": "ME1",
+      "nganh": "Kỹ thuật cơ điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.91
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.18
+        },
+        "2023": {
+          "thi_thpt": 26.33
+        },
+        "2024": {
+          "gia_tri": 65.81
+        }
+      }
+    },
+    {
+      "stt": "40",
+      "ma": "ME2",
+      "nganh": "Kỹ thuật cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.78
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.18
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "gia_tri": 57.23
+        }
+      }
+    },
+    {
+      "stt": "41",
+      "ma": "ME-E1",
+      "nganh": "Kỹ thuật cơ điện tử (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.3
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.18
+        },
+        "2023": {
+          "thi_thpt": 24.28
+        },
+        "2024": {
+          "gia_tri": 60.0
+        }
+      }
+    },
+    {
+      "stt": "42",
+      "ma": "ME-GU",
+      "nganh": "Cơ khí - chế tạo máy - Hợp tác với ĐH Griffith (Úc)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.88
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.36
+        },
+        "2024": {
+          "gia_tri": 52.45
+        }
+      }
+    },
+    {
+      "stt": "43",
+      "ma": "ME-LUH",
+      "nganh": "Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.16
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.18
+        },
+        "2023": {
+          "thi_thpt": 23.29
+        },
+        "2024": {
+          "gia_tri": 56.08
+        }
+      }
+    },
+    {
+      "stt": "44",
+      "ma": "ME-NUT",
+      "nganh": "Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.88
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.18
+        },
+        "2023": {
+          "thi_thpt": 23.21
+        },
+        "2024": {
+          "gia_tri": 53.95
+        }
+      }
+    },
+    {
+      "stt": "45",
+      "ma": "MI1",
+      "nganh": "Toán - Tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.0
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.43
+        },
+        "2023": {
+          "thi_thpt": 26.45
+        },
+        "2024": {
+          "gia_tri": 70.57
+        }
+      }
+    },
+    {
+      "stt": "46",
+      "ma": "MI2",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.0
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.44
+        },
+        "2023": {
+          "thi_thpt": 26.54
+        },
+        "2024": {
+          "gia_tri": 67.29
+        }
+      }
+    },
+    {
+      "stt": "47",
+      "ma": "MS1",
+      "nganh": "Kỹ thuật vật liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.65
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.25
+        },
+        "2023": {
+          "thi_thpt": 23.16
+        },
+        "2024": {
+          "gia_tri": 54.37
+        }
+      }
+    },
+    {
+      "stt": "48",
+      "ma": "MS-E3",
+      "nganh": "KHKT vật liệu (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.99
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.25
+        },
+        "2023": {
+          "thi_thpt": 23.16
+        },
+        "2024": {
+          "gia_tri": 50.4
+        }
+      }
+    },
+    {
+      "stt": "49",
+      "ma": "PH1",
+      "nganh": "Vật lý kỹ thuật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.64
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.5
+        },
+        "2023": {
+          "thi_thpt": 23.29
+        },
+        "2024": {
+          "gia_tri": 54.68
+        }
+      }
+    },
+    {
+      "stt": "50",
+      "ma": "PH2",
+      "nganh": "Kỹ thuật hạt nhân",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.48
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.29
+        },
+        "2024": {
+          "gia_tri": 52.56
+        }
+      }
+    },
+    {
+      "stt": "51",
+      "ma": "PH3",
+      "nganh": "Vật lý y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.36
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.29
+        },
+        "2024": {
+          "gia_tri": 53.02
+        }
+      }
+    },
+    {
+      "stt": "52",
+      "ma": "TE1",
+      "nganh": "Kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.94
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.04
+        },
+        "2023": {
+          "thi_thpt": 26.41
+        },
+        "2024": {
+          "gia_tri": 64.28
+        }
+      }
+    },
+    {
+      "stt": "53",
+      "ma": "TE2",
+      "nganh": "Kỹ thuật cơ khí động lực",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.7
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.04
+        },
+        "2023": {
+          "thi_thpt": 24.16
+        },
+        "2024": {
+          "gia_tri": 56.41
+        }
+      }
+    },
+    {
+      "stt": "54",
+      "ma": "TE3",
+      "nganh": "Kỹ thuật hàng không",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.48
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.04
+        },
+        "2023": {
+          "thi_thpt": 24.23
+        },
+        "2024": {
+          "gia_tri": 60.39
+        }
+      }
+    },
+    {
+      "stt": "55",
+      "ma": "TE-E2",
+      "nganh": "Kỹ thuật ô tô (CT tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.11
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.04
+        },
+        "2023": {
+          "thi_thpt": 24.06
+        },
+        "2024": {
+          "gia_tri": 57.4
+        }
+      }
+    },
+    {
+      "stt": "56",
+      "ma": "TE-EP",
+      "nganh": "Cơ khí hàng không (CT Việt - Pháp PFIEV)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.76
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.55
+        },
+        "2024": {
+          "gia_tri": 51.5
+        }
+      }
+    },
+    {
+      "stt": "57",
+      "ma": "TROY-BA",
+      "nganh": "Quản trị kinh doanh - ĐH Troy (Hoa Kỳ)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.25
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.0
+        },
+        "2023": {
+          "thi_thpt": 23.4
+        },
+        "2024": {
+          "gia_tri": 51.11
+        }
+      }
+    },
+    {
+      "stt": "58",
+      "ma": "TROY-IT",
+      "nganh": "Khoa học máy tính - ĐH Troy (Hoa Kỳ)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.02
+        },
+        "2023": {
+          "thi_thpt": 25.15
+        },
+        "2024": {
+          "gia_tri": 60.12
+        }
+      }
+    },
+    {
+      "stt": "59",
+      "ma": "TX1",
+      "nganh": "Kỹ thuật dệt may",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.99
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.2
+        },
+        "2023": {
+          "thi_thpt": 23.1
+        },
+        "2024": {
+          "gia_tri": 50.7
+        }
+      }
+    },
+    {
+      "stt": "60",
+      "ma": "ET2",
+      "nganh": "Kỹ thuật y sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": 14.5
+        },
+        "2023": {
+          "thi_thpt": 23.15
+        },
+        "2024": {
+          "gia_tri": 56.03
+        }
+      }
+    },
+    {
+      "stt": "61",
+      "ma": "EM1",
+      "nganh": "Quản lý năng lượng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": 53.29
+        }
+      }
+    },
+    {
+      "stt": "62",
+      "ma": "MS2",
+      "nganh": "Kỹ thuật Vi điện tử và Công nghệ nano",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": 63.66
+        }
+      }
+    },
+    {
+      "stt": "63",
+      "ma": "MS3",
+      "nganh": "Công nghệ vật liệu Polyme và Compozit",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": 52.51
+        }
+      }
+    },
+    {
+      "stt": "64",
+      "ma": "ED3",
+      "nganh": "Quản lý giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    },
+    {
+      "stt": "65",
+      "ma": "MS-E3",
+      "nganh": "Khoa học và Kỹ thuật Vật liệu (Chương trình tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "danh_gia_tu_duy": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "gia_tri": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Khoa học Quân sự",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-khoa-hoc-quan-su-c48779.html",
+  "thoigian": "2025-08-28 11:06:22",
+  "nganh": [
+    {
+      "stt": "Nam",
+      "nganh": "Nữ",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": "Nam"
+        },
+        "col6": {
+          "thi_thpt": "Nữ"
+        }
+      }
+    },
+    {
+      "stt": "Trinh sát kỹ thuật",
+      "nganh": "- Phía Bắc: 21,25 - Phía Nam: 20,25",
+      "diem": {
+        "2020": {
+          "thi_thpt": 26.25
+        },
+        "2021": {
+          "thi_thpt": 25.2
+        },
+        "2022": {
+          "thi_thpt": 25.45
+        },
+        "2023": {
+          "thi_thpt": 24.3
+        },
+        "col6": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "23,98",
+      "diem": {
+        "2020": {
+          "thi_thpt": 27.09
+        },
+        "2021": {
+          "thi_thpt": {
+            "- Nam": 25.19
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "- Nam": 26.94
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "- Nam": 25.28
+          }
+        },
+        "col6": {
+          "thi_thpt": 25.38
+        },
+        "col7": {
+          "thi_thpt": 26.02
+        }
+      }
+    },
+    {
+      "stt": "Quan hệ quốc tế",
+      "nganh": "25,54",
+      "diem": {
+        "2020": {
+          "thi_thpt": 24.61
+        },
+        "2021": {
+          "thi_thpt": {
+            "- Nam": 24.74
+          }
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": {
+            "- Nam": 24.79
+          }
+        },
+        "col6": {
+          "thi_thpt": 25.4
+        },
+        "col7": {
+          "thi_thpt": 27.14
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Nga",
+      "nganh": "18,64",
+      "diem": {
+        "2020": {
+          "thi_thpt": 25.78
+        },
+        "2021": {
+          "thi_thpt": {
+            "- Nam": 24.76
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "- Nam": 25.8
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "- Nam": 25.66
+          }
+        },
+        "col6": {
+          "thi_thpt": 23.81
+        },
+        "col7": {
+          "thi_thpt": 26.38
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Trung Quốc",
+      "nganh": "21,78",
+      "diem": {
+        "2020": {
+          "thi_thpt": 25.91
+        },
+        "2021": {
+          "thi_thpt": {
+            "- Nam": 24.54
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "- Nam": 26.65
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "- Nam": 22.82
+          }
+        },
+        "col6": {
+          "thi_thpt": 24.73
+        },
+        "col7": {
+          "thi_thpt": 26.34
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Nguyễn Huệ",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nguyen-hue-si-quan-luc-quan-2-c49396.html",
+  "thoigian": "2025-08-28 11:15:49",
+  "nganh": [
+    {
+      "stt": "Thí sinh Nam Quân khu 5",
+      "nganh": "- Xét theo KQ thi THPT: 23,90 - Xét theo học bạ: 20,75",
+      "diem": {
+        "2022": {
+          "khac": {
+            "A00": 23.6
+          }
+        },
+        "2023": {
+          "khac": 19.95
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 7",
+      "nganh": "- Xét theo KQ thi THPT: 23,55 - Xét theo học bạ: 24,56",
+      "diem": {
+        "2022": {
+          "khac": {
+            "A00": 23.75
+          }
+        },
+        "2023": {
+          "khac": 22.15
+        },
+        "2024": {
+          "thi_thpt": 23.89
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 9",
+      "nganh": "- Xét theo KQ thi THPT: 24,35 - Xét theo học bạ: 27,07",
+      "diem": {
+        "2022": {
+          "khac": {
+            "A00": 24.5
+          }
+        },
+        "2023": {
+          "khac": 22.0
+        },
+        "2024": {
+          "thi_thpt": 25.24
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 7",
+      "nganh": "- Xét theo KQ thi THPT: 15,50 - Xét theo học bạ: 17,75",
+      "diem": {
+        "2022": {
+          "khac": {
+            "C00": 15.0
+          }
+        },
+        "2023": {
+          "khac": 15.5
+        },
+        "2024": {
+          "khac": 16.75
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 9",
+      "nganh": "- Xét theo KQ thi THPT: 15,00 - Xét theo học bạ: 24,90",
+      "diem": {
+        "2022": {
+          "khac": {
+            "C00": 15.17
+          }
+        },
+        "2023": {
+          "khac": 17.5
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 5",
+      "nganh": "C00: 10,25",
+      "diem": {
+        "2022": {
+          "thi_thpt": 10.5
+        },
+        "2023": {
+          "thi_thpt": 10.5
+        },
+        "2024": {
+          "thi_thpt": 12.25
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 7",
+      "nganh": "C00: 14,08",
+      "diem": {
+        "2022": {
+          "thi_thpt": 14.25
+        },
+        "2023": {
+          "thi_thpt": 14.25
+        },
+        "2024": {
+          "thi_thpt": 15.75
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam Quân khu 9",
+      "nganh": "C00: 10,25",
+      "diem": {
+        "2022": {
+          "thi_thpt": 12.0
+        },
+        "2023": {
+          "thi_thpt": 12.0
+        },
+        "2024": {
+          "thi_thpt": 10.75
+        }
+      }
+    }
+  ]
+}

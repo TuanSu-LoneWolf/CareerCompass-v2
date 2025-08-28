@@ -1,0 +1,43 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Luật - Đại học Huế",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-luat-dai-hoc-hue-c48975.html",
+  "thoigian": "2025-08-28 11:09:35",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Luật Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    }
+  ]
+}

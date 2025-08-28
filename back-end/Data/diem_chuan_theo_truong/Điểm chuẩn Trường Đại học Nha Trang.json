@@ -1,0 +1,1178 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Nha Trang",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nha-trang-c49123.html",
+  "thoigian": "2025-08-28 11:11:24",
+  "nganh": [
+    {
+      "stt": "I",
+      "nganh": "Chương trình tiên tiến – Chất lượng cao",
+      "diem": {}
+    },
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh (Chương trình song ngữ Anh-Việt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.4
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kế toán (Chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh-Việt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.0
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 5.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin (Chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh-Việt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.0
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 5.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị khách sạn (Chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh-Việt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.0
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 6.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ chế biến thủy sản",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Nuôi trồng thủy sản",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc biệt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp - Việt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "II",
+      "nganh": "Chương trình chuẩn/đại trà",
+      "diem": {}
+    },
+    {
+      "stt": "1",
+      "nganh": "Khoa học thủy sản (02 chuyên ngành: Khai thác thuỷ sản, Khoa học thủy sản)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý thuỷ sản",
+      "diem": {
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.0
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Nuôi trồng thuỷ sản",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản, Công nghệ sau thu hoạch)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm, Đảm bảo chất lượng và an toàn thực phẩm)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.0
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": 4.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật hoá học",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường, Quản lý môi trường và an toàn lao động)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí, Thiết kế và chế tạo số)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ chế tạo máy",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật cơ điện tử",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kỹ thuật nhiệt (03 chuyên ngành: Kỹ thuật cơ điện lạnh, Điện lạnh, Cơ điện lạnh)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải, Quản lý hàng hải và Logistics)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.3
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật cơ khí động lực",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật tàu thủy",
+      "diem": {
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.0
+        },
+        "2023": {
+          "thi_thpt": 600.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật ô tô",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": 4.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Kỹ thuật điện (02 chuyên ngành: Kỹ thuật điện, điện tử)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng, Quản lý xây dựng)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 5.7
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ thông tin (03 chuyên ngành: Công nghệ phần mềm, Hệ thống thông tin, Truyền thông và Mạng máy tính)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 4.5
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem": {
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.3
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": 4.5
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp-Việt)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.0
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": 5.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": 5.0
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.4
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 5.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Marketing",
+      "diem": {
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.4
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 5.0
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Kinh doanh thương mại",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.0
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": 5.0
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng, Công nghệ tài chính)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": 4.5
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Kế toán",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": 4.5
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Kiểm toán",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Luật (02 chuyên ngành: Luật, Luật kinh tế)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.0
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 4.5
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch, Tiếng Anh du lịch, Giảng dạy Tiếng Anh, Song ngữ Anh - Trung)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 7.7
+        },
+        "2023": {
+          "thi_thpt": 725.0
+        },
+        "2024": {
+          "hoc_ba": 6.5
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản, Quản lý kinh tế)",
+      "diem": {
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.3
+        },
+        "2023": {
+          "thi_thpt": 650.0
+        },
+        "2024": {
+          "hoc_ba": 4.5
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Kinh tế phát triển",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": 6.6
+        },
+        "2023": {
+          "thi_thpt": 700.0
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Kỹ thuật xây dựng công trình giao thông",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Khoa học máy tính (02 chuyên ngành: Trí tuệ nhân tạo, Khoa học dữ liệu)",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Kỹ thuật biển",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "Điểm điều kiện tiếng Anh Xét theo học bạ THPT (Thang điểm 40)": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh (Chương trình song ngữ Anh-Việt)",
+      "nganh": "23.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán (chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh-Việt)",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin (chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh-Việt)",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị khách sạn (chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh-Việt)",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "Chương trình chuẩn/đại trà",
+      "nganh": "",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh (4 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)",
+      "nganh": "24.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "Khai thác thuỷ sản",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản lý thuỷ sản",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Nuôi trồng thuỷ sản (3 chuyên ngành: Công nghệ Nuôi trồng thủy sản; Quản lý sức khỏe động vật thuỷ sản, Quản lý Nuôi trồng thủy sản)",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ sinh học",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và sức khỏe nghề nghiệp)",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật cơ khí",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ chế tạo máy",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật cơ điện tử",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật nhiệt lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị nhiệt thực phẩm)",
+      "nganh": "15,5",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Khoa học hàng hải(2 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+      "nganh": "18.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật cơ khí động lực",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật tàu thủy",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật ô tô",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật điện (chuyên ngành Công nghệ kỹ thuật điện, điện tử)",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 21.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật xây dựng (2 chuyên ngành: Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông)",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 21.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật hoá học",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thực phẩm (2 chuyên ngành: Công nghệ thực phẩm; Đảm bảo chất lượng và an toàn thực phẩm)",
+      "nganh": "16.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ chế biến thuỷ sản (2 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin (3 chuyên ngành: Công nghệ phần mềm; Truyền thông và Mạng máy tính; Tin học ứng dụng trong Nông nghiệp và Y dược)",
+      "nganh": "19.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Hệ thống thông tin quản lý",
+      "nganh": "17.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 21.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp-Việt)",
+      "nganh": "18.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 21.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị dịch vụ du lịch và lữ hành",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị khách sạn",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "23.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Marketing",
+      "nganh": "23.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh doanh thương mại",
+      "nganh": "22.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế (chuyên ngành Kinh tế thủy sản)",
+      "nganh": "18.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế phát triển",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 21.0
+        }
+      }
+    },
+    {
+      "stt": "Tài chính - ngân hàng",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán (2 chuyên ngành: Kế toán; Kiểm toán)",
+      "nganh": "20.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Luật (02 chuyên ngành: Luật, Luật kinh tế)",
+      "nganh": "21.0",
+      "diem": {
+        "Xét theo học bạ cho thí sinh đặc cách tốt nghiệp THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    }
+  ]
+}

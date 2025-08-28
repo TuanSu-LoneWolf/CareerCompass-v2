@@ -1,0 +1,601 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Dân lập Lạc Hồng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dan-lap-lac-hong-c49390.html",
+  "thoigian": "2025-08-28 11:15:46",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Dược học (Dược sĩ Đại học)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "hoc_ba": 3.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 3.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.5
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.05
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.1
+        },
+        "2024": {
+          "thi_thpt": 15.05
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.6
+        },
+        "2024": {
+          "thi_thpt": 16.1
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.05
+        },
+        "2024": {
+          "thi_thpt": 15.15
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật cơ khí (Chuyên ngành Cơ điện tử)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.5
+        },
+        "2023": {
+          "thi_thpt": 15.1
+        },
+        "2024": {
+          "thi_thpt": 15.1
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng (Chuyên ngành Xây dựng dân dụng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 17.5
+        },
+        "2023": {
+          "thi_thpt": 15.15
+        },
+        "2024": {
+          "thi_thpt": 16.55
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Khoa học môi trường (Chuyên ngành Công nghệ môi trường)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 16.1
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Khoa học môi trường (Chuyên ngành An toàn, sức khỏe & môi trường)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 16.1
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Khoa học môi trường (Chuyên ngành Năng lượng xanh & Sinh thái môi trường)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 16.1
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 19.0
+        },
+        "2023": {
+          "thi_thpt": 15.05
+        },
+        "2024": {
+          "thi_thpt": 15.9
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.1
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.5
+        },
+        "2023": {
+          "thi_thpt": 15.15
+        },
+        "2024": {
+          "thi_thpt": 15.1
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": 16.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 15.3
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 17.0
+        },
+        "2023": {
+          "thi_thpt": 15.45
+        },
+        "2024": {
+          "thi_thpt": 15.5
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Đông phương học (gồm 2 chuyên ngành: ngôn ngữ Nhật Bản và ngôn ngữ Hàn Quốc)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.75
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.5
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.5
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngôn ngữ Anh (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.25
+        },
+        "2024": {
+          "thi_thpt": 16.15
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.5
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.5
+        },
+        "2024": {
+          "thi_thpt": 15.1
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 15.1
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.15
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Truyền thông đa phương tiện",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng (Chuyên ngành Xây dựng cầu đường)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng (Chuyên ngành Tin học xây dựng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Quan hệ công chúng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Công nghệ kỹ thuật ô tô (Chuyên ngành Công nghệ Kỹ thuật ô tô điện)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Công nghệ điện, điện tử (Chuyên ngành hệ thống điện)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Công nghệ điện, điện tử (Chuyên ngành Vi mạch)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Công nghệ thực phẩm (Chuyên ngành Khoa học thực phẩm & Dinh dưỡng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

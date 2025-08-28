@@ -1,0 +1,66 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Tòa án",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-toa-an-c48754.html",
+  "thoigian": "2025-08-28 11:06:03",
+  "nganh": [
+    {
+      "nganh": "Luật",
+      "diem": {
+        "Nữ": {
+          "Nữ": 20.35
+        },
+        "Nam": {
+          "Nam": 20.55
+        },
+        "col8": {
+          "col8": 20.0
+        },
+        "col9": {
+          "col9": 20.2
+        }
+      }
+    },
+    {
+      "nganh": "A01",
+      "diem": {
+        "Nữ": {
+          "Nữ": 21.3
+        },
+        "Nam": {
+          "Nam": 20.4
+        },
+        "col8": {
+          "col8": 20.25
+        }
+      }
+    },
+    {
+      "nganh": "C00",
+      "diem": {
+        "Nữ": {
+          "Nữ": 22.25
+        },
+        "Nam": {
+          "Nam": 26.0
+        },
+        "col8": {
+          "col8": 24.5
+        }
+      }
+    },
+    {
+      "nganh": "D01",
+      "diem": {
+        "Nữ": {
+          "Nữ": 20.3
+        },
+        "Nam": {
+          "Nam": 21.7
+        },
+        "col8": {
+          "col8": 20.2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Lâm nghiệp",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-lam-nghiep-c48612.html",
+  "thoigian": "2025-08-28 11:04:29",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kế toán",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 16.6
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.8
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ chế biến lâm sản (Công nghệ gỗ và quản lý sản xuất)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 17.3
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.2
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.4
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Hệ thống thông tin (Công nghệ thông tin)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.3
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Khoa học cây trồng (Nông học, trồng trọt)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.4
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật xây dựng (Kỹ thuật công trình xây dựng)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 17.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật cơ khí (Công nghệ chế tạo máy)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 16.8
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Lâm sinh",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 16.9
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kiến trúc cảnh quan",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 18.5
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản lý tài nguyên rừng (Kiểm lâm)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.3
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Thiết kế nội thất",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 16.1
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Thú y",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.8
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.7
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản lý đất đai",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 15.7
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý tài nguyên thiên nhiên (Chương trình Tiên tiến) Đào tạo bằng tiếng Anh theo chương trình \"Natural Resources Management\" của Trường Đại học tổng hợp Bang Colorado - Hoa Kỳ",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 16.4
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản lý tài nguyên và Môi trường",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 16.3
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Bất động sản",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 19.6
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Du lịch sinh thái",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 15.0
+        },
+        "2023": {
+          "khac": 19.5
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Chăn nuôi",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

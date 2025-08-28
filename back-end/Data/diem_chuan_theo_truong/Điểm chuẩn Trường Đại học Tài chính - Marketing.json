@@ -1,0 +1,305 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tài chính - Marketing",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tai-chinh-marketing-c49265.html",
+  "thoigian": "2025-08-28 11:13:19",
+  "nganh": [
+    {
+      "stt": "I",
+      "nganh": "Chương trình tiếng Anh toàn phần",
+      "diem": {}
+    },
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.9
+        },
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "thi_thpt": 850.0
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.1
+        },
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 900.0
+        },
+        "2024": {
+          "thi_thpt": 26.7
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.4
+        },
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 900.0
+        },
+        "2024": {
+          "thi_thpt": 25.7
+        }
+      }
+    },
+    {
+      "stt": "II",
+      "nganh": "Chương trình tích hợp",
+      "diem": {}
+    },
+    {
+      "stt": "1",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.4
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 820.0
+        },
+        "2024": {
+          "thi_thpt": 24.8
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.3
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 820.0
+        },
+        "2024": {
+          "thi_thpt": 25.2
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "19",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.3
+        },
+        "2022": {
+          "thi_thpt": 820.0
+        }
+      }
+    },
+    {
+      "stt": "Marketing",
+      "nganh": "19,2",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": 850.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "17,2",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.2
+        },
+        "2022": {
+          "thi_thpt": 780.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh doanh quốc tế",
+      "nganh": "20",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 830.0
+        }
+      }
+    },
+    {
+      "stt": "Tài chính ngân hàng",
+      "nganh": "17",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.6
+        },
+        "2022": {
+          "thi_thpt": 770.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị khách sạn",
+      "nganh": "17,8",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Bất động sản",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.5
+        },
+        "2022": {
+          "thi_thpt": 750.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "18,7",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 24.67
+        },
+        "2023": {
+          "thi_thpt": 750.0
+        }
+      }
+    },
+    {
+      "stt": "Marketing",
+      "nganh": "18,5",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.2
+        },
+        "2022": {
+          "thi_thpt": 24.9
+        },
+        "2023": {
+          "thi_thpt": 750.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "16,45",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Kinh doanh quốc tế",
+      "nganh": "20",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 24.75
+        },
+        "2023": {
+          "thi_thpt": 750.0
+        }
+      }
+    }
+  ]
+}

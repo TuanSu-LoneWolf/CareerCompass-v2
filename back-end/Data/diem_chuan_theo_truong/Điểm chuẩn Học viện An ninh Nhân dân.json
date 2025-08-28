@@ -1,0 +1,328 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện An ninh Nhân dân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-an-ninh-nhan-dan-c48756.html",
+  "thoigian": "2025-08-28 11:06:06",
+  "nganh": [
+    {
+      "stt": "Nam",
+      "nganh": "Nữ",
+      "diem": {
+        "2022": {
+          "thi_thpt": "Nam"
+        },
+        "2023": {
+          "thi_thpt": "Nữ"
+        },
+        "2024": {
+          "thi_thpt": "Nam"
+        },
+        "col5": {
+          "thi_thpt": "Nữ"
+        },
+        "col6": {
+          "thi_thpt": "Nam"
+        },
+        "col7": {
+          "thi_thpt": "Nữ"
+        }
+      }
+    },
+    {
+      "stt": "Nhóm ngành Nghiệp vụ An ninh",
+      "nganh": "- Địa bàn 1: + A00: 26,20 + A01: 27,24 + C03: 26,66 + D01: 27,56 - Địa bàn 2: + A00: 26,51 + A01: 26.73 (Tiêu chí phụ: xét 01 thí sinh có điểm xét tuyển đạt 26.73 và Toán đạt 9.2 điểm) + C03: 27,08 + D01: 26.49 (Tiêu chí phụ: xét 01 thí sinh không cộng điểm ưu tiên đối tượng, khu vực đạt 26.49 điểm) - Địa bàn 3: + A00: 26,15 + A01: 26,34 + C03: 27,20 + D01:26,08 - Địa bàn 8: + A00: 22,88 + A01: 21,96 + C03: 20,25 + D01: Không có chỉ tiêu",
+      "diem": {
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        },
+        "col5": {
+          "thi_thpt": 1.0
+        },
+        "col6": {
+          "thi_thpt": 1.0
+        },
+        "col7": {
+          "thi_thpt": 1.0
+        },
+        "col8": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "An toàn thông tin",
+      "nganh": "- Phía Bắc: + A00: 227,21 + A01: 26,58 - Phía Nam: + A00: 23,14 + A01: 24,86",
+      "diem": {
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "thi_thpt": 0.0
+        },
+        "2024": {
+          "thi_thpt": 0.0
+        },
+        "col5": {
+          "thi_thpt": 19.95
+        },
+        "col6": {
+          "thi_thpt": 21.93
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Y khoa (Gửi đào tạo tại Học viện Quân y)",
+      "nganh": "- Phía Bắc: 24,45 - Phía Nam: 23,05",
+      "diem": {
+        "2022": {
+          "thi_thpt": "Không tuyển nữ"
+        },
+        "2023": {
+          "thi_thpt": 15.64
+        },
+        "2024": {
+          "thi_thpt": "Không tuyển nữ"
+        },
+        "col5": {
+          "thi_thpt": 14.73
+        },
+        "col6": {
+          "thi_thpt": "Không tuyển nữ"
+        },
+        "col7": {
+          "thi_thpt": 18.75
+        },
+        "col8": {
+          "thi_thpt": 20.85
+        }
+      }
+    },
+    {
+      "stt": "Nhóm ngành Nghiệp vụ Cảnh sát",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": 1.0
+        },
+        "col6": {
+          "thi_thpt": 1.0
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Xây dựng Đảng và chính quyền Nhà nước",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": 23.41
+        },
+        "col6": {
+          "thi_thpt": 24.94
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Phòng cháy chữa cháy và cứu nạn cứu hộ",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": 18.06
+        },
+        "col6": {
+          "thi_thpt": 21.69
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Nhóm ngành Kỹ thuật - Hậu cần",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": 18.22
+        },
+        "col6": {
+          "thi_thpt": 21.06
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": 14.01
+        },
+        "col6": {
+          "thi_thpt": 22.11
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Trung Quốc",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": 19.2
+        },
+        "col6": {
+          "thi_thpt": 21.54
+        },
+        "col7": {
+          "thi_thpt": null
+        },
+        "col8": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "An ninh mạng và phòng chống tội phạm công nghệ cao",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": null
+        },
+        "col6": {
+          "thi_thpt": null
+        },
+        "col7": {
+          "thi_thpt": 21.17
+        },
+        "col8": {
+          "thi_thpt": 23.5
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col5": {
+          "thi_thpt": null
+        },
+        "col6": {
+          "thi_thpt": null
+        },
+        "col7": {
+          "thi_thpt": 18.69
+        },
+        "col8": {
+          "thi_thpt": "-"
+        }
+      }
+    }
+  ]
+}

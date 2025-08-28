@@ -1,0 +1,277 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Giáo dục - ĐHQG Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi-c48484.html",
+  "thoigian": "2025-08-28 11:03:00",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Vật lý",
+      "diem": {
+        "2021": {
+          "khac": 25.65
+        },
+        "2022": {
+          "thi_thpt": 25.55
+        },
+        "2023": {
+          "thi_thpt": 25.58
+        },
+        "2024": {
+          "thi_thpt": 26.58
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Hóa học",
+      "diem": {
+        "2021": {
+          "khac": 25.65
+        },
+        "2022": {
+          "thi_thpt": 25.55
+        },
+        "2023": {
+          "thi_thpt": 25.58
+        },
+        "2024": {
+          "thi_thpt": 26.58
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Sinh học",
+      "diem": {
+        "2021": {
+          "khac": 25.65
+        },
+        "2022": {
+          "thi_thpt": 25.55
+        },
+        "2023": {
+          "thi_thpt": 25.58
+        },
+        "2024": {
+          "thi_thpt": 26.58
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem": {
+        "2021": {
+          "khac": 26.55
+        },
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 27.17
+        },
+        "2024": {
+          "thi_thpt": 28.76
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Lịch sử",
+      "diem": {
+        "2021": {
+          "khac": 26.55
+        },
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 27.17
+        },
+        "2024": {
+          "thi_thpt": 28.76
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Khoa học Tự nhiên",
+      "diem": {
+        "2021": {
+          "khac": 25.65
+        },
+        "2022": {
+          "thi_thpt": 25.55
+        },
+        "2023": {
+          "thi_thpt": 25.58
+        },
+        "2024": {
+          "thi_thpt": 26.58
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị trường học",
+      "diem": {
+        "2021": {
+          "khac": 20.25
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "thi_thpt": 24.92
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị Công nghệ giáo dục",
+      "diem": {
+        "2021": {
+          "khac": 20.25
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "thi_thpt": 24.92
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị chất lượng giáo dục",
+      "diem": {
+        "2021": {
+          "khac": 20.25
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "thi_thpt": 24.92
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Tham vấn học đường",
+      "diem": {
+        "2021": {
+          "khac": 20.25
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "thi_thpt": 24.92
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Khoa học giáo dục",
+      "diem": {
+        "2021": {
+          "khac": 20.25
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "thi_thpt": 24.92
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Tâm lý học (chuyên ngành Tâm lý học lâm sàng trẻ em và vị thành niên)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.92
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Sư phạm Lịch sử và Địa lý",
+      "diem": {
+        "2021": {
+          "khac": 26.55
+        },
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 27.17
+        },
+        "2024": {
+          "thi_thpt": 28.76
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Giáo dục Tiểu học",
+      "diem": {
+        "2021": {
+          "khac": 27.6
+        },
+        "2022": {
+          "thi_thpt": 28.55
+        },
+        "2023": {
+          "thi_thpt": 27.47
+        },
+        "2024": {
+          "thi_thpt": 28.89
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "khac": 25.05
+        },
+        "2022": {
+          "thi_thpt": 25.7
+        },
+        "2023": {
+          "thi_thpt": 25.39
+        },
+        "2024": {
+          "thi_thpt": 27.85
+        }
+      }
+    }
+  ]
+}

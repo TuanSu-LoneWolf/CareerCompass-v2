@@ -1,0 +1,313 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tiền Giang",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tien-giang-c49416.html",
+  "thoigian": "2025-08-28 11:16:07",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "khac": 23.31
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "thi_thpt": 24.41
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị Kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "khac": 24.13
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 24.08
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 21.85
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 22.11
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 21.25
+        },
+        "2024": {
+          "thi_thpt": 20.31
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ Sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ Thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.5
+        },
+        "2024": {
+          "thi_thpt": 20.54
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ Kỹ thuật Xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ Kỹ thuật Cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.45
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Nuôi trồng thủy sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Văn hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 23.4
+        },
+        "2023": {
+          "thi_thpt": 21.75
+        },
+        "2024": {
+          "thi_thpt": 22.44
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Chăn nuôi",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Bảo vệ thực vật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "ten_truong": "Điểm chuẩn Đại học Ngoại ngữ - Tin học TP.HCM",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngoai-ngu-tin-hoc-tphcm-c49321.html",
+  "thoigian": "2025-08-28 11:14:20",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 32.25
+        },
+        "2022": {
+          "khac": 29.0
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "khac": 28.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 21.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.45
+        },
+        "2022": {
+          "khac": 23.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 22.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quan hệ quốc tế (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 29.5
+        },
+        "2022": {
+          "khac": 26.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 26.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Đông phương học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "khac": 19.5
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "khac": 19.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị kinh doanh (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 29.0
+        },
+        "2022": {
+          "khac": 26.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 26.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh doanh quốc tế (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 29.5
+        },
+        "2022": {
+          "khac": 26.0
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "khac": 18.5
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "khac": 18.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "khac": 18.5
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "khac": 18.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "khac": 18.5
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "khac": 18.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.5
+        },
+        "2022": {
+          "khac": 19.5
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "khac": 19.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "khac": 25.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 25.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị khách sạn (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "khac": 25.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 25.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "khac": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Logistics và quản lý chuỗi cung ứng (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kiểm toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Quan hệ công chúng (*)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

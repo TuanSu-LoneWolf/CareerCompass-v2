@@ -1,0 +1,543 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Văn hóa Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-van-hoa-ha-noi-c48532.html",
+  "thoigian": "2025-08-28 11:03:46",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 1.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành - Quản trị kinh doanh du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 27.3
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 28.75
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 27.5
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 26.5
+          }
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.6
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 26.75
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 27.5
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 25.17
+          }
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Báo chí",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.6
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 26.75
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 27.5
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 26.85
+          }
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh doanh xuất bản phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 20.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 24.25
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 23.0
+          }
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Thông tin - Thư viện - Quản trị thư viện",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 20.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 24.0
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 21.75
+          }
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản lý thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 24.75
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 26.75
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 24.4
+          }
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Bảo tàng học",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 17.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 22.75
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 22.83
+          }
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Văn hóa học - Nghiên cứu văn hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 25.1
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 23.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 25.2
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 24.63
+          }
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Văn hóa học - Văn hóa truyền thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.5
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 27.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 27.0
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 26.18
+          }
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Văn hóa học - Văn hóa đối ngoại",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 26.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 26.5
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 24.68
+          }
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Văn hóa các DTTSVN - Tổ chức và QLVH vùng DTTS (7220112A)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 16.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 23.45
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 21.7
+          }
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Văn hóa các DTTSVN - Tổ chức và QL Du lịch vùng DTTS (7220112B)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 17.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 23.5
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 22.9
+          }
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "QLVH - Chính sách văn hóa và quản lý nghệ thuật",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 24.1
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 20.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 24.25
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 23.96
+          }
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "QLVH - Quản lý nhà nước về gia đình",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 16.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 20.0
+          }
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "QLVH - Quản lý di sản văn hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 23.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 24.5
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 23.23
+          }
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "QLVH - Tổ chức sự kiện văn hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.3
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 26.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 26.75
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 26.13
+          }
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Du lịch - Văn hóa du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.2
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 22.75
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 26.0
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 25.41
+          }
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Du lịch - Lữ hành, Hướng dẫn DL",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 26.7
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "C00": 25.5
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 27.0
+          }
+        },
+        "2024": {
+          "khac": {
+            "C00": 25.8
+          }
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Du lịch - Hướng dẫn DL Quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 1.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Thông tin - Thư viện - Thư viện và thiết bị trường học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành - Quản trị du lịch cộng đồng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

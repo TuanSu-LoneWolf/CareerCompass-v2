@@ -1,0 +1,79 @@
+{
+  "ten_truong": "Học viện ngân hàng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-ngan-hang-phan-vien-bac-ninh-c48806.html",
+  "thoigian": "2025-08-28 11:06:50",
+  "nganh": [
+    {
+      "stt": "Tài chính - Ngân hàng",
+      "nganh": "16",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "16",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 22.2
+        }
+      }
+    },
+    {
+      "stt": "Tài chính",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 22.05
+        }
+      }
+    },
+    {
+      "stt": "Ngân hàng",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 21.5
+        },
+        "2023": {
+          "thi_thpt": 21.65
+        }
+      }
+    }
+  ]
+}

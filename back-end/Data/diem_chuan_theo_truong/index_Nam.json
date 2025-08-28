@@ -1,0 +1,497 @@
+{
+  "mien": "Nam",
+  "url_mien": "https://tuyensinhso.vn/diem-chuan/diem-chuan-cac-truong-dai-hoc-hoc-vien-khu-vuc-mien-nam-c47986.html",
+  "thoigian": "2025-08-28 11:17:17",
+  "truong": [
+    {
+      "ten": "Trường Đại học Bách Khoa - ĐHQG TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-bach-khoa-dhqg-tphcm-c49173.html",
+      "file": "diem_chuan_theo_truong\\Trường Đại học Bách Khoa - ĐHQG TP.HCM.json"
+    },
+    {
+      "ten": "Trường Đại học Khoa học Tự nhiên - ĐHQG TP Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-dhqg-tp-ho-chi-minh-c49170.html",
+      "file": "diem_chuan_theo_truong\\Trường Đại học Khoa học Tự nhiên - ĐHQG TP Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Trường Đại học Khoa học Xã hội và Nhân văn - ĐHQG TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dhqg-tphcm-c49174.html",
+      "file": "diem_chuan_theo_truong\\Trường Đại học Khoa học Xã hội và Nhân văn - ĐHQG TP.HCM.json"
+    },
+    {
+      "ten": "Trường Đại học Công nghệ Thông tin - ĐH Quốc gia TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-thong-tin-dh-quoc-gia-tphcm-c49184.html",
+      "file": "diem_chuan_theo_truong\\Trường Đại học Công nghệ Thông tin - ĐH Quốc gia TP.HCM.json"
+    },
+    {
+      "ten": "Trường Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-luat-dh-quoc-gia-tphcm-c49187.html",
+      "file": "diem_chuan_theo_truong\\Trường Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM).json"
+    },
+    {
+      "ten": "Trường Đại học Quốc tế - ĐH Quốc gia TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-quoc-te-dh-quoc-gia-tphcm-c49190.html",
+      "file": "diem_chuan_theo_truong\\Trường Đại học Quốc tế - ĐH Quốc gia TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Phân hiệu Đại học Quốc gia TP Hồ Chí Minh tại tỉnh Bến Tre",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-dai-hoc-quoc-gia-tp-ho-chi-minh-tai-tinh-ben-tre-c49196.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Phân hiệu Đại học Quốc gia TP Hồ Chí Minh tại tỉnh Bến Tre.json"
+    },
+    {
+      "ten": "Điểm chuẩn Khoa Y - ĐHQG TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-y-dai-hoc-quoc-gia-tphcm-c49199.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Khoa Y - ĐHQG TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Y Dược TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-duoc-tphcm-c49201.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Y Dược TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Y khoa Phạm Ngọc Thạch",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-khoa-pham-ngoc-thach-c49258.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Y khoa Phạm Ngọc Thạch.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Ngoại thương",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngoai-thuong-co-so-tphcm-c49259.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Ngoại thương.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kinh tế TP. HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-tphcm-c49260.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kinh tế TP. HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Ngân hàng TP. HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngan-hang-tphcm-c49262.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Ngân hàng TP. HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tài chính - Marketing",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tai-chinh-marketing-c49265.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tài chính - Marketing.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Luật TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-luat-tphcm-c49266.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Luật TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học văn hóa thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-van-hoa-thanh-pho-ho-chi-minh-c49267.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học văn hóa thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Sư phạm TP. HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-su-pham-tphcm-c49273.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Sư phạm TP. HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-su-pham-ky-thuat-tphcm-c49276.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Sư phạm Thể dục Thể thao TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-the-duc-the-thao-thanh-pho-ho-chi-minh-c49277.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Sư phạm Thể dục Thể thao TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Giao thông vận tải Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-giao-thong-van-tai-thanh-pho-ho-chi-minh-c49279.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Giao thông vận tải Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Phân hiệu Đại học Giao thông vận tải tại TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-dai-hoc-giao-thong-van-tai-tai-tphcm-c49281.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Phân hiệu Đại học Giao thông vận tải tại TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Lao động Xã hội - Cơ sở 2 Tp.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-lao-dong-xa-hoi-co-so-2-tphcm-c49286.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Lao động Xã hội - Cơ sở 2 Tp.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kiến trúc Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kien-truc-thanh-pho-ho-chi-minh-c49289.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kiến trúc Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Mỹ thuật Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-my-thuat-thanh-pho-ho-chi-minh-c49290.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Mỹ thuật Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Đại học Sân khấu - Điện ảnh Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-san-khau-dien-anh-thanh-pho-ho-chi-minh-c49294.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Đại học Sân khấu - Điện ảnh Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Công nghiệp Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghiep-thanh-pho-ho-chi-minh-c49298.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Công nghiệp Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tài nguyên và Môi trường Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghiep-thuc-pham-thanh-pho-ho-chi-minh-c49299.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tài nguyên và Môi trường Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Mở Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-mo-thanh-pho-ho-chi-minh-c49304.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Mở Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Nội vụ Hà Nội (cơ sở Tp.HCM)",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-noi-vu-co-so-tphcm-c49305.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Nội vụ Hà Nội (cơ sở Tp.HCM).json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Nông Lâm Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nong-lam-thanh-pho-ho-chi-minh-c49307.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Nông Lâm Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Thể dục thể thao Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-the-duc-the-thao-tphcm-c49308.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Thể dục thể thao Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Thủy lợi - Cơ sở 2",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-thuy-loi-co-so-2-c49310.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Thủy lợi - Cơ sở 2.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Sài Gòn",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-sai-gon-c49315.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Sài Gòn.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tôn Đức Thắng",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ton-duc-thang-c49317.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tôn Đức Thắng.json"
+    },
+    {
+      "ten": "Điểm chuẩn Đại học Kinh tế - Tài chính TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-tai-chinh-tphcm-c49318.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Đại học Kinh tế - Tài chính TP.HCM.json"
+    },
+    {
+      "ten": "Điểm chuẩn Đại học Ngoại ngữ - Tin học TP.HCM",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngoai-ngu-tin-hoc-tphcm-c49321.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Đại học Ngoại ngữ - Tin học TP.HCM.json"
+    },
+    {
+      "ten": "Đại học Công nghệ Sài Gòn",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-sai-gon-c49323.html",
+      "file": "diem_chuan_theo_truong\\Đại học Công nghệ Sài Gòn.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Công nghệ Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-thanh-pho-ho-chi-minh-c49326.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Công nghệ Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Gia Định",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-gia-dinh-c49328.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Gia Định.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Mỹ thuật Công nghiệp Á Châu",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-my-thuat-cong-nghiep-a-chau-co-so-tphcm-c49331.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Mỹ thuật Công nghiệp Á Châu.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học FPT Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-fpt-ho-chi-minh-c49333.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học FPT Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Hoa Sen",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-hoa-sen-c49337.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Hoa Sen.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Hùng Vương Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-hung-vuong-thanh-pho-ho-chi-minh-c49338.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Hùng Vương Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Nguyễn Tất Thành",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nguyen-tat-thanh-c49339.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Nguyễn Tất Thành.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Văn Hiến",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-van-hien-c49342.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Văn Hiến.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Văn Lang",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-van-lang-c49345.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Văn Lang.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Quốc tế Hồng Bàng",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-quoc-te-hong-bang-c49348.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Quốc tế Hồng Bàng.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Quốc tế Sài Gòn",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-quoc-te-sai-gon-c49350.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Quốc tế Sài Gòn.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học RMIT Nam Sài Gòn",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-rmit-nam-sai-gon-c49352.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học RMIT Nam Sài Gòn.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Việt - Đức (Cơ sở TP. HCM)",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-viet-duc-co-so-tphcm-c49354.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Việt - Đức (Cơ sở TP. HCM).json"
+    },
+    {
+      "ten": "Điểm chuẩn Học viện Công nghệ Bưu chính Viễn thông",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-co-so-phia-nam-c49357.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Học viện Công nghệ Bưu chính Viễn thông.json"
+    },
+    {
+      "ten": "Điểm chuẩn Học viện Thanh thiếu niên Việt Nam",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-thanh-thieu-nien-viet-nam-co-so-phia-nam-c49361.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Học viện Thanh thiếu niên Việt Nam.json"
+    },
+    {
+      "ten": "Điểm chuẩn Học viện Cán bộ Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-can-bo-thanh-pho-ho-chi-minh-c49363.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Học viện Cán bộ Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Học viện Hàng không Việt Nam",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-hang-khong-viet-nam-c49365.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Học viện Hàng không Việt Nam.json"
+    },
+    {
+      "ten": "Điểm chuẩn Học viện Kỹ thuật Mật mã",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-ky-thuat-mat-ma-co-so-phia-nam-c49368.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Học viện Kỹ thuật Mật mã.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Cảnh sát nhân dân",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-canh-sat-nhan-dan-c49370.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Cảnh sát nhân dân.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học An ninh nhân dân",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-an-ninh-nhan-dan-c49374.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học An ninh nhân dân.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Sĩ quan Kỹ thuật quân sự",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-si-quan-ky-thuat-quan-su-dai-hoc-tran-dai-nghia-c49373.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Sĩ quan Kỹ thuật quân sự.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Đồng Nai",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dong-nai-c49376.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Đồng Nai.json"
+    },
+    {
+      "ten": "Điểm chuẩn Phân hiệu Trường Đại học Lâm nghiệp tại tỉnh Đồng Nai",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-truong-dai-hoc-lam-nghiep-tai-tinh-dong-nai-c49383.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Phân hiệu Trường Đại học Lâm nghiệp tại tỉnh Đồng Nai.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Công nghệ Đồng Nai",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-dong-nai-c49386.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Công nghệ Đồng Nai.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Công nghệ Miền Đông",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-mien-dong-c49387.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Công nghệ Miền Đông.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Dân lập Lạc Hồng",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dan-lap-lac-hong-c49390.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Dân lập Lạc Hồng.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Nguyễn Huệ",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nguyen-hue-si-quan-luc-quan-2-c49396.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Nguyễn Huệ.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Thủ Dầu Một",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-thu-dau-mot-c49400.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Thủ Dầu Một.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Bình Dương",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-binh-duong-c49403.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Bình Dương.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kinh tế Kỹ thuật Bình Dương",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-ky-thuat-binh-duong-c49406.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kinh tế Kỹ thuật Bình Dương.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Việt - Đức",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-viet-duc-co-so-binh-duong-c49407.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Việt - Đức.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Quốc tế Miền Đông",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-quoc-te-mien-dong-c49408.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Quốc tế Miền Đông.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Ngô Quyền",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngo-quyen-si-quan-cong-binh-c49413.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Ngô Quyền.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học An Giang",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-an-giang-c49415.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học An Giang.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tiền Giang",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tien-giang-c49416.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tiền Giang.json"
+    },
+    {
+      "ten": "Điểm chuẩn Phân hiệu Đại học Cần Thơ tại Hậu Giang",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-dai-hoc-can-tho-tai-hau-giang-c49417.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Phân hiệu Đại học Cần Thơ tại Hậu Giang.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Võ Trường Toản",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-vo-truong-toan-c49425.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Võ Trường Toản.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Trà Vinh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tra-vinh-c49426.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Trà Vinh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Bạc Liêu",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-bac-lieu-c49427.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Bạc Liêu.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Cần Thơ",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-can-tho-c49429.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Cần Thơ.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Y Dược Cần Thơ",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-duoc-can-tho-c49430.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Y Dược Cần Thơ.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kỹ thuật Công nghệ Cần Thơ",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ky-thuat-cong-nghe-can-tho-c49431.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kỹ thuật Công nghệ Cần Thơ.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kiến trúc Thành phố Hồ Chí Minh",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kien-truc-thanh-pho-ho-chi-minh-co-so-can-tho-c49440.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kiến trúc Thành phố Hồ Chí Minh.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Nam Cần Thơ",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nam-can-tho-c49442.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Nam Cần Thơ.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tây Đô",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tay-do-c49443.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tây Đô.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học FPT Cần thơ",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-fpt-can-tho-c49446.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học FPT Cần thơ.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật Vĩnh Long",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-su-pham-ky-thuat-vinh-long-c49448.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật Vĩnh Long.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Xây dựng Miền Tây",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-xay-dung-mien-tay-c49452.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Xây dựng Miền Tây.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Cửu Long",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cuu-long-c49457.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Cửu Long.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tân Tạo",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tan-tao-c49459.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tân Tạo.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kinh tế Công nghiệp Long An",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-cong-nghiep-long-an-c49462.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kinh tế Công nghiệp Long An.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Đồng Tháp 16:12 10/02/2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất....",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dong-thap-c49465.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Đồng Tháp 16_12 10_02_2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất.....json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Dầu khí Việt Nam 16:46 10/02/2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất....",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dau-khi-viet-nam-c49468.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Dầu khí Việt Nam 16_46 10_02_2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất.....json"
+    },
+    {
+      "ten": "Điểm chuẩn Đại học Mỏ Địa chất",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-mo-dia-chat-co-so-vung-tau-c49469.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Đại học Mỏ Địa chất.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Bà Rịa - Vũng Tàu 17:08 10/02/2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất....",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ba-ria-vung-tau-c49470.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Bà Rịa - Vũng Tàu 17_08 10_02_2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất.....json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Tôn Đức Thắng",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ton-duc-thang-co-so-ca-mau-c49475.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Tôn Đức Thắng.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Bình Dương tại Cà Mau 09:20 11/02/2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất....",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-binh-duong-tai-ca-mau-c49479.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Bình Dương tại Cà Mau 09_20 11_02_2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất.....json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Kiên Giang 09:52 11/02/2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất....",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kien-giang-c49481.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Kiên Giang 09_52 11_02_2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất.....json"
+    },
+    {
+      "ten": "Điểm chuẩn các trường Đại Học - Học Viện khu vực miền Bắc 10:39 13/12/2019 Cập nhật đầy đủ điểm chuẩn các trường đại học khu vực miền Bắc đến các thí...",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-cac-truong-dai-hoc-hoc-vien-khu-vuc-mien-bac-c47979.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn các trường Đại Học - Học Viện khu vực miền Bắc 10_39 13_12_2019 Cập nhật đầy đủ điểm chuẩn các trường đại học khu vực miền Bắc đến các thí....json"
+    },
+    {
+      "ten": "Điểm chuẩn Đại Học Học Viện miền Trung",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-cac-truong-dai-hoc-hoc-vien-khu-vuc-mien-trung-c48009.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Đại Học Học Viện miền Trung.json"
+    },
+    {
+      "ten": "Điểm chuẩn Trường Đại học Đại Nam 14:51 03/01/2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất....",
+      "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dai-nam-c48646.html",
+      "file": "diem_chuan_theo_truong\\Điểm chuẩn Trường Đại học Đại Nam 14_51 03_01_2020 Tuyensinhso cập nhật điểm xét tuyển, điểm trúng tuyển của các trường nhanh nhất, đầy đủ nhất.....json"
+    }
+  ]
+}

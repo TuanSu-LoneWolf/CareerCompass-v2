@@ -1,0 +1,105 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Luật TP.HCM",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-luat-tphcm-c49266.html",
+  "thoigian": "2025-08-28 11:13:22",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.25
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 23.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 24.16
+          }
+        },
+        "2024": {
+          "thi_thpt": 0.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Luật Thương mại quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A01": 26.5
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A01": 26.5
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A01": 26.86
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A01": 26.1
+          }
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị - Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 25.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 25.86
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 24.17
+          }
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 24.25
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 24.11
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 24.57
+          }
+        }
+      }
+    }
+  ]
+}

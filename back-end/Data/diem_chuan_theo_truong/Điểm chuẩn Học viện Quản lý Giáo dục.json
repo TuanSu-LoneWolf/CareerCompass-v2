@@ -1,0 +1,115 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Quản lý Giáo dục",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-quan-ly-giao-duc-c48742.html",
+  "thoigian": "2025-08-28 11:05:45",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục học",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý giáo dục",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Tâm lý học giáo dục",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 19.5
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị văn phòng",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    }
+  ]
+}

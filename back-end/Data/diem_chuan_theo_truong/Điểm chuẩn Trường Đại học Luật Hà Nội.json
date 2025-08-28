@@ -1,0 +1,103 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Luật Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-luat-ha-noi-c48531.html",
+  "thoigian": "2025-08-28 11:03:44",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Luật Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.25
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 26.35
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 25.5
+          }
+        },
+        "2024": {
+          "thi_thpt": 0.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Luật Thương mại quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A01": 26.2
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A01": 24.95
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A01": 24.8
+          }
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A01": 25.35
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A01": 24.35
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A01": 24.0
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A01": 24.65
+          }
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Luật (đào tạo tại phân hiệu Đắk Lắk)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 19.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 18.15
+          }
+        },
+        "2024": {
+          "thi_thpt": 22.85
+        }
+      }
+    }
+  ]
+}

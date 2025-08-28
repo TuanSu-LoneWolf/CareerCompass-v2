@@ -1,0 +1,1233 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật TP.HCM",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-su-pham-ky-thuat-tphcm-c49276.html",
+  "thoigian": "2025-08-28 11:13:30",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.25
+        },
+        "2022": {
+          "thi_thpt": 26.08
+        },
+        "2023": {
+          "thi_thpt": 27.2
+        },
+        "2024": {
+          "thi_thpt": 27.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm công nghệ",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.15
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Thiết kế đồ họa",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "V01": 24.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 24.3
+        },
+        "2024": {
+          "thi_thpt": 26.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Thiết kế thời trang",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "V01": 21.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 21.6
+        },
+        "2023": {
+          "thi_thpt": 23.1
+        },
+        "2024": {
+          "thi_thpt": 24.8
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.25
+        },
+        "2022": {
+          "thi_thpt": 22.75
+        },
+        "2023": {
+          "thi_thpt": 25.03
+        },
+        "2024": {
+          "thi_thpt": 24.75
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Tâm lý học giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.15
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "thi_thpt": 27.25
+        },
+        "2024": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.12
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 26.15
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 26.75
+        },
+        "2023": {
+          "thi_thpt": 26.64
+        },
+        "2024": {
+          "thi_thpt": 25.97
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật điện - điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.25
+        },
+        "2023": {
+          "thi_thpt": 25.38
+        },
+        "2024": {
+          "thi_thpt": 25.12
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "thi_thpt": 26.81
+        },
+        "2024": {
+          "thi_thpt": 24.05
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 23.65
+        },
+        "2024": {
+          "thi_thpt": 23.05
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Hệ thống kỹ thuật công trình xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 18.1
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 22.22
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ kỹ thuật cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 26.15
+        },
+        "2023": {
+          "thi_thpt": 25.1
+        },
+        "2024": {
+          "thi_thpt": 25.1
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.75
+        },
+        "2023": {
+          "thi_thpt": 26.9
+        },
+        "2024": {
+          "thi_thpt": 25.45
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 25.35
+        },
+        "2023": {
+          "thi_thpt": 26.65
+        },
+        "2024": {
+          "thi_thpt": 25.39
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ kỹ thuật nhiệt",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.15
+          }
+        },
+        "2022": {
+          "thi_thpt": 18.7
+        },
+        "2023": {
+          "thi_thpt": 23.33
+        },
+        "2024": {
+          "thi_thpt": 24.4
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.75
+        },
+        "2023": {
+          "thi_thpt": 26.1
+        },
+        "2024": {
+          "thi_thpt": 25.15
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Chương trình đào tạo Kỹ thuật Thiết kế Vi mạch - thuộc ngành CNKT ĐT - Viễn thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.95
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Năng lượng tái tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 22.4
+        },
+        "2024": {
+          "thi_thpt": 23.15
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Robot và trí tuệ nhân tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": 25.66
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Công nghệ chế tạo máy",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Công nghệ kỹ thuật hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "thi_thpt": 23.1
+        },
+        "2023": {
+          "thi_thpt": 25.8
+        },
+        "2024": {
+          "thi_thpt": 24.9
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Công nghệ vật liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 23.33
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Công nghệ kỹ thuật điểu khiển và tự động hoá",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 25.7
+        },
+        "2023": {
+          "thi_thpt": 26.3
+        },
+        "2024": {
+          "thi_thpt": 26.14
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Công nghệ kỹ thuật môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 20.1
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Quản lý Công nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.75
+        },
+        "2023": {
+          "thi_thpt": 25.7
+        },
+        "2024": {
+          "thi_thpt": 24.2
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Kỹ thuật Công nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "thi_thpt": 23.88
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 25.75
+        },
+        "2024": {
+          "thi_thpt": 25.21
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Công nghệ kỹ thuật in",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.1
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Kỹ thuật Y sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "thi_thpt": 24.15
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Công nghệ Thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "thi_thpt": 20.1
+        },
+        "2023": {
+          "thi_thpt": 24.3
+        },
+        "2024": {
+          "thi_thpt": 24.2
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Công nghệ may",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.25
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 21.41
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Kỹ nghệ gỗ và nội thất",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 20.5
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "nganh": "Kiến trúc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 3.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 23.33
+        },
+        "2024": {
+          "thi_thpt": 22.97
+        }
+      }
+    },
+    {
+      "stt": "39",
+      "nganh": "Kỹ thuật xây dựng công trình giao thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 20.55
+        },
+        "2024": {
+          "thi_thpt": 21.55
+        }
+      }
+    },
+    {
+      "stt": "40",
+      "nganh": "Quản lý xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 22.6
+        },
+        "2024": {
+          "thi_thpt": 22.17
+        }
+      }
+    },
+    {
+      "stt": "41",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 23.35
+        },
+        "2024": {
+          "thi_thpt": 23.27
+        }
+      }
+    },
+    {
+      "stt": "42",
+      "nganh": "Hệ thống nhúng và IoT",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 24.75
+        },
+        "2023": {
+          "thi_thpt": 25.8
+        },
+        "2024": {
+          "thi_thpt": 25.65
+        }
+      }
+    },
+    {
+      "stt": "43",
+      "nganh": "Kiến trúc nội thất",
+      "diem": {
+        "2021": {
+          "thi_thpt": 3.0
+        },
+        "2022": {
+          "thi_thpt": 21.5
+        },
+        "2023": {
+          "thi_thpt": 24.2
+        },
+        "2024": {
+          "thi_thpt": 22.77
+        }
+      }
+    },
+    {
+      "stt": "44",
+      "nganh": "Quản lý và vận hành hạ tầng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 19.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.7
+        },
+        "2023": {
+          "thi_thpt": 19.85
+        },
+        "2024": {
+          "thi_thpt": 21.22
+        }
+      }
+    },
+    {
+      "stt": "45",
+      "nganh": "An toàn thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 26.9
+        },
+        "2024": {
+          "thi_thpt": 24.89
+        }
+      }
+    },
+    {
+      "stt": "46",
+      "nganh": "Công nghệ kỹ thuật máy tính (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "thi_thpt": 24.98
+        },
+        "2024": {
+          "thi_thpt": 25.4
+        }
+      }
+    },
+    {
+      "stt": "47",
+      "nganh": "Công nghệ thông tin (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 26.35
+        },
+        "2023": {
+          "thi_thpt": 25.98
+        },
+        "2024": {
+          "thi_thpt": 25.65
+        }
+      }
+    },
+    {
+      "stt": "48",
+      "nganh": "Công nghệ thông tin (chương trình Việt - Nhật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.65
+        }
+      }
+    },
+    {
+      "stt": "49",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 19.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 19.75
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 23.05
+        }
+      }
+    },
+    {
+      "stt": "50",
+      "nganh": "Công nghệ kỹ thuật cơ khí (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 23.2
+        },
+        "2024": {
+          "thi_thpt": 24.25
+        }
+      }
+    },
+    {
+      "stt": "51",
+      "nganh": "Công nghệ chế tạo máy (Việt - Nhật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 19.05
+        },
+        "2023": {
+          "thi_thpt": 21.7
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        }
+      }
+    },
+    {
+      "stt": "52",
+      "nganh": "Công nghệ chế tạo máy (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 21.3
+        },
+        "2023": {
+          "thi_thpt": 23.2
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "53",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 22.1
+        },
+        "2023": {
+          "thi_thpt": 24.69
+        },
+        "2024": {
+          "thi_thpt": 25.1
+        }
+      }
+    },
+    {
+      "stt": "54",
+      "nganh": "Công nghệ kỹ thuật ô tô (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 23.25
+        },
+        "2023": {
+          "thi_thpt": 24.38
+        },
+        "2024": {
+          "thi_thpt": 24.75
+        }
+      }
+    },
+    {
+      "stt": "55",
+      "nganh": "Công nghệ kỹ thuật ô tô (Chương trình Việt - Nhật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "56",
+      "nganh": "Công nghệ kỹ thuật nhiệt (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 20.25
+          }
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "57",
+      "nganh": "Công nghệ kỹ thuật nhiệt (Chương trình Việt - Nhật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.4
+        }
+      }
+    },
+    {
+      "stt": "58",
+      "nganh": "Công nghệ kỹ thuật điện - điện tử (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 21.65
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        }
+      }
+    },
+    {
+      "stt": "59",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông (Việt - Nhật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 21.75
+          }
+        },
+        "2022": {
+          "thi_thpt": 20.75
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "60",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 22.25
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "thi_thpt": 24.35
+        }
+      }
+    },
+    {
+      "stt": "61",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hoá (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 24.8
+        },
+        "2023": {
+          "thi_thpt": 25.15
+        },
+        "2024": {
+          "thi_thpt": 25.35
+        }
+      }
+    },
+    {
+      "stt": "62",
+      "nganh": "Quản lý Công nghiệp (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 24.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 19.25
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "thi_thpt": 23.05
+        }
+      }
+    },
+    {
+      "stt": "63",
+      "nganh": "Công nghệ Thực phẩm (Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 21.1
+        },
+        "2024": {
+          "thi_thpt": 22.5
+        }
+      }
+    }
+  ]
+}

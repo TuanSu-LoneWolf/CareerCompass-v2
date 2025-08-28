@@ -1,0 +1,43 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thể dục Thể thao Đà Nẵng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-the-duc-the-thao-da-nang-c49039.html",
+  "thoigian": "2025-08-28 11:10:15",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Huấn luyện thể thao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": -19.0
+        },
+        "2023": {
+          "thi_thpt": 301.303
+        },
+        "2024": {
+          "khac": 303.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý thể dục thể thao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 100.0
+        },
+        "2024": {
+          "khac": 100.303
+        }
+      }
+    }
+  ]
+}

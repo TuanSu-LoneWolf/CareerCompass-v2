@@ -1,0 +1,58 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thông tin liên lạc",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-thong-tin-lien-lac-si-quan-thong-tin-c49142.html",
+  "thoigian": "2025-08-28 11:11:41",
+  "nganh": [
+    {
+      "stt": "Miền Bắc",
+      "nganh": "Miền Nam",
+      "diem": {
+        "2022": {
+          "thi_thpt": "Miền Bắc"
+        },
+        "2023": {
+          "thi_thpt": "Miền Nam"
+        },
+        "2024": {
+          "thi_thpt": "Miền Bắc"
+        },
+        "col5": {
+          "thi_thpt": "Miền Nam"
+        },
+        "col6": {
+          "thi_thpt": "Miền Bắc"
+        },
+        "col7": {
+          "thi_thpt": "Miền Nam"
+        }
+      }
+    },
+    {
+      "stt": "Chỉ huy - Tham mưu Thông tin (Hệ quân sự)",
+      "nganh": "Xét theo KQ thi THPT: 24,70",
+      "diem": {
+        "2022": {
+          "thi_thpt": 23.3
+        },
+        "2023": {
+          "thi_thpt": 20.95
+        },
+        "2024": {
+          "thi_thpt": 23.2
+        },
+        "col5": {
+          "thi_thpt": 21.2
+        },
+        "col6": {
+          "thi_thpt": 22.94
+        },
+        "col7": {
+          "thi_thpt": 22.8
+        },
+        "col8": {
+          "thi_thpt": 23.42
+        }
+      }
+    }
+  ]
+}

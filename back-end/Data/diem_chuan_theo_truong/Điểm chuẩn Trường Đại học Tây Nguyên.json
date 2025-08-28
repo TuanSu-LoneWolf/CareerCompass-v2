@@ -1,0 +1,895 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tây Nguyên",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-tay-nguyen-c49146.html",
+  "thoigian": "2025-08-28 11:11:48",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.35
+        },
+        "2022": {
+          "hoc_ba": "Xét tuyển sau khi có kết quả thi năng khiếu"
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Tiểu học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.85
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 24.51
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 27.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Tiểu học - Tiếng Jarai",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "thi_thpt": 25.3
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 25.55
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Giáo dục Chính trị",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 25.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Giáo dục Thể chất",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "hoc_ba": "Xét tuyển sau khi có kết quả thi năng khiếu"
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 27.7
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 750.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Toán học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.8
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 23.55
+        },
+        "2024": {
+          "thi_thpt": 27.6
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 25.9
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Vật lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 20.75
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 26.55
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.25
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 22.75
+        },
+        "2024": {
+          "thi_thpt": 23.25
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 24.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Sư phạm Sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 27.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 24.75
+        },
+        "2024": {
+          "thi_thpt": 26.1
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 27.55
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 750.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.0
+        },
+        "2022": {
+          "hoc_ba": 25.0
+        },
+        "2023": {
+          "thi_thpt": 22.35
+        },
+        "2024": {
+          "thi_thpt": 26.85
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 22.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "hoc_ba": 21.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 21.5
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 22.65
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kinh doanh thương mại",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 21.35
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.5
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.5
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 22.6
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 23.8
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 22.2
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Khoa học cây trồng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Bảo vệ thực vật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Lâm sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Chăn nuôi",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Thú Y",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Kinh tế nông nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 24.8
+        },
+        "2024": {
+          "thi_thpt": "-"
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": "-"
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 850.0
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "hoc_ba": 25.5
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 24.6
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "hoc_ba": 25.5
+        },
+        "2023": {
+          "thi_thpt": 22.1
+        },
+        "2024": {
+          "thi_thpt": 25.8
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 24.25
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.25
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 22.45
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Văn học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Triết học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 20.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Kinh tế phát triển",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Quản lý đất đai",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 600.0
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Sư phạm Khoa học tự nhiên",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 700.0
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Tâm lý học giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Công nghệ tài chính",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Công nghệ sinh học Y dược",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

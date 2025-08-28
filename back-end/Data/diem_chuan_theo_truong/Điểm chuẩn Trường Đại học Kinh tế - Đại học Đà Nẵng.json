@@ -1,0 +1,349 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Kinh tế - Đại học Đà Nẵng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-dai-hoc-da-nang-c49004.html",
+  "thoigian": "2025-08-28 11:09:56",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.0
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "khac": 24.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Thống kê kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.75
+        },
+        "2022": {
+          "thi_thpt": 23.5
+        },
+        "2023": {
+          "thi_thpt": 23.25
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 24.75
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.75
+        },
+        "2022": {
+          "thi_thpt": 27.25
+        },
+        "2023": {
+          "thi_thpt": 26.5
+        },
+        "2024": {
+          "khac": 25.75
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.75
+        },
+        "2022": {
+          "thi_thpt": 27.5
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "khac": 26.5
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh doanh thương mại",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.25
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 26.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.5
+        },
+        "2022": {
+          "thi_thpt": 26.25
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "khac": 26.5
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.25
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 24.75
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "khac": 23.85
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kiểm toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 24.75
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "khac": 24.25
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị nhân lực",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 24.75
+        },
+        "2024": {
+          "khac": 24.75
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.75
+        },
+        "2022": {
+          "thi_thpt": 23.5
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "khac": 23.75
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.25
+        },
+        "2022": {
+          "thi_thpt": 24.75
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "khac": 24.5
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.75
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản lý nhà nước",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.25
+        },
+        "2022": {
+          "thi_thpt": 23.5
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.75
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 25.25
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "khac": 24.6
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ tài chính",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "khac": 24.25
+        }
+      }
+    }
+  ]
+}

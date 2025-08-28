@@ -1,0 +1,218 @@
+{
+  "ten_truong": "Điểm chuẩn Phân hiệu Đại học Quốc gia TP Hồ Chí Minh tại tỉnh Bến Tre",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-dai-hoc-quoc-gia-tp-ho-chi-minh-tai-tinh-ben-tre-c49196.html",
+  "thoigian": "2025-08-28 11:12:59",
+  "nganh": [
+    {
+      "stt": "Kỹ thuật điện",
+      "nganh": "19.50",
+      "diem": {
+        "2019": {
+          "thi_thpt": 700.0
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "Bảo dưỡng công nghiệp",
+      "nganh": "",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thực phẩm",
+      "nganh": "20.00",
+      "diem": {
+        "2019": {
+          "thi_thpt": 737.0
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": 21.75
+        }
+      }
+    },
+    {
+      "stt": "Quản lý tài nguyên & môi trường",
+      "nganh": "17.00",
+      "diem": {
+        "2019": {
+          "thi_thpt": 700.0
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật xây dựng (chuyên ngành Kỹ thuật hạ tầng và môi trường)",
+      "nganh": "17.00",
+      "diem": {
+        "2019": {
+          "thi_thpt": 700.0
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": 19.25
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành Cầu đường)",
+      "nganh": "",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật Cơ điện tử",
+      "nganh": "19.25",
+      "diem": {
+        "2019": {
+          "thi_thpt": 700.0
+        },
+        "Kết quả thi đánh giá năng lực": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Khoa học môi trường",
+      "nganh": "15.05",
+      "diem": {
+        "2019": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "Sinh học",
+      "nganh": "15.45",
+      "diem": {
+        "2019": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "Báo chí",
+      "nganh": "22.60 (C00)",
+      "diem": {
+        "2019": {
+          "khac": 22.7
+        }
+      }
+    },
+    {
+      "stt": "20.60 (D01)",
+      "nganh": "22,1 (D01, D14)",
+      "diem": {}
+    },
+    {
+      "stt": "20.60",
+      "nganh": "",
+      "diem": {}
+    },
+    {
+      "stt": "Du lịch",
+      "nganh": "22.90 (C00)",
+      "diem": {
+        "2019": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "20.90 (D01)",
+      "nganh": "",
+      "diem": {
+        "2019": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "20.90 (D14)",
+      "nganh": "",
+      "diem": {
+        "2019": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "21.20",
+      "diem": {
+        "2019": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Nhật Bản học",
+      "nganh": "20.26",
+      "diem": {
+        "2019": {
+          "khac": 21.61
+        }
+      }
+    },
+    {
+      "stt": "Đô thị học",
+      "nganh": "16.00",
+      "diem": {
+        "2019": {
+          "khac": 18.2
+        }
+      }
+    },
+    {
+      "stt": "Quản trị dịch vụ du lịch và lữ hành",
+      "nganh": "",
+      "diem": {
+        "2019": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "Tài chính - Ngân hàng",
+      "nganh": "18.50",
+      "diem": {
+        "2019": {
+          "khac": 21.65
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế & Quản lý công",
+      "nganh": "18.50",
+      "diem": {
+        "2019": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin",
+      "nganh": "20.50",
+      "diem": {
+        "2019": {
+          "khac": 22.9
+        }
+      }
+    }
+  ]
+}

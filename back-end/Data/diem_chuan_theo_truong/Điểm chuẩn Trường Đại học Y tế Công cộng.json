@@ -1,0 +1,175 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Y tế Công cộng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-te-cong-cong-ha-noi-c48509.html",
+  "thoigian": "2025-08-28 11:03:29",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y tế công cộng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 21.15
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "khac": 24.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.15
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "khac": 25.5
+        },
+        "2023": {
+          "thi_thpt": 20.5
+        },
+        "2024": {
+          "khac": 26.7
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 27.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Dinh dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "khac": 20.66
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "khac": 23.7
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.5
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.15
+        },
+        "2024": {
+          "khac": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật phục hồi chức năng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.75
+        },
+        "2022": {
+          "khac": 24.0
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "khac": 25.25
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 21.8
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 26.2
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "khac": 18.26
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 19.1
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "khac": 24.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.45
+        },
+        "Xét theo học bạ THPT": {
+          "khac": 24.5
+        }
+      }
+    }
+  ]
+}

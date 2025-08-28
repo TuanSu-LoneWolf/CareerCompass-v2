@@ -1,0 +1,217 @@
+{
+  "ten_truong": "Phân hiệu Đại học Thái Nguyên tại Lào Cai",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-dai-hoc-thai-nguyen-tai-lao-cai-c57084.html",
+  "thoigian": "2025-08-28 11:08:46",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "hoc_ba": 19.0
+        },
+        "2024": {
+          "thi_thpt": 21.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 21.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Tiểu học (Chương trình đại trà)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 20.0
+        },
+        "2022": {
+          "thi_thpt": 22.2
+        },
+        "2023": {
+          "hoc_ba": 22.2
+        },
+        "2024": {
+          "thi_thpt": 25.75
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 25.75
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Tiểu học (Chương trình tiếng Anh)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 22.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "hoc_ba": 14.5
+        },
+        "2022": {
+          "thi_thpt": 19.5
+        },
+        "2023": {
+          "hoc_ba": 19.5
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 24.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "hoc_ba": 14.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 14.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Chăn nuôi",
+      "diem": {
+        "2021": {
+          "hoc_ba": 14.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 14.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Khoa học cây trồng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 14.0
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 14.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản lý Tài nguyên và Môi trường",
+      "diem": {
+        "2021": {
+          "hoc_ba": 14.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 14.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị dịch vụ Du lịch và Lữ hành",
+      "diem": {
+        "2021": {
+          "hoc_ba": 14.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 14.5
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Giáo dục Mầm non (Hệ cao đẳng)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 21.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "hoc_ba": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 17.0
+        }
+      }
+    }
+  ]
+}

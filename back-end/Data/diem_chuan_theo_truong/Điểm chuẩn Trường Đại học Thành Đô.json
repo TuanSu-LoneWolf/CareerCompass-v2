@@ -1,0 +1,289 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thành Đô",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-thanh-do-c48659.html",
+  "thoigian": "2025-08-28 11:05:05",
+  "nganh": [
+    {
+      "stt": "Kết quả thi tốt nghiệp THPT",
+      "nganh": "Kết quả học tập THPT",
+      "diem": {
+        "2021": {
+          "thi_thpt": "Kết quả thi tốt nghiệp THPT"
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Công nghệ kỹ thuật Ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ kỹ thuật Điện, Điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 16.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị Kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị Khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị Văn phòng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Việt Nam học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        },
+        "col6": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Giáo dục học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "col6": {
+          "thi_thpt": 16.5
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col6": {
+          "thi_thpt": 17.0
+        }
+      }
+    }
+  ]
+}

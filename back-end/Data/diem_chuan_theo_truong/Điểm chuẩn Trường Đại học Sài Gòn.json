@@ -1,0 +1,945 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Sài Gòn",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-sai-gon-c49315.html",
+  "thoigian": "2025-08-28 11:14:12",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản lý giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 22.55
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 21.15
+          }
+        },
+        "2023": {
+          "thi_thpt": 22.39
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 23.89
+          }
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh (CN Thương mại và Du lịch)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.06
+        },
+        "2022": {
+          "thi_thpt": 24.24
+        },
+        "2023": {
+          "thi_thpt": 24.58
+        },
+        "2024": {
+          "thi_thpt": 25.29
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh (Chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.07
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Tâm lý học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.05
+        },
+        "2022": {
+          "thi_thpt": 22.7
+        },
+        "2023": {
+          "thi_thpt": 23.8
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quốc tế học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.48
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 22.77
+        },
+        "2024": {
+          "thi_thpt": 23.64
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Việt Nam học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "thi_thpt": 22.25
+        },
+        "2023": {
+          "thi_thpt": 22.2
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Thông tin - thư viện",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.8
+        },
+        "2022": {
+          "thi_thpt": 19.95
+        },
+        "2023": {
+          "thi_thpt": 21.36
+        },
+        "2024": {
+          "thi_thpt": 23.51
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 24.26
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 22.16
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "D01": 22.85
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 22.97
+          }
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 22.65
+          }
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 25.16
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 24.48
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "D01": 23.98
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 24.24
+          }
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 23.9
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 22.44
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "D01": 22.46
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 23.26
+          }
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 23.5
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 22.65
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "D01": 22.29
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 23.18
+          }
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kế toán (Chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 22.8
+          }
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Kiểm toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 23.47
+          }
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị văn phòng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 24.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 21.63
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "D01": 23.26
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 24.48
+          }
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "D01": 23.85
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 22.8
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "D01": 22.87
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "D01": 23.76
+          }
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Khoa học môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 26.05
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 15.45
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 17.91
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 21.17
+          }
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Toán ứng dụng",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.53
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 24.15
+          }
+        },
+        "2023": {
+          "thi_thpt": 23.3
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 24.94
+          }
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Kỹ thuật phần mềm",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 25.31
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 24.94
+          }
+        },
+        "2023": {
+          "thi_thpt": 24.21
+        },
+        "2024": {
+          "thi_thpt": 24.34
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.48
+        },
+        "2022": {
+          "thi_thpt": 24.28
+        },
+        "2023": {
+          "thi_thpt": 23.68
+        },
+        "2024": {
+          "thi_thpt": 23.82
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Công nghệ thông tin (chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.46
+        },
+        "2022": {
+          "thi_thpt": 23.38
+        },
+        "2023": {
+          "thi_thpt": 21.8
+        },
+        "2024": {
+          "thi_thpt": 22.45
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.5
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 23.25
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 23.15
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 24.0
+          }
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 23.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 22.55
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 22.8
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 23.75
+          }
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Công nghệ kỹ thuật môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 16.05
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 15.5
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 18.26
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 21.37
+          }
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 22.05
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 20.0
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 21.61
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 23.33
+          }
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Kỹ thuật điện tử - viễn thông (Thiết kế vi mạch)",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 21.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 22.3
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 21.66
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 24.08
+          }
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.35
+        },
+        "2022": {
+          "thi_thpt": 24.45
+        },
+        "2023": {
+          "thi_thpt": 23.01
+        },
+        "2024": {
+          "thi_thpt": 25.81
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 21.74
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 23.99
+          }
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 22.8
+        },
+        "2024": {
+          "thi_thpt": 23.51
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 22.27
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.6
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 20.8
+        },
+        "2024": {
+          "thi_thpt": 23.51
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Tiểu học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.65
+        },
+        "2022": {
+          "thi_thpt": 23.1
+        },
+        "2023": {
+          "thi_thpt": 24.11
+        },
+        "2024": {
+          "thi_thpt": 25.39
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Chính trị",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.25
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": 25.33
+        },
+        "2024": {
+          "thi_thpt": 26.86
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Toán học",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A00": 27.01
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 27.33
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 26.31
+          }
+        },
+        "2024": {
+          "thi_thpt": {
+            "A00": 27.75
+          }
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Vật lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.86
+        },
+        "2022": {
+          "thi_thpt": 25.9
+        },
+        "2023": {
+          "thi_thpt": 24.61
+        },
+        "2024": {
+          "thi_thpt": 26.43
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Hoá học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.78
+        },
+        "2022": {
+          "thi_thpt": 26.28
+        },
+        "2023": {
+          "thi_thpt": 25.28
+        },
+        "2024": {
+          "thi_thpt": 26.98
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.28
+        },
+        "2022": {
+          "thi_thpt": 23.55
+        },
+        "2023": {
+          "thi_thpt": 23.82
+        },
+        "2024": {
+          "thi_thpt": 25.61
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 26.81
+        },
+        "2023": {
+          "thi_thpt": 25.81
+        },
+        "2024": {
+          "thi_thpt": 28.11
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Sư phạm Lịch sử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 25.66
+        },
+        "2024": {
+          "thi_thpt": 28.25
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Sư phạm Địa lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.53
+        },
+        "2022": {
+          "thi_thpt": 25.63
+        },
+        "2023": {
+          "thi_thpt": 23.45
+        },
+        "2024": {
+          "thi_thpt": 27.91
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Âm nhạc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.25
+        },
+        "2022": {
+          "thi_thpt": 23.5
+        },
+        "2023": {
+          "thi_thpt": 23.01
+        },
+        "2024": {
+          "thi_thpt": 23.93
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Sư phạm Mỹ thuật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.75
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 21.26
+        },
+        "2024": {
+          "thi_thpt": 21.59
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.69
+        },
+        "2022": {
+          "thi_thpt": 26.18
+        },
+        "2023": {
+          "thi_thpt": 26.15
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Sư phạm Khoa học tự nhiên (đào tạo giáo viên THCS)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.1
+        },
+        "2022": {
+          "thi_thpt": 23.95
+        },
+        "2023": {
+          "thi_thpt": 24.25
+        },
+        "2024": {
+          "thi_thpt": 25.52
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Sư phạm Lịch sử - Địa lý (đào tạo giáo viên THCS)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "thi_thpt": 24.75
+        },
+        "2023": {
+          "thi_thpt": 24.21
+        },
+        "2024": {
+          "thi_thpt": 27.35
+        }
+      }
+    }
+  ]
+}

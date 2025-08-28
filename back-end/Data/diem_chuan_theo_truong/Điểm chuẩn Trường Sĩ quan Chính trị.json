@@ -1,0 +1,28 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Sĩ quan Chính trị",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-si-quan-chinh-tri-c48805.html",
+  "thoigian": "2025-08-28 11:06:45",
+  "nganh": [
+    {
+      "stt": "Thí sinh miền Nam",
+      "nganh": "- A00: 23,00 - C00: Xét tuyển KQ thi THPT: 27,00 - D01: 23,10 - Xét thí sinh được đặc cách tốt nghiệp THPT: + A00: 24,13 + C00: 26,77",
+      "diem": {
+        "2022": {
+          "thi_thpt": {
+            "- A00": 25.25
+          }
+        },
+        "2023": {
+          "thi_thpt": {
+            "A00": 19.8
+          }
+        },
+        "2024": {
+          "khac": {
+            "A00": 24.92
+          }
+        }
+      }
+    }
+  ]
+}

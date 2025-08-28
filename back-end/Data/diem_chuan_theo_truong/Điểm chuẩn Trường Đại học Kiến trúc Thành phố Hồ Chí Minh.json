@@ -1,0 +1,61 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Kiến trúc Thành phố Hồ Chí Minh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kien-truc-thanh-pho-ho-chi-minh-co-so-can-tho-c49440.html",
+  "thoigian": "2025-08-28 11:16:29",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.15
+        },
+        "2022": {
+          "thi_thpt": 21.83
+        },
+        "2023": {
+          "thi_thpt": 15.5
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kiến trúc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.16
+        },
+        "2022": {
+          "thi_thpt": 22.64
+        },
+        "2023": {
+          "thi_thpt": 18.27
+        },
+        "2024": {
+          "khac": 22.19
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Thiết kế nội thất",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.75
+        },
+        "2022": {
+          "thi_thpt": 21.48
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "khac": 18.73
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Sĩ quan Pháo binh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-si-quan-phao-binh-c48784.html",
+  "thoigian": "2025-08-28 11:06:35",
+  "nganh": [
+    {
+      "stt": "- Thí sinh có hộ khẩu thường trú phía Bắc",
+      "nganh": "- Xét theo KQ thi THPT: 24,60",
+      "diem": {
+        "2022": {
+          "thi_thpt": 22.6
+        },
+        "2023": {
+          "thi_thpt": 22.75
+        },
+        "2024": {
+          "thi_thpt": 21.7
+        }
+      }
+    },
+    {
+      "stt": "- Thí sinh có hộ khẩu thường trú phía Nam",
+      "nganh": "- Xét theo KQ thi THPT: 24,00 - Xét theo học bạ THPT: 25,10",
+      "diem": {
+        "2022": {
+          "thi_thpt": 21.9
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "thi_thpt": 22.25
+        }
+      }
+    }
+  ]
+}

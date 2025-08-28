@@ -1,0 +1,490 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Hải Dương",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-hai-duong-c48907.html",
+  "thoigian": "2025-08-28 11:08:04",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": 16.0
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 16.1
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "hoc_ba": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 15.6
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "hoc_ba": 15.0
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 16.1
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 15.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 15.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "hoc_ba": 15.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 15.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị văn phòng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 15.5
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 15.6
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "hoc_ba": 15.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 16.1
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "2021": {
+          "hoc_ba": 15.5
+        },
+        "2022": {
+          "thi_thpt": 14.5
+        },
+        "2023": {
+          "hoc_ba": 15.6
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 15.5
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Toán học",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Sư phạm Khoa học tự nhiên",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Giáo dục Mầm non (Trình độ Đại học)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Giáo dục Tiểu học",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Sư phạm Lịch sử",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Giáo dục Thể chất",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Giáo dục Mầm non (Trình độ Cao đẳng)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 17.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Sư phạm Địa lý",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Sư phạm Tin học",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Sư phạm Giáo dục Chính trị",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Hỗ trợ giáo dục người khuyết tật",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    }
+  ]
+}

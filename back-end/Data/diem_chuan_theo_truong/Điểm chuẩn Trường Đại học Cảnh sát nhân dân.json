@@ -1,0 +1,40 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Cảnh sát nhân dân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-canh-sat-nhan-dan-c49370.html",
+  "thoigian": "2025-08-28 11:15:25",
+  "nganh": [
+    {
+      "stt": "Nam",
+      "nganh": "Nữ",
+      "diem": {
+        "2022": {
+          "thi_thpt": "Nam"
+        },
+        "2023": {
+          "thi_thpt": "Nữ"
+        }
+      }
+    },
+    {
+      "stt": "Nghiệp vụ Cảnh sát",
+      "nganh": "- Địa bàn 4: A00: 24,51 A01: 25,39 C03: 24,93 D01: 24,03 - Địa bàn 5: A00: 25,63 A01: 26,83 C03: 26,06 D01: 27,43 - Địa bàn 6: A00: 24,58 A01: 25,5 C03: 24,24 D01: 25,36 - Địa bàn 7: A00: 25,51 A01: 26,48 C03: 26,21 D01:25,94 - Địa bàn 8: A00: 23,61 A01: 24,5 C03: 23,8 D01:24,76",
+      "diem": {
+        "2022": {
+          "thi_thpt": 4.0
+        },
+        "2023": {
+          "thi_thpt": 4.0
+        },
+        "2024": {
+          "thi_thpt": 4.0
+        },
+        "col5": {
+          "thi_thpt": 4.0
+        },
+        "col6": {
+          "thi_thpt": 4.0
+        }
+      }
+    }
+  ]
+}

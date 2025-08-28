@@ -1,0 +1,475 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Sư phạm - Đại học Huế",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-su-pham-dai-hoc-hue-c48968.html",
+  "thoigian": "2025-08-28 11:09:27",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Toán học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "thi_thpt": 26.2
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Vật lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "thi_thpt": 25.7
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Tin học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.75
+        },
+        "2024": {
+          "thi_thpt": 23.3
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 24.6
+        },
+        "2024": {
+          "thi_thpt": 25.8
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 22.5
+        },
+        "2024": {
+          "thi_thpt": 24.6
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Giáo dục Chính trị",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 25.5
+        },
+        "2024": {
+          "thi_thpt": 27.05
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 27.35
+        },
+        "2024": {
+          "thi_thpt": 28.1
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Lịch sử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 27.6
+        },
+        "2024": {
+          "thi_thpt": 28.3
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Sư phạm Địa lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 24.25
+        },
+        "2023": {
+          "thi_thpt": 26.3
+        },
+        "2024": {
+          "thi_thpt": 28.05
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Tâm lý học giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 23.8
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Giáo dục Tiểu học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "thi_thpt": 25.3
+        },
+        "2024": {
+          "thi_thpt": 27.75
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Giáo dục công dân",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 25.6
+        },
+        "2024": {
+          "thi_thpt": 27.3
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "thi_thpt": 24.2
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Giáo dục Quốc phòng – An ninh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 24.6
+        },
+        "2024": {
+          "thi_thpt": 26.95
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Sư phạm Âm nhạc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 19.5
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Sư phạm Công nghệ",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Sư phạm Khoa học tự nhiên",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "thi_thpt": 24.6
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Giáo dục pháp luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Sư phạm Lịch sử - Địa lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": 27.37
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Hệ thống thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Giáo dục Tiểu học (đào tạo bằng Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "thi_thpt": 25.3
+        },
+        "2024": {
+          "thi_thpt": 26.5
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Sư phạm Toán học (đào tạo bằng Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "thi_thpt": 26.2
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Sư phạm Tin học (đào tạo bằng Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 23.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 22.3
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Sư phạm Vật lý (đào tạo bằng Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 28.2
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Sư phạm Hóa học (đào tạo bằng Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 28.0
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Sư phạm Sinh học (đào tạo bằng Tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 28.0
+        }
+      }
+    }
+  ]
+}

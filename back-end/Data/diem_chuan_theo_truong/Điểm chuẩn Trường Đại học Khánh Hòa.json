@@ -1,0 +1,367 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Khánh Hòa",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-khanh-hoa-c49125.html",
+  "thoigian": "2025-08-28 11:11:27",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Hóa học (Hóa dược - Sản phẩm thiên nhiên)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 16.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 16.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sinh học ứng dụng (Nông nghiệp công nghệ cao)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 16.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị kinh doanh (Nhà hàng & Dịch vụ ăn uống)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh (Bán lẻ)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 15.5
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị kinh doanh (Marketing)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": 20.0
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Việt Nam học (Văn hóa du lịch)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": 19.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Anh (Tiếng Anh du lịch)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 19.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 19.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Văn học (Văn học - Báo chí, truyền thông)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 20.75
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Văn hóa học (Văn hóa - Truyền thông)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 18.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngôn ngữ học (Tiếng Trung Quốc)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Du lịch - Du lịch - Du lịch (Hướng dẫn du lịch)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        },
+        "Xét theo điểm thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

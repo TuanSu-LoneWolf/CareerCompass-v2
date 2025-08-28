@@ -1,0 +1,1033 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Đông Á",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dong-a-c48667.html",
+  "thoigian": "2025-08-28 11:10:26",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Dược",
+      "diem": {
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "thi_thpt": 8.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.5
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "thi_thpt": 6.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Dinh dưỡng",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Tâm lý học",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Marketing",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Tài chính - ngân hàng",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị nhân lực",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị văn phòng",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Truyền thông đa phương tiện",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Luật",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Quản trị dv du lịch và lữ hành",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Quản trị nhà hàng và dv ăn uống",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Kỹ thuật máy tính",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Công nghệ kỹ thuật Ô tô",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Công nghệ Kỹ thuật điện - Điện tử",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "CNKT Điều khiển và Tự động hóa",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Công nghệ kỹ thuật Xây dựng",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Nông nghiệp",
+      "diem": {
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Quản lý văn hóa",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Kinh doanh thời trang và dệt may",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Hộ sinh",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Quan hệ quốc tế",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Thiết kế thời trang",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "nganh": "Y khoa",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "39",
+      "nganh": "Kỹ thuật Phục hồi chức năng",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "40",
+      "nganh": "(CN) Thiết kế đồ họa",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "41",
+      "nganh": "(CN) Thiết kế vi mạch bán dẫn",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "42",
+      "nganh": "(CN) Digital marketing",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Giáo dục Mầm non",
+      "nganh": "19.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 24.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Giáo dục Tiểu học",
+      "nganh": "19.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 24.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Dược học",
+      "nganh": "21.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 24.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "Điều dưỡng",
+      "nganh": "19.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 19.5
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 19.5
+        }
+      }
+    },
+    {
+      "stt": "Dinh dưỡng",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Trung Quốc",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Nhật",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Hàn Quốc",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Tâm lý học",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Truyền thông đa phương tiện",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Marketing",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh doanh quốc tế",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Thương mại điện tử",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Tài chính - Ngân hàng",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị nhân lực",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị văn phòng",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Luật",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Luật kinh tế",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Khoa học dữ liệu và trí tuệ nhân tạo",
+      "nganh": "18.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thông tin",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "CNKT xây dựng",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "CNKT ô tô",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "CNKT điện, điện tử",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "CNKT điều khiển và tự động hoá",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Logistics và quản lý chuỗi cung ứng",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ thực phẩm",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Nông nghiệp công nghệ cao",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị dịch vụ du lịch và lữ hành",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị khách sạn",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị nhà hàng và Dịch vụ ăn uống",
+      "nganh": "15.0",
+      "diem": {
+        "Xét theo học bạ Xét KQ môn học lớp 12": {
+          "thi_thpt": 18.0
+        },
+        "Xét KQ học tập năm lớp 12": {
+          "thi_thpt": 18.0
+        }
+      }
+    }
+  ]
+}

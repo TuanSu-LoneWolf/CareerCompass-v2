@@ -1,0 +1,253 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Y Dược Cần Thơ",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-duoc-can-tho-c49430.html",
+  "thoigian": "2025-08-28 11:16:24",
+  "nganh": [
+    {
+      "stt": "Chương trình đại trà",
+      "nganh": "Chương trình đào tạo theo nhu cầu xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": "Xét điểm thi tốt nghiệp THPT"
+        },
+        "2022": {
+          "thi_thpt": "Xét điểm thi tốt nghiệp THPT"
+        },
+        "2023": {
+          "thi_thpt": "Xét điểm thi tốt nghiệp THPT"
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.0
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 25.6
+        },
+        "2024": {
+          "thi_thpt": 25.52
+        },
+        "col6": {
+          "thi_thpt": 25.7
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y học dự phòng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.95
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 21.05
+        },
+        "2024": {
+          "thi_thpt": 22.35
+        },
+        "col6": {
+          "thi_thpt": 22.7
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Y học cổ truyền",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.65
+        },
+        "2022": {
+          "thi_thpt": 24.65
+        },
+        "2023": {
+          "thi_thpt": 23.3
+        },
+        "2024": {
+          "thi_thpt": 23.9
+        },
+        "col6": {
+          "thi_thpt": 24.48
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 24.6
+        },
+        "2024": {
+          "thi_thpt": 24.7
+        },
+        "col6": {
+          "thi_thpt": 24.78
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.9
+        },
+        "2022": {
+          "thi_thpt": 23.9
+        },
+        "2023": {
+          "thi_thpt": 21.75
+        },
+        "2024": {
+          "thi_thpt": 23.2
+        },
+        "col6": {
+          "thi_thpt": 23.45
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Răng - Hàm - Mặt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.75
+        },
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 25.45
+        },
+        "2024": {
+          "thi_thpt": 25.4
+        },
+        "col6": {
+          "thi_thpt": 25.65
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "thi_thpt": 24.05
+        },
+        "col6": {
+          "thi_thpt": 24.38
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Y tế công cộng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        },
+        "col6": {
+          "thi_thpt": 19.2
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Hộ sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.7
+        },
+        "2022": {
+          "thi_thpt": 22.7
+        },
+        "2023": {
+          "thi_thpt": 20.2
+        },
+        "2024": {
+          "thi_thpt": 22.25
+        },
+        "col6": {
+          "thi_thpt": 22.35
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật Hình ảnh Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.7
+        },
+        "2022": {
+          "thi_thpt": 23.7
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "thi_thpt": 23.5
+        },
+        "col6": {
+          "thi_thpt": 23.75
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật Y sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "col6": {
+          "thi_thpt": 22.1
+        }
+      }
+    }
+  ]
+}

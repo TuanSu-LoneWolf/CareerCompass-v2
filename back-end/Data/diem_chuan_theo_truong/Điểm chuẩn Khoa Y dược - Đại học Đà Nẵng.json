@@ -1,0 +1,121 @@
+{
+  "ten_truong": "Điểm chuẩn Khoa Y dược - Đại học Đà Nẵng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-y-duoc-dai-hoc-da-nang-c49024.html",
+  "thoigian": "2025-08-28 11:10:05",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y đa khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.55
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": 25.45
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.05
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.65
+        },
+        "2022": {
+          "khac": 25.52
+        },
+        "2023": {
+          "thi_thpt": 19.1
+        },
+        "2024": {
+          "khac": 25.94
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.95
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Răng - Hàm - Mặt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.55
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": 25.7
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.52
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 0.0
+        },
+        "2022": {
+          "khac": 25.98
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": 24.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Tổ hợp B00",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.05
+        }
+      }
+    }
+  ]
+}

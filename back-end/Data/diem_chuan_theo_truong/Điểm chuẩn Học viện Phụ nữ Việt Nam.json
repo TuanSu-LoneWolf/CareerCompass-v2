@@ -1,0 +1,223 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Phụ nữ Việt Nam",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-phu-nu-viet-nam-c48747.html",
+  "thoigian": "2025-08-28 11:05:51",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "khac": 0.0
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "thi_thpt": 0.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Giới và phát triển",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "khac": 16.0
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "khac": 17.0
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Truyền thông đa phương tiện",
+      "diem": {
+        "2021": {
+          "khac": 19.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "khac": 0.0
+        },
+        "2022": {
+          "thi_thpt": 19.5
+        },
+        "2023": {
+          "thi_thpt": 0.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "khac": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.5
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Tâm lý học",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 19.5
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị kinh doanh (Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "thi_thpt": 0.0
+        },
+        "2024": {
+          "khac": 0.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kinh tế số",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

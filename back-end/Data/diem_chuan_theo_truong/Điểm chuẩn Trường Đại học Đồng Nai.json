@@ -1,0 +1,241 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Đồng Nai",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dong-nai-c49376.html",
+  "thoigian": "2025-08-28 11:15:35",
+  "nganh": [
+    {
+      "stt": "I",
+      "nganh": "Hệ đại học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Tiểu học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "khac": 22.25
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Toán học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 24.25
+        },
+        "2024": {
+          "khac": 24.75
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": 24.25
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "khac": 21.75
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.5
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": 17.5
+        },
+        "2024": {
+          "khac": 19.75
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "khac": 19.25
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "II",
+      "nganh": "Hệ cao đẳng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Mầm non",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "khac": 17.0
+        }
+      }
+    }
+  ]
+}

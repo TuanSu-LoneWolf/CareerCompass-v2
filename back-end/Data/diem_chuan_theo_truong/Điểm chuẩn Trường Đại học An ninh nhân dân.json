@@ -1,0 +1,49 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học An ninh nhân dân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-an-ninh-nhan-dan-c49374.html",
+  "thoigian": "2025-08-28 11:15:28",
+  "nganh": [
+    {
+      "stt": "Nam",
+      "nganh": "Nữ",
+      "diem": {
+        "2022": {
+          "thi_thpt": "Nam"
+        },
+        "2023": {
+          "thi_thpt": "Nữ"
+        },
+        "2024": {
+          "thi_thpt": "Nam"
+        },
+        "col5": {
+          "thi_thpt": "Nữ"
+        }
+      }
+    },
+    {
+      "stt": "Nghiệp vụ An ninh",
+      "nganh": "- Địa bàn 4: A00: 24,86 A01: 26,11 C03: 25,21 D01: 25,89 - Địa bàn 5: A00: 25,68 A01: 26,36 C03: 26,53 D01: 26,88 - Địa bàn 6: A00: 24,01 A01: 24,93 C03: 24,38 D01: 24,56 - Địa bàn 7: A00: 25,83 A01: 26,90 C03: 26,94 D01: 26,48 - Địa bàn 8: A00: 23,04 A01: 25,76 C03: 22,41",
+      "diem": {
+        "2022": {
+          "thi_thpt": 4.0
+        },
+        "2023": {
+          "thi_thpt": 4.0
+        },
+        "2024": {
+          "thi_thpt": 4.0
+        },
+        "col5": {
+          "thi_thpt": 4.0
+        },
+        "col6": {
+          "thi_thpt": 1.0
+        },
+        "col7": {
+          "thi_thpt": 1.0
+        }
+      }
+    }
+  ]
+}

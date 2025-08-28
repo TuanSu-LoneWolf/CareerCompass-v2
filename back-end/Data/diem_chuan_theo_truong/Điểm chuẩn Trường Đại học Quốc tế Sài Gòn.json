@@ -1,0 +1,259 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Quốc tế Sài Gòn",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-quoc-te-sai-gon-c49350.html",
+  "thoigian": "2025-08-28 11:14:59",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Tâm lý học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Đông phương học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Truyền thông đa phương tiện",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quan hệ công chúng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ giáo dục",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        }
+      }
+    }
+  ]
+}

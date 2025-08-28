@@ -1,0 +1,97 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Kỹ thuật Y tế Hải Dương",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ky-thuat-y-te-hai-duong-c48909.html",
+  "thoigian": "2025-08-28 11:08:08",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.1
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 25.4
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kỹ thuật Hình ảnh Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.6
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.9
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật Phục hồi chức năng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 21.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1009 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Báo chí và Tuyên truyền",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-c48675.html",
+  "thoigian": "2025-08-28 11:05:21",
+  "nganh": [
+    {
+      "stt": "Báo chí",
+      "nganh": "Báo in",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "R05": 25.4
+          }
+        },
+        "2022": {
+          "khac": 8.45
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.9
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.05
+        }
+      }
+    },
+    {
+      "stt": "Báo phát thanh",
+      "nganh": "R05: 25,65 R06: 24,65 R15, R19: 25,15 R16: 26,65",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.75
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.02
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.1
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.75
+          }
+        }
+      }
+    },
+    {
+      "stt": "Báo truyền hình",
+      "nganh": "R05: 26,75 R06: 25,5 R15, R19: 26 R16: 28",
+      "diem": {
+        "2021": {
+          "thi_thpt": 9.0
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.25
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.32
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.96
+          }
+        }
+      }
+    },
+    {
+      "stt": "Báo mạng điện tử",
+      "nganh": "R05: 25,9 R06: 25,15 R15, R19: 25,65 R16: 27,15",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.72
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.1
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.18
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.65
+          }
+        }
+      }
+    },
+    {
+      "stt": "Báo truyền hình chất lượng cao",
+      "nganh": "R05: 25,7 R06: 24,7 R15, R19: 25,2 R16: 26,2",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.69
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.02
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.15
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Báo mạng điện tử chất lượng cao",
+      "nganh": "R05: 25 R06: 24 R15, R19: 24,5 R16: 25,5",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.43
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 8.92
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.94
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Ảnh báo chí",
+      "nganh": "R07, R20: 24,1 R08: 24,6 R09: 23,6 R17: 25,35",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.0
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 8.95
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.93
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.63
+          }
+        }
+      }
+    },
+    {
+      "stt": "Quay phim truyền hình",
+      "nganh": "R11, R12, R13, R21: 19 R18: 19,75",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.0
+        },
+        "2022": {
+          "khac": 33.33
+        },
+        "2023": {
+          "thi_thpt": 8.56
+        },
+        "2024": {
+          "khac": 34.49
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.8
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.73
+          }
+        }
+      }
+    },
+    {
+      "stt": "Truyền thông đại chúng",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 26.27
+          }
+        },
+        "2022": {
+          "khac": 9.5
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.26
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.34
+        }
+      }
+    },
+    {
+      "stt": "Truyền thông đa phương tiện",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 27.1
+          }
+        },
+        "2022": {
+          "khac": 9.63
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.62
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.45
+        }
+      }
+    },
+    {
+      "stt": "Triết học",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "khac": 7.8
+        },
+        "2023": {
+          "thi_thpt": 24.15
+        },
+        "2024": {
+          "khac": 8.15
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.22
+        },
+        "Xét theo học bạ": {
+          "khac": 8.5
+        }
+      }
+    },
+    {
+      "stt": "Chủ nghĩa xã hội khoa học",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.5
+        },
+        "2022": {
+          "khac": 6.9
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "khac": 8.15
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.94
+        },
+        "Xét theo học bạ": {
+          "khac": 8.44
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế chính trị",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 24.5
+          }
+        },
+        "2022": {
+          "khac": 8.5
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.65
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 8.94
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế",
+      "nganh": "Quản lý kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 24.98
+          }
+        },
+        "2022": {
+          "khac": 8.9
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.76
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế và Quản lý (chất lượng cao)",
+      "nganh": "A16: 24,3 C15: 25,3 D01, R22: 24,8",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.8
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 8.24
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.9
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế và Quản lý",
+      "nganh": "A16: 24,95 C15: 25,95 D01, R22: 25,45",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.75
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 8.77
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.93
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Xây dựng Đảng và chính quyền nhà nước",
+      "nganh": "Công tác tổ chức",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 22.75
+          }
+        },
+        "2022": {
+          "khac": 7.7
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.14
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 8.5
+        }
+      }
+    },
+    {
+      "stt": "Công tác dân vận",
+      "nganh": "A16: 17,25 C15: 17,75 D01, R22: 17,25",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.0
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 8.14
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.5
+        }
+      }
+    },
+    {
+      "stt": "Chính trị học",
+      "nganh": "Quản lý hoạt động tư tưởng - văn hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.05
+        },
+        "2022": {
+          "khac": 7.5
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.18
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.48
+        },
+        "Xét theo học bạ": {
+          "khac": 8.5
+        }
+      }
+    },
+    {
+      "stt": "Chính trị phát triển",
+      "nganh": "22,25",
+      "diem": {
+        "2021": {
+          "thi_thpt": 6.9
+        },
+        "2022": {
+          "khac": 23.9
+        },
+        "2023": {
+          "thi_thpt": 8.05
+        },
+        "2024": {
+          "khac": 24.45
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.41
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 25.6
+          }
+        }
+      }
+    },
+    {
+      "stt": "Tư tưởng Hồ Chí Minh",
+      "nganh": "22",
+      "diem": {
+        "2021": {
+          "thi_thpt": 6.9
+        },
+        "2022": {
+          "khac": 23.83
+        },
+        "2023": {
+          "thi_thpt": 8.0
+        },
+        "2024": {
+          "khac": 24.17
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.41
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 25.45
+          }
+        }
+      }
+    },
+    {
+      "stt": "Văn hóa phát triển",
+      "nganh": "23,75",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.9
+        },
+        "2022": {
+          "khac": 24.3
+        },
+        "2023": {
+          "thi_thpt": 8.37
+        },
+        "2024": {
+          "khac": 24.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.66
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Chính sách công",
+      "nganh": "23",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.5
+        },
+        "2022": {
+          "khac": 24.08
+        },
+        "2023": {
+          "thi_thpt": 8.15
+        },
+        "2024": {
+          "khac": 23.72
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.38
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Truyền thông chính sách",
+      "nganh": "24,75",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.25
+        },
+        "2022": {
+          "khac": 25.15
+        },
+        "2023": {
+          "thi_thpt": 8.6
+        },
+        "2024": {
+          "khac": 25.07
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.75
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 25.85
+          }
+        }
+      }
+    },
+    {
+      "stt": "Xuất bản",
+      "nganh": "Biên tập xuất bản",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 25.25
+          }
+        },
+        "2022": {
+          "khac": 8.9
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.9
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.08
+        }
+      }
+    },
+    {
+      "stt": "Xuất bản điện tử",
+      "nganh": "A16: 24,9 C15: 25,9 D01, R22: 25,4",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.8
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 8.85
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.0
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 26.27
+          }
+        }
+      }
+    },
+    {
+      "stt": "Xã hội học",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 24.4
+          }
+        },
+        "2022": {
+          "khac": 8.7
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.17
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 8.8
+        }
+      }
+    },
+    {
+      "stt": "Công tác xã hội",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "A16": 24.0
+          }
+        },
+        "2022": {
+          "khac": 8.6
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 8.54
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 8.65
+        }
+      }
+    },
+    {
+      "stt": "Quản lý công",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.65
+        },
+        "2022": {
+          "khac": 8.5
+        },
+        "2023": {
+          "thi_thpt": 24.68
+        },
+        "2024": {
+          "khac": 8.48
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.25
+        },
+        "Xét theo học bạ": {
+          "khac": 8.6
+        }
+      }
+    },
+    {
+      "stt": "Quản lý nhà nước",
+      "nganh": "Quản lý xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "khac": 8.35
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "khac": 8.38
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.92
+        },
+        "Xét theo học bạ": {
+          "khac": 8.6
+        }
+      }
+    },
+    {
+      "stt": "Quản lý hành chính nhà nước",
+      "nganh": "24",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.5
+        },
+        "2022": {
+          "khac": 24.7
+        },
+        "2023": {
+          "thi_thpt": 8.6
+        },
+        "2024": {
+          "khac": 24.7
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 8.7
+        }
+      }
+    },
+    {
+      "stt": "Lịch sử",
+      "nganh": "Lịch sử Đảng Cộng sản Việt Nam",
+      "diem": {
+        "2021": {
+          "thi_thpt": {
+            "C00": 35.4
+          }
+        },
+        "2022": {
+          "khac": 8.7
+        },
+        "2023": {
+          "thi_thpt": {
+            "C00": 37.5
+          }
+        },
+        "2024": {
+          "khac": 8.95
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "C00": 28.56
+          }
+        },
+        "Xét theo học bạ": {
+          "khac": 9.1
+        }
+      }
+    },
+    {
+      "stt": "Truyền thông quốc tế",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "khac": 9.6
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.6
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.36
+        }
+      }
+    },
+    {
+      "stt": "Quan hệ quốc tế",
+      "nganh": "Thông tin đối ngoại",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "khac": 9.42
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.08
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.33
+        }
+      }
+    },
+    {
+      "stt": "Quan hệ chính trị và truyền thông quốc tế",
+      "nganh": "D01, R24: 35,85 D72, R25: 35,35 D78, R26: 36,85",
+      "diem": {
+        "2021": {
+          "thi_thpt": 9.42
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.2
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.4
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.2
+          }
+        }
+      }
+    },
+    {
+      "stt": "Quan hệ quốc tế và Truyền thông toàn cầu",
+      "nganh": "D01, R24: 35,92 D72, R25: 35,42 D78, R26: 36,92",
+      "diem": {
+        "2021": {
+          "thi_thpt": 9.5
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.1
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.26
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 35.57
+          }
+        }
+      }
+    },
+    {
+      "stt": "Quan hệ công chúng",
+      "nganh": "Quan hệ công chúng chuyên nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "khac": 9.57
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.4
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.5
+        }
+      }
+    },
+    {
+      "stt": "Truyền thông marketing",
+      "nganh": "D01, R24: 36,32 D72, R25: 35,82 D78, R26: 35,57",
+      "diem": {
+        "2021": {
+          "thi_thpt": 9.6
+        },
+        "2022": {
+          "khac": 1.0
+        },
+        "2023": {
+          "thi_thpt": 9.6
+        },
+        "2024": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 9.36
+        },
+        "Xét theo học bạ": {
+          "khac": {
+            "D01": 36.13
+          }
+        }
+      }
+    },
+    {
+      "stt": "Quảng cáo",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "khac": 9.27
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.2
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.45
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "khac": 9.45
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "khac": 9.16
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "khac": 9.19
+        }
+      }
+    }
+  ]
+}

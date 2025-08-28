@@ -1,0 +1,259 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Ngoại ngữ - Đại học Đà Nẵng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang-c49020.html",
+  "thoigian": "2025-08-28 11:09:58",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.45
+        },
+        "2022": {
+          "thi_thpt": 27.88
+        },
+        "2023": {
+          "thi_thpt": 26.34
+        },
+        "2024": {
+          "khac": 27.17
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm tiếng Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "thi_thpt": 23.18
+        },
+        "2023": {
+          "thi_thpt": 21.68
+        },
+        "2024": {
+          "khac": 21.79
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm tiếng Trung",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.6
+        },
+        "2022": {
+          "thi_thpt": 26.3
+        },
+        "2023": {
+          "thi_thpt": 23.73
+        },
+        "2024": {
+          "khac": 24.48
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.58
+        },
+        "2022": {
+          "thi_thpt": 26.45
+        },
+        "2023": {
+          "thi_thpt": 22.74
+        },
+        "2024": {
+          "khac": 23.22
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh (Đào tạo 2 năm đầu tại Kon Tum)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Nga",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.58
+        },
+        "2022": {
+          "thi_thpt": 21.4
+        },
+        "2023": {
+          "thi_thpt": 15.1
+        },
+        "2024": {
+          "khac": 15.04
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.34
+        },
+        "2022": {
+          "thi_thpt": 24.38
+        },
+        "2023": {
+          "thi_thpt": 15.44
+        },
+        "2024": {
+          "khac": 20.58
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.83
+        },
+        "2022": {
+          "thi_thpt": 26.53
+        },
+        "2023": {
+          "thi_thpt": 24.43
+        },
+        "2024": {
+          "khac": 24.78
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 26.54
+        },
+        "2023": {
+          "thi_thpt": 21.61
+        },
+        "2024": {
+          "khac": 23.13
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.55
+        },
+        "2022": {
+          "thi_thpt": 26.95
+        },
+        "2023": {
+          "thi_thpt": 23.59
+        },
+        "2024": {
+          "khac": 25.14
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Thái Lan",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.51
+        },
+        "2022": {
+          "thi_thpt": 25.06
+        },
+        "2023": {
+          "thi_thpt": 22.19
+        },
+        "2024": {
+          "khac": 22.43
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quốc tế học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 24.53
+        },
+        "2023": {
+          "thi_thpt": 17.67
+        },
+        "2024": {
+          "khac": 21.78
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Đông phương học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.91
+        },
+        "2022": {
+          "thi_thpt": 24.95
+        },
+        "2023": {
+          "thi_thpt": 19.6
+        },
+        "2024": {
+          "khac": 21.81
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Hàn Quốc học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

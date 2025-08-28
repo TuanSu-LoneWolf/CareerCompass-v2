@@ -1,0 +1,97 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tài chính - Kế toán",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tai-chinh-ke-toan-c49113.html",
+  "thoigian": "2025-08-28 11:11:09",
+  "nganh": [
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2021": {
+          "hoc_ba": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh doanh quốc tế",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2021": {
+          "hoc_ba": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Tài chính - ngân hàng",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2021": {
+          "hoc_ba": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2021": {
+          "hoc_ba": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "Kiểm toán",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "thi_thpt": "-"
+        },
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Luật kinh tế",
+      "nganh": "15",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2021": {
+          "hoc_ba": 15.0
+        },
+        "2022": {
+          "khac": 18.0
+        }
+      }
+    }
+  ]
+}

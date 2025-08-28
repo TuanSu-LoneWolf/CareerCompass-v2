@@ -1,0 +1,421 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại Học Ngoại Ngữ - Đại Học Quốc Gia Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi-c48481.html",
+  "thoigian": "2025-08-28 11:02:56",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 35.57
+        },
+        "2023": {
+          "thi_thpt": 35.55
+        },
+        "2024": {
+          "thi_thpt": 36.99
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh (Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.9
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 38.45
+        },
+        "2022": {
+          "thi_thpt": 38.1
+        },
+        "2023": {
+          "thi_thpt": 37.21
+        },
+        "2024": {
+          "thi_thpt": 38.45
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Nga",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.19
+        },
+        "2022": {
+          "thi_thpt": 31.2
+        },
+        "2023": {
+          "thi_thpt": 33.3
+        },
+        "2024": {
+          "thi_thpt": 34.24
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm tiếng Nga",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 32.99
+        },
+        "2023": {
+          "thi_thpt": 34.12
+        },
+        "2024": {
+          "thi_thpt": 34.53
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Pháp (Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.77
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm tiếng Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 35.32
+        },
+        "2023": {
+          "thi_thpt": 35.55
+        },
+        "2024": {
+          "thi_thpt": 37.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Trung Quốc (Chương trình Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 37.13
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm tiếng Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 38.32
+        },
+        "2022": {
+          "thi_thpt": 38.46
+        },
+        "2023": {
+          "thi_thpt": 35.9
+        },
+        "2024": {
+          "thi_thpt": 37.85
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngôn ngữ Đức",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 32.83
+        },
+        "2023": {
+          "thi_thpt": 34.35
+        },
+        "2024": {
+          "thi_thpt": 35.82
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Đức (Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.92
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Sư phạm tiếng Đức",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 32.98
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 36.94
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 34.23
+        },
+        "2023": {
+          "thi_thpt": 34.65
+        },
+        "2024": {
+          "thi_thpt": 35.4
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngôn ngữ Nhật (Chương trình Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.53
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Sư phạm tiếng Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 37.33
+        },
+        "2022": {
+          "thi_thpt": 35.27
+        },
+        "2023": {
+          "thi_thpt": 35.61
+        },
+        "2024": {
+          "thi_thpt": 37.21
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 34.92
+        },
+        "2023": {
+          "thi_thpt": 35.4
+        },
+        "2024": {
+          "thi_thpt": 36.38
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngôn ngữ Hàn Quốc (Chương trình Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.83
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Sư phạm tiếng Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 37.7
+        },
+        "2022": {
+          "thi_thpt": 35.29
+        },
+        "2023": {
+          "thi_thpt": 36.23
+        },
+        "2024": {
+          "thi_thpt": 37.31
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Ngôn ngữ Ả Rập",
+      "diem": {
+        "2021": {
+          "thi_thpt": 34.0
+        },
+        "2022": {
+          "thi_thpt": 30.49
+        },
+        "2023": {
+          "thi_thpt": 33.04
+        },
+        "2024": {
+          "thi_thpt": 33.42
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Kinh tế - Tài chính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "thi_thpt": 24.97
+        },
+        "2023": {
+          "thi_thpt": 26.68
+        },
+        "2024": {
+          "thi_thpt": 26.75
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Văn hóa và truyền thông xuyên quốc gia",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 34.49
+        },
+        "2024": {
+          "thi_thpt": 36.5
+        }
+      }
+    }
+  ]
+}

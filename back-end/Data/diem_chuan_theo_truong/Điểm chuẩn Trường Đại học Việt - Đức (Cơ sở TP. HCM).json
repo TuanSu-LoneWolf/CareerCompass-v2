@@ -1,0 +1,127 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Việt - Đức (Cơ sở TP. HCM)",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-viet-duc-co-so-tphcm-c49354.html",
+  "thoigian": "2025-08-28 11:15:07",
+  "nganh": [
+    {
+      "stt": "Khoa học máy tính",
+      "nganh": "21",
+      "diem": {
+        "2020": {
+          "khac": 21.0
+        },
+        "2021": {
+          "khac": 23.0
+        },
+        "2022": {
+          "khac": 8.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật điện và công nghệ thông tin",
+      "nganh": "21",
+      "diem": {
+        "2020": {
+          "khac": "-"
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật cơ khí",
+      "nganh": "21",
+      "diem": {
+        "2020": {
+          "khac": 21.0
+        },
+        "2021": {
+          "khac": 21.0
+        },
+        "2022": {
+          "khac": 7.5
+        }
+      }
+    },
+    {
+      "stt": "Tài chính và kế toán",
+      "nganh": "20",
+      "diem": {
+        "2020": {
+          "khac": 20.0
+        },
+        "2021": {
+          "khac": 20.0
+        },
+        "2022": {
+          "khac": 7.5
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "20",
+      "diem": {
+        "2020": {
+          "khac": 20.0
+        },
+        "2021": {
+          "khac": 20.0
+        },
+        "2022": {
+          "khac": 7.5
+        }
+      }
+    },
+    {
+      "stt": "Kiến trúc",
+      "nganh": "20",
+      "diem": {
+        "2020": {
+          "khac": 20.0
+        },
+        "2021": {
+          "khac": 20.0
+        },
+        "2022": {
+          "khac": 7.5
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật xây dựng",
+      "nganh": "20",
+      "diem": {
+        "2020": {
+          "khac": 20.0
+        },
+        "2021": {
+          "khac": 19.0
+        },
+        "2022": {
+          "khac": 7.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật điện và máy tính",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "khac": 21.0
+        },
+        "2021": {
+          "khac": 21.0
+        },
+        "2022": {
+          "khac": 7.5
+        }
+      }
+    }
+  ]
+}

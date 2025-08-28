@@ -1,0 +1,151 @@
+{
+  "ten_truong": "Đại học Nông lâm TP. HCM - Phân hiệu tại Gia Lai",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nong-lam-tp-hcm-phan-hieu-tai-gia-lai-c49153.html",
+  "thoigian": "2025-08-28 11:11:54",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Nông học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Thú Y",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Bất động sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Lâm nghiệp đô thị",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Tài nguyên và du lịch sinh thái",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

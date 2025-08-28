@@ -1,0 +1,841 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thủy lợi",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-thuy-loi-c48614.html",
+  "thoigian": "2025-08-28 11:04:31",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật xây dựng công trình thủy",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.0
+        },
+        "2020": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "khac": 17.05
+        },
+        "2024": {
+          "khac": 16.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kỹ thuật tài nguyên nước (Quy hoạch, thiết kế và quản lý công trình thủy lợi)",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.0
+        },
+        "2020": {
+          "thi_thpt": 15.45
+        },
+        "2022": {
+          "thi_thpt": 18.43
+        },
+        "2023": {
+          "khac": 17.35
+        },
+        "2024": {
+          "khac": 16.25
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật ô tô",
+      "diem": {
+        "2019": {
+          "thi_thpt": 16.4
+        },
+        "2020": {
+          "thi_thpt": 21.15
+        },
+        "2022": {
+          "thi_thpt": 22.27
+        },
+        "2023": {
+          "khac": 24.55
+        },
+        "2024": {
+          "khac": 24.25
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật cơ điện tử",
+      "diem": {
+        "2019": {
+          "thi_thpt": 15.7
+        },
+        "2020": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "khac": 24.6
+        },
+        "2024": {
+          "khac": 23.45
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2019": {
+          "thi_thpt": 19.5
+        },
+        "2020": {
+          "thi_thpt": 22.75
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "khac": 26.6
+        },
+        "2024": {
+          "khac": 25.25
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Hệ thống thông tin",
+      "diem": {
+        "2019": {
+          "thi_thpt": 19.5
+        },
+        "2020": {
+          "thi_thpt": 22.75
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "khac": 25.55
+        },
+        "2024": {
+          "khac": 24.45
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật phần mềm",
+      "diem": {
+        "2019": {
+          "thi_thpt": 19.5
+        },
+        "2020": {
+          "thi_thpt": 22.75
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "khac": 25.8
+        },
+        "2024": {
+          "khac": 24.6
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật cấp thoát nước",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.0
+        },
+        "2020": {
+          "thi_thpt": 15.1
+        },
+        "2022": {
+          "thi_thpt": 18.5
+        },
+        "2023": {
+          "khac": 17.0
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật môi trường",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.0
+        },
+        "2020": {
+          "thi_thpt": 15.1
+        },
+        "2022": {
+          "thi_thpt": 18.25
+        },
+        "2023": {
+          "khac": 18.4
+        },
+        "2024": {
+          "khac": 16.05
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật xây dựng",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.0
+        },
+        "2020": {
+          "thi_thpt": 15.15
+        },
+        "2022": {
+          "thi_thpt": 18.25
+        },
+        "2023": {
+          "khac": 21.75
+        },
+        "2024": {
+          "khac": 16.15
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật điện",
+      "diem": {
+        "2019": {
+          "thi_thpt": 15.0
+        },
+        "2020": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 19.12
+        },
+        "2023": {
+          "khac": 24.4
+        },
+        "2024": {
+          "khac": 22.2
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2019": {
+          "thi_thpt": 16.7
+        },
+        "2020": {
+          "thi_thpt": 20.1
+        },
+        "2022": {
+          "thi_thpt": 20.53
+        },
+        "2023": {
+          "khac": 25.0
+        },
+        "2024": {
+          "khac": 24.1
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật xây dựng công trình giao thông",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.0
+        },
+        "2020": {
+          "thi_thpt": 15.25
+        },
+        "2022": {
+          "thi_thpt": 18.45
+        },
+        "2023": {
+          "khac": 17.35
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản lý xây dựng",
+      "diem": {
+        "2019": {
+          "thi_thpt": 15.0
+        },
+        "2020": {
+          "thi_thpt": 16.05
+        },
+        "2022": {
+          "thi_thpt": 20.38
+        },
+        "2023": {
+          "khac": 22.05
+        },
+        "2024": {
+          "khac": 21.7
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật hóa học",
+      "diem": {
+        "2019": {
+          "thi_thpt": 15.0
+        },
+        "2020": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "khac": 17.65
+        },
+        "2024": {
+          "khac": 16.15
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2019": {
+          "thi_thpt": 15.0
+        },
+        "2020": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": 18.25
+        },
+        "2023": {
+          "khac": 18.2
+        },
+        "2024": {
+          "khac": 16.05
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2019": {
+          "thi_thpt": 18.35
+        },
+        "2020": {
+          "thi_thpt": 21.05
+        },
+        "2022": {
+          "thi_thpt": 22.73
+        },
+        "2023": {
+          "khac": 25.7
+        },
+        "2024": {
+          "khac": 24.6
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2019": {
+          "thi_thpt": 19.05
+        },
+        "2020": {
+          "thi_thpt": 22.05
+        },
+        "2022": {
+          "thi_thpt": 23.57
+        },
+        "2023": {
+          "khac": 25.0
+        },
+        "2024": {
+          "khac": 24.9
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Kế toán",
+      "diem": {
+        "2019": {
+          "thi_thpt": 19.05
+        },
+        "2020": {
+          "thi_thpt": 21.7
+        },
+        "2022": {
+          "thi_thpt": 23.03
+        },
+        "2023": {
+          "khac": 24.95
+        },
+        "2024": {
+          "khac": 24.65
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Trí tuệ nhân tạo và khoa học dữ liệu",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.2
+        },
+        "2024": {
+          "khac": 23.8
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "An ninh mạng",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.25
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Nhóm ngành Kỹ thuật cơ khí",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 24.0
+        },
+        "2024": {
+          "khac": 22.05
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Kỹ thuật điện tử - viễn thông",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 24.85
+        },
+        "2024": {
+          "khac": 22.9
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Kỹ thuật robot và điều khiển thông minh",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 22.65
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng)",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 20.75
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.7
+        },
+        "2024": {
+          "khac": 23.55
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Tài nguyên nước và môi trường (Thủy văn học)",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 17.4
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Kinh tế xây dựng",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 23.05
+        },
+        "2024": {
+          "khac": 19.7
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.6
+        },
+        "2024": {
+          "khac": 24.7
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.15
+        },
+        "2024": {
+          "khac": 22.8
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.4
+        },
+        "2024": {
+          "khac": 24.65
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 24.8
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Kiểm toán",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 24.9
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Kinh tế số",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 25.15
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Luật",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 26.25
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2019": {
+          "thi_thpt": null
+        },
+        "2020": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "Chương trình tiên tiến ngành Kỹ thuật xây dựng (Hợp tác với Đại học Arkansas, Hoa Kỳ)",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 15.15
+        },
+        "2022": {
+          "thi_thpt": 18.5
+        },
+        "2023": {
+          "thi_thpt": 20.85
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước (Hợp tác với Đại học bang Colorado, Hoa Kỳ)",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": 18.5
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại Học Công Nghệ - Đại Học Quốc Gia Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi-c47974.html",
+  "thoigian": "2025-08-28 11:02:49",
+  "nganh": [
+    {
+      "ma": "CN1",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2022": 29.15,
+        "2023": 27.85,
+        "2024": 27.8
+      }
+    },
+    {
+      "ma": "CN10",
+      "nganh": "Công nghệ nông nghiệp",
+      "diem": {
+        "2022": 22.0,
+        "2023": 22.0,
+        "2024": 22.5
+      }
+    },
+    {
+      "ma": "CN11",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2022": 27.25,
+        "2023": 27.1,
+        "2024": 27.05
+      }
+    },
+    {
+      "ma": "CN12",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem": {
+        "2022": 27.0,
+        "2023": 27.2,
+        "2024": 27.12
+      }
+    },
+    {
+      "ma": "CN13",
+      "nganh": "Kỹ thuật năng lượng",
+      "diem": {
+        "2022": 22.0,
+        "2023": 23.8,
+        "2024": 24.59
+      }
+    },
+    {
+      "ma": "CN16",
+      "nganh": "Công nghệ thông tin định hướng thị trường Nhật Bản",
+      "diem": {
+        "2022": 27.5,
+        "2023": 27.5,
+        "2024": "x"
+      }
+    },
+    {
+      "ma": "CN17",
+      "nganh": "Kỹ thuật Robot",
+      "diem": {
+        "2022": 23.0,
+        "2023": 25.35,
+        "2024": 25.99
+      }
+    },
+    {
+      "ma": "CN2",
+      "nganh": "Kỹ thuật máy tính",
+      "diem": {
+        "2022": 27.5,
+        "2023": 27.25,
+        "2024": 26.97
+      }
+    },
+    {
+      "ma": "CN3",
+      "nganh": "Vật lý kỹ thuật",
+      "diem": {
+        "2022": 23.0,
+        "2023": 24.2,
+        "2024": 25.24
+      }
+    },
+    {
+      "ma": "CN4",
+      "nganh": "Cơ kỹ thuật",
+      "diem": {
+        "2022": 25.0,
+        "2023": 25.65,
+        "2024": 26.03
+      }
+    },
+    {
+      "ma": "CN5",
+      "nganh": "Công nghệ kỹ thuật xây dựng",
+      "diem": {
+        "2022": 22.0,
+        "2023": 23.1,
+        "2024": 23.91
+      }
+    },
+    {
+      "ma": "CN7",
+      "nganh": "Công nghệ Hàng không vũ trụ",
+      "diem": {
+        "2022": 23.0,
+        "2023": 24.1,
+        "2024": 24.61
+      }
+    },
+    {
+      "ma": "CN14",
+      "nganh": "Hệ thống thông tin",
+      "diem": {
+        "2022": null,
+        "2023": 26.95,
+        "2024": 26.87
+      }
+    },
+    {
+      "ma": "CN15",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu",
+      "diem": {
+        "2022": null,
+        "2023": 26.25,
+        "2024": 26.92
+      }
+    },
+    {
+      "ma": "CN6",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem": {
+        "2022": null,
+        "2023": 25.0,
+        "2024": 26.27
+      }
+    },
+    {
+      "ma": "CN9",
+      "nganh": "Công nghệ kỹ thuật điện tử – viễn thông",
+      "diem": {
+        "2022": null,
+        "2023": 25.15,
+        "2024": 26.3
+      }
+    },
+    {
+      "ma": "CN8",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2022": null,
+        "2023": 24.1,
+        "2024": 27.58
+      }
+    },
+    {
+      "ma": "CN18",
+      "nganh": "Thiết kế công nghiệp và đồ họa",
+      "diem": {
+        "2022": null,
+        "2023": null,
+        "2024": 24.64
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Điều dưỡng Nam Định",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-dieu-duong-nam-dinh-c48895.html",
+  "thoigian": "2025-08-28 11:07:51",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "khac": 19.5
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "khac": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Hộ sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "khac": 19.5
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Dinh dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "khac": 16.5
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.3
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        }
+      }
+    }
+  ]
+}

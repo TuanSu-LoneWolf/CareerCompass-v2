@@ -1,0 +1,87 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Dược Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-duoc-ha-noi-c48508.html",
+  "thoigian": "2025-08-28 11:03:27",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.25
+        },
+        "2022": {
+          "thi_thpt": {
+            "- PT 3": 18.13
+          }
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "thi_thpt": 25.51
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Hóa dược",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.05
+        },
+        "2022": {
+          "thi_thpt": {
+            "- PT 3": 20.04
+          }
+        },
+        "2023": {
+          "thi_thpt": 24.9
+        },
+        "2024": {
+          "thi_thpt": 25.31
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": {
+            "- PT 3": 17.88
+          }
+        },
+        "2023": {
+          "thi_thpt": 23.81
+        },
+        "2024": {
+          "thi_thpt": 24.55
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": {
+            "- PT 3": 4.0
+          }
+        },
+        "2023": {
+          "thi_thpt": 24.21
+        },
+        "2024": {
+          "thi_thpt": 24.26
+        }
+      }
+    }
+  ]
+}

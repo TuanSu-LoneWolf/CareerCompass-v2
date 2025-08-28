@@ -1,0 +1,349 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Nông lâm - Đại học Huế",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-nong-lam-dai-hoc-hue-c48965.html",
+  "thoigian": "2025-08-28 11:09:22",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản lý tài nguyên rừng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Nuôi trồng thủy sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản lý thủy sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Bệnh học thủy sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Khoa học cây trồng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Bảo vệ thực vật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Chăn nuôi (Song ngành Chăn nuôi – Thú y)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.5
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 16.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Thú y",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.5
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 17.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.5
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "khac": 16.0
+        },
+        "2024": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật cơ - điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản lý đất đai",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Khuyến nông (Song ngành Khuyến nông – Phát triển nông thôn)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Phát triển nông thôn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Bất động sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Nông nghiệp công nghệ cao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Kinh doanh và khởi nghiệp nông thôn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Lâm nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    }
+  ]
+}

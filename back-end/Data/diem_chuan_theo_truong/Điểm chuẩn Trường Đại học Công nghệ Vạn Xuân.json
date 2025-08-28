@@ -1,0 +1,175 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Công nghệ Vạn Xuân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-van-xuan-c49089.html",
+  "thoigian": "2025-08-28 11:10:55",
+  "nganh": [
+    {
+      "stt": "Công nghệ thông tin",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Công nghệ sinh học",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Kỹ thuật xây dựng",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị kinh doanh",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị du lịch và khách sạn",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Kế toán",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Tài chính - ngân hàng",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "khac": "-"
+        },
+        "2023": {
+          "thi_thpt": "-"
+        },
+        "Xét theo học bạ": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    }
+  ]
+}

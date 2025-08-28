@@ -1,0 +1,225 @@
+{
+  "ten_truong": "Điểm chuẩn Phân hiệu Điểm chuẩn Trường Đại học Nội vụ Hà Nội tại Quảng Nam",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-phan-hieu-truong-dai-hoc-noi-vu-ha-noi-tai-quang-nam-c49109.html",
+  "thoigian": "2025-08-28 11:11:05",
+  "nganh": [
+    {
+      "stt": "Quản trị nhân lực",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "A00": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 16.5
+          }
+        },
+        "2023": {
+          "hoc_ba": 0.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 0.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 0.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị văn phòng",
+      "nganh": "14 (D01, D15) 15 9C00, C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "A00": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 16.5
+          }
+        },
+        "2023": {
+          "hoc_ba": 0.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 0.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 0.0
+        }
+      }
+    },
+    {
+      "stt": "Luật",
+      "nganh": "14 (A00, A01, D01) 15 (C00)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "A00": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 16.5
+          }
+        },
+        "2023": {
+          "hoc_ba": 0.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 0.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 0.0
+        }
+      }
+    },
+    {
+      "stt": "Quản lý nhà nước",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "D01": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 16.5
+          }
+        },
+        "2023": {
+          "hoc_ba": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 1.0
+        }
+      }
+    },
+    {
+      "stt": "Quản lý văn hóa",
+      "nganh": "-",
+      "diem": {
+        "2020": {
+          "thi_thpt": "-"
+        },
+        "2021": {
+          "khac": {
+            "A00": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "A00": 16.5
+          }
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Lưu trữ học",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": {
+            "D01": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 16.5
+          }
+        },
+        "2023": {
+          "hoc_ba": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Văn hóa học (Chuyên ngành Văn hóa Du lịch)",
+      "nganh": "14",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "D01": 14.0
+          }
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "Chuyên ngành Thanh tra",
+      "nganh": "14 (A00, A01, D01) 15 (C00)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    }
+  ]
+}

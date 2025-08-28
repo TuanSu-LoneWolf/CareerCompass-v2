@@ -1,0 +1,55 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thể dục thể thao Thành phố Hồ Chí Minh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-the-duc-the-thao-tphcm-c49308.html",
+  "thoigian": "2025-08-28 11:14:05",
+  "nganh": [
+    {
+      "stt": "Giáo dục thể chất",
+      "nganh": "19.80",
+      "diem": {
+        "2019": {
+          "thi_thpt": 23.5
+        },
+        "Học bạ": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Huấn luyện thể thao",
+      "nganh": "19.80",
+      "diem": {
+        "2019": {
+          "thi_thpt": 23.5
+        },
+        "Học bạ": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "Y sinh học TDTT",
+      "nganh": "19.80",
+      "diem": {
+        "2019": {
+          "thi_thpt": 23.5
+        },
+        "Học bạ": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "Quản lý TDTT",
+      "nganh": "19.80",
+      "diem": {
+        "2019": {
+          "thi_thpt": 23.5
+        },
+        "Học bạ": {
+          "hoc_ba": 20.0
+        }
+      }
+    }
+  ]
+}

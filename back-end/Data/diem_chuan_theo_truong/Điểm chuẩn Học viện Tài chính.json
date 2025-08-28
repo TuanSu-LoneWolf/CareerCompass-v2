@@ -1,0 +1,231 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Tài chính",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-tai-chinh-c48709.html",
+  "thoigian": "2025-08-28 11:05:28",
+  "nganh": [
+    {
+      "stt": "1",
+      "ma": "Ngôn ngữ Anh",
+      "nganh": "35,77",
+      "diem": {
+        "2022": {
+          "thi_thpt": 34.32
+        },
+        "2023": {
+          "thi_thpt": 27.3
+        },
+        "2024": {
+          "thi_thpt": 34.4
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "ma": "Kinh tế",
+      "nganh": "26,35",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 26.6
+        },
+        "2024": {
+          "thi_thpt": 25.85
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "ma": "Quản trị kinh doanh",
+      "nganh": "26,70",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.15
+        },
+        "2023": {
+          "thi_thpt": 26.3
+        },
+        "2024": {
+          "thi_thpt": 26.17
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "ma": "Tài chính - ngân hàng 1",
+      "nganh": "26,10",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 28.7
+        },
+        "2024": {
+          "thi_thpt": 25.94
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "ma": "Tài chính - ngân hàng 2",
+      "nganh": "26,45",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 28.2
+        },
+        "2024": {
+          "thi_thpt": 26.04
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "ma": "Tài chính - Ngân hàng 3",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.45
+        },
+        "2023": {
+          "thi_thpt": 27.2
+        },
+        "2024": {
+          "thi_thpt": 25.8
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "ma": "Kế toán",
+      "nganh": "26,55",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.2
+        },
+        "2023": {
+          "thi_thpt": 28.2
+        },
+        "2024": {
+          "thi_thpt": 26.15
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "ma": "Hệ thống thông tin quản lý",
+      "nganh": "26,10",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.9
+        },
+        "2023": {
+          "thi_thpt": 27.9
+        },
+        "2024": {
+          "thi_thpt": 25.94
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "ma": "Hải quan và Logistics - CLC",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 34.28
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": 35.51
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "ma": "Phân tích tài chính - CLC",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 33.63
+        },
+        "2023": {
+          "thi_thpt": 29.2
+        },
+        "2024": {
+          "thi_thpt": 34.6
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "ma": "Tài chính doanh nghiệp - CLC",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 33.33
+        },
+        "2023": {
+          "thi_thpt": 29.0
+        },
+        "2024": {
+          "thi_thpt": 34.25
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "ma": "Kế toán doanh nghiệp - CLC",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 32.95
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "thi_thpt": 34.01
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "ma": "Kiểm toán - CLC",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": 33.85
+        },
+        "2023": {
+          "thi_thpt": 27.2
+        },
+        "2024": {
+          "thi_thpt": 34.75
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "ma": "Digital Marketing - CLC",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

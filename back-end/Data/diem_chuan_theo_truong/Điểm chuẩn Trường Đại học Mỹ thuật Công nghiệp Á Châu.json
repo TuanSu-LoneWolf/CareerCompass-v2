@@ -1,0 +1,34 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Mỹ thuật Công nghiệp Á Châu",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-my-thuat-cong-nghiep-a-chau-co-so-tphcm-c49331.html",
+  "thoigian": "2025-08-28 11:14:33",
+  "nganh": [
+    {
+      "stt": "Thiết kế Đồ họa",
+      "nganh": "13,5",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.5
+        }
+      }
+    },
+    {
+      "stt": "Thiết kế Thời trang",
+      "nganh": "13,5",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.5
+        }
+      }
+    },
+    {
+      "stt": "Thiết kế Nội thất",
+      "nganh": "13,5",
+      "diem": {
+        "2019": {
+          "thi_thpt": 14.5
+        }
+      }
+    }
+  ]
+}

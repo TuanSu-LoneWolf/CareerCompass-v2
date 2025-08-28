@@ -1,0 +1,64 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Chính trị Công an Nhân dân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-chinh-tri-cong-an-nhan-dan-c57067.html",
+  "thoigian": "2025-08-28 11:06:11",
+  "nganh": [
+    {
+      "stt": "Nữ",
+      "nganh": "Nam",
+      "diem": {
+        "2021": {
+          "thi_thpt": "Nữ"
+        },
+        "2022": {
+          "thi_thpt": "Nam"
+        },
+        "2023": {
+          "thi_thpt": "Nữ"
+        },
+        "2024": {
+          "thi_thpt": "Nam"
+        },
+        "col6": {
+          "thi_thpt": "Nữ"
+        },
+        "col7": {
+          "thi_thpt": "Nam"
+        },
+        "col8": {
+          "thi_thpt": "Nữ"
+        }
+      }
+    },
+    {
+      "stt": "Nhóm ngành Xây dựng lực lượng CAND",
+      "nganh": "- Phía Bắc: + A01: 25,93 + C03: 27,34 + D01: 26,68 - Phía Nam: + A01: 25,71 + C03: 26,35 + D01: 26,06",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        },
+        "col6": {
+          "thi_thpt": 23.41
+        },
+        "col7": {
+          "thi_thpt": 24.94
+        },
+        "col8": {
+          "thi_thpt": 1.0
+        },
+        "col9": {
+          "thi_thpt": 1.0
+        }
+      }
+    }
+  ]
+}

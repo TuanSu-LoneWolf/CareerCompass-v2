@@ -1,0 +1,835 @@
+{
+  "ten_truong": "Trường Đại học Quốc tế - ĐH Quốc gia TP.HCM",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-quoc-te-dh-quoc-gia-tphcm-c49190.html",
+  "thoigian": "2025-08-28 11:12:56",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Logistics & Quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.75
+        },
+        "2022": {
+          "thi_thpt": 870.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 25.25
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.0
+        },
+        "2022": {
+          "thi_thpt": 860.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (4+0)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England) (3+1)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị Kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.0
+        },
+        "2022": {
+          "thi_thpt": 860.0
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "khac": 23.5
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH Andrews) (4+0)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH West of England) (4+0)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH Houston) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH New South Wales) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH Công nghệ Auckland) (1+2/1.5+1.5)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH West of England) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH Lakehead) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị Kinh doanh (Chương trình liên kết với ĐH Sydney) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ Sinh học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 680.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ sinh học (Chương trình liên kết với ĐH West of England) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ sinh học định hướng Y sinh (Chương trình liên kết với ĐH West of England) (4+0)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ Thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 680.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ Thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 770.0
+        },
+        "2023": {
+          "thi_thpt": 27.5
+        },
+        "2024": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ Thông tin (Chương trình liên kết với ĐH SUNY Binghamton) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Công nghệ thông tin (Chương trình liên kết với ĐH West of England) (4+0)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Hóa học (Hóa Sinh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 680.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Kỹ thuật Y sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "thi_thpt": 700.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Kỹ thuật điện tử, viễn thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "thi_thpt": 650.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Kỹ thuật điện tử, viễn thông (Chương trình liên kết với ĐH West of England) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Kỹ thuật điều khiển & Tự động hoá",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "thi_thpt": 700.0
+        },
+        "2023": {
+          "thi_thpt": 21.5
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Kỹ thuật Hệ thống Công nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 650.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Kỹ thuật Hệ thống Công nghiệp (Chương trình liên kết với ĐH SUNY Binghamton) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 800.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Tài chính (Chương trình liên kết với ĐH Macquarie) (2+1)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 740.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Kế toán (Chương trình liên kết với ĐH Macquarie) (2+1)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Kỹ Thuật Không gian (Phân tích và ứng dụng dữ liệu lớn)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.0
+        },
+        "2022": {
+          "thi_thpt": 680.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "khac": 21.0
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Kỹ Thuật Xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 650.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Kỹ Thuật Xây dựng (Chương trình liên kết với ĐH Deakin) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Kỹ thuật Môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 650.0
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Toán ứng dụng (Kỹ thuật tài chính và Quản trị rủi ro)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 700.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "nganh": "Khoa học Dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 750.0
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "39",
+      "nganh": "Kỹ thuật Hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "thi_thpt": 720.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "40",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "thi_thpt": 770.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "khac": 25.0
+        }
+      }
+    },
+    {
+      "stt": "41",
+      "nganh": "Khoa học máy tính (Chương trình liên kết với ĐH West of England) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "42",
+      "nganh": "Quản lý xây dựng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 650.0
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "43",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "44",
+      "nganh": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "45",
+      "nganh": "Thống kê (Thống kê ứng dụng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "46",
+      "nganh": "Kỹ thuật điện tử (Chương trình liên kết với ĐH SUNY Binghamton) (2+2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

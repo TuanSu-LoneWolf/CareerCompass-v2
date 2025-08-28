@@ -1,0 +1,169 @@
+{
+  "ten_truong": "Đại học Y Dược - Đại học Thái Nguyên",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-thai-nguyen-c48853.html",
+  "thoigian": "2025-08-28 11:07:23",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y học dự phòng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 21.8
+        },
+        "2022": {
+          "thi_thpt": 22.4
+        },
+        "2023": {
+          "thi_thpt": 21.8
+        },
+        "2024": {
+          "khac": 21.25
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "hoc_ba": 26.2
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 25.75
+        },
+        "2024": {
+          "khac": 26.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.2
+        },
+        "2022": {
+          "thi_thpt": 23.0
+        },
+        "2023": {
+          "thi_thpt": 24.8
+        },
+        "2024": {
+          "khac": 24.7
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Răng - Hàm - Mặt",
+      "diem": {
+        "2021": {
+          "hoc_ba": 26.25
+        },
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 26.75
+        },
+        "2024": {
+          "khac": 26.25
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 21.5
+        },
+        "2022": {
+          "thi_thpt": 19.6
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật xét nghiệm y học",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.85
+        },
+        "2022": {
+          "thi_thpt": 22.5
+        },
+        "2023": {
+          "thi_thpt": 24.2
+        },
+        "2024": {
+          "khac": 24.25
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Hộ sinh",
+      "diem": {
+        "2021": {
+          "hoc_ba": 19.15
+        },
+        "2022": {
+          "thi_thpt": 21.2
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật hình ảnh Y học",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật Phục hồi chức năng",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

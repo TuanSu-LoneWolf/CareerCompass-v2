@@ -1,0 +1,80 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Lao động Xã hội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-lao-dong-xa-hoi-co-so-son-tay-c48530.html",
+  "thoigian": "2025-08-28 11:03:41",
+  "nganh": [
+    {
+      "nganh": "Quản trị nhân lực",
+      "diem": {
+        "Điểm trúng tuyển": {
+          "trung_tuyen": null
+        },
+        "Điểm xét tuyển": {
+          "xet_tuyen": 14.0
+        },
+        "col4": {
+          "col4": 14.0
+        },
+        "col5": {
+          "col5": 14.0
+        }
+      }
+    },
+    {
+      "nganh": "Kế toán",
+      "diem": {
+        "Điểm trúng tuyển": {
+          "trung_tuyen": null
+        },
+        "Điểm xét tuyển": {
+          "xet_tuyen": 14.0
+        },
+        "col4": {
+          "col4": 14.0
+        }
+      }
+    },
+    {
+      "nganh": "Bảo hiểm",
+      "diem": {
+        "Điểm trúng tuyển": {
+          "trung_tuyen": null
+        },
+        "Điểm xét tuyển": {
+          "xet_tuyen": 14.0
+        },
+        "col4": {
+          "col4": null
+        }
+      }
+    },
+    {
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "Điểm trúng tuyển": {
+          "trung_tuyen": null
+        },
+        "Điểm xét tuyển": {
+          "xet_tuyen": 14.0
+        },
+        "col4": {
+          "col4": null
+        }
+      }
+    },
+    {
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "Điểm trúng tuyển": {
+          "trung_tuyen": 14.5
+        },
+        "Điểm xét tuyển": {
+          "xet_tuyen": 14.0
+        },
+        "col4": {
+          "col4": 14.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ha-noi-c48550.html",
+  "thoigian": "2025-08-28 11:04:00",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ thông tin (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.05
+        },
+        "2022": {
+          "thi_thpt": 25.45
+        },
+        "2023": {
+          "thi_thpt": 24.7
+        },
+        "2024": {
+          "thi_thpt": 24.17
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.92
+        },
+        "2022": {
+          "thi_thpt": 33.55
+        },
+        "2023": {
+          "thi_thpt": 33.93
+        },
+        "2024": {
+          "thi_thpt": 30.72
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính - Ngân hàng (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.27
+        },
+        "2022": {
+          "thi_thpt": 32.13
+        },
+        "2023": {
+          "thi_thpt": 33.7
+        },
+        "2024": {
+          "thi_thpt": 32.53
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.12
+        },
+        "2022": {
+          "thi_thpt": 32.27
+        },
+        "2023": {
+          "thi_thpt": 33.52
+        },
+        "2024": {
+          "thi_thpt": 25.08
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quốc tế học (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.2
+        },
+        "2022": {
+          "thi_thpt": 32.22
+        },
+        "2023": {
+          "thi_thpt": 33.48
+        },
+        "2024": {
+          "thi_thpt": 25.27
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.6
+        },
+        "2022": {
+          "thi_thpt": 32.7
+        },
+        "2023": {
+          "thi_thpt": 33.9
+        },
+        "2024": {
+          "thi_thpt": 33.04
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Truyền thông doanh nghiệp (dạy bằng tiếng Pháp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.68
+        },
+        "2022": {
+          "thi_thpt": 32.85
+        },
+        "2023": {
+          "thi_thpt": 34.1
+        },
+        "2024": {
+          "thi_thpt": 31.05
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.75
+        },
+        "2022": {
+          "thi_thpt": 35.55
+        },
+        "2023": {
+          "thi_thpt": 35.38
+        },
+        "2024": {
+          "thi_thpt": 35.43
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Anh - Chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 33.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Nga",
+      "diem": {
+        "2021": {
+          "thi_thpt": 33.95
+        },
+        "2022": {
+          "thi_thpt": 31.18
+        },
+        "2023": {
+          "thi_thpt": 31.93
+        },
+        "2024": {
+          "thi_thpt": 32.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.6
+        },
+        "2022": {
+          "thi_thpt": 33.73
+        },
+        "2023": {
+          "thi_thpt": 33.7
+        },
+        "2024": {
+          "thi_thpt": 32.99
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 37.07
+        },
+        "2022": {
+          "thi_thpt": 35.92
+        },
+        "2023": {
+          "thi_thpt": 35.75
+        },
+        "2024": {
+          "thi_thpt": 35.8
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Trung Quốc - Chất lượng cao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.42
+        },
+        "2022": {
+          "thi_thpt": 35.1
+        },
+        "2023": {
+          "thi_thpt": 34.82
+        },
+        "2024": {
+          "thi_thpt": 34.95
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngôn ngữ Đức",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.53
+        },
+        "2022": {
+          "thi_thpt": 33.48
+        },
+        "2023": {
+          "thi_thpt": 33.96
+        },
+        "2024": {
+          "thi_thpt": 34.2
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngôn ngữ Tây Ban Nha",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.3
+        },
+        "2022": {
+          "thi_thpt": 32.77
+        },
+        "2023": {
+          "thi_thpt": 33.38
+        },
+        "2024": {
+          "thi_thpt": 33.14
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngôn ngữ Bồ Đào Nha",
+      "diem": {
+        "2021": {
+          "thi_thpt": 33.4
+        },
+        "2022": {
+          "thi_thpt": 30.32
+        },
+        "2023": {
+          "thi_thpt": 31.35
+        },
+        "2024": {
+          "thi_thpt": 31.4
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Italia",
+      "diem": {
+        "2021": {
+          "thi_thpt": 34.78
+        },
+        "2022": {
+          "thi_thpt": 32.15
+        },
+        "2023": {
+          "thi_thpt": 32.63
+        },
+        "2024": {
+          "thi_thpt": 32.41
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngôn ngữ Italia - Chất lượng cao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 33.05
+        },
+        "2022": {
+          "thi_thpt": 31.17
+        },
+        "2023": {
+          "thi_thpt": 30.95
+        },
+        "2024": {
+          "thi_thpt": 30.48
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.43
+        },
+        "2022": {
+          "thi_thpt": 35.08
+        },
+        "2023": {
+          "thi_thpt": 34.59
+        },
+        "2024": {
+          "thi_thpt": 34.45
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 37.55
+        },
+        "2022": {
+          "thi_thpt": 36.42
+        },
+        "2023": {
+          "thi_thpt": 36.15
+        },
+        "2024": {
+          "thi_thpt": 34.59
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Ngôn ngữ Hàn Quốc - Chất lượng cao",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.47
+        },
+        "2022": {
+          "thi_thpt": 34.73
+        },
+        "2023": {
+          "thi_thpt": 34.73
+        },
+        "2024": {
+          "thi_thpt": "-"
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Truyền thông đa phương tiện (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.75
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 25.94
+        },
+        "2024": {
+          "thi_thpt": 25.65
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Marketing (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.63
+        },
+        "2022": {
+          "thi_thpt": 34.63
+        },
+        "2023": {
+          "thi_thpt": 35.05
+        },
+        "2024": {
+          "thi_thpt": 33.93
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Công nghệ thông tin (dạy bằng tiếng Anh) - CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.7
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 24.2
+        },
+        "2024": {
+          "thi_thpt": 16.7
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh) - CLC",
+      "diem": {
+        "2021": {
+          "thi_thpt": 34.55
+        },
+        "2022": {
+          "thi_thpt": 32.1
+        },
+        "2023": {
+          "thi_thpt": 32.25
+        },
+        "2024": {
+          "thi_thpt": 32.11
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Nghiên cứu phát triển (dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 32.22
+        },
+        "2023": {
+          "thi_thpt": 32.55
+        },
+        "2024": {
+          "thi_thpt": 25.78
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Công nghệ tài chính (Dạy bằng tiếng Anh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 18.85
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại Học Kinh Tế - Đại Học Quốc Gia Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi-c48483.html",
+  "thoigian": "2025-08-28 11:02:58",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Kinh tế phát triển",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.57
+        },
+        "2022": {
+          "thi_thpt": 33.05
+        },
+        "2023": {
+          "thi_thpt": 34.25
+        },
+        "2024": {
+          "thi_thpt": 33.35
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kinh tế quốc tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.53
+        },
+        "2022": {
+          "thi_thpt": 35.33
+        },
+        "2023": {
+          "thi_thpt": 35.7
+        },
+        "2024": {
+          "thi_thpt": 33.43
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 36.2
+        },
+        "2022": {
+          "thi_thpt": 33.93
+        },
+        "2023": {
+          "thi_thpt": 34.54
+        },
+        "2024": {
+          "thi_thpt": 33.33
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.75
+        },
+        "2022": {
+          "thi_thpt": 33.18
+        },
+        "2023": {
+          "thi_thpt": 34.25
+        },
+        "2024": {
+          "thi_thpt": 33.62
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 35.55
+        },
+        "2022": {
+          "thi_thpt": 33.07
+        },
+        "2023": {
+          "thi_thpt": 34.1
+        },
+        "2024": {
+          "thi_thpt": 33.1
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh (do Đại học Troy, Hoa Kỳ cấp bằng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 34.85
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị kinh doanh (do Đại học St.Francis, Hoa Kỳ cấp bằng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 32.65
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

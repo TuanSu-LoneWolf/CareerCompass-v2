@@ -1,0 +1,313 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Khoa học và Công nghệ Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-khoa-hoc-va-cong-nghe-ha-noi-c48556.html",
+  "thoigian": "2025-08-28 11:04:04",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ Thông tin và truyền thông",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.75
+        },
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 24.05
+        },
+        "2024": {
+          "thi_thpt": 22.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học Vật liệu tiên tiến và Công nghệ Nano",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "thi_thpt": 22.35
+        },
+        "2023": {
+          "thi_thpt": 21.8
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Khoa học và Công nghệ Thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 22.05
+        },
+        "2024": {
+          "thi_thpt": 20.35
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Khoa học và Công nghệ Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.55
+        },
+        "2022": {
+          "thi_thpt": 23.15
+        },
+        "2023": {
+          "thi_thpt": 22.6
+        },
+        "2024": {
+          "thi_thpt": 21.1
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "An toàn thông tin (An ninh mạng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.0
+        },
+        "2022": {
+          "thi_thpt": 24.3
+        },
+        "2023": {
+          "thi_thpt": 24.05
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.1
+        },
+        "2022": {
+          "thi_thpt": 23.05
+        },
+        "2023": {
+          "thi_thpt": 20.15
+        },
+        "2024": {
+          "thi_thpt": 21.75
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Toán ứng dụng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.45
+        },
+        "2022": {
+          "thi_thpt": 22.6
+        },
+        "2023": {
+          "thi_thpt": 22.55
+        },
+        "2024": {
+          "thi_thpt": 21.15
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Vật lý kỹ thuật và điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.05
+        },
+        "2022": {
+          "thi_thpt": 22.75
+        },
+        "2023": {
+          "thi_thpt": 23.14
+        },
+        "2024": {
+          "thi_thpt": "-"
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật điện và năng lượng tái tạo",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.05
+        },
+        "2022": {
+          "thi_thpt": 22.6
+        },
+        "2023": {
+          "thi_thpt": 22.65
+        },
+        "2024": {
+          "thi_thpt": 20.8
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 24.63
+        },
+        "2024": {
+          "thi_thpt": 23.51
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Khoa học môi trường ứng dụng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.75
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 18.55
+        },
+        "2024": {
+          "thi_thpt": 18.65
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.3
+        },
+        "2022": {
+          "thi_thpt": 24.65
+        },
+        "2023": {
+          "thi_thpt": 24.51
+        },
+        "2024": {
+          "thi_thpt": 22.05
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.05
+        },
+        "2022": {
+          "thi_thpt": 24.2
+        },
+        "2023": {
+          "thi_thpt": 23.28
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Khoa học vũ trụ và công nghệ vệ tinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.6
+        },
+        "2022": {
+          "thi_thpt": 23.65
+        },
+        "2023": {
+          "thi_thpt": 20.3
+        },
+        "2024": {
+          "thi_thpt": 21.65
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ sinh học - Phát triển thuốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 22.8
+        },
+        "2023": {
+          "thi_thpt": 23.14
+        },
+        "2024": {
+          "thi_thpt": 21.6
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ vi mạch bán dẫn",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.01
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 23.57
+        }
+      }
+    }
+  ]
+}

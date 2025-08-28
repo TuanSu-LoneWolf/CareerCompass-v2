@@ -1,0 +1,103 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Buôn Ma Thuột",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-buon-ma-thot-c49152.html",
+  "thoigian": "2025-08-28 11:11:51",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.0
+        },
+        "2022": {
+          "thi_thpt": 23.0
+        },
+        "2023": {
+          "hoc_ba": 26.5
+        },
+        "2024": {
+          "thi_thpt": 22.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 700.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "hoc_ba": 21.0
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "hoc_ba": 22.0
+        },
+        "2024": {
+          "thi_thpt": 21.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 600.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 500.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Y tế công cộng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 19.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "hoc_ba": 18.0
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 500.0
+        }
+      }
+    }
+  ]
+}

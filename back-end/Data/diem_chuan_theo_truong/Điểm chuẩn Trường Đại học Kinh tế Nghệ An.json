@@ -1,0 +1,367 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Kinh tế Nghệ An",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kinh-te-nghe-an-c49086.html",
+  "thoigian": "2025-08-28 11:10:48",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 13.0
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.5
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Tài chính - ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.5
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản lý đất đai",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.5
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ tài chính",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Lâm học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.5
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        },
+        "Xét theo học bạ": {
+          "khac": 23.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Thú Y",
+      "diem": {
+        "2021": {
+          "thi_thpt": 14.0
+        },
+        "2022": {
+          "khac": 15.0
+        },
+        "2023": {
+          "thi_thpt": 14.0
+        },
+        "2024": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.5
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kinh tế số",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        },
+        "Xét theo học bạ": {
+          "khac": 20.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.5
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Nông nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "khac": 16.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Logictics và chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

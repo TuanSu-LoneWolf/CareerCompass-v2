@@ -1,0 +1,92 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Quân Y",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-quan-y-c48762.html",
+  "thoigian": "2025-08-28 11:06:16",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Bác sĩ đa khoa",
+      "diem": {
+        "2020": {
+          "thi_thpt": {
+            "- Nam": 25.5
+          }
+        },
+        "2021": {
+          "hoc_ba": 26.45
+        },
+        "2022": {
+          "thi_thpt": 24.35
+        },
+        "2023": {
+          "khac": {
+            "- Nam": 29.63
+          }
+        },
+        "2024": {
+          "thi_thpt": 26.1
+        },
+        "Ưu tiên xét tuyển HSG quốc gia và HSG bậc THPT": {
+          "khac": 24.8
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.15
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y học dự phòng",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "thi_thpt": 23.55
+        },
+        "Ưu tiên xét tuyển HSG quốc gia và HSG bậc THPT": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Dược học",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Ưu tiên xét tuyển HSG quốc gia và HSG bậc THPT": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.19
+        }
+      }
+    }
+  ]
+}

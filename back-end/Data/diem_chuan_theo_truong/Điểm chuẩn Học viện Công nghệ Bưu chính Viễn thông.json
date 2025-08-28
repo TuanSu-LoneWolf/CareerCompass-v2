@@ -1,0 +1,205 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Công nghệ Bưu chính Viễn thông",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-co-so-phia-nam-c49357.html",
+  "thoigian": "2025-08-28 11:15:10",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem": {
+        "2021": {
+          "khac": 19.3
+        },
+        "2022": {
+          "khac": 19.0
+        },
+        "2023": {
+          "khac": 18.15
+        },
+        "2024": {
+          "thi_thpt": 20.85
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "khac": 25.9
+        },
+        "2022": {
+          "khac": 25.85
+        },
+        "2023": {
+          "khac": 25.1
+        },
+        "2024": {
+          "thi_thpt": 25.17
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "An toàn thông tin",
+      "diem": {
+        "2021": {
+          "khac": 25.4
+        },
+        "2022": {
+          "khac": 25.05
+        },
+        "2023": {
+          "khac": 24.44
+        },
+        "2024": {
+          "thi_thpt": 24.68
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ đa phương tiện",
+      "diem": {
+        "2021": {
+          "khac": 25.05
+        },
+        "2022": {
+          "khac": 24.25
+        },
+        "2023": {
+          "khac": 24.05
+        },
+        "2024": {
+          "thi_thpt": 23.95
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "khac": 25.0
+        },
+        "2022": {
+          "khac": 21.7
+        },
+        "2023": {
+          "khac": 22.8
+        },
+        "2024": {
+          "thi_thpt": 18.4
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "khac": 25.65
+        },
+        "2022": {
+          "khac": 24.85
+        },
+        "2023": {
+          "khac": 24.1
+        },
+        "2024": {
+          "thi_thpt": 24.24
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "khac": 23.95
+        },
+        "2022": {
+          "khac": 22.9
+        },
+        "2023": {
+          "khac": 20.0
+        },
+        "2024": {
+          "thi_thpt": 20.95
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2021": {
+          "khac": 19.4
+        },
+        "2022": {
+          "khac": 19.05
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "thi_thpt": 19.65
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ Internet vạn vật",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "khac": 20.07
+        },
+        "2023": {
+          "khac": 21.7
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ thông tin - Chất lượng cao",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "thi_thpt": 23.25
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Marketing - Chất lượng cao",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "khac": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        }
+      }
+    }
+  ]
+}

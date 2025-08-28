@@ -1,0 +1,583 @@
+{
+  "ten_truong": "Đại học Khoa học - Đại học Thái Nguyên",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-khoa-hoc-dai-hoc-thai-nguyen-c48855.html",
+  "thoigian": "2025-08-28 11:07:28",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Luật (Luật, Dịch vụ pháp luật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 16.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học quản lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Toán tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật hoá học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản lý tài nguyên và Môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh (Tiếng Anh ứng dụng) Mã ngành: 7220201",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 20.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Anh (Tiếng Anh ứng dụng) Mã ngành: 7220201_HG",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh (Song ngữ Anh - Trung)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Anh (Song ngữ Anh - Hàn)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Văn học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Lịch sử (Lịch sử - Địa lý - Kinh tế pháp luật)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Báo chí (Báo chí đa phương tiện)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Thông tin - thư viện",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ sinh học Kỹ thuật xét nghiệm y sinh (Chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "hoc_ba": 23.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 23.5
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.5
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Hàn Quốc học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.5
+        },
+        "2022": {
+          "hoc_ba": 21.0
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "hoc_ba": 22.5
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.5
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Trung Quốc học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.5
+        },
+        "2022": {
+          "hoc_ba": 21.5
+        },
+        "2023": {
+          "thi_thpt": 16.5
+        },
+        "2024": {
+          "hoc_ba": 22.5
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.5
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Toán học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Quản lý thể dục thể thao",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 18.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Hóa học (Hóa học - Sinh học - Vật lý)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Công nghệ bán dẫn",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Ngôn ngữ và Văn hóa các dân tộc thiểu số Việt Nam",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo kết quả thi đánh giá năng lực của ĐHQG Hà Nội và ĐHQG Tp.HCM": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại Học Công Nghệ Giao Thông Vận Tải",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-nghe-giao-thong-van-tai-co-so-ha-noi-c48589.html",
+  "thoigian": "2025-08-28 11:04:19",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "khac": 24.05
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ kỹ thuật Cơ điện tử",
+      "diem": {
+        "2021": {
+          "khac": 23.2
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.5
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ kỹ thuật Cơ khí",
+      "diem": {
+        "2021": {
+          "khac": 20.35
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Hệ thống thông tin",
+      "diem": {
+        "2021": {
+          "khac": 24.0
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 24.4
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật Điện tử - viễn thông",
+      "diem": {
+        "2021": {
+          "khac": 23.0
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.8
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh tế xây dựng",
+      "diem": {
+        "2021": {
+          "khac": 17.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 22.75
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Logistics và Vận tải đa phương thức",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.3
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Thương mại điện tử",
+      "diem": {
+        "2021": {
+          "khac": 25.4
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 25.35
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 28.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "khac": 25.7
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 25.35
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 28.5
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "khac": 25.2
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 25.3
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 28.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.65
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ kỹ thuật xây dựng dân dụng và công nghiệp",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật xây dựng cầu đường bộ",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị Marketing",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 24.3
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 27.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Logistics và hạ tầng giao thông",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Tài chính doanh nghiệp",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.55
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Kế toán doanh nghiệp",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 23.5
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Trí tuệ nhân tạo và giao thông thông minh",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử trên ô tô",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 21.25
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Hạ tầng giao thông đô thị thông minh",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Công nghệ và quản lý môi trường",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Hải quan và Logistics",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Công nghệ ô tô và giao thông thông minh",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Quản lý xây dựng",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Kiến trúc nội thất",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Thanh tra và quản lý công trình giao thông",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Xây dựng và quản lý hạ tầng đô thị",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Công nghệ kỹ thuật vi mạch bán dẫn",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Công nghệ kỹ thuật Điện tử - viễn thông (tăng cường tiếng Nhật, định hướng thực hiện và làm việc tại Nhật Bản)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Logistics và quản lý chuỗi cung ứng (tăng cường tiếng Nhật, định hướng thực hiện và làm việc tại Nhật Bản)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Công nghệ thông tin (tăng cường tiếng Anh)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Logistics - Trường Đại học Tongmyong - Hàn Quốc cấp bằng",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Công nghệ thông tin - Đại học Công nghệ thông tin và quản lý Ban Lan - UITM cấp bằng",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Công nghệ kỹ thuật xây dựng Cầu đường bộ (tăng cường tiếng Nhật, định hướng thực hiện và làm việc tại Nhật Bản)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Quản lý, khai thác và bảo trì đường cao tốc",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "38",
+      "nganh": "Mô hình thông tin công trình (BIM) trong dự án hạ tầng giao thông",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "39",
+      "nganh": "Xây dựng Cầu – đường sắt",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "40",
+      "nganh": "Xây dựng Đường sắt - Metro",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "41",
+      "nganh": "Quản lý và điều hành vận tải đường sắt",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "hoc_ba": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

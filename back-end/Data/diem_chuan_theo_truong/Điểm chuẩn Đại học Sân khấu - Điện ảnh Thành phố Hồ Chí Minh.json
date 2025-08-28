@@ -1,0 +1,152 @@
+{
+  "ten_truong": "Điểm chuẩn Đại học Sân khấu - Điện ảnh Thành phố Hồ Chí Minh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-san-khau-dien-anh-thanh-pho-ho-chi-minh-c49294.html",
+  "thoigian": "2025-08-28 11:13:48",
+  "nganh": [
+    {
+      "stt": "Điểm năng khiếu",
+      "nganh": "Điểm chuẩn",
+      "diem": {
+        "2021": {
+          "thi_thpt": "Điểm năng khiếu"
+        },
+        "2022": {
+          "thi_thpt": "Điểm chuẩn"
+        },
+        "2023": {
+          "thi_thpt": "Điểm năng khiếu"
+        },
+        "2024": {
+          "thi_thpt": "Điểm kết hợp KQ học tập THPT với điểm thi năng khiếu"
+        },
+        "col6": {
+          "thi_thpt": "Điểm kết hợp KQ học tập THPT với điểm thi năng khiếu"
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Đạo diễn Điện ảnh - Truyền hình",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "KV 3": 19.0
+          }
+        },
+        "2023": {
+          "thi_thpt": 7.0
+        },
+        "2024": {
+          "thi_thpt": {
+            "KV 3": 28.5
+          }
+        },
+        "col6": {
+          "thi_thpt": 7.5
+        },
+        "col7": {
+          "thi_thpt": 25.0
+        },
+        "col8": {
+          "thi_thpt": 28.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Đạo diễn Sân khấu",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "KV 3": 20.5
+          }
+        },
+        "2023": {
+          "thi_thpt": 6.5
+        },
+        "2024": {
+          "thi_thpt": {
+            "KV 3": 26.0
+          }
+        },
+        "col6": {
+          "thi_thpt": 8.0
+        },
+        "col7": {
+          "thi_thpt": 27.0
+        },
+        "col8": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Diễn viên Kịch - Điện ảnh - Truyền hình",
+      "diem": {
+        "2021": {
+          "thi_thpt": 8.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "KV 3": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": 8.0
+        },
+        "2024": {
+          "thi_thpt": {
+            "KV 3": 21.0
+          }
+        },
+        "col6": {
+          "thi_thpt": 8.0
+        },
+        "col7": {
+          "thi_thpt": 22.0
+        },
+        "col8": {
+          "thi_thpt": 23.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quay phim",
+      "diem": {
+        "2021": {
+          "thi_thpt": 7.0
+        },
+        "2022": {
+          "thi_thpt": {
+            "KV 3": 21.0
+          }
+        },
+        "2023": {
+          "thi_thpt": 7.0
+        },
+        "2024": {
+          "thi_thpt": {
+            "KV 3": 19.0
+          }
+        },
+        "col6": {
+          "thi_thpt": 8.0
+        },
+        "col7": {
+          "thi_thpt": 28.0
+        },
+        "col8": {
+          "thi_thpt": 26.5
+        }
+      }
+    }
+  ]
+}

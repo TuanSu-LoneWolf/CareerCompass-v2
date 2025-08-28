@@ -1,0 +1,444 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Nội vụ Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-noi-vu-ha-noi-c48598.html",
+  "thoigian": "2025-08-28 11:04:24",
+  "nganh": [
+    {
+      "stt": "Quản trị nhân lực",
+      "nganh": "19,8 (A00, A01, D01) 21,5 (C00)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 25.0
+        },
+        "2021": {
+          "khac": 0.0
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "khac": 0.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 0.0
+        }
+      }
+    },
+    {
+      "stt": "Quản trị văn phòng",
+      "nganh": "19,5 (D01) 21,5 (C00) 22,5 (C19, C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 24.5
+        },
+        "2021": {
+          "khac": {
+            "D01": 20.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "khac": {
+            "D01": 23.75
+          }
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "A01": 23.75
+          }
+        }
+      }
+    },
+    {
+      "stt": "Luật (Chuyên ngành Thanh Tra)",
+      "nganh": "19,5 (A00, A01, D01) 21,5 (C00)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 25.25
+        },
+        "2021": {
+          "khac": 0.0
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "khac": 0.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 0.0
+        }
+      }
+    },
+    {
+      "stt": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch)",
+      "nganh": "16 (D01, D15) 18 (C00) 19 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 19.0
+        },
+        "2021": {
+          "khac": {
+            "D01": 16.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "Thông tin - thư viện",
+      "nganh": "15 (A10, D01) 17 (C00) 18 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "A01": 15.0
+          }
+        },
+        "2022": {
+          "thi_thpt": 10.0
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "A01": 15.0
+          }
+        }
+      }
+    },
+    {
+      "stt": "Quản lý nhà nước",
+      "nganh": "16 (A01, D01) 18 (C00, C01)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 21.0
+        },
+        "2021": {
+          "khac": 1.0
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "A01": 21.0
+          }
+        }
+      }
+    },
+    {
+      "stt": "Chuyên ngành Quản lý nhà nước về kinh tế",
+      "nganh": "16 (A00, A01, D01)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 21.0
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Chuyên ngành Quản lý tài chính công",
+      "nganh": "16 (A00, A01, D01)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 21.0
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Chuyên ngành Quản lý nhà nước về tôn giáo",
+      "nganh": "16 (A10, D01) 18 (C00) 19 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 21.0
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "CN Thanh tra",
+      "nganh": "19,5 (A00, A01, D01) 21,5 (C00)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 25.25
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Chính trị học",
+      "nganh": "15 (A10, D01) 17 (C00) 18 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "A01": 14.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 10.0
+        },
+        "2023": {
+          "khac": {
+            "D01": 15.5
+          }
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "D01": 15.0
+          }
+        }
+      }
+    },
+    {
+      "stt": "Chuyên ngành Chính sách công",
+      "nganh": "15 (A10, D01) 17 (C00) 18 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Lưu trữ học",
+      "nganh": "15 (D01, D15) 17 (C00) 18 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "D01": 14.5
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 18.0
+          }
+        },
+        "2023": {
+          "khac": {
+            "D01": 15.5
+          }
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "D01": 15.0
+          }
+        }
+      }
+    },
+    {
+      "stt": "Hệ thống thông tin",
+      "nganh": "15 (A00, A01, D01, D02)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": 0.0
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.75
+        }
+      }
+    },
+    {
+      "stt": "Xây dựng Đảng và chính quyền nhà nước",
+      "nganh": "18 (A00, D01) 20 (C00) 21 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 18.0
+        },
+        "2021": {
+          "khac": {
+            "A00": 14.5
+          }
+        },
+        "2022": {
+          "thi_thpt": 0.0
+        },
+        "2023": {
+          "khac": {
+            "A00": 16.0
+          }
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": {
+            "D14": 15.5
+          }
+        }
+      }
+    },
+    {
+      "stt": "Văn hóa học - CN Văn hóa du lịch - CN Văn hóa truyền thông",
+      "nganh": "18 (D01, D15) 20 (C00) 21 (C20)",
+      "diem": {
+        "2020": {
+          "thi_thpt": 23.0
+        },
+        "2021": {
+          "khac": {
+            "D01": 16.0
+          }
+        },
+        "2022": {
+          "thi_thpt": {
+            "D01": 20.8
+          }
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "Kinh tế",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 20.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.5
+        }
+      }
+    },
+    {
+      "stt": "Quản trị dịch vụ du lịch và lữ hành",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 1.0
+        }
+      }
+    },
+    {
+      "stt": "Ngôn ngữ Anh",
+      "nganh": "",
+      "diem": {
+        "2020": {
+          "thi_thpt": null
+        },
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 22.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.75
+        }
+      }
+    }
+  ]
+}

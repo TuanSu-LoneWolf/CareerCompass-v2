@@ -1,0 +1,43 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Trần Quốc Tuấn (Sĩ quan Lục quân 1)",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-dai-hoc-tran-quoc-tuan-si-quan-luc-quan-1-c57068.html",
+  "thoigian": "2025-08-28 11:06:32",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Đại học ngành Quân sự cơ sở",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "2024": {
+          "khac": 1.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Cao đẳng ngành Quân sự cơ sở",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 10.0
+        },
+        "2023": {
+          "khac": 1.0
+        },
+        "2024": {
+          "khac": 1.0
+        }
+      }
+    }
+  ]
+}

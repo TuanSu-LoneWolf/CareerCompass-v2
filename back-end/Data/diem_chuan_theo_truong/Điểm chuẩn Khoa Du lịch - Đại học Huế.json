@@ -1,0 +1,133 @@
+{
+  "ten_truong": "Điểm chuẩn Khoa Du lịch - Đại học Huế",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-du-lich-dai-hoc-hue-c48979.html",
+  "thoigian": "2025-08-28 11:09:37",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Du lịch điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.5
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "thi_thpt": 15.5
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị du lịch và khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        }
+      }
+    }
+  ]
+}

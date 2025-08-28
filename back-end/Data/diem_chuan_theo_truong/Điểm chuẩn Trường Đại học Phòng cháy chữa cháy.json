@@ -1,0 +1,52 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Phòng cháy chữa cháy",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-phong-chay-chua-chay-c48793.html",
+  "thoigian": "2025-08-28 11:06:43",
+  "nganh": [
+    {
+      "stt": "Phía Bắc",
+      "nganh": "+ Đối với Nam: 24,09 điểm + Đối với Nữ: 26,96 điểm",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.11
+        },
+        "2023": {
+          "thi_thpt": 18.06
+        },
+        "2024": {
+          "thi_thpt": 19.05
+        }
+      }
+    },
+    {
+      "stt": "Phía Nam",
+      "nganh": "+ Đối với Nam: 21,43 điểm + Đối với Nữ: 25,25 điểm",
+      "diem": {
+        "2022": {
+          "thi_thpt": 17.88
+        },
+        "2023": {
+          "thi_thpt": 16.87
+        },
+        "2024": {
+          "thi_thpt": 18.17
+        }
+      }
+    },
+    {
+      "stt": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Hệ dân sự)",
+      "nganh": "13,00",
+      "diem": {
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 18.97
+        },
+        "2024": {
+          "thi_thpt": "-"
+        }
+      }
+    }
+  ]
+}

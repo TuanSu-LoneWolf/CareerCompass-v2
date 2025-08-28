@@ -1,0 +1,277 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Biên phòng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-bien-phong-c48780.html",
+  "thoigian": "2025-08-28 11:06:25",
+  "nganh": [
+    {
+      "stt": "Ngành Biên phòng",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "* Tổ hợp A01",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh miền Bắc",
+      "nganh": "- Tuyển thẳng HSG bậc THPT: 25,50 - Xét tuyển KQ thi THPT: 26,35",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.05
+        },
+        "2023": {
+          "thi_thpt": 23.68
+        },
+        "2024": {
+          "thi_thpt": 24.6
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 4",
+      "nganh": "24,15",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.7
+        },
+        "2023": {
+          "thi_thpt": 20.45
+        },
+        "2024": {
+          "thi_thpt": 25.2
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 5",
+      "nganh": "24,50",
+      "diem": {
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 21.95
+        },
+        "2024": {
+          "thi_thpt": 23.04
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 7",
+      "nganh": "- Tuyển thẳng HSG bậc THPT: 24,80 - Xét tuyển từ KQ thi THPT: 25,00 - Xét tuyển từ điểm học bạ THPT: 28,52",
+      "diem": {
+        "2022": {
+          "thi_thpt": 24.6
+        },
+        "2023": {
+          "thi_thpt": 23.09
+        },
+        "2024": {
+          "thi_thpt": 21.3
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 9",
+      "nganh": "- Xét tuyển từ KQ thi THPT: 24,85 - Xét tuyển từ điểm học bạ THPT: 28,51",
+      "diem": {
+        "2022": {
+          "thi_thpt": 24.5
+        },
+        "2023": {
+          "thi_thpt": 21.25
+        },
+        "2024": {
+          "thi_thpt": 23.7
+        }
+      }
+    },
+    {
+      "stt": "* Tổ hợp C00",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh miền Bắc",
+      "nganh": "Tuyển thẳng HSG bậc THPT: 25,00 - Xét tuyển từ KQ thi THPT: 28,50",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 26.99
+        },
+        "2024": {
+          "thi_thpt": 28.37
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 4",
+      "nganh": "27,25",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.0
+        },
+        "2023": {
+          "thi_thpt": 22.75
+        },
+        "2024": {
+          "thi_thpt": 27.58
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 5",
+      "nganh": "- Xét tuyển từ KQ thi THPT: 27,50 - Xét tuyển từ điểm học bạ THPT: 23,15",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 25.57
+        },
+        "2024": {
+          "thi_thpt": 27.34
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 7",
+      "nganh": "- Xét tuyển từ KQ thi THPT: 27,00 - Xét tuyển từ điểm học bạ THPT: 22,68",
+      "diem": {
+        "2022": {
+          "thi_thpt": 25.75
+        },
+        "2023": {
+          "thi_thpt": 24.87
+        },
+        "2024": {
+          "thi_thpt": 27.2
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Quân khu 9",
+      "nganh": "- Xét tuyển từ KQ thi THPT: 26,25 - Xét tuyển từ điểm học bạ THPT: 24,13",
+      "diem": {
+        "2022": {
+          "thi_thpt": 26.75
+        },
+        "2023": {
+          "thi_thpt": 25.75
+        },
+        "2024": {
+          "thi_thpt": 27.9
+        }
+      }
+    },
+    {
+      "stt": "Ngành Luật",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "* Khối C00",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh miền Bắc",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 27.47
+        },
+        "2024": {
+          "thi_thpt": 26.75
+        }
+      }
+    },
+    {
+      "stt": "* Khối C00",
+      "nganh": "",
+      "diem": {
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh miền Bắc",
+      "nganh": "27,25",
+      "diem": {
+        "2022": {
+          "thi_thpt": 28.25
+        },
+        "2023": {
+          "thi_thpt": 25.5
+        },
+        "2024": {
+          "thi_thpt": 26.63
+        }
+      }
+    }
+  ]
+}

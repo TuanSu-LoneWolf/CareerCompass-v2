@@ -1,0 +1,181 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tôn Đức Thắng - Phân hiệu Nha Trang",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ton-duc-thang-phan-hieu-nha-trang-c49127.html",
+  "thoigian": "2025-08-28 11:11:30",
+  "nganh": [
+    {
+      "stt": "Tổ hợp xét tuyển (môn*2 là môn nhân hệ số 2)",
+      "nganh": "Điều kiện môn học",
+      "diem": {
+        "2021": {
+          "khac": 5.0
+        },
+        "2022": {
+          "thi_thpt": 6.0
+        }
+      }
+    },
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "khac": 32.9
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 28.0
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "khac": 34.6
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 28.0
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị kinh doanh (chuyên ngành Quản trị Nhà hàng - khách sạn)",
+      "diem": {
+        "2021": {
+          "khac": 31.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 28.0
+        },
+        "2024": {
+          "khac": 24.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "khac": 30.5
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "khac": 30.5
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Việt Nam học",
+      "diem": {
+        "2021": {
+          "khac": 25.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật phần mềm",
+      "diem": {
+        "2021": {
+          "khac": 29.0
+        },
+        "2022": {
+          "thi_thpt": 22.0
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "khac": 22.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Thiết kế đồ họa",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "khac": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Kiến trúc Đà Nẵng",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-kien-truc-da-nang-c49046.html",
+  "thoigian": "2025-08-28 11:10:20",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kiến trúc",
+      "diem": {
+        "2021": {
+          "khac": 16.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "hoc_ba": 6.5
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 0.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Thiết kế đồ họa",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "hoc_ba": 7.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 21.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Thiết kế nội thất",
+      "diem": {
+        "2021": {
+          "khac": 16.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "hoc_ba": 6.5
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 0.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật xây dựng (Xây dựng Dân dụng và Công nghiệp)",
+      "diem": {
+        "2021": {
+          "khac": 14.25
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật xây dựng công trình giao thông (Xây dựng Cầu - Đường)",
+      "diem": {
+        "2021": {
+          "khac": 14.25
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật Cơ sở hạ tầng",
+      "diem": {
+        "2021": {
+          "khac": 14.25
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản lý Xây dựng",
+      "diem": {
+        "2021": {
+          "khac": 14.25
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "khac": 14.5
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem": {
+        "2021": {
+          "khac": 14.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "khac": 14.2
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "khac": 14.2
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "khac": 14.2
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "khac": 14.2
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "khac": 14.5
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 19.5
+        },
+        "2023": {
+          "hoc_ba": 6.5
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.5
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "khac": 14.2
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "khac": 14.2
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "hoc_ba": 6.0
+        },
+        "2024": {
+          "thi_thpt": 14.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi TN THPT": {
+          "thi_thpt": 17.0
+        }
+      }
+    }
+  ]
+}

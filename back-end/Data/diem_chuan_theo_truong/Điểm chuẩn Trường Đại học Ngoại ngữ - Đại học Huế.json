@@ -1,0 +1,205 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Ngoại ngữ - Đại học Huế",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngoai-ngu-dai-hoc-hue-c48954.html",
+  "thoigian": "2025-08-28 11:09:18",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.75
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 25.5
+        },
+        "2024": {
+          "thi_thpt": 27.1
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Tiếng Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Tiếng Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "thi_thpt": 23.0
+        },
+        "2023": {
+          "thi_thpt": 24.85
+        },
+        "2024": {
+          "thi_thpt": 26.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Việt Nam học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.25
+        },
+        "2022": {
+          "thi_thpt": 16.5
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "thi_thpt": 21.5
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Nga",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Pháp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.75
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 21.5
+        },
+        "2022": {
+          "thi_thpt": 17.5
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "thi_thpt": 20.5
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.5
+        },
+        "2022": {
+          "thi_thpt": 21.5
+        },
+        "2023": {
+          "thi_thpt": 22.5
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quốc tế học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 15.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    }
+  ]
+}

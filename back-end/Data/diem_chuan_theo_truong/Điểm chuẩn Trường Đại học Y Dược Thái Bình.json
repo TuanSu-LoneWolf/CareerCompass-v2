@@ -1,0 +1,115 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Y Dược Thái Bình",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-duoc-thai-binh-c48939.html",
+  "thoigian": "2025-08-28 11:08:40",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.9
+        },
+        "2022": {
+          "thi_thpt": 26.3
+        },
+        "2023": {
+          "thi_thpt": 25.8
+        },
+        "2024": {
+          "thi_thpt": 26.17
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y học cổ truyền",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.35
+        },
+        "2022": {
+          "thi_thpt": 23.55
+        },
+        "2023": {
+          "thi_thpt": 23.25
+        },
+        "2024": {
+          "thi_thpt": 23.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.2
+        },
+        "2022": {
+          "thi_thpt": 21.3
+        },
+        "2023": {
+          "thi_thpt": 22.1
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.9
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 23.14
+        },
+        "2024": {
+          "thi_thpt": 24.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Y học dự phòng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.1
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 19.15
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 24.15
+        },
+        "2023": {
+          "thi_thpt": 23.7
+        },
+        "2024": {
+          "thi_thpt": 23.05
+        }
+      }
+    }
+  ]
+}

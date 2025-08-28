@@ -1,0 +1,299 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Y Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-y-ha-noi-c48507.html",
+  "thoigian": "2025-08-28 11:03:24",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 28.85
+        },
+        "2022": {
+          "thi_thpt": 28.15
+        },
+        "2023": {
+          "thi_thpt": 27.73
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa (Kết hợp chứng chỉ ngoại ngữ quốc tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.5
+        },
+        "2022": {
+          "thi_thpt": 26.25
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": "-"
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Y học Cổ truyền",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": 25.25
+        },
+        "2023": {
+          "thi_thpt": 24.77
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Răng Hàm Mặt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 28.45
+        },
+        "2022": {
+          "thi_thpt": 27.7
+        },
+        "2023": {
+          "thi_thpt": 27.5
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Răng Hàm Mặt (Kết hợp chứng chỉ ngoại ngữ quốc tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 25.5
+        },
+        "2024": {
+          "thi_thpt": "-"
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Y học Dự phòng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.85
+        },
+        "2022": {
+          "thi_thpt": 23.15
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Y tế Công cộng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.8
+        },
+        "2022": {
+          "thi_thpt": 21.5
+        },
+        "2023": {
+          "thi_thpt": 20.7
+        },
+        "2024": {
+          "thi_thpt": {
+            "B00": 22.85
+          }
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": 25.55
+        },
+        "2023": {
+          "thi_thpt": 24.85
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Điều dưỡng (Chương trình tiên tiến)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.6
+        },
+        "2022": {
+          "thi_thpt": 24.7
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Điều dưỡng (Chương trình tiên tiến kết hợp chứng chỉ ngoại ngữ quốc tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": "-"
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Dinh dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.65
+        },
+        "2022": {
+          "thi_thpt": 23.25
+        },
+        "2023": {
+          "thi_thpt": 23.19
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Khúc xạ nhãn khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 25.4
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật phục hồi chức năng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 22.7
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Hộ sinh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật Phục hình răng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 100.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Tâm lý học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": {
+            "B00": 25.46
+          }
+        }
+      }
+    }
+  ]
+}

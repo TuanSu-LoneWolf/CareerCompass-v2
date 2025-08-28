@@ -1,0 +1,673 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Thương mại",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-thuong-mai-c48503.html",
+  "thoigian": "2025-08-28 11:03:17",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kinh tế (Quản lý kinh tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.35
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 25.7
+        },
+        "2024": {
+          "thi_thpt": 25.9
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kế toán (Kế toán doanh nghiệp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.6
+        },
+        "2022": {
+          "thi_thpt": 26.2
+        },
+        "2023": {
+          "thi_thpt": 25.9
+        },
+        "2024": {
+          "thi_thpt": 26.15
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Kế toán (Kế toán công)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 25.8
+        },
+        "2024": {
+          "thi_thpt": 25.9
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị nhân lực (Quản trị nhân lực doanh nghiệp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.55
+        },
+        "2022": {
+          "thi_thpt": 26.2
+        },
+        "2023": {
+          "thi_thpt": 25.9
+        },
+        "2024": {
+          "thi_thpt": 26.15
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Thương mại điện tử (Quản trị Thương mại điện tử)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.1
+        },
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "thi_thpt": 26.7
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Hệ thống thông tin quản lý (Quản trị hệ thống thông tin)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.3
+        },
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh (Quản trị kinh doanh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.7
+        },
+        "2022": {
+          "thi_thpt": 26.35
+        },
+        "2023": {
+          "thi_thpt": 26.5
+        },
+        "2024": {
+          "thi_thpt": 26.1
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị kinh doanh (Tiếng Pháp thương mại)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh (Tiếng Trung thương mại)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.8
+        },
+        "2022": {
+          "thi_thpt": 26.0
+        },
+        "2023": {
+          "thi_thpt": 26.9
+        },
+        "2024": {
+          "thi_thpt": 26.5
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị khách sạn (Quản trị khách sạn - (Chương trình định hướng nghề nghiệp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.15
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Quản trị dịch vụ du lịch và lữ hành - Chương trình định hướng nghề nghiệp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 25.6
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Marketing (Marketing thương mại)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.45
+        },
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Marketing (Quản trị thương hiệu)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.15
+        },
+        "2022": {
+          "thi_thpt": 26.7
+        },
+        "2023": {
+          "thi_thpt": 26.8
+        },
+        "2024": {
+          "thi_thpt": 26.75
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Luật kinh tế (Luật kinh tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.1
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 25.7
+        },
+        "2024": {
+          "thi_thpt": 25.8
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Tài chính - Ngân hàng (Tài chính - Ngân hàng thương mại)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.35
+        },
+        "2022": {
+          "thi_thpt": 25.9
+        },
+        "2023": {
+          "thi_thpt": 25.9
+        },
+        "2024": {
+          "thi_thpt": 26.25
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Tài chính - Ngân hàng (Tài chính công)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.15
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 25.7
+        },
+        "2024": {
+          "thi_thpt": 25.95
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Kinh doanh quốc tế (Thương mại quốc tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 26.6
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "thi_thpt": 26.6
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Kinh tế quốc tế (Kinh tế quốc tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.95
+        },
+        "2022": {
+          "thi_thpt": 26.5
+        },
+        "2023": {
+          "thi_thpt": 26.7
+        },
+        "2024": {
+          "thi_thpt": 26.5
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngôn ngữ Anh (Tiếng Anh Thương mại)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.7
+        },
+        "2022": {
+          "thi_thpt": 26.05
+        },
+        "2023": {
+          "thi_thpt": 25.8
+        },
+        "2024": {
+          "thi_thpt": 26.05
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Logistics và Quản lý chuỗi cung ứng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.4
+        },
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "thi_thpt": 26.8
+        },
+        "2024": {
+          "thi_thpt": 26.9
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Kiểm toán (Kiểm toán)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.55
+        },
+        "2022": {
+          "thi_thpt": 26.2
+        },
+        "2023": {
+          "thi_thpt": 26.2
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Tài chính - Ngân hàng (Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.1
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.1
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Quản trị dịch vụ du lịch và lữ hành)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.8
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.55
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Hệ thống thông tin quản lý (Quản trị hệ thống thông tin - Chương trình định hướng nghề nghiệp)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.2
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Quản trị kinh doanh (Khởi nghiệp và phát triển kinh doanh)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "thi_thpt": 26.3
+        },
+        "2024": {
+          "thi_thpt": 25.55
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Quản trị kinh doanh (Quản trị kinh doanh - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.15
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Quản trị nhân lực (Quản trị nhân lực doanh nghiệp - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 25.5
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Marketing (Marketing số)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 26.9
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "thi_thpt": 26.75
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Luật kinh tế (Luật thương mại quốc tế)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 25.6
+        },
+        "2024": {
+          "thi_thpt": 25.6
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Kế toán (Kế toán doanh nghiệp) - Tích hợp chương trình ICAEW CFAB",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Kinh tế số (Phân tích kinh doanh trong môi trường số)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 25.8
+        },
+        "2024": {
+          "thi_thpt": 26.1
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Quản trị khách sạn (Quản trị khách sạn)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.55
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Quản trị khách sạn (Quản trị khách sạn - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Marketing (Marketing thương mại - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Kinh doanh quốc tế (Thương mại quốc tế - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Logistics và xuất nhập khẩu - Chương trình định hướng chuyên sâu nghề nghiệp quốc tế - IPOP)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.35
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Tài chính - Ngân hàng (Công nghệ Tài chính ngân hàng)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "ten_truong": "Điểm chuẩn Khoa Y - ĐHQG TP.HCM",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-y-dai-hoc-quoc-gia-tphcm-c49199.html",
+  "thoigian": "2025-08-28 11:13:03",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 27.15
+        },
+        "2022": {
+          "thi_thpt": 26.45
+        },
+        "2023": {
+          "thi_thpt": 26.15
+        },
+        "2024": {
+          "thi_thpt": 26.4
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Dược học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 25.12
+        },
+        "2024": {
+          "thi_thpt": 25.31
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Răng Hàm Mặt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.85
+        },
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "thi_thpt": 26.05
+        },
+        "2024": {
+          "thi_thpt": 26.33
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Y học cổ truyền",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "thi_thpt": 24.24
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Điều dưỡng",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.65
+        },
+        "2024": {
+          "thi_thpt": 22.6
+        }
+      }
+    }
+  ]
+}

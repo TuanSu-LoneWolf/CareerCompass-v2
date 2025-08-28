@@ -1,0 +1,61 @@
+{
+  "ten_truong": "Học viện Ngân hàng - Phân viện Phú Yên",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-ngan-hang-phan-vien-phu-yen-c49169.html",
+  "thoigian": "2025-08-28 11:12:12",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "khac": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngân hàng",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 19.5
+        },
+        "2024": {
+          "khac": 15.0
+        }
+      }
+    }
+  ]
+}

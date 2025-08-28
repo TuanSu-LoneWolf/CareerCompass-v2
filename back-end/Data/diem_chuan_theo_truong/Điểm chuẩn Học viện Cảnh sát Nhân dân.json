@@ -1,0 +1,64 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Cảnh sát Nhân dân",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-canh-sat-nhan-dan-c48759.html",
+  "thoigian": "2025-08-28 11:06:09",
+  "nganh": [
+    {
+      "stt": "Nữ",
+      "nganh": "Nam",
+      "diem": {
+        "2021": {
+          "thi_thpt": "Nữ"
+        },
+        "2022": {
+          "thi_thpt": "Nam"
+        },
+        "2023": {
+          "thi_thpt": "Nữ"
+        },
+        "2024": {
+          "thi_thpt": "Nam"
+        },
+        "col6": {
+          "thi_thpt": "Nữ"
+        },
+        "col7": {
+          "thi_thpt": "Nam"
+        },
+        "col8": {
+          "thi_thpt": "Nữ"
+        }
+      }
+    },
+    {
+      "stt": "Nghiệp vụ Cảnh sát",
+      "nganh": "A01: 27,16 C03: 27,73 D01: 27,36 (Tổng điểm của 03 môn thuộc tổ hợp xét tuyển và điểm trung bình cộng kết quả học tập 3 năm THPT lớp 10, 11, 12 được quy về thang điểm 30 làm tròn đến 02 chữ số thập phân, tính theo công thức là 26.36)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 1.0
+        },
+        "2022": {
+          "thi_thpt": 1.0
+        },
+        "2023": {
+          "thi_thpt": 1.0
+        },
+        "2024": {
+          "thi_thpt": 1.0
+        },
+        "col6": {
+          "thi_thpt": 1.0
+        },
+        "col7": {
+          "thi_thpt": 1.0
+        },
+        "col8": {
+          "thi_thpt": 4.0
+        },
+        "col9": {
+          "thi_thpt": 4.0
+        }
+      }
+    }
+  ]
+}

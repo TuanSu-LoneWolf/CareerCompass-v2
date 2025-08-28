@@ -1,0 +1,295 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Công đoàn",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-cong-doan-c48557.html",
+  "thoigian": "2025-08-28 11:04:07",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Bảo hộ lao động",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.2
+        },
+        "2022": {
+          "thi_thpt": 15.3
+        },
+        "2023": {
+          "thi_thpt": 15.15
+        },
+        "2024": {
+          "thi_thpt": 15.2
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.65
+        },
+        "2022": {
+          "thi_thpt": 23.25
+        },
+        "2023": {
+          "thi_thpt": 22.8
+        },
+        "2024": {
+          "thi_thpt": 22.8
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị nhân lực",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.8
+        },
+        "2022": {
+          "thi_thpt": 23.3
+        },
+        "2023": {
+          "thi_thpt": 22.7
+        },
+        "2024": {
+          "thi_thpt": 23.19
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.85
+        },
+        "2022": {
+          "thi_thpt": 23.6
+        },
+        "2023": {
+          "thi_thpt": 23.15
+        },
+        "2024": {
+          "thi_thpt": 23.6
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.7
+        },
+        "2022": {
+          "thi_thpt": 23.5
+        },
+        "2023": {
+          "thi_thpt": 23.2
+        },
+        "2024": {
+          "thi_thpt": 23.61
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quan hệ lao động",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.1
+        },
+        "2022": {
+          "thi_thpt": 15.3
+        },
+        "2023": {
+          "thi_thpt": 17.1
+        },
+        "2024": {
+          "thi_thpt": 19.95
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Xã hội học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.75
+        },
+        "2022": {
+          "thi_thpt": 15.3
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công tác xã hội",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.7
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 21.25
+        },
+        "2024": {
+          "thi_thpt": 23.75
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.5
+        },
+        "2022": {
+          "thi_thpt": 26.1
+        },
+        "2023": {
+          "thi_thpt": 23.23
+        },
+        "2024": {
+          "thi_thpt": 26.38
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh (môn Tiếng Anh nhân hệ số 2)",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 30.5
+        },
+        "2023": {
+          "thi_thpt": 32.0
+        },
+        "2024": {
+          "thi_thpt": 33.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Việt Nam học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 16.0
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 22.3
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Việt Nam học",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 22.5
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 25.7
+        },
+        "2024": {
+          "thi_thpt": 23.4
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.63
+        }
+      }
+    }
+  ]
+}

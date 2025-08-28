@@ -1,0 +1,673 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Giao thông vận tải Thành phố Hồ Chí Minh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-giao-thong-van-tai-thanh-pho-ho-chi-minh-c49279.html",
+  "thoigian": "2025-08-28 11:13:35",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học hàng hải (chuyên ngành Điều khiển và quản lý tàu biển)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học hàng hải (chuyên ngành Khai thác máy tàu thủy và quản lý kỹ thuật)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 19.4
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Khoa học hàng hải (chuyên ngành Kỹ thuật điện, điện tử và điều khiển; Cơ điện tử)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 18.7
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật và chính sách hàng hải",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 18.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Khoa học hàng hải (chuyên ngành Quản lý cảng và logistics) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Khoa học hàng hải (chuyên ngành Quản lý hàng hải) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 23.7
+        },
+        "2022": {
+          "thi_thpt": 25.3
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật điện (chuyên ngành Điện công nghiệp; Hệ thống điện giao thông; Năng lượng tái tạo)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.2
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật điện tử – viễn thông – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 23.6
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 26.0
+        },
+        "2022": {
+          "thi_thpt": 28.2
+        },
+        "2023": {
+          "thi_thpt": 27.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin)- chương trình học hoàn toàn bằng tiếng Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ thông tin (chuyên ngành Khoa học dữ liệu và AI) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ thông tin (chuyên ngành Smart logistics) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ thông tin (chuyên ngành Công nghệ ô tô số) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản lý xây dựng – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.2
+        },
+        "2022": {
+          "thi_thpt": 26.7
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và công nghiệp; Kỹ thuật kết cấu công trình; Thiết kế nội thất)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 23.4
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 20.0
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành Xây dựng cầu đường; Xây dựng đường bộ; Xây dựng công trình giao thông đô thị; Xây dựng đường sắt-metro)",
+      "diem": {
+        "2021": {
+          "hoc_ba": 23.0
+        },
+        "2022": {
+          "thi_thpt": 25.2
+        },
+        "2023": {
+          "thi_thpt": 18.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Quy hoạch và quản lý giao thông",
+      "diem": {
+        "2021": {
+          "hoc_ba": 16.4
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": 21.75
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Kinh tế xây dựng (chuyên ngành Kinh tế và quản lý bất động sản) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 20.3
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Kinh tế xây dựng (chuyên ngành Kinh tế xây dựng) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.2
+        },
+        "2022": {
+          "thi_thpt": 25.8
+        },
+        "2023": {
+          "thi_thpt": 22.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải biển) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.5
+        },
+        "2022": {
+          "thi_thpt": 27.1
+        },
+        "2023": {
+          "thi_thpt": 26.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "24",
+      "nganh": "Kinh tế vận tải (chuyên ngành Kinh tế vận tải hàng không) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 23.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "25",
+      "nganh": "Khai thác vận tải (chuyên ngành Quản lý và kinh doanh vận tải) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.9
+        },
+        "2022": {
+          "thi_thpt": 27.5
+        },
+        "2023": {
+          "thi_thpt": 26.5
+        },
+        "2024": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "26",
+      "nganh": "Khai thác vận tải (chuyên ngành Quản trị logistics và vận tải đa phương thức) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 26.9
+        },
+        "2022": {
+          "thi_thpt": 29.4
+        },
+        "2023": {
+          "thi_thpt": 28.5
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "27",
+      "nganh": "Kỹ thuật ô tô (chuyên ngành Cơ khí ô tô; Cơ điện tử ô tô) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.3
+        },
+        "2022": {
+          "thi_thpt": 27.0
+        },
+        "2023": {
+          "thi_thpt": 26.0
+        },
+        "2024": {
+          "thi_thpt": 19.0
+        }
+      }
+    },
+    {
+      "stt": "28",
+      "nganh": "Logistics và quản lý chuỗi cung ứng - chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": 27.1
+        },
+        "2022": {
+          "thi_thpt": 29.4
+        },
+        "2023": {
+          "thi_thpt": 29.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "29",
+      "nganh": "Logistics và quản lý chuỗi cung ứng – chương trình học hoàn toàn bằng tiếng Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "30",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 23.0
+        },
+        "2024": {
+          "thi_thpt": 17.0
+        }
+      }
+    },
+    {
+      "stt": "31",
+      "nganh": "Công nghệ kỹ thuật cơ khí – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "32",
+      "nganh": "Công nghệ kỹ thuật ô tô – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "33",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "34",
+      "nganh": "Kỹ thuật cơ khí (chuyên ngành Quản lý và khai thác Máy xếp dỡ – Xây dựng; Cơ khí tự động) – chương trình tiên tiến",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "35",
+      "nganh": "Kỹ thuật tàu thủy (chuyên ngành Kỹ thuật tàu thủy, công trình nổi và quản lý hệ thống công nghiệp)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "36",
+      "nganh": "Kỹ thuật môi trường (chuyên ngành Kỹ thuật môi trường; Quản lý an toàn và môi trường)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "37",
+      "nganh": "Kỹ thuật xây dựng công trình thủy (chuyên ngành Xây dựng và quản lý cảng – công trình giao thông thủy)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        }
+      }
+    }
+  ]
+}

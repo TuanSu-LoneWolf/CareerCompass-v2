@@ -1,0 +1,199 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Mỹ thuật Công nghiệp",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-my-thuat-cong-nghiep-c48545.html",
+  "thoigian": "2025-08-28 11:03:53",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Hội họa",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": "Hoành tráng"
+        },
+        "2021": {
+          "thi_thpt": 18.17
+        },
+        "2022": {
+          "thi_thpt": 20.92
+        },
+        "2023": {
+          "thi_thpt": 20.25
+        },
+        "2024": {
+          "thi_thpt": 22.3
+        },
+        "col7": {
+          "thi_thpt": 21.5
+        }
+      }
+    },
+    {
+      "stt": "Sơn mài",
+      "nganh": "17,50",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 20.12
+        },
+        "2021": {
+          "thi_thpt": 20.25
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Điêu khắc",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 17.1
+        },
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.6
+        },
+        "2023": {
+          "thi_thpt": 21.15
+        },
+        "2024": {
+          "thi_thpt": 20.4
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Gốm",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 17.0
+        },
+        "2021": {
+          "thi_thpt": 19.53
+        },
+        "2022": {
+          "thi_thpt": 19.3
+        },
+        "2023": {
+          "thi_thpt": 21.4
+        },
+        "2024": {
+          "thi_thpt": 20.45
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Thiết kế công nghiệp",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": "Tạo dáng công nghiệp"
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": 19.84
+        },
+        "2024": {
+          "thi_thpt": 21.65
+        },
+        "col7": {
+          "thi_thpt": 20.7
+        }
+      }
+    },
+    {
+      "stt": "Thiết kế đồ chơi và phương tiện hỗ trợ học tập",
+      "nganh": "",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "Thiết kế trang sức",
+      "nganh": "18,00",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 20.26
+        }
+      }
+    },
+    {
+      "stt": "Thiết kế công nghiệp",
+      "nganh": "17,00",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Thiết kế đồ họa",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 21.38
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 21.75
+        },
+        "2023": {
+          "thi_thpt": 23.75
+        },
+        "2024": {
+          "thi_thpt": 22.18
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Thiết kế thời trang",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 20.0
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 19.5
+        },
+        "2023": {
+          "thi_thpt": 21.65
+        },
+        "2024": {
+          "thi_thpt": 20.7
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Thiết kế nội thất",
+      "diem": {
+        "Chuyên ngành": {
+          "thi_thpt": 19.32
+        },
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": 15.5
+        },
+        "2023": {
+          "thi_thpt": 22.25
+        },
+        "2024": {
+          "thi_thpt": 21.2
+        }
+      }
+    }
+  ]
+}

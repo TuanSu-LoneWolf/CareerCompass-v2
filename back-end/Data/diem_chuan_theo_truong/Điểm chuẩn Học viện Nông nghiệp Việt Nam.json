@@ -1,0 +1,331 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Nông nghiệp Việt Nam",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-nong-nghiep-viet-nam-c48711.html",
+  "thoigian": "2025-08-28 11:05:31",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Chăn nuôi thú y - Thủy sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 17.0
+        },
+        "2024": {
+          "khac": 17.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Thú y",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.5
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ sinh học và Công nghệ dược liệu",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ thông tin và Kỹ thuật số",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.5
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "khac": 22.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ thực phẩm và Chế biến",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.5
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 19.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật ô tô và cơ điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "khac": 24.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 17.0
+        },
+        "2023": {
+          "khac": 22.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật điện , Điện tử và Tự động hoá",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 16.0
+        },
+        "2023": {
+          "khac": 23.0
+        },
+        "2024": {
+          "khac": 22.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh , Thương mại và Du lịch",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 16.5
+        },
+        "2023": {
+          "khac": 22.5
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "khac": 20.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Xã hội học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 17.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Khoa học môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 17.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "khac": 16.5
+        },
+        "2024": {
+          "khac": 17.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản lý đất đai , Bất động sản và môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "thi_thpt": 15.0
+        },
+        "2023": {
+          "khac": 17.0
+        },
+        "2024": {
+          "khac": 16.5
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 20.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "khac": 21.5
+        },
+        "2024": {
+          "khac": 24.75
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "khac": 24.5
+        },
+        "2024": {
+          "khac": 25.25
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Sư phạm công nghệ",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "khac": 19.0
+        },
+        "2024": {
+          "khac": 22.25
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Nông nghiệp sinh thái và Nông nghiệp đô thị",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 17.0
+        },
+        "2024": {
+          "khac": 17.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Kinh tế và Quản lý",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "khac": 18.0
+        },
+        "2024": {
+          "khac": 18.0
+        }
+      }
+    }
+  ]
+}

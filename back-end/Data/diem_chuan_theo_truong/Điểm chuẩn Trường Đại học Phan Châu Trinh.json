@@ -1,0 +1,151 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Phan Châu Trinh",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-phan-chau-trinh-c49110.html",
+  "thoigian": "2025-08-28 11:11:07",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "hoc_ba": 24.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "hoc_ba": 24.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.5
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Răng - Hàm - Mặt",
+      "diem": {
+        "2021": {
+          "thi_thpt": 22.0
+        },
+        "2022": {
+          "hoc_ba": 24.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "hoc_ba": 24.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.5
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Điều dưỡng đa khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "hoc_ba": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.5
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Điều dưỡng nha khoa",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "hoc_ba": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": null
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật Xét nghiệm Y học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "hoc_ba": 19.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 19.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 19.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 19.5
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị kinh doanh (Quản trị bệnh viện)",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 15.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ": {
+          "hoc_ba": 16.0
+        }
+      }
+    }
+  ]
+}

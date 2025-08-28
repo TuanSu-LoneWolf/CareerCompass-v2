@@ -1,0 +1,22 @@
+{
+  "ten_truong": "Điểm chuẩn Khoa Giáo dục Thể chất - Đại học Huế",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-khoa-giao-duc-the-chat-dai-hoc-hue-c48980.html",
+  "thoigian": "2025-08-28 11:09:39",
+  "nganh": [
+    {
+      "stt": "Giáo dục Thể chất",
+      "nganh": "25,88",
+      "diem": {
+        "2022": {
+          "thi_thpt": 19.0
+        },
+        "2023": {
+          "thi_thpt": 21.0
+        },
+        "2024": {
+          "thi_thpt": 27.1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Sĩ quan Phòng Hóa",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-si-quan-phong-hoa-c48791.html",
+  "thoigian": "2025-08-28 11:06:40",
+  "nganh": [
+    {
+      "stt": "Thí sinh Nam miền Bắc",
+      "nganh": "- Xét KQ thi THPT: 24,80",
+      "diem": {
+        "2022": {
+          "thi_thpt": 22.15
+        },
+        "2023": {
+          "thi_thpt": 20.95
+        },
+        "2024": {
+          "thi_thpt": 22.55
+        }
+      }
+    },
+    {
+      "stt": "Thí sinh Nam miền Nam",
+      "nganh": "- Xét KQ thi THPT: 23,60 - Xét học bạ THPT: 22,99",
+      "diem": {
+        "2022": {
+          "thi_thpt": 20.5
+        },
+        "2023": {
+          "thi_thpt": 22.55
+        },
+        "2024": {
+          "thi_thpt": 21.25
+        }
+      }
+    }
+  ]
+}

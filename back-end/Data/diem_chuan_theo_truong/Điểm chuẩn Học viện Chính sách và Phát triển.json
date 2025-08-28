@@ -1,0 +1,319 @@
+{
+  "ten_truong": "Điểm chuẩn Học viện Chính sách và Phát triển",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-hoc-vien-chinh-sach-va-phat-trien-c48741.html",
+  "thoigian": "2025-08-28 11:05:43",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.95
+        },
+        "2022": {
+          "thi_thpt": 8.3
+        },
+        "2023": {
+          "thi_thpt": 24.9
+        },
+        "2024": {
+          "thi_thpt": 24.2
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 24.4
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Kinh tế quốc tế",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.6
+        },
+        "2022": {
+          "thi_thpt": 8.5
+        },
+        "2023": {
+          "thi_thpt": 25.5
+        },
+        "2024": {
+          "thi_thpt": 24.7
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 24.8
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Chương trình Kinh tế đối ngoại (Chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 23.5
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.25
+        },
+        "2022": {
+          "thi_thpt": 8.5
+        },
+        "2023": {
+          "thi_thpt": 25.5
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 24.39
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": null
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": null
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản lý nhà nước",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.0
+        },
+        "2022": {
+          "thi_thpt": 7.3
+        },
+        "2023": {
+          "thi_thpt": 21.9
+        },
+        "2024": {
+          "thi_thpt": 24.2
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 23.5
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Tài chính - ngân hàng",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.35
+        },
+        "2022": {
+          "thi_thpt": 8.3
+        },
+        "2023": {
+          "thi_thpt": 24.9
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 24.85
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Chương trình Tài chính (Chất lượng cao)",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": null
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": null
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 23.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kinh tế phát triển",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.85
+        },
+        "2022": {
+          "thi_thpt": 8.0
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "thi_thpt": 24.45
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 24.5
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Luật kinh tế",
+      "diem": {
+        "2021": {
+          "hoc_ba": 26.0
+        },
+        "2022": {
+          "thi_thpt": 8.2
+        },
+        "2023": {
+          "thi_thpt": 24.6
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "hoc_ba": 25.05
+        },
+        "2022": {
+          "thi_thpt": 8.4
+        },
+        "2023": {
+          "thi_thpt": 25.2
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 25.2
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kinh tế số",
+      "diem": {
+        "2021": {
+          "hoc_ba": 24.65
+        },
+        "2022": {
+          "thi_thpt": 7.8
+        },
+        "2023": {
+          "thi_thpt": 23.4
+        },
+        "2024": {
+          "thi_thpt": 24.6
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 24.9
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "hoc_ba": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 30.8
+        },
+        "Điểm học tập THPT": {
+          "hoc_ba": 18.0
+        },
+        "Điểm thi TN THPT": {
+          "thi_thpt": 32.3
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-su-pham-ky-thuat-hung-yen-c48937.html",
+  "thoigian": "2025-08-28 11:08:30",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "hoc_ba": 17.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 17.5
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 16.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ chế tạo máy",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ kỹ thuật cơ khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.5
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 22.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 21.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "hoc_ba": 17.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 24.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Công nghệ",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": 25.0
+        },
+        "2024": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 26.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 29.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ may",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật hóa học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Khoa học máy tính",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": "-"
+        },
+        "2024": {
+          "hoc_ba": 17.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật phần mềm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": 24.0
+        },
+        "2024": {
+          "hoc_ba": 17.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 17.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 25.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem": {
+        "2021": {
+          "thi_thpt": 18.0
+        },
+        "2022": {
+          "thi_thpt": 20.0
+        },
+        "2023": {
+          "thi_thpt": 22.0
+        },
+        "2024": {
+          "hoc_ba": 17.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 16.5
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 23.0
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật hệ thống công nghiệp",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Điện lạnh và điều hòa không khí",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ hóa thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.0
+        },
+        "2022": {
+          "thi_thpt": 24.0
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 22.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 27.0
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Kinh doanh thời trang và dệt may",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 20.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Kinh tế",
+      "diem": {
+        "2021": {
+          "thi_thpt": 16.0
+        },
+        "2022": {
+          "thi_thpt": 18.0
+        },
+        "2023": {
+          "thi_thpt": 19.0
+        },
+        "2024": {
+          "hoc_ba": 15.0
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": 15.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 19.0
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem": {
+        "2021": {
+          "thi_thpt": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "hoc_ba": null
+        },
+        "Xét theo điểm thi THPT QG": {
+          "thi_thpt": null
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": null
+        }
+      }
+    }
+  ]
+}

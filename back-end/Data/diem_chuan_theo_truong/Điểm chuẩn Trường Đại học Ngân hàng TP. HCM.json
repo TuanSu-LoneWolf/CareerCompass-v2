@@ -1,0 +1,331 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Ngân hàng TP. HCM",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-ngan-hang-tphcm-c49262.html",
+  "thoigian": "2025-08-28 11:13:16",
+  "nganh": [
+    {
+      "stt": "2",
+      "nganh": "Chương trình đại học chính quy quốc tế cấp song bằng: - Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "khac": 25.25
+        },
+        "2022": {
+          "thi_thpt": 23.1
+        },
+        "2023": {
+          "thi_thpt": 24.5
+        },
+        "2024": {
+          "thi_thpt": 24.5
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem": {
+        "2021": {
+          "khac": 25.65
+        },
+        "2022": {
+          "thi_thpt": 25.05
+        },
+        "2023": {
+          "thi_thpt": 24.9
+        },
+        "2024": {
+          "thi_thpt": 25.47
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Tài chính - Ngân hàng (Tiếng Anh bán phần)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.1
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "khac": 25.55
+        },
+        "2022": {
+          "thi_thpt": 25.15
+        },
+        "2023": {
+          "thi_thpt": 25.05
+        },
+        "2024": {
+          "thi_thpt": 25.29
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán (Tiếng Anh bán phần)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 23.65
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "khac": 26.25
+        },
+        "2022": {
+          "thi_thpt": 25.35
+        },
+        "2023": {
+          "thi_thpt": 24.87
+        },
+        "2024": {
+          "thi_thpt": 24.8
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Kinh tế quốc tế",
+      "diem": {
+        "2021": {
+          "khac": 26.15
+        },
+        "2022": {
+          "thi_thpt": 24.65
+        },
+        "2023": {
+          "thi_thpt": 25.24
+        },
+        "2024": {
+          "thi_thpt": 25.5
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kinh tế quốc tế (Tiếng Anh bán phần)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem": {
+        "2021": {
+          "khac": 25.85
+        },
+        "2022": {
+          "thi_thpt": 24.55
+        },
+        "2023": {
+          "thi_thpt": 24.6
+        },
+        "2024": {
+          "thi_thpt": 25.24
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Hệ thống thông tin quản lý (Tiếng Anh bán phần)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.55
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Luật Kinh tế",
+      "diem": {
+        "2021": {
+          "khac": 26.0
+        },
+        "2022": {
+          "thi_thpt": 25.0
+        },
+        "2023": {
+          "thi_thpt": 25.07
+        },
+        "2024": {
+          "thi_thpt": 24.35
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "khac": 26.45
+        },
+        "2022": {
+          "thi_thpt": 22.56
+        },
+        "2023": {
+          "thi_thpt": 24.38
+        },
+        "2024": {
+          "thi_thpt": 25.05
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngôn ngữ Anh (Chương trình đào tạo đặc biệt)",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.05
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 26.1
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Kinh doanh quốc tế",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 26.36
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ tài chính",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.43
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Khoa học dữ liệu",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 24.75
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "khac": null
+        },
+        "2022": {
+          "thi_thpt": null
+        },
+        "2023": {
+          "thi_thpt": null
+        },
+        "2024": {
+          "thi_thpt": 25.8
+        }
+      }
+    }
+  ]
+}

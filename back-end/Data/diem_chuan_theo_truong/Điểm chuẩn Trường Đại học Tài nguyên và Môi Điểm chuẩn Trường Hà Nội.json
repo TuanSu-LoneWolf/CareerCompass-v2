@@ -1,0 +1,559 @@
+{
+  "ten_truong": "Điểm chuẩn Trường Đại học Tài nguyên và Môi Điểm chuẩn Trường Hà Nội",
+  "url": "https://tuyensinhso.vn/diem-chuan/diem-chuan-truong-dai-hoc-tai-nguyen-va-moi-truong-ha-noi-c48549.html",
+  "thoigian": "2025-08-28 11:03:58",
+  "nganh": [
+    {
+      "stt": "1",
+      "nganh": "Kế toán",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.25
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 25.25
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 24.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.15
+        }
+      }
+    },
+    {
+      "stt": "2",
+      "nganh": "Luật",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 26.0
+        },
+        "2024": {
+          "thi_thpt": 26.25
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 25.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị kinh doanh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.75
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 27.0
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 26.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 23.75
+        }
+      }
+    },
+    {
+      "stt": "4",
+      "nganh": "Biến đổi khí hậu và phát triển bền vững",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "5",
+      "nganh": "Khí tượng và khí hậu học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "6",
+      "nganh": "Thủy văn học",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 17.5
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ thông tin",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 24.25
+        },
+        "2024": {
+          "thi_thpt": 26.25
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 24.25
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật địa chất",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật trắc địa bản đồ",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.25
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 26.25
+        },
+        "2024": {
+          "thi_thpt": 26.25
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "12",
+      "nganh": "Kinh tế Tài nguyên thiên nhiên",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 20.5
+        },
+        "2024": {
+          "thi_thpt": 22.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 23.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.0
+        }
+      }
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản lý biển",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản lý đất đai",
+      "diem": {
+        "2021": {
+          "thi_thpt": 19.5
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 23.5
+        },
+        "2024": {
+          "thi_thpt": 24.75
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 21.25
+        }
+      }
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản lý tài nguyên nước",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản lý tài nguyên và môi trường",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 19.5
+        },
+        "2024": {
+          "thi_thpt": 20.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "17",
+      "nganh": "Bất động sản",
+      "diem": {
+        "2021": {
+          "thi_thpt": 23.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 25.5
+        },
+        "2024": {
+          "thi_thpt": 26.25
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 23.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 21.0
+        }
+      }
+    },
+    {
+      "stt": "18",
+      "nganh": "Marketing",
+      "diem": {
+        "2021": {
+          "thi_thpt": 26.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 27.5
+        },
+        "2024": {
+          "thi_thpt": 27.5
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 27.5
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.75
+        }
+      }
+    },
+    {
+      "stt": "19",
+      "nganh": "Sinh học ứng dụng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "20",
+      "nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+      "diem": {
+        "2021": {
+          "thi_thpt": 15.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 15.0
+        },
+        "2024": {
+          "thi_thpt": 18.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 18.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 15.0
+        }
+      }
+    },
+    {
+      "stt": "21",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem": {
+        "2021": {
+          "thi_thpt": 25.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 26.75
+        },
+        "2024": {
+          "thi_thpt": 27.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 26.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 24.75
+        }
+      }
+    },
+    {
+      "stt": "22",
+      "nganh": "Ngôn ngữ Anh",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.0
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 24.25
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 25.0
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.75
+        }
+      }
+    },
+    {
+      "stt": "23",
+      "nganh": "Quản trị khách sạn",
+      "diem": {
+        "2021": {
+          "thi_thpt": 24.5
+        },
+        "2022": {
+          "hoc_ba": 18.0
+        },
+        "2023": {
+          "khac": 25.25
+        },
+        "2024": {
+          "thi_thpt": 26.0
+        },
+        "Xét theo học bạ THPT": {
+          "hoc_ba": 24.75
+        },
+        "Xét theo KQ thi THPT": {
+          "thi_thpt": 22.75
+        }
+      }
+    }
+  ]
+}
