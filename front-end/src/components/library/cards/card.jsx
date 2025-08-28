@@ -1,7 +1,7 @@
 import "./card.css";
 import { Button } from "../buttons/button.jsx";
 import { Link } from "react-router-dom";
-import { School } from "lucide-react";
+import { School, GraduationCap, BookOpen, Layers, MapPin } from "lucide-react";
 
 // CardBase
 export function CardBase({ children, className = "" }) {
@@ -28,7 +28,7 @@ export function SchoolCard({ name, code, majorsCount }) {
         <Link to="/">
           <Button
             type="outline"
-            className="text-[var(--secondary)] border-[var(--secondary)] hover:bg-amber-100"
+            className="text-[var(--secondary)] -[var(--secondary)] hover:bg-amber-100"
           >
             Xem chi tiết ngành đào tạo
           </Button>
@@ -39,8 +39,15 @@ export function SchoolCard({ name, code, majorsCount }) {
 }
 
 // Info card
-export function InfoCard({ 
-  icon, title, subTitle, button, color, link, onClick, className = "" 
+export function InfoCard({
+  icon,
+  title,
+  subTitle,
+  button,
+  color,
+  link,
+  onClick,
+  className = "",
 }) {
   if (!icon) return null;
   const Icon = icon;
@@ -50,7 +57,9 @@ export function InfoCard({
     <>
       <div>
         <div className="flex gap-1.5">
-          <div className={`flex justify-center items-center rounded-xl w-12 h-12 mb-4 ${color}`}>
+          <div
+            className={`flex justify-center items-center rounded-xl w-12 h-12 mb-4 ${color}`}
+          >
             <Icon className="w-5 h-5" />
           </div>
         </div>
@@ -99,3 +108,103 @@ export function InfoCard({
   );
 }
 
+// University detail cards
+export function UniversityDetailCard({
+  name,
+  subjects,
+  scores,
+  className = "",
+}) {
+  return (
+    <div
+      className={`card zoom justify-between cursor-pointer hover:shadow-xl transition-all flex flex-col gap-2 p-6 border border-[var(--border)] rounded-xl group hover:border-[rgb(245,158,11,0.3)] bg-[var(--card)] z-10 ${className}`}
+    >
+      <div className="flex shrink-0 gap-4 items-center mb-4">
+        <div className="flex shrink-0 grow-0 justify-center items-center rounded-xl w-12 h-12 text-[var(--chart-1)] bg-[var(--bg-chart-1)] leading-none">
+          <BookOpen className="w-5 h-5" />
+        </div>
+        <div className="flex flex-col gap-1">
+          <h4 className="text-[var(--card-foreground)] group-hover:text-[var(--secondary)] leading-tight">
+            {name}
+          </h4>
+          {scores.map((s, i) => (
+            <>
+              {s.note && (
+                <p key={i} className="text-[var(--muted-foreground)]">
+                  {s.note || "-"}
+                </p>
+              )}
+            </>
+          ))}
+        </div>
+      </div>
+      <div>
+        {Array.isArray(subjects) && subjects.some((s) => s.trim() !== "") && (
+          <p className="text-[var(--muted-foreground)]">
+            <strong>Tổ hợp môn:</strong>{" "}
+            {subjects.filter((s) => s.trim() !== "").join(", ")}
+          </p>
+        )}
+
+        {scores.map((s, i) => (
+          <>
+            <p key={i} className="text-[var(--muted-foreground)]">
+              <strong>Điểm chuẩn:</strong> {s.score}
+            </p>
+            <p key={i} className="text-[var(--muted-foreground)]">
+              <strong>Phương thức:</strong> {s.method}
+            </p>
+          </>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+// University cards
+export function UniversityCard({
+  name,
+  code,
+  subjects,
+  location,
+  onClick,
+  className = "",
+}) {
+  return (
+    <div
+      onClick={onClick}
+      className={`card zoom justify-between cursor-pointer hover:shadow-xl transition-all flex flex-col gap-6 p-6 border border-[var(--border)] rounded-xl group hover:border-[rgb(245,158,11,0.3)] bg-[var(--card)] z-10 ${className}`}
+    >
+      <div className="flex flex-col justify-between">
+        <div className="flex shrink-0 gap-4 items-center mb-4">
+          <div className="flex shrink-0 grow-0 justify-center items-center rounded-xl w-12 h-12 text-[var(--chart-1)] bg-[var(--bg-chart-1)] leading-none">
+            <GraduationCap className="w-5 h-5" />
+          </div>
+          <div className="flex flex-col gap-1">
+            <h4 className="text-[var(--card-foreground)] group-hover:text-[var(--secondary)] leading-tight">
+              {name}
+            </h4>
+            <p className="text-[var(--muted-foreground)]">{code}</p>
+          </div>
+        </div>
+        <div>
+          {subjects && (
+            <div className="flex items-center gap-2">
+              <Layers className="w-4 h-4 text-[var(--muted-foreground)]"></Layers>
+              <p className="text-[var(--muted-foreground)]">{subjects}</p>
+            </div>
+          )}
+          {location && (
+            <div className="flex items-center gap-2">
+              <MapPin className="w-4 h-4 text-[var(--muted-foreground)]"></MapPin>
+              <p className="text-[var(--muted-foreground)]">{subjects}</p>
+            </div>
+          )}
+        </div>
+      </div>
+      <Button type="primary" className="z-20 w-full" start>
+        Xem các ngành đào tạo
+      </Button>
+    </div>
+  );
+}
