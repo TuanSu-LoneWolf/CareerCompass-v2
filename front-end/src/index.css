@@ -4,6 +4,7 @@
   --font-size: 14px;
   --header: rgba(255, 255, 255, 0.9);
   --mode-hover: #E5E7EB;
+  --filter-hover: #f1f5f9;
 
   /* Background từ Figma */
   --background: #EFF6FF;
@@ -112,6 +113,7 @@
   --sidebar-ring: #3b82f6;
   --header: rgba(30, 41, 59, 0.9);
   --mode-hover: #374151;
+  --filter-hover: #374151;
 }
 
 body {

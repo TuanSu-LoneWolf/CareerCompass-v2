@@ -87,6 +87,19 @@ export function Input({
   );
 }
 
+export function SearchBar({ onSearch }) {
+  return (
+    <div className="flex items-center w-full max-w-xl bg-[var(--card)] border border-[var(--border)] rounded-2xl px-4 py-2 mb-10 mx-auto">
+      <Search className="text-[var(--muted-foreground)] w-5 h-5 mr-2" />
+      <input
+        type="text"
+        placeholder="Tìm kiếm theo tên hoặc mã trường..."
+        className="w-full outline-none"
+        onChange={(e) => onSearch(e.target.value)}
+      />
+    </div>
+  );
+}
 
 export function Demo() {
   return (

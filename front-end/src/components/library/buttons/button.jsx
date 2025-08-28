@@ -1,18 +1,21 @@
 import './button.css'
 import loadingIcon from '../../../assets/loading.png';
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ArrowLeft } from "lucide-react";
 
 export function Button ({
     children,
     type = "primary",
     loading = false,
     start = false,
+    back = false,
     disabled = false,
-    className=""
+    className="",
+    onClick
 }) {
     return (
-        <button className = {`${type} ${disabled ? "disabled" : ''} ${loading ? "loading" : ''} ${className} flex justify-center items-center gap-2 group`}>
+        <button onClick={onClick} className = {`${type} ${disabled ? "disabled" : ''} ${loading ? "loading" : ''} ${className} flex justify-center items-center gap-2 group`}>
             {loading && (<img src={loadingIcon} className="animate-spin w-4 h-4" alt="Loading_icon"></img>)}
+            {back && (<ArrowLeft className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-[-4px]" />)}
             {children}
             {start && (<ArrowRight className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-1" />)}
         </button>

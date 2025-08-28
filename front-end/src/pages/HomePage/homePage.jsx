@@ -54,7 +54,7 @@ export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle,
           </div>
           <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-8">
             <InfoCard
-              link=""
+              link="/universities-majors"
               icon={GraduationCap}
               title="Danh sách Đại học"
               subTitle="Khám phá hơn 500 trường đại học với thông tin chi tiết về ngành học."
@@ -62,7 +62,7 @@ export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle,
               color="text-[var(--chart-1)] bg-[var(--bg-chart-1)]"
             />
             <InfoCard
-              link=""
+              link="/career-guidance"
               icon={Compass}
               title="Hướng nghiệp"
               subTitle="Tìm ra con đường sự nghiệp phù hợp thông qua bài test MBTI, RIASEC"
@@ -70,7 +70,7 @@ export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle,
               color="text-[var(--chart-3)] bg-[var(--bg-chart-3)]"
             />
             <InfoCard
-              link=""
+              link="/interview-practice"
               icon={MessageCircle}
               title="Luyện phỏng vấn"
               subTitle="Rèn luyện kỹ năng phỏng vấn với AI chatbot thông minh, mô phỏng các tình huống thực tế."
@@ -78,7 +78,7 @@ export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle,
               color="text-[var(--chart-4)] bg-[var(--bg-chart-4)]"
             />
             <InfoCard
-              link=""
+              link="/cv-check"
               icon={FileText}
               title="Kiểm tra CV"
               subTitle="Phân tích và đánh giá CV của bạn với AI, đưa ra gợi ý cải thiện để tăng cơ hội tuyển dụng."
@@ -86,7 +86,7 @@ export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle,
               color="text-[var(--chart-5)] bg-[var(--bg-chart-5)]"
             />
             <InfoCard
-              link=""
+              link="/"
               icon={Bot}
               title="Chatbot Tư vấn"
               subTitle="Nhận tư vấn cá nhân hóa 24/7 về lộ trình học tập và phát triển sự nghiệp."
