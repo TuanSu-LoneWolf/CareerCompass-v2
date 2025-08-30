@@ -1,0 +1,168 @@
+{
+  "nam": 2025,
+  "nganh": "Ô tô - Cơ khí - Chế tạo",
+  "so_luong": 20,
+  "thoi_gian_crawl": "2025-08-30 22:25:45",
+  "du_lieu": [
+    {
+      "nam": 2025,
+      "stt": "1",
+      "nganh": "Logistics và quản lý chuỗi cung ứng - chương trình tiên tiến (7510605A) (Xem)",
+      "diem_chuan": "963.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "2",
+      "nganh": "Kỹ thuật điện (chuyên ngành Điện công nghiệp; Hệ thống điện giao thông; Năng lượng tái tạo) (7520201) (Xem)",
+      "diem_chuan": "936.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "3",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa - chương trình tiên tiến (7510303A) (Xem)",
+      "diem_chuan": "931.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "4",
+      "nganh": "Khoa học dữ liệu - chương trình tiên tiến (7460108A) (Xem)",
+      "diem_chuan": "909.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "5",
+      "nganh": "Công nghệ thông tin (chuyên ngành Công nghệ thông tin) - chương trình tiên tiến (748020101A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "6",
+      "nganh": "Hệ thống thông tin quản lý - chương trình tiên tiến (7340405A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "7",
+      "nganh": "Khai thác vận tải (chuyên ngành Quản lý và kinh doanh vận tải) - chương trình tiên tiến (784010102A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "8",
+      "nganh": "Công nghệ thông tin (chuyên ngành Công nghệ ô tô số) - chương trình tiên tiến (748020106A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "9",
+      "nganh": "Kinh tế xây dựng (chuyên ngành Kinh tế và quản lý bất động sản) - chương trình tiên tiến (758030103A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "10",
+      "nganh": "Khai thác vận tải (chuyên ngành Khai thác đường sắt tốc độ cao) - chương trình tiên tiến (784010104A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật ô tô - chương trình tiên tiến (7510205A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "12",
+      "nganh": "Luật - chương trình tiên tiến (7380101A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "13",
+      "nganh": "Hệ thống thông tin quản lý (chuyên ngành Kinh tế số và Trí tuệ nhân tạo) - chương trình hoàn toàn bằng tiếng Anh (734040502E) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "14",
+      "nganh": "Công nghệ thông tin (chuyên ngành Khoa học dữ liệu và Al) - chương trình tiên tiến (748020104A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "15",
+      "nganh": "Công nghệ kỹ thuật cơ khí - chương trình tiên tiến (7510201A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "16",
+      "nganh": "Kinh tế vận tải (chuyên ngành Kinh tế hàng hải và đường thủy) - chương trình tiên tiến (784010403A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "17",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu (chuyên ngành Mạng máy tính và truyền thông dữ liệu; Kỹ thuật thiết kế vi mạch và Al) - chương trình tiên tiến (7480102A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "18",
+      "nganh": "Quản trị kinh doanh – chương trình tiên tiến (7340101A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "19",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa (chuyên ngành Kỹ thuật điều khiển tự động và thông tin tín hiệu đường sắt tốc độ cao) - chương trình tiên tiến (752021603A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    },
+    {
+      "nam": 2025,
+      "stt": "20",
+      "nganh": "Kỹ thuật ô tô (chuyên ngành Cơ khí ô tô; Cơ điện tử ô tô) - chương trình tiên tiến (7520130A) (Xem)",
+      "diem_chuan": "800.00",
+      "truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+      "tinh_thanh": "TP HCM"
+    }
+  ]
+}
