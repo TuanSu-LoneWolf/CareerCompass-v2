@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Lâm nghiệp (Cơ sở 1) (Xem)",
+  "ma_truong": "LNH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-lam-nghiep-co-so-1?keyword=LNH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Bất động sản (Xem)",
+      "diem_chuan": "19.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Du lịch sinh thái (Xem)",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,C00,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kiến trúc cảnh quan (Xem)",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,D01,C15,V01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ chế biến lâm sản (Xem)",
+      "diem_chuan": "17.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Tài chính - Ngân hàng (Xem)",
+      "diem_chuan": "17.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật xây dựng (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Lâm sinh (Xem)",
+      "diem_chuan": "16.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật cơ khí (Xem)",
+      "diem_chuan": "16.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh (Xem)",
+      "diem_chuan": "16.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản lý tài nguyên thiên nhiên (Chương trình đào tạo bằng tiếng Anh) (Xem)",
+      "diem_chuan": "16.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B08,D01,D07,D10",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kinh tế (Xem)",
+      "diem_chuan": "16.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản lý tài nguyên và môi trường (Xem)",
+      "diem_chuan": "16.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Thiết kế nội thất (Xem)",
+      "diem_chuan": "16.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C15,D01,H00",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "16.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "15.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ sinh học (Xem)",
+      "diem_chuan": "15.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,B00,B08",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Thú y (Xem)",
+      "diem_chuan": "15.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,B00,B08",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý đất đai (Xem)",
+      "diem_chuan": "15.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Công tác xã hội (Xem)",
+      "diem_chuan": "15.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "15.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C15,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

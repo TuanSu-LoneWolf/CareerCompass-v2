@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Nam Cần Thơ (Xem)",
+  "ma_truong": "DNC",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nam-can-tho?keyword=DNC",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật hình ảnh y học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật ô tô (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật hoá học (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản lý tài nguyên và môi trường (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Khoa học máy tính (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngành Kinh doanh quốc tế (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Tài chính – Ngân hàng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Quan hệ công chúng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật cơ khí động lực (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Marketing (dạy bằng tiếng Anh) (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị doanh nghiệp (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Truyền thông đa phương tiện (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

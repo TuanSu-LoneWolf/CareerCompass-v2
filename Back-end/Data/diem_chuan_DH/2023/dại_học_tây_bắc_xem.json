@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Tây Bắc (Xem)",
+  "ma_truong": "TTB",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tay-bac?keyword=TTB",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Lịch sử (Xem)",
+      "diem_chuan": "27.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Ngữ văn (Xem)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Chính trị (Xem)",
+      "diem_chuan": "26.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Địa lý (Xem)",
+      "diem_chuan": "26.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D10",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Giáo dục Tiểu học (Xem)",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Toán học (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Tiếng Anh (Xem)",
+      "diem_chuan": "23.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Giáo dục Thể chất (Xem)",
+      "diem_chuan": "23.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "T00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Giáo dục Mầm non (Xem)",
+      "diem_chuan": "22.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Sư phạm Vật lý (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Tin học (Chuyên ngành Tin học – Công nghệ Tiểu học) (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Sư phạm Sinh học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Sư phạm Hóa học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Nông học (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Chăn nuôi (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "17",
+      "nganh": "Lâm sinh (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Bảo vệ thực vật (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Quản lý tài nguyên rừng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

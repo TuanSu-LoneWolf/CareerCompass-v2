@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Y Dược - Đại học Huế (Xem)",
+  "ma_truong": "DHY",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-y-duoc-dai-hoc-hue?keyword=DHY",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Hộ sinh (Xem)",
+      "diem_chuan": "29.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Hộ sinh (Xem)",
+      "diem_chuan": "29.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,B08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "26.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "26.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Răng- Hàm -Mặt (Xem)",
+      "diem_chuan": "25.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Răng- Hàm -Mặt (Xem)",
+      "diem_chuan": "25.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "24.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "24.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Y học cổ truyền (Xem)",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Y học cổ truyền (Xem)",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "21.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "21.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,B08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "19.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "19.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,B08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật hình ảnh y học (Xem)",
+      "diem_chuan": "19.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật hình ảnh y học (Xem)",
+      "diem_chuan": "19.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Y học dự phòng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Y học dự phòng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,B08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Dinh dưỡng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Dinh dưỡng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,B08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Thủ Đô Hà Nội (Xem)",
+  "ma_truong": "HNM",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thu-do-ha-noi?keyword=HNM",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Toán học (Xem)",
+      "diem_chuan": "26.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Bảo hộ lao động (Xem)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Ngữ văn (Xem)",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Giáo dục Đặc biệt (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "25.31",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "25.22",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Giáo dục Công dân (Xem)",
+      "diem_chuan": "25.19",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D66,D78,D84,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Giáo dục Tiểu học (Xem)",
+      "diem_chuan": "25.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D72,D90,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Sư phạm Lịch sử (Xem)",
+      "diem_chuan": "25.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D09,D14,D78,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Văn học (Xem)",
+      "diem_chuan": "24.59",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Vật lý (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D07,D11,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị doanh nghiệp (Xem)",
+      "diem_chuan": "24.06",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "23.57",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "ĐH Toán ứng dụng (Xem)",
+      "diem_chuan": "23.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D66,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản lý giáo dục (Xem)",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị khách sạn (Xem)",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Tâm lý học (Xem)",
+      "diem_chuan": "23.23",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D70,D72,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Giáo dục Mầm non (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D72,D90,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

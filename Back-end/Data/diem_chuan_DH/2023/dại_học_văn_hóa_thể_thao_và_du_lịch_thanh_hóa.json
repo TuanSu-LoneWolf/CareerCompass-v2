@@ -1,0 +1,170 @@
+{
+  "ten_truong": "Đại học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa (Xem)",
+  "ma_truong": "DVD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa?keyword=DVD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Tiểu học (Xem)",
+      "diem_chuan": "27.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Mầm non (Xem)",
+      "diem_chuan": "26.99",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Âm nhạc (Xem)",
+      "diem_chuan": "26.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Mỹ thuật (Xem)",
+      "diem_chuan": "25.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Du lịch (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Đồ hoạ (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Thanh nhạc (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản lý thể dục thể thao (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "T00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Thông tin - thư viện (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Công tác xã hội (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Thiết kế thời trang (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ truyền thông (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản lý nhà nước (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị khách sạn (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản lý văn hoá (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

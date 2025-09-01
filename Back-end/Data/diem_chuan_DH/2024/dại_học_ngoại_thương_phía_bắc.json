@@ -1,0 +1,143 @@
+{
+  "ten_truong": "Đại học Ngoại thương (phía Bắc) (Xem)",
+  "ma_truong": "NTH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-ngoai-thuong-phia-bac?keyword=NTH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành ngôn ngữ Trung (Xem)",
+      "diem_chuan": "28.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành quản trị kinh doanh (Xem)",
+      "diem_chuan": "28.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành quản trị kinh doanh quốc tế (Xem)",
+      "diem_chuan": "28.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành quản trị khách sạn (Xem)",
+      "diem_chuan": "28.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Marketing (Xem)",
+      "diem_chuan": "28.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngành Kinh tế (Xem)",
+      "diem_chuan": "28.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngành Kinh tế quốc tế (Xem)",
+      "diem_chuan": "28.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngành kế toán (Xem)",
+      "diem_chuan": "27.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngành kế toán (Xem)",
+      "diem_chuan": "27.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "27.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngành Kinh tế chính trị (Xem)",
+      "diem_chuan": "27.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngành Khoa học máy tính (Xem)",
+      "diem_chuan": "27.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngành ngôn ngữ Anh (Xem)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngành ngôn ngữ Pháp (Xem)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngành ngôn ngữ Nhật (Xem)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

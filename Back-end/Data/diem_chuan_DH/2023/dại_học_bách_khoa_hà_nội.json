@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Bách khoa Hà Nội (Xem)",
+  "ma_truong": "BKA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-bach-khoa-ha-noi?keyword=BKA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "CNTT: Khoa học Máy tính (Xem)",
+      "diem_chuan": "29.42",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến) (Xem)",
+      "diem_chuan": "28.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "CNTT: Kỹ thuật Máy tính (Xem)",
+      "diem_chuan": "28.29",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ Thông tin Global ICT (CT tiên tiền) (Xem)",
+      "diem_chuan": "28.16",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "An toàn không gian số - Cyber security (CT tiên tiến) (Xem)",
+      "diem_chuan": "28.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ thông tin Việt - Nhật (tăng cường tiếng Nhật) (Xem)",
+      "diem_chuan": "27.64",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00;A01;D28",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật điều khiển & Tự động hóa (Xem)",
+      "diem_chuan": "27.57",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ Thông tin Việt-Pháp (tăng cường tiếng Pháp) (Xem)",
+      "diem_chuan": "27.32",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00;A01;D29",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Toán-Tin (Xem)",
+      "diem_chuan": "27.21",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Toán-Tin (Xem)",
+      "diem_chuan": "27.21",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Hệ thống thông tin quản lý (Xem)",
+      "diem_chuan": "27.06",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Hệ thống Thông tin quản lý (Xem)",
+      "diem_chuan": "27.06",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật Cơ điện tử (Xem)",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật điều khiển - Tự động hoá (CT tiên tiến) (Xem)",
+      "diem_chuan": "26.74",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật ô tô (Xem)",
+      "diem_chuan": "26.48",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật Điện tử-viễn thông (Xem)",
+      "diem_chuan": "26.46",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Kỹ thuật Điện tử-Viễn thông (Xem)",
+      "diem_chuan": "26.46",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Hệ thống nhúng thông minh và loT (tăng cường tiếng Nhật) (Xem)",
+      "diem_chuan": "26.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;D28",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Kỹ thuật Vi điện tử và Công nghệ nano (Xem)",
+      "diem_chuan": "26.18",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00;A01;D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật Vi điện tử và Công nghệ nano (Xem)",
+      "diem_chuan": "26.18",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00;A01;D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Tài chính Marketing (Xem)",
+  "ma_truong": "DMS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-tai-chinh-marketing?keyword=DMS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Marketing (Xem)",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Kinh doanh quốc tế (Xem)",
+      "diem_chuan": "25.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kinh tế (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Hệ thống thông tin quản lý (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Tài chính - Ngân hàng (Xem)",
+      "diem_chuan": "24.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D72,D78,D96 (điểm bài thi tiếng Anh nhân hệ số 2)",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Luật kinh tế (Xem)",
+      "diem_chuan": "24.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ tài chính (Xem)",
+      "diem_chuan": "24.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị kinh doanh (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Toán kinh tế (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc thù) (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D72,D78,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Marketing (Chương trình tích hợp) (Xem)",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị khách sạn (Chương trình đặc thù) (Xem)",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D72,D78,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Marketing (Chương trình tiếng Anh toàn phần) (Xem)",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Bất động sản (Xem)",
+      "diem_chuan": "23.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống (Chương trình đặc thù) (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D72,D78,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kế toán (Chương trình tích hợp) (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Tài chính - Ngân hàng (Chương trình tích hợp) (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kinh doanh quốc tế (Chương trình tích hợp) (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

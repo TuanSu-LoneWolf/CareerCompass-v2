@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Thủy Lợi ( Cơ sở 1 ) (Xem)",
+  "ma_truong": "TLA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thuy-loi-co-so-1?keyword=TLA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật phần mềm (Xem)",
+      "diem_chuan": "64.01",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "62.99",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Hệ thống thông tin (Xem)",
+      "diem_chuan": "62.26",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "An ninh mạng (Xem)",
+      "diem_chuan": "60.49",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa (Xem)",
+      "diem_chuan": "54.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Nhóm ngành kỹ thuật cơ khí (gôm các ngành: Kỹ thuật cơ khí, công nghệ chế tạo máy) (Xem)",
+      "diem_chuan": "51.97",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật Robot và điều khiển thông minh (Xem)",
+      "diem_chuan": "51.83",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật điện tử - viễn thông (Xem)",
+      "diem_chuan": "51.61",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật điện (Xem)",
+      "diem_chuan": "51.01",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật ô tô (Xem)",
+      "diem_chuan": "50.33",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật cơ điện tứ (Xem)",
+      "diem_chuan": "50.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét điểm đánh giá năng lực",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "25.89",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa (Xem)",
+      "diem_chuan": "25.41",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Thương mại điện tử (Xem)",
+      "diem_chuan": "25.12",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Logistics và quản lý chuôi cung ứng (Xem)",
+      "diem_chuan": "25.01",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "24.91",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Tài chính - Ngân hàng (Xem)",
+      "diem_chuan": "24.73",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kỹ thuật phân mềm (Xem)",
+      "diem_chuan": "24.68",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị kinh doanh (Xem)",
+      "diem_chuan": "24.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kinh tế số (Xem)",
+      "diem_chuan": "24.49",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

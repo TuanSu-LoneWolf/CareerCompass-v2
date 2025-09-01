@@ -1,0 +1,179 @@
+{
+  "ten_truong": "Đại Học Đông Đô (Xem)",
+  "ma_truong": "DDU",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-dong-do?keyword=DDU",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,B08",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị kinh doanh (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Thương mại điện tử (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Tài chính - Ngân hàng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kế toán (Chương trình tích hợp) (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Luật kinh tế (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật ô tô (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật môi trường (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,H01,H04",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kỹ thuật xây dựng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Thú y (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D04",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngôn ngữ Nhật (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D14",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Hàn Quốc (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,DD2",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý nhà nước (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Tài chính – Ngân hàng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

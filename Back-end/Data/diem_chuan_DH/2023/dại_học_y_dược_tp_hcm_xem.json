@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Y Dược TP HCM (Xem)",
+  "ma_truong": "YDS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-tp-hcm?keyword=YDS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "27.34",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa (có CC Tiếng Anh) (Xem)",
+      "diem_chuan": "27.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Răng- Hàm -Mặt (Xem)",
+      "diem_chuan": "26.96",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Điều dưỡng chuyên ngành Hộ sinh (Chỉ tuyển nữ) (Xem)",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "5",
+      "nganh": "Điều dưỡng chuyên ngành Hộ sinh (Chỉ tuyển nữ) (Xem)",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "6",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "24.59",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Y học cổ truyền (Xem)",
+      "diem_chuan": "24.54",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật phục hình răng (Xem)",
+      "diem_chuan": "24.54",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Dược học (Kết hợp chứng chỉ tiếng Anh quốc tế) (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Điều dưỡng chuyên ngành Gây mê hồi sức (Xem)",
+      "diem_chuan": "23.88",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kỹ thuật hình ảnh y học (Xem)",
+      "diem_chuan": "23.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Y học cổ truyền (kết hợp sơ tuyển chứng chỉ tiếng Anh quốc tế) (Xem)",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Y học dự phòng (kết hợp sơ tuyển chứng chỉ tiếng Anh quốc tế) (Xem)",
+      "diem_chuan": "23.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Dinh dưỡng (Xem)",
+      "diem_chuan": "23.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật phục hồi chức năng (Xem)",
+      "diem_chuan": "23.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "23.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Hộ sinh (Kết hợp sơ tuyển chứng chỉ tiếng Anh quốc tế) (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Y học dự phòng (Xem)",
+      "diem_chuan": "22.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật phục hình răng (kết hợp sơ tuyển chứng chỉ tiếng Anh quốc tế) (Xem)",
+      "diem_chuan": "22.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Văn Lang (Xem)",
+  "ma_truong": "DVL",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-van-lang?keyword=DVL",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Răng- Hàm -Mặt (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D08,D12",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Răng- Hàm -Mặt (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D08,D12",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,C08,D07,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quan hệ công chúng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Truyền thông đa phương tiện (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,C08,D07,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Quan hệ công chúng (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Truyền thông đa phương tiện (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Đạo diễn điện ảnh. truyền hình (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "S00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Diễn viên kịch. điện ảnh - truyền hình (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "S00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Piano (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Thanh nhạc (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Đạo diễn điện ảnh. truyền hình (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "S00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Diễn viên kịch. điện ảnh - truyền hình (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "S00",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

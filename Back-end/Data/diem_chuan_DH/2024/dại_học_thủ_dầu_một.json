@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Thủ Dầu Một (Xem)",
+  "ma_truong": "TDM",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-thu-dau-mot?keyword=TDM",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Tiểu học (Xem)",
+      "diem_chuan": "26.47",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Tâm lý học (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B08,C00,C14,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Truyền thông đa phương tiện (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,V01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A16,C00,C14,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "23.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D04,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Marketing (Xem)",
+      "diem_chuan": "23.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Giáo dục Mầm non (Xem)",
+      "diem_chuan": "23.04",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00,M05,M07,M11",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Giáo dục học (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Toán học (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "22.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "22.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quan hệ quốc tế (Xem)",
+      "diem_chuan": "22.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản lý nhà nước (Xem)",
+      "diem_chuan": "22.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A16,C00,C14,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Thương mại điện tử (Xem)",
+      "diem_chuan": "21.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngôn ngữ Hàn Quốc (Xem)",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị Kinh doanh (Xem)",
+      "diem_chuan": "21.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Tài chính – Ngân hàng (Xem)",
+      "diem_chuan": "21.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A16,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Công tác xã hội (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C15,C19,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Du lịch (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

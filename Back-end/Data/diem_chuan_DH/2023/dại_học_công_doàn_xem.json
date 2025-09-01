@@ -1,0 +1,143 @@
+{
+  "ten_truong": "Đại học Công đoàn (Xem)",
+  "ma_truong": "LDA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-doan?keyword=LDA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh * (Xem)",
+      "diem_chuan": "32.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kinh tế (Xem)",
+      "diem_chuan": "25.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật (Xem)",
+      "diem_chuan": "23.23",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Tài chính - Ngân hàng (Xem)",
+      "diem_chuan": "23.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "23.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh d0anh (Xem)",
+      "diem_chuan": "22.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị nhân lực (Xem)",
+      "diem_chuan": "22.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Kinh tế (Xem)",
+      "diem_chuan": "22.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Công tác Xã hội (Xem)",
+      "diem_chuan": "21.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Việt Nam học (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "12",
+      "nganh": "Xã hội học (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Quan hệ lao động (Xem)",
+      "diem_chuan": "17.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Việt Nam học (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "15",
+      "nganh": "Bảo hộ lao động (Xem)",
+      "diem_chuan": "15.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

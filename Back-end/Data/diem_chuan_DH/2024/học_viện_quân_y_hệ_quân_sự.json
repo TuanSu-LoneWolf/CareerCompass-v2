@@ -1,0 +1,134 @@
+{
+  "ten_truong": "Học viện Quân Y - Hệ Quân sự (Xem)",
+  "ma_truong": "YQH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/hoc-vien-quan-y-he-quan-su?keyword=YQH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Nữ - Miền Bắc) (Xem)",
+      "diem_chuan": "27.49",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa (Nữ - Miền Bắc) (Xem)",
+      "diem_chuan": "27.49",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "3",
+      "nganh": "Y khoa (Nữ - Miền Nam) (Xem)",
+      "diem_chuan": "27.34",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "4",
+      "nganh": "Y khoa (Nữ - Miền Nam) (Xem)",
+      "diem_chuan": "27.34",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "5",
+      "nganh": "Dược học - Nữ thí sinh phía Bắc (Xem)",
+      "diem_chuan": "27.28",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "6",
+      "nganh": "Dược học - Nữ thí sinh phía Nam (Xem)",
+      "diem_chuan": "26.26",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "7",
+      "nganh": "Y khoa (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "26.13",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "8",
+      "nganh": "Y khoa (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "26.13",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "9",
+      "nganh": "Y khoa (Nam - Miền Nam) (Xem)",
+      "diem_chuan": "25.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "10",
+      "nganh": "Y khoa (Nam - Miền Nam) (Xem)",
+      "diem_chuan": "25.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "11",
+      "nganh": "Dược học - Nam thí sinh phía Bắc (Xem)",
+      "diem_chuan": "25.19",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "12",
+      "nganh": "Dược học - Nam thí sinh phía Nam (Xem)",
+      "diem_chuan": "24.56",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "13",
+      "nganh": "Y học dự phòng (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "24.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "14",
+      "nganh": "Y học dự phòng (Nam - Miền Nam) (Xem)",
+      "diem_chuan": "24.12",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

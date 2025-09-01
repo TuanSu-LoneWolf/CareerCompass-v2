@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Mở TP HCM (Xem)",
+  "ma_truong": "MBS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-mo-tp-hcm?keyword=MBS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Marketing (dạy bằng tiếng Anh) (Xem)",
+      "diem_chuan": "25.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D04,D77",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Kinh doanh quốc tế (Xem)",
+      "diem_chuan": "24.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "24.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị nhân lực (Xem)",
+      "diem_chuan": "24.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C03,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Xã hội học (Xem)",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Trung Quốc - CLC (Xem)",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D04,D77",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kiểm toán (Xem)",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị doanh nghiệp (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Khoa học máy tính (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kinh tế (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Luật kinh tế (Xem)",
+      "diem_chuan": "23.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Tài chính – Ngân hàng (Xem)",
+      "diem_chuan": "23.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Khoa học dữ liệu (Data Science) (Xem)",
+      "diem_chuan": "23.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Hệ thống thông tin (Xem)",
+      "diem_chuan": "23.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngôn ngữ Anh (CTCLC) (Xem)",
+      "diem_chuan": "23.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "23.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

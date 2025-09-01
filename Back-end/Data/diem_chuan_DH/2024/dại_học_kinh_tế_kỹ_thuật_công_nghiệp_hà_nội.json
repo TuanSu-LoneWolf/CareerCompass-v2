@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Kinh tế Kỹ thuật Công nghiệp Hà Nội (Xem)",
+  "ma_truong": "DKK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-kinh-te-ky-thuat-cong-nghiep-ha-noi?keyword=DKK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị khách sạn (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Marketing (Xem)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ thông tin (Chuyên ngành Công nghệ thông tin; Hệ thống thông tin; Truyền dữ liệu và mạng máy tính) (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh doanh Thương mại (Chuyên ngành Kinh doanh thương mại; Thương mại điện tử) (Xem)",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngành công nghệ kỹ thuật ô tô (Xem)",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử (Chuyên ngành Kỹ thuật Robot; Hệ thống cơ điện tử; Hệ thống cơ điện tử trên ô tô) (Xem)",
+      "diem_chuan": "23.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh (Chuyên ngành Biên phiên dịch; Chuyên ngành giảng dạy) (Xem)",
+      "diem_chuan": "23.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D09,D14",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh; Quản trị Marketing; Logistics và quản lý chuỗi cung ứng) (Xem)",
+      "diem_chuan": "23.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; Ngân hàng; Tài chính bảo hiểm; Đầu tư tài chính) (Xem)",
+      "diem_chuan": "23.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật điện tử - Viễn thông (Chuyên ngành Kỹ thuật viễn thông; Kỹ thuật điện tử) (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử (Chuyên ngành Điện dân dụng và công nghiệp; Hệ thống cung cấp điện; Thiết bị điện, điện tử (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kế toán (Chuyên ngành Kế toán doanh nghiệp; Kế toán nhà hàng khách sạn; Kế toán công; Kế toán kiểm toán) (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kiểm toán (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ kỹ thuật máy tính (Xem)",
+      "diem_chuan": "22.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ chế tạo máy; Máy và cơ sở thiết kế máy) (Xem)",
+      "diem_chuan": "22.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu (Chuyên ngành Mạng máy tính và truyền thông dữ liệu; Chuyên ngành an toàn thông tin) (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Khoa học Dữ liệu (Xem)",
+      "diem_chuan": "22.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

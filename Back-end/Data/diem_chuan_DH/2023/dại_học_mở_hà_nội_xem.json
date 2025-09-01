@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Mở Hà Nội (Xem)",
+  "ma_truong": "MHN",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-mo-ha-noi?keyword=MHN",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "32.82",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "31.51",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "30.53",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị khách sạn (Xem)",
+      "diem_chuan": "29.28",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Thương mại điện tử (Xem)",
+      "diem_chuan": "25.07",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Luật kinh tế (THXT C00) (Xem)",
+      "diem_chuan": "24.82",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Luật (THXT C00) (Xem)",
+      "diem_chuan": "23.96",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Luật quốc tế (THXT C00) (Xem)",
+      "diem_chuan": "23.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh (Xem)",
+      "diem_chuan": "23.62",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "23.43",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "23.38",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Tài chính - Ngân hàng (Xem)",
+      "diem_chuan": "23.33",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Luật kinh tế (Xem)",
+      "diem_chuan": "22.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Luật (Xem)",
+      "diem_chuan": "22.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ kỷ thuật điều khiến và tự động hóa (Xem)",
+      "diem_chuan": "22.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông (Xem)",
+      "diem_chuan": "22.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Luật quốc tế (Xem)",
+      "diem_chuan": "20.63",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Thiết kế công nghiệp (Xem)",
+      "diem_chuan": "19.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ sinh học (Xem)",
+      "diem_chuan": "17.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

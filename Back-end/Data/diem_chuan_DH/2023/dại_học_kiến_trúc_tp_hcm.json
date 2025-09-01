@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Kiến trúc TP HCM (Xem)",
+  "ma_truong": "KTS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kien-truc-tp-hcm?keyword=KTS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Thiết kế đồ họa (Xem)",
+      "diem_chuan": "25.69",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H01,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Thiết kế thời trang (Xem)",
+      "diem_chuan": "24.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H01,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "24.64",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Thiết kế nội thất (Xem)",
+      "diem_chuan": "24.61",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Thiết kế công nghiệp (Xem)",
+      "diem_chuan": "24.57",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H01,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kiến trúc (Chất lượng cao) (Xem)",
+      "diem_chuan": "24.18",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kiến trúc cảnh quan (Xem)",
+      "diem_chuan": "23.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quy hoạch vùng và đô thị (Xem)",
+      "diem_chuan": "23.54",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Mỹ thuật đô thị (Xem)",
+      "diem_chuan": "23.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quy hoạch vùng và đô thị (Chất lượng cao) (Xem)",
+      "diem_chuan": "22.37",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "22.19",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "21.94",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản lý xây dựng (Xem)",
+      "diem_chuan": "21.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật xây dựng ( Chất lượng cao) (Xem)",
+      "diem_chuan": "21.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Thiết kế đô thị ( CT tiên tiến) (Xem)",
+      "diem_chuan": "20.96",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật xây dựng (Xem)",
+      "diem_chuan": "20.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Thiết kế nội thất (Xem)",
+      "diem_chuan": "18.73",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kỹ thuật xây dựng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Kỹ thuật xây dựng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật cơ sở hạ tầng (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

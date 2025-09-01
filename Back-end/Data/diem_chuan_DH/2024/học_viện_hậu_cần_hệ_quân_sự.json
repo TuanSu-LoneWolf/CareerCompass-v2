@@ -1,0 +1,80 @@
+{
+  "ten_truong": "Học viện Hậu Cần - Hệ Quân sự (Xem)",
+  "ma_truong": "HEH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/hoc-vien-hau-can-he-quan-su?keyword=HEH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Thí sinh Nữ miền Bắc (Xem)",
+      "diem_chuan": "27.28",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "2",
+      "nganh": "Thí sinh Nữ miền Bắc (Xem)",
+      "diem_chuan": "27.28",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "3",
+      "nganh": "Hậu cần quân sự (Nữ - Phía Bắc) (Xem)",
+      "diem_chuan": "26.62",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "4",
+      "nganh": "Hậu cần quân sự (Nữ - Phía Nam) (Xem)",
+      "diem_chuan": "26.62",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "5",
+      "nganh": "Hậu cần quân sự (Nam - Phía Bắc) (Xem)",
+      "diem_chuan": "26.22",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "6",
+      "nganh": "Hậu cần quân sự (Nam - Phía Bắc) (Xem)",
+      "diem_chuan": "26.22",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "7",
+      "nganh": "Hậu cần quân sự (Nam - Phía Nam) (Xem)",
+      "diem_chuan": "25.29",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "8",
+      "nganh": "Hậu cần quân sự (Nam - Phía Nam) (Xem)",
+      "diem_chuan": "25.29",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

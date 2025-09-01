@@ -1,0 +1,35 @@
+{
+  "ten_truong": "Trường Sĩ Quan Không Quân - Hệ Đại học (Xem)",
+  "ma_truong": "KGH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/truong-si-quan-khong-quan-he-dai-hoc?keyword=KGH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành phi công quân sự (Thí sinh nam toàn quốc) (Xem)",
+      "diem_chuan": "22.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành phi công quân sự (Thí sinh nam toàn quốc) (Xem)",
+      "diem_chuan": "22.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành phi công quân sự (Thí sinh nam toàn quốc) (Xem)",
+      "diem_chuan": "22.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

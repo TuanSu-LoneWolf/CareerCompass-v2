@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Sư phạm TP HCM (Xem)",
+  "ma_truong": "SPS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-tp-hcm?keyword=SPS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Ngữ văn (Xem)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Lịch sử (Xem)",
+      "diem_chuan": "26.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D14",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Công dân (Xem)",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C19,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Tiếng Anh (Xem)",
+      "diem_chuan": "26.62",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Hóa học (Xem)",
+      "diem_chuan": "26.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Toán học (Xem)",
+      "diem_chuan": "26.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Địa lý (Xem)",
+      "diem_chuan": "26.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C04,D15,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Vật lý (Xem)",
+      "diem_chuan": "26.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Giáo dục Thể chất (Xem)",
+      "diem_chuan": "26.04",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M08,T01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Sư phạm Lịch sử - Địa lý (Xem)",
+      "diem_chuan": "26.03",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C19,C20,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Tiếng Trung Quốc (Xem)",
+      "diem_chuan": "25.83",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D04",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Giáo dục Quốc phòng - An ninh (Xem)",
+      "diem_chuan": "25.71",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A08,C00,C19",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Tâm lý học (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "25.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Giáo dục Đặc biệt (Xem)",
+      "diem_chuan": "25.01",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Sư phạm Sinh học (Xem)",
+      "diem_chuan": "24.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,B08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Hàn Quốc (Xem)",
+      "diem_chuan": "24.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D78,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Giáo dục Tiểu học (Xem)",
+      "diem_chuan": "24.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Văn học (Xem)",
+      "diem_chuan": "24.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D78",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Sư phạm khoa học tự nhiên (Xem)",
+      "diem_chuan": "24.56",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

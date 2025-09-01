@@ -1,0 +1,116 @@
+{
+  "ten_truong": "Học viện Công nghệ Bưu chính Viễn thông (phía Nam) (Xem)",
+  "ma_truong": "BVS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam?keyword=BVS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "25.17",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=8)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "An toàn thông tin (Xem)",
+      "diem_chuan": "24.68",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=11)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Marketing (Xem)",
+      "diem_chuan": "24.24",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=5)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ đa phương tiện (Xem)",
+      "diem_chuan": "23.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=3)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ thông tin chất lượng cao (Xem)",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=3)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật điện tử viễn thông (Xem)",
+      "diem_chuan": "23.23",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=7)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "20.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=23)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử (Xem)",
+      "diem_chuan": "20.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=4)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa (Xem)",
+      "diem_chuan": "19.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=6)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị kinh doanh (Xem)",
+      "diem_chuan": "18.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=3)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Marketing chất lượng cao (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TTNV <=5)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ Internet vạn vật (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Xây dựng Hà Nội (Xem)",
+  "ma_truong": "XDA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-xay-dung-ha-noi?keyword=XDA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "24.49",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01.D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành Công nghệ thông tin (Xem)",
+      "diem_chuan": "24.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Khoa học Máy tính (Xem)",
+      "diem_chuan": "23.91",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Kỳ thuật cơ khí/ Chuyên ngành Kỳ thuật ô tô (Xem)",
+      "diem_chuan": "23.37",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Khoa học máy tinh (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ) (Xem)",
+      "diem_chuan": "22.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngành Kỹ thuật cơ khí (Xem)",
+      "diem_chuan": "22.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngành Kỳ thuật cơ khí/ Chuyên ngành Kỹ thuật cơ điện (Xem)",
+      "diem_chuan": "22.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngành Kinh tế xây dựng (Xem)",
+      "diem_chuan": "22.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngành Kiến trúc Nội thất (Xem)",
+      "diem_chuan": "21.53",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngành Quàn lý xây dựng/ Chuyên ngành Kinh tế và quản lý bất động sản (Xem)",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngành Quàn lý xây dựng/ Chuyên ngành Kinh tế và quản lý đô thị (Xem)",
+      "diem_chuan": "21.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A0I,D0I.D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngành Kỹ thuật xây dựng/ Chuyên ngành Tin học xây dựng (Xem)",
+      "diem_chuan": "21.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01.D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngành Kiến trúc (Xem)",
+      "diem_chuan": "21.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V02,V10",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngành Kiến trúc/ Chuyên ngành Kiến trúc công nghệ (Xem)",
+      "diem_chuan": "20.64",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngành kỹ thuật xây dụng/ Chuyên ngành Xây dựng Dân dụng và Công nghiệp (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D24,D29",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngành Kỹ thuật xây dựng/ Chuyên ngành Hệ thống kỹ thuật trong công trình (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngành Quản lý xây dựng/ Chuyên ngành Quản lý hạ tầng, đất đai đô thị (Xem)",
+      "diem_chuan": "19.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D0I,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngành Kiến trúc cảnh quan (Xem)",
+      "diem_chuan": "19.23",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V02,V06",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngành Kỹ thuật điện (Xem)",
+      "diem_chuan": "19.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngành Kỹ thuật xây dựng công trinh Giao thông/ Chuyên ngành Xây dựng cầu đường (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01.D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

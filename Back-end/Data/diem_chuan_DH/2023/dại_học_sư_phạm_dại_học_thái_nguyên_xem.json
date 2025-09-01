@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại Học Sư Phạm - Đại học Thái Nguyên (Xem)",
+  "ma_truong": "DTS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/daihoc-su-pham-dai-hoc-thai-nguyen?keyword=DTS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Toán học (Xem)",
+      "diem_chuan": "28.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Hoá học (Xem)",
+      "diem_chuan": "28.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; B00; D01;D07",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Tiếng Anh (Xem)",
+      "diem_chuan": "28.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01;D09;D15",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Vật lý (Xem)",
+      "diem_chuan": "28.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00;A01;DGl",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Lịch sử (Xem)",
+      "diem_chuan": "28.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00;C19;D14",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Lịch sử (Xem)",
+      "diem_chuan": "27.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00;C19;D14",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Ngữ văn (Xem)",
+      "diem_chuan": "27.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00; D01;D14",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Sinh học (Xem)",
+      "diem_chuan": "27.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00; B08",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Sư phạm Địa lý (Xem)",
+      "diem_chuan": "27.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00; C04;D01;D10",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Sư phạm Khoa học tự nhiên (Xem)",
+      "diem_chuan": "27.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; B00",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Giáo dục Chính trị (Xem)",
+      "diem_chuan": "27.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00;C14;C19; C20",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Sư phạm Lịch sử - Địa lý (Xem)",
+      "diem_chuan": "27.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00;D14;D15",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Tâm lý học giáo dục (Xem)",
+      "diem_chuan": "27.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00; C00; C14; C20",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Giáo dục Tiểu học (Xem)",
+      "diem_chuan": "27.07",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Sư phạm Tin học (Xem)",
+      "diem_chuan": "27.03",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Sư phạm Ngữ văn (Xem)",
+      "diem_chuan": "26.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00; D01;D14",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Giáo dục Mầm non (Xem)",
+      "diem_chuan": "26.83",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C14;C19; C20; D66",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Giáo dục học (Xem)",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C14;C19;C20; D66",
+      "ghi_chu": "Xét học bạ",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Sư phạm Địa lý (Xem)",
+      "diem_chuan": "26.73",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00; C04; D01;D10",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Giáo dục Chính trị (Xem)",
+      "diem_chuan": "26.68",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00;C14;C19; C20",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

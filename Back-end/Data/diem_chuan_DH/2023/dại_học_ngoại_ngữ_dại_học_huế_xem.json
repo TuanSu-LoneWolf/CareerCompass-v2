@@ -1,0 +1,107 @@
+{
+  "ten_truong": "Đại học Ngoại Ngữ - Đại học Huế (Xem)",
+  "ma_truong": "DHF",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-ngu-dai-hoc-hue?keyword=DHF",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Tiếng Anh (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Tiếng Trung Quốc (Xem)",
+      "diem_chuan": "24.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D04,D15,D45",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D04,D15,D45",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Hàn Quốc (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Nhật (Xem)",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D06,D15,D43",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Tiếng Pháp (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D03,D15,D44",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Nga (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D02,D15,D42",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Pháp (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D03,D15,D44",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quốc tế học (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Việt Nam học (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

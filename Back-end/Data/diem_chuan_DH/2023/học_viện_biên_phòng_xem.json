@@ -1,0 +1,116 @@
+{
+  "ten_truong": "Học viện Biên Phòng (Xem)",
+  "ma_truong": "BPH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-bien-phong?keyword=BPH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Luật (Nam - Phía Bắc) (Xem)",
+      "diem_chuan": "27.47",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "2",
+      "nganh": "Biên phòng (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "26.99",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "3",
+      "nganh": "Biên phòng (Nam - quân khu 9) (Xem)",
+      "diem_chuan": "25.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "4",
+      "nganh": "Biên phòng (Nam - quân khu 5) (Xem)",
+      "diem_chuan": "25.57",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "5",
+      "nganh": "Luật (Nam - Phía Nam) (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "6",
+      "nganh": "Biên phòng (Nam - quân khu 7) (Xem)",
+      "diem_chuan": "24.87",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "7",
+      "nganh": "Biên phòng (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "23.86",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "8",
+      "nganh": "Biên phòng (Nam - quân khu 7) (Xem)",
+      "diem_chuan": "23.09",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "9",
+      "nganh": "Biên phòng (Nam - quân khu 4) (Xem)",
+      "diem_chuan": "22.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "10",
+      "nganh": "Biên phòng (Nam - quân khu 5) (Xem)",
+      "diem_chuan": "21.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "11",
+      "nganh": "Biên phòng (Nam - quân khu 9) (Xem)",
+      "diem_chuan": "21.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "12",
+      "nganh": "Biên phòng (Nam - quân khu 4) (Xem)",
+      "diem_chuan": "20.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "ten_truong": "Đại học Sư phạm TP HCM (Xem)",
+  "ma_truong": "SPS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-su-pham-tp-hcm?keyword=SPS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Hóa học (Xem)",
+      "diem_chuan": "27.67",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Toán học (Xem)",
+      "diem_chuan": "27.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Quốc phòng - An ninh (Xem)",
+      "diem_chuan": "27.28",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A08,C00,C19",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Vật lí (Xem)",
+      "diem_chuan": "27.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Giáo dục Toán học (Xem)",
+      "diem_chuan": "26.18",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Giáo dục Tiều học (Xem)",
+      "diem_chuan": "26.13",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Tâm lý học giáo dục (Xem)",
+      "diem_chuan": "26.03",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Khoa học Tự nhiên (Xem)",
+      "diem_chuan": "25.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản lý giáo dục (Xem)",
+      "diem_chuan": "25.22",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C14,D02",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Giáo dục học (Xem)",
+      "diem_chuan": "24.82",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C14,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Tin học (Xem)",
+      "diem_chuan": "24.73",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B08",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Giáo dục Tiều học (Xem)",
+      "diem_chuan": "24.73",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Hóa học (Xem)",
+      "diem_chuan": "24.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Vật lí học (Xem)",
+      "diem_chuan": "24.44",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Công tác xã hội (Xem)",
+      "diem_chuan": "24.44",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Sư phạm Công nghệ (Xem)",
+      "diem_chuan": "24.31",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "23.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B08",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

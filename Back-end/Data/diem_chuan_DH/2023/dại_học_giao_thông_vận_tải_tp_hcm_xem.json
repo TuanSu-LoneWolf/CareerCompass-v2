@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Giao thông vận tải TP HCM (Xem)",
+  "ma_truong": "GTS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-giao-thong-van-tai-tp-hcm?keyword=GTS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Khai thác vận tải, chuyên ngành Quản trị Logistics và vận tải đa phương thức (Xem)",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật ô tô (chuyên ngành cơ điện tử ô tô) (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật ô tô (chuyên ngành cơ khí ô tô) (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Kỹ thuật điều khiển & Tự động hóa (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Khoa học hàng hải (chuyên ngành Quản lý cảng và logistics) (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh tế vận tải, chuyên ngành kinh tế vận tải hàng không (Xem)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngành Kỹ thuật điện tử truyền thông (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Khai thác vận tải, chuyên ngành Quản lý và kinh doanh vận tải (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật cơ khí (chuyên ngành: Kỹ thuật cơ điện) (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật cơ khí (chuyên ngành: Máy xây dựng) (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kỹ thuật cơ khí (chuyên ngành: Cơ giới hoá xây dựng) (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kinh tế vận tải, chuyên nganh Kinh tế vận tải hàng không (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật Điện, chuyên ngành Hệ thống điện giao thông (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D08",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Chuyên ngành Kinh tế xây dựng (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kỹ thuật Điện công nghiệp (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Khoa học hàng hải (chuyên ngành Quản lý hàng hải) (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật Điện, chuyên ngành Năng lượng tái tạo (Xem)",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D09",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

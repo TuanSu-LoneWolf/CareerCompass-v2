@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Hà Nội (Xem)",
+  "ma_truong": "NHF",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ha-noi?keyword=NHF",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Hàn Quốc (Xem)",
+      "diem_chuan": "36.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "35.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D04",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "35.38",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Marketing (dạy bằng tiếng Anh) (Xem)",
+      "diem_chuan": "35.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Trung Quốc - Chất lượng cao (CLC) (Xem)",
+      "diem_chuan": "34.82",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D04",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Hàn Quốc - Chất lượng cao (CLC) (Xem)",
+      "diem_chuan": "34.73",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Nhật (Xem)",
+      "diem_chuan": "34.59",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D06",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Truyền thông doanh nghiệp (Xem)",
+      "diem_chuan": "34.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D03",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Đức (Xem)",
+      "diem_chuan": "33.96",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D05",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị doanh nghiệp (Xem)",
+      "diem_chuan": "33.93",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "33.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngôn ngữ Pháp (Xem)",
+      "diem_chuan": "33.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D03",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Tài chính – Ngân hàng (Xem)",
+      "diem_chuan": "33.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "33.52",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Quốc tế học (Xem)",
+      "diem_chuan": "33.48",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngôn ngữ Tây Ban Nha (Xem)",
+      "diem_chuan": "33.38",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Italia (Xem)",
+      "diem_chuan": "32.63",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Nghiên cứu phát triển (Xem)",
+      "diem_chuan": "32.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh) - CLC (Xem)",
+      "diem_chuan": "32.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngôn ngữ Nga (Xem)",
+      "diem_chuan": "31.93",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "ten_truong": "Đại học Khoa Học - Đại học Thái Nguyên (Xem)",
+  "ma_truong": "DTZ",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-dai-hoc-thai-nguyen?keyword=DTZ",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Trung Quốc học (Xem)",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D04,D66",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Vật lý học (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C05",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Toán học (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Hóa học (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C08,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Hàn Quốc học (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D66",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Văn học (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Toán tin (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Lịch sử (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Dịch vụ pháp luật (Xem)",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,C20,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Công tác xã hội (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C20,D01,D66",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ kỹ thuật hoá học (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A16,B00,C14",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản lý tài nguyên và môi trường (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C14,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Thông tin - thư viện (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,C20,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Báo chí (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Du lịch (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C04,C20,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý thể dục thể thao (Xem)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,D01,D84",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "ten_truong": "Đại học Việt Nhật - Đại học Quốc gia Hà Nội (Xem)",
+  "ma_truong": "VJU",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-viet-nhat-dai-hoc-quoc-gia-ha-noi?keyword=VJU",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Nhật Bản học (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D06,D14,D28,D63,D78,D81",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học và Kỹ thuật máy tính (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D08,D23,D28,D33",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Nông nghiệp thông minh và phát triển bền vững (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01,D06,D28",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật xây dựng (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D06,D28",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật cơ điện tử (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D23,D28",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

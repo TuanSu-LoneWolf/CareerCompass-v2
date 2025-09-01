@@ -1,0 +1,62 @@
+{
+  "ten_truong": "Học viện Quân Y - Hệ Quân sự (Xem)",
+  "ma_truong": "YQH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-quan-y-he-quan-su?keyword=YQH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Nữ - Miền Bắc) (Xem)",
+      "diem_chuan": "27.17",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "2",
+      "nganh": "Y khoa (Nữ - Miền Nam) (Xem)",
+      "diem_chuan": "27.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "3",
+      "nganh": "Y học dự phòng (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "4",
+      "nganh": "Y khoa (Nam - Miền Bắc) (Xem)",
+      "diem_chuan": "25.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "5",
+      "nganh": "Y khoa (Nam - Miền Nam) (Xem)",
+      "diem_chuan": "24.91",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "6",
+      "nganh": "Y học dự phòng (Nam - Miền Nam) (Xem)",
+      "diem_chuan": "24.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

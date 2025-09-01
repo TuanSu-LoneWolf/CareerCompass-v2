@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Kiến trúc Hà Nội (Xem)",
+  "ma_truong": "KTA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kien-truc-ha-noi?keyword=KTA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "28.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Quy hoạch vùng và đô thị (Xem)",
+      "diem_chuan": "28.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Quy hoạch vùng và đô thị (Chuyên ngành thiết kế đô thị) (Xem)",
+      "diem_chuan": "27.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kiến trúc cảnh quan (Xem)",
+      "diem_chuan": "26.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Chương trình tiên tiến ngành Kiến trúc (Xem)",
+      "diem_chuan": "26.23",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V00,V01,V02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Thiết kế đồ họa (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản lý xây dựng (Chuyên ngành Quản lý vận tải và Logistic) (Xem)",
+      "diem_chuan": "23.93",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "23.56",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Thiết kế nội thất (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Điêu khắc (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Thiết kế thời trang (Xem)",
+      "diem_chuan": "22.99",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "H00,H02",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kinh tế xây dựng (Xem)",
+      "diem_chuan": "22.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kinh tế xây dựng (chuyên ngành Kinh tế đầu tư) (Xem)",
+      "diem_chuan": "22.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật xây dựng (Chuyên ngành Quản lý dự án xây dựng) (Xem)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản lý xây dựng (Chuyên ngành Kinh tế phát triển) (Xem)",
+      "diem_chuan": "22.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản lý xây dựng (Chuyên ngành Quản lý bất động sản) (Xem)",
+      "diem_chuan": "21.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý xây dựng (Xem)",
+      "diem_chuan": "21.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ kỹ thuật vật liệu xây dựng (Xem)",
+      "diem_chuan": "21.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật xây dựng công trình giao thông (Xem)",
+      "diem_chuan": "21.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

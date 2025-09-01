@@ -1,0 +1,80 @@
+{
+  "ten_truong": "Đại học Nguyễn Trãi (Xem)",
+  "ma_truong": "NTU",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nguyen-trai?keyword=NTU",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Quốc tế học (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,C04,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Thiết kế đồ họa (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01,C03,C04,C15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị doanh nghiệp (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,C14,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Nhật (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D63",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Quan hệ công chúng (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,C19,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,C04,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Kiến trúc (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,C02,C04",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

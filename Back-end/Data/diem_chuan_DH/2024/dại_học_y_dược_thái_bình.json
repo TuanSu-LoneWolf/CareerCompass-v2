@@ -1,0 +1,62 @@
+{
+  "ten_truong": "Đại học Y Dược Thái Bình (Xem)",
+  "ma_truong": "YTB",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-y-duoc-thai-binh?keyword=YTB",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Y khoa (Xem)",
+      "diem_chuan": "26.17",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TCP1 Điểm toán: 7,6; TCP2 Thứ tự nguyện vọng: 2)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TCP1 Điểm toán: 7,0; TCP2 Thứ tự nguyện vọng: 2)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật xét nghiệm y học (Xem)",
+      "diem_chuan": "23.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TCP1 Điểm toán: 7,8; TCP2 Thứ tự nguyện vọng: 1)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Y học cổ truyền (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TCP1 Điểm toán: 7,0; TCP2 Thứ tự nguyện vọng: 2)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Điều dưỡng (Xem)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TCP1 Điểm toán: 8,0; TCP2 Thứ tự nguyện vọng: 2)",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Y học dự phòng (Xem)",
+      "diem_chuan": "19.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT (TCP1 Điểm toán: 7,4; TCP2 Thứ tự nguyện vọng: 2)",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

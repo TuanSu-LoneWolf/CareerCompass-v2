@@ -1,0 +1,80 @@
+{
+  "ten_truong": "Học viện Kĩ Thuật Quân Sự - Hệ Quân sự (Xem)",
+  "ma_truong": "KQH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/hoc-vien-ki-thuat-quan-su-he-quan-su?keyword=KQH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nữ - Phía Bắc) (Xem)",
+      "diem_chuan": "27.71",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "2",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nữ - Phía Bắc) (Xem)",
+      "diem_chuan": "27.71",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "3",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nữ - Phía Nam) (Xem)",
+      "diem_chuan": "26.52",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "4",
+      "nganh": "Chỉ huy tham mưu thông tin (Xem)",
+      "diem_chuan": "26.52",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nam - Phía Bắc) (Xem)",
+      "diem_chuan": "26.13",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "6",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nam - Phía Bắc) (Xem)",
+      "diem_chuan": "26.13",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "7",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nam - Phía Nam) (Xem)",
+      "diem_chuan": "25.46",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "8",
+      "nganh": "Chỉ huy, quản lý kỹ thuật (Nam - Phía Nam) (Xem)",
+      "diem_chuan": "25.46",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ten_truong": "Đại học Ngân hàng TP HCM (Xem)",
+  "ma_truong": "NHS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-ngan-hang-tp-hcm?keyword=NHS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Tài chính ngân hàng CLC (Xem)",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh Chương trình đào tạo đặc biệt (Xem)",
+      "diem_chuan": "24.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kế toán CLC (Xem)",
+      "diem_chuan": "23.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A04,A05",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị Kinh doanh CLC (Xem)",
+      "diem_chuan": "20.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

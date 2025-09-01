@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Kinh Tế - Đại học Huế (Xem)",
+  "ma_truong": "DHK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-dai-hoc-hue?keyword=DHK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Marketing (dạy bằng tiếng Anh) (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị kinh doanh (Đào tạo bằng tiếng Anh) (Xem)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Thương mại điện tử (Xem)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị doanh nghiệp (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh (chất lượng cao) (Xem)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị nhân lực (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Tài chính – Ngân hàng (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,D01,D03,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kinh doanh thương mại (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kinh tế tài chính (Xem)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Kinh tế (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Thống kê kinh tế (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Song ngành Kinh tế - Tài chính (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kiểm toán (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kinh tế chính trị (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Hệ thống thông tin (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kinh tế quốc tế (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Kinh tế (chất lượng cao) (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kiểm toán (chất lượng cao) (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C15,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

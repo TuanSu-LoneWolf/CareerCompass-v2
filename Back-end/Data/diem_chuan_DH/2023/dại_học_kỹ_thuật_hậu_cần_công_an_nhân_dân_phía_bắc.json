@@ -1,0 +1,44 @@
+{
+  "ten_truong": "Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Bắc ) (Xem)",
+  "ma_truong": "HCB",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-bac?keyword=HCB",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Nhóm ngành Kỹ thuật CAND (Thí sinh Nữ - Phía Bắc) (Xem)",
+      "diem_chuan": "21.06",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "2",
+      "nganh": "Thí sinh nữ (Phía Bắc) (Xem)",
+      "diem_chuan": "21.06",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nữ"
+    },
+    {
+      "stt": "3",
+      "nganh": "Thí sinh nam (Phía Bắc) (Xem)",
+      "diem_chuan": "18.22",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "4",
+      "nganh": "Thí sinh nam (Phía Bắc) (Xem)",
+      "diem_chuan": "18.22",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    }
+  ]
+}

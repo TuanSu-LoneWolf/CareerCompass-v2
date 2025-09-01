@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Sư phạm Kỹ thuật TP HCM (Xem)",
+  "ma_truong": "SPK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-su-pham-ky-thuat-tp-hcm?keyword=SPK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "27.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Thiết kế đồ họa (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "26.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "V01,V02,V07,V08",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "26.14",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ thông tin (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.97",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Chương trình đào tạo kỹ thuật thiết kế Vi mạch - thuộc ngành CNKT ĐT - Viễn thông (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.66",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ thông tin (đào tạo bằng tiếng Anh) (Xem)",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin (đào tạo bằng tiếng Việt Nhật) (Xem)",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật máy tính (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ kỹ thuật máy tính (đào tạo bằng tiếng Anh) (Xem)",
+      "diem_chuan": "25.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật ô tô (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.39",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh) (Xem)",
+      "diem_chuan": "25.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ kỹ thuật cơ khí (đào tạo bằng tiếng Anh) (Xem)",
+      "diem_chuan": "25.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.21",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C20,D01,D14",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ kỹ thuật điện tử, viễn thông (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Luật (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.12",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt) (Xem)",
+      "diem_chuan": "25.12",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

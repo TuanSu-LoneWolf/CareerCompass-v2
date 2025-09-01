@@ -1,0 +1,125 @@
+{
+  "ten_truong": "Đại học Thành Đô (Xem)",
+  "ma_truong": "TDD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-thanh-do?keyword=TDD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Dược học (Xem)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A11,B00,D07",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ kỹ thuật ô tô (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Luật (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Trung Quốc (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Anh (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D07,D14,D15",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị khách sạn (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị văn phòng (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị Kinh doanh (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Việt Nam học (Xem)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Nam"
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử (Xem)",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Giáo dục học (Xem)",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D14",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "ten_truong": "Đại học Sư phạm Kỹ thuật TP HCM (Xem)",
+  "ma_truong": "SPK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-tp-hcm?keyword=SPK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kinh doanh Quốc tế (hệ Đại trà) (Xem)",
+      "diem_chuan": "27.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "2",
+      "nganh": "Su phạm Tiếng Anh (hệ Đại trà) (Xem)",
+      "diem_chuan": "27.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D96",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "3",
+      "nganh": "Thương mại điện tử (hệ Đại trà) (Xem)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "4",
+      "nganh": "An toàn thông tin (hệ đại trà) (Xem)",
+      "diem_chuan": "26.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử (hệ đại trà) (Xem)",
+      "diem_chuan": "26.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật dữ liệu (Xem)",
+      "diem_chuan": "26.81",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật ô tô (hệ đại trà) (Xem)",
+      "diem_chuan": "26.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ Thông Tin (hệ đại trà) (Xem)",
+      "diem_chuan": "26.64",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỳ thuật điểu khicn và tự động hoả (hộ Đại trà) (Xem)",
+      "diem_chuan": "26.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỳ thuật máy tinh (hệ Đại trà) (Xem)",
+      "diem_chuan": "26.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật Điện tử - Viễn thông (hệ đại trà) (Xem)",
+      "diem_chuan": "26.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "12",
+      "nganh": "Robot và trí tuệ nhân tạo (Xem)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kế toán (hệ Đại trà) (Xem)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ thông tin (Xem)",
+      "diem_chuan": "25.98",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ thông tin (CTCLC) (Xem)",
+      "diem_chuan": "25.86",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ Kỹ thuật Hóa học (hệ đại trà) (Xem)",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "17",
+      "nganh": "Hệ thống nhúng và IoT (Xem)",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "18",
+      "nganh": "Thương mại điện tử CLC (Xem)",
+      "diem_chuan": "25.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản lý Công nghiệp (hệ Đại trà) (Xem)",
+      "diem_chuan": "25.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ kỹ thuật điện - Điện tử (hệ đại trà) (Xem)",
+      "diem_chuan": "25.38",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": "",
+      "gioi_tinh": "Không xác định"
+    }
+  ]
+}
