@@ -1,0 +1,56 @@
+{
+  "ten_truong": "Đại học Y tế Công cộng",
+  "ma_truong": "YTC",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-y-te-cong-cong?keyword=YTC",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật phục hồi chức năng",
+      "diem_chuan": "22.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Công tác xã hội",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Dinh dưỡng",
+      "diem_chuan": "20.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật xét nghiệm y học",
+      "diem_chuan": "20.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Y tế công cộng",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Khoa học dữ liệu",
+      "diem_chuan": "16.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

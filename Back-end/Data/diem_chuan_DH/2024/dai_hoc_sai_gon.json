@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Sài Gòn",
+  "ma_truong": "SGD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-sai-gon?keyword=SGD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh (CN Thương mại và du lịch)",
+      "diem_chuan": "320.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh (Chương trình chất lượng cao)",
+      "diem_chuan": "320.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật phần mềm",
+      "diem_chuan": "320.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật phần mềm",
+      "diem_chuan": "320.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh tế quốc tế",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "8",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "9",
+      "nganh": "Kế toán",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán (Chương trình chất lượng cao)",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kiểm toán",
+      "diem_chuan": "312.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị văn phòng",
+      "diem_chuan": "305.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C04",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "13",
+      "nganh": "Luật",
+      "diem_chuan": "305.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C03",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kinh tế quốc tế",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "17",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kế toán",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "19",
+      "nganh": "Kế toán (Chương trình chất lượng cao)",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kiểm toán",
+      "diem_chuan": "297.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": "Xét kết quả kì thi đánh giá đầu vào đại học trên máy tính"
+    }
+  ]
+}

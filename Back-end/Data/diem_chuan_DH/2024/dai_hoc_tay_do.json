@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Tây Đô",
+  "ma_truong": "DTD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-tay-do?keyword=DTD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Dược học",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C02,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A02,B00,B03,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ kỹ thuật xây dựng dân dụng và công nghiệp",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ thực phẩm",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "ĐH Nuôi trồng thủy sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Dinh dưỡng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Du lịch",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D14,D66,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Marketing",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Ngành Kinh doanh quốc tế",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D66",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản lý đất đai",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

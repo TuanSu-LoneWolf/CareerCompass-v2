@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Mỏ - Địa chất",
+  "ma_truong": "MDA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-mo-dia-chat?keyword=MDA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật cơ khí",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành Kỹ thuật điều khiển & Tự động hóa",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật ô tô",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Du lịch địa chất",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C04,D01,D07,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Khoa học dữ liệu (Data Science)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật cơ điện tử",
+      "diem_chuan": "22.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản lý phát triển đô thị và bất động sản",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C04,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "\bKỹ thuật Robot và trí tuệ nhân tạo",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản lý công nghiệp",
+      "diem_chuan": "20.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật điện",
+      "diem_chuan": "20.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Kỹ thuật cơ khí động lực",
+      "diem_chuan": "20.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý đất đai",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C04,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản lý xây dựng",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật hóa học",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

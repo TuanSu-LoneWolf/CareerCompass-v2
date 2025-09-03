@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Hải Phòng",
+  "ma_truong": "THP",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hai-phong?keyword=THP",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem_chuan": "30.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D06,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "27.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D03,D04,D06",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D06,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Toán học",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Giáo dục Thể chất",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "T00,T01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Giáo dục Mầm non",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00,M01,M03,M04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Giáo dục Mầm non",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00,M01,M03,M04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Kinh tế",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D06,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Công tác xã hội",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Kiến trúc",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,V01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Kế toán",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

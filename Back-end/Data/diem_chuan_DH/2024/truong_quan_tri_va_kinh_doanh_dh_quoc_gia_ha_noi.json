@@ -1,0 +1,40 @@
+{
+  "ten_truong": "Trường Quản trị và Kinh doanh - ĐH Quốc gia Hà Nội",
+  "ma_truong": "QHD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/truong-quan-tri-va-kinh-doanh-dh-quoc-gia-ha-noi?keyword=QHD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị và An ninh",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị Doanh nghiệp và Công nghệ",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Marketing và Truyền thông",
+      "diem_chuan": "21.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D09,D10,D96",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị Nhân lực và Nhân tài",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D09,D10,D96",
+      "ghi_chu": ""
+    }
+  ]
+}

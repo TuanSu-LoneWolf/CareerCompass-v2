@@ -1,0 +1,88 @@
+{
+  "ten_truong": "Đại học Thái Bình",
+  "ma_truong": "DTB",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-thai-binh?keyword=DTB",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Chính trị học",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Quan hệ quốc tế",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh tế",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C14,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn)",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C14,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM",
+  "ma_truong": "QSK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tp-hcm?keyword=QSK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "27.44",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "27.44",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Hệ thống thông tin quản lý (Chương trình Co-operative Education)",
+      "diem_chuan": "27.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Hệ thống thông tin quản lý hợp tác doanh nghiệp",
+      "diem_chuan": "27.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Marketing (Chuyên ngành Digital Marketing)",
+      "diem_chuan": "27.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Marketing Kỹ thuật số",
+      "diem_chuan": "27.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Marketing (Chuyên ngành Marketing)",
+      "diem_chuan": "26.87",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Marketing",
+      "diem_chuan": "26.87",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Kinh doanh quốc tế",
+      "diem_chuan": "26.71",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kinh doanh quốc tế",
+      "diem_chuan": "26.71",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại)",
+      "diem_chuan": "26.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Kinh tế đối ngoại",
+      "diem_chuan": "26.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ tài chính",
+      "diem_chuan": "26.54",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ tài chính",
+      "diem_chuan": "26.54",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ tài chính (Chương trình Co-operative Education)",
+      "diem_chuan": "26.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ tài chính hợp tác doanh nghiệp",
+      "diem_chuan": "26.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Toán Kinh tế (Chuyên ngành phân tích dữ liệu)",
+      "diem_chuan": "26.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Hệ thống thông tin quản lý (Chuyên ngành Kinh doanh số và Trí tuệ nhân tạo)",
+      "diem_chuan": "26.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Hệ thống thông tin Quản lý, chuyên ngành Kinh doanh số và Trí tuệ nhân tạo",
+      "diem_chuan": "26.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Phân tích dữ liệu",
+      "diem_chuan": "26.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

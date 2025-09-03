@@ -1,0 +1,160 @@
+{
+  "ten_truong": "Học viện Hàng không Việt Nam",
+  "ma_truong": "HHK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/hoc-vien-hang-khong-viet-nam?keyword=HHK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Quản lý hoạt động bay học bằng tiếng Anh",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý hoạt động bay",
+      "diem_chuan": "25.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật hàng không",
+      "diem_chuan": "23.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật hàng không học bằng tiếng Anh",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh tế vận tải Logistics",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh tế vận tải CN kinh tế hàng không",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngành Kinh doanh quốc tế",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành CN quản trị dịch vụ thương mại hàng không",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kinh tế vận tải học bằng tiếng Anh",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị kinh doanh - Tiếng Anh",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng CN quản lý và khai thác cảng hàng không",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ kỹ thuật công trình xây dựng CN xây dựng và phát triển cảng hàng không",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Điện tử - viễn thông",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

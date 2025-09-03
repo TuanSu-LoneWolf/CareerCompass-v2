@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Nông Lâm - Đại học Huế",
+  "ma_truong": "DHL",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nong-lam-dai-hoc-hue?keyword=DHL",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Thú y",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Chăn nuôi",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thực phẩm",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B04,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản lý thủy sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D01,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "ĐH Nuôi trồng thủy sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D01,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật cơ sở hạ tầng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản lý đất đai",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C00,C04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Bệnh học thủy sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D01,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Khoa học cây trồng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B04,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản lý tài nguyên rừng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,B04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Kinh doanh và khởi nghiệp nông thôn",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,C00,C04,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Nông nghiệp công nghệ cao",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B04,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Đảm bảo chất lượng và an toàn thực phẩm",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B04,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Nông học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B04,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Khuyến nông",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,B04,C00,C04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Phát triển nông thôn",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,B04,C00,C04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Kỹ thuật cơ điện tử",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Bất động sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C00,C04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Lâm nghiệp",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,B04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Bảo vệ thực vật",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B04,D08",
+      "ghi_chu": ""
+    }
+  ]
+}

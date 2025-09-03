@@ -1,0 +1,120 @@
+{
+  "ten_truong": "Đại học Văn hoá TP HCM",
+  "ma_truong": "VHS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hoa-tp-hcm?keyword=VHS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Văn hóa học, chuyên ngành Truyền thông Văn hóa",
+      "diem_chuan": "24.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý văn hoá - Biểu diễn nghệ thuật",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Quản trị lữ hành",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D10,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Du lịch",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D10,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Du lịch - Lữ hành, Hướng dẫn du lịch",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D10,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản lý văn hóa, chuyên ngành (1) Quản lý hoạt động Văn hóa Xã hội",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Văn hoá học - Văn hoá truyền thông",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Văn hóa học, chuyên ngành Văn hóa Việt Nam",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Kinh doanh xuất bản phẩm",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D10,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản lý nhà nước về gia đình",
+      "diem_chuan": "17.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản lý di sản văn hoá",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Thông tin - thư viện",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Văn hoá các dân tộc thiểu số Việt Nam",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Bảo tàng học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D09,D15",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Kinh Tế  & Quản Trị Kinh Doanh - Đại học Thái Nguyên",
+  "ma_truong": "DTE",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-kinh-te-quan-tri-kinh-doanh-dai-hoc-thai-nguyen?keyword=DTE",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị kinh doanh (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản trị Marketing (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị kinh doanh (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị Marketing (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Tài chính (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị du lịch và khách sạn (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị du lịch và khách sạn (Chương trình dạy và học bằng tiếng Anh)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "9",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "19.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "10",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "12",
+      "nganh": "Marketing",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kinh doanh quốc tế",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "14",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản trị kinh doanh (Học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét theo điểm học bạ THPT"
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "18",
+      "nganh": "Marketing",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

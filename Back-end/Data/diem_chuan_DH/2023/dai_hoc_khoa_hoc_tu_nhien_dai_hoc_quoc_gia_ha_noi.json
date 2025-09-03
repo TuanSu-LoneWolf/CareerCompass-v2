@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Khoa học tự nhiên - Đại học Quốc Gia Hà Nội",
+  "ma_truong": "QHT",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi?keyword=QHT",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học dữ liệu",
+      "diem_chuan": "34.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D07; D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học máy tính và thông tin*",
+      "diem_chuan": "34.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;D07;D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Toán tin",
+      "diem_chuan": "34.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;D07;D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Toán học",
+      "diem_chuan": "33.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D07; D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật điện tử và tin học*",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; B00; CO1",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Hoá dược",
+      "diem_chuan": "24.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; B00; D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Khoa học và công nghệ thực phẩm*",
+      "diem_chuan": "24.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; B00; D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Vật lý học",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00; C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ sinh học",
+      "diem_chuan": "24.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A02; B00; B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Hoá học",
+      "diem_chuan": "23.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; B00; D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật hoá học",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; B00; D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Sinh học",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A02; B00; B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Sinh dược học*",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A02; B00; B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Khoa học vật liệu",
+      "diem_chuan": "22.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00; C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản lý phát triển đô thị và bất động sản*",
+      "diem_chuan": "22.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00;D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ kỹ thuật hạt nhân",
+      "diem_chuan": "21.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00; CO1",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản lý tải nguyên và môi trường",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00; D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản lý đất đai",
+      "diem_chuan": "20.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00;D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Khoa học thông tin địa không gian*",
+      "diem_chuan": "20.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00;D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Địa lý tự nhiên",
+      "diem_chuan": "20.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01;B00;D10",
+      "ghi_chu": ""
+    }
+  ]
+}

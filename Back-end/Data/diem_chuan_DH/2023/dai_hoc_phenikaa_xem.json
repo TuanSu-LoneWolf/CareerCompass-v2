@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Phenikaa",
+  "ma_truong": "DTA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phenikaa?keyword=DTA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D09",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học máy tính",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Tài chính - ngân hàng",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D04,D09",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Y khoa",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B08,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Răng - Hàm - Mặt",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật robot và trí tuệ nhân tạo (song ngữ Việt - Anh)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Du lịch",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Kỹ thuật điện tử - viễn thông (Thiết kế vi mạch, Hệ thông nhúng và IoT)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Kế toán",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Du lịch",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật phần mềm (Một số môn chuyên ngành học bằng tiếng Anh)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Khoa học dữ liệu và Trí tuệ nhân tạo",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Kinh doanh quốc tế",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Logistic và Quản lý chuỗi cung ứng (một số môn chuyên ngành học bằng tiếng Anh)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    }
+  ]
+}

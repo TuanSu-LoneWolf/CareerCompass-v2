@@ -1,0 +1,80 @@
+{
+  "ten_truong": "Đại học Ngân hàng TP HCM",
+  "ma_truong": "NHS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngan-hang-tp-hcm?keyword=NHS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kinh tế quốc tế",
+      "diem_chuan": "25.24",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "25.07",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "25.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "24.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kế toán",
+      "diem_chuan": "24.87",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Hệ thống thông tin",
+      "diem_chuan": "24.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Chương trình đại học chính quy quốc tế cấp song bằng ngành Quản trị kinh doanh",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "24.38",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Chương trình cử nhân chất lượng cao",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

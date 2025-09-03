@@ -1,0 +1,40 @@
+{
+  "ten_truong": "Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+  "ma_truong": "GNT",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-su-pham-nghe-thuat-trung-uong?keyword=GNT",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Công tác xã hội",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ may",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Du lịch",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản lý văn hoá",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    }
+  ]
+}

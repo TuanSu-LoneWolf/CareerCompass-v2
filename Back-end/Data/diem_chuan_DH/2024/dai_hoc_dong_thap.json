@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Đồng Tháp",
+  "ma_truong": "SPD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-dong-thap?keyword=SPD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Lịch sử",
+      "diem_chuan": "27.84",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Địa lý",
+      "diem_chuan": "27.43",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem_chuan": "27.31",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Giáo dục Công dân",
+      "diem_chuan": "26.98",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Lịch sử - Địa lý",
+      "diem_chuan": "26.98",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Giáo dục Chính trị",
+      "diem_chuan": "26.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Giáo dục Mầm non",
+      "diem_chuan": "26.41",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Toán học",
+      "diem_chuan": "26.33",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Sư phạm Hóa học",
+      "diem_chuan": "25.94",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Giáo dục Mầm non",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm Vật lý",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Giáo dục Thể chất",
+      "diem_chuan": "25.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "T00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem_chuan": "25.43",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Sư phạm Âm nhạc",
+      "diem_chuan": "25.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "25.27",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Địa lý học",
+      "diem_chuan": "25.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Sư phạm Sinh học",
+      "diem_chuan": "24.86",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A02",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Sư phạm khoa học tự nhiên",
+      "diem_chuan": "24.63",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "24.21",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Tâm lý học giáo dục",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    }
+  ]
+}

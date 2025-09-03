@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Công nghiệp Thực phẩm TP HCM",
+  "ma_truong": "DCT",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-thuc-pham-tp-hcm?keyword=DCT",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Marketing (dạy bằng tiếng Anh)",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Kinh doanh quốc tế",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D09,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D09,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ thực phẩm",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "20.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kế toán",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ tài chính",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị kinh doanh thực phẩm",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Đảm bảo Chất lượng và ATTP",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Khoa học dữ liệu (Data Science)",
+      "diem_chuan": "16.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "An toàn thông tin",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Cần Thơ",
+  "ma_truong": "TCT",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-can-tho?keyword=TCT",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Công dân",
+      "diem_chuan": "26.86",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C19,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Lịch sử",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D14,D64",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem_chuan": "26.63",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Địa lý",
+      "diem_chuan": "26.23",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C04,D15,D44",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Xã hội học",
+      "diem_chuan": "26.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,C19,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Chính trị học",
+      "diem_chuan": "25.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C19,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "25.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D03",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Marketing (dạy bằng tiếng Anh)",
+      "diem_chuan": "25.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Triết học",
+      "diem_chuan": "25.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C19,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngành Kinh doanh quốc tế",
+      "diem_chuan": "25.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "25.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,D01,D03",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Kế toán",
+      "diem_chuan": "24.76",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Du lịch",
+      "diem_chuan": "24.63",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kinh doanh thương mại",
+      "diem_chuan": "24.61",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Kiểm toán",
+      "diem_chuan": "24.58",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Hoá dược",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C02,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "24.41",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C01,D01,D03",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "24.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Kinh tế",
+      "diem_chuan": "24.26",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C02,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

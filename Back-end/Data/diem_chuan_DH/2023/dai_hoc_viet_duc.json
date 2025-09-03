@@ -1,0 +1,64 @@
+{
+  "ten_truong": "Đại học Việt Đức",
+  "ma_truong": "VGU",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-viet-duc?keyword=VGU",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học máy tính",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Tài chính và Kế toán (FA)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D05,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Kỹ thuật cơ khí",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D05,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kiến trúc",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,V00,V02",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật điện và công nghệ thông tin",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

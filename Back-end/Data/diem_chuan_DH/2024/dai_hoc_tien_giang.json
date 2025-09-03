@@ -1,0 +1,144 @@
+{
+  "ten_truong": "Đại học Tiền Giang",
+  "ma_truong": "TTG",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-tien-giang?keyword=TTG",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "20.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D66",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Kế toán",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Bảo vệ thực vật",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Chăn nuôi",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật xây dựng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ sinh học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ thực phẩm",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "ĐH Nuôi trồng thủy sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,B08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Du lịch",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D78",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kinh tế",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Văn hoá học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D78",
+      "ghi_chu": ""
+    }
+  ]
+}

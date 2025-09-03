@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Kinh tế quốc dân",
+  "ma_truong": "KHA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-quoc-dan?keyword=KHA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "POHE-Truyền thông Marketing (tiếng Anh hệ số 2)",
+      "diem_chuan": "37.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "2",
+      "nganh": "POHE-Quản trị kinh doanh thương mại (tiếng Anh hệ số 2)",
+      "diem_chuan": "36.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh (tiếng Anh hệ số 2)",
+      "diem_chuan": "36.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D10",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Tài chính và đầu tư (BFI) (tiếng Anh hệ số 2)",
+      "diem_chuan": "36.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D10",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Logistics và QLCCU tích hợp CCQT (LS1C) (tiếng Anh hệ số 2)",
+      "diem_chuan": "36.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Thống kê kinh tế (Toán hệ số 2)",
+      "diem_chuan": "36.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "7",
+      "nganh": "POHE-Luật kinh doanh (tiếng Anh hệ số 2)",
+      "diem_chuan": "36.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "8",
+      "nganh": "Hệ thống thông tin quản lý (Toán hệ số 2)",
+      "diem_chuan": "36.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "9",
+      "nganh": "Khởi nghiệp và phát triển kinh doanh (BBAE) (tiếng Anh hệ số 2)",
+      "diem_chuan": "36.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D09",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "10",
+      "nganh": "Toán kinh tế (Toán hệ số 2)",
+      "diem_chuan": "35.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "11",
+      "nganh": "POHE-Thẩm định giá (tiếng Anh hệ sô 2)",
+      "diem_chuan": "35.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị khách sạn quốc tế (IIIME) (tiếng Anh hệ số 2)",
+      "diem_chuan": "35.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D10",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "13",
+      "nganh": "POHE-Quản trị khách sạn (tiếng Anh hệ số 2)",
+      "diem_chuan": "35.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "14",
+      "nganh": "POHE-Quản trị lữ hành (tiếng Anh hệ số 2)",
+      "diem_chuan": "35.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "15",
+      "nganh": "POHE-Quản lý thị trường (tiếng Anh hộ số 2)",
+      "diem_chuan": "35.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "16",
+      "nganh": "Khoa học máy tính (Toán hệ số 2)",
+      "diem_chuan": "35.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ thông tin (Toàn hệ số 2)",
+      "diem_chuan": "35.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "18",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "27.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "19",
+      "nganh": "Marketing",
+      "diem_chuan": "27.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07,D10",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kinh doanh quốc tế",
+      "diem_chuan": "27.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

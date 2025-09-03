@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Mở TP HCM",
+  "ma_truong": "MBS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-mo-tp-hcm?keyword=MBS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01,D03,D05,D06",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01,D03,D05,D06",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01,D03,D05,D06",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "24.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01,D03,D05,D06",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Marketing",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Marketing",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D78",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D78",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D06,D22,D78,D83",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Trung Quốc - CLC",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D06,D22,D78,D83",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C03,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D06,D22,D78,D83",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Ngôn ngữ Trung Quốc - CLC",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D06,D22,D78,D83",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C03,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Tâm lý học",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D06,D22,D78,D83",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Tâm lý học",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D06,D22,D78,D83",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngành Kinh doanh quốc tế",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Ngành Kinh doanh quốc tế",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "23.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "ten_truong": "Đại học Nguyễn Trãi",
+  "ma_truong": "NTU",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-nguyen-trai?keyword=NTU",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Kế toán",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Kiến trúc",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,C03,C04,V00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Hàn Quốc",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C04,D01,D63",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Quan hệ công chúng",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C14,C19,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Quốc tế học",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Thiết kế đồ họa",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01,C03,C04,H00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Thiết kế nội thất",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C01,C03,C04,H00",
+      "ghi_chu": ""
+    }
+  ]
+}

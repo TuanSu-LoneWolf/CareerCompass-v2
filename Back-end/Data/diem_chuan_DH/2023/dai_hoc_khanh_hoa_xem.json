@@ -1,0 +1,152 @@
+{
+  "ten_truong": "Đại học Khánh Hòa",
+  "ma_truong": "UKH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khanh-hoa?keyword=UKH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem_chuan": "25.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "24.44",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem_chuan": "24.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Việt Nam học",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Văn học",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngôn ngữ học",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Hóa học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Sinh học ứng dụng - dược liệu",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Việt Nam học (Văn hóa Du lịch)",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Văn hoá học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    }
+  ]
+}

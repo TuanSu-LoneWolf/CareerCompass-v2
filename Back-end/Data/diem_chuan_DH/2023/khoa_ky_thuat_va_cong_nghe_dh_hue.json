@@ -1,0 +1,56 @@
+{
+  "ten_truong": "Khoa Kỹ thuật và Công Nghệ - ĐH Huế",
+  "ma_truong": "DHE",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-ky-thuat-va-cong-nghe-dh-hue?keyword=DHE",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học dữ liệu và trí tuệ nhân tạo (hệ kỹ sư)",
+      "diem_chuan": "18.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+      "diem_chuan": "18.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Kỹ thuật điều khiển & Tự động hóa",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật điện",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kinh tế xây dựng",
+      "diem_chuan": "15.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem_chuan": "15.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "ten_truong": "Trường Quốc Tế - Đại học Quốc Gia Hà Nội",
+  "ma_truong": "QHQ",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-quoc-te-dai-hoc-quoc-gia-ha-noi?keyword=QHQ",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kinh doanh quốc tế",
+      "diem_chuan": "24.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D96,D97",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngôn ngữ Anh(chuyên sâu Kinh doanh và CNTT - CTĐT CLC)",
+      "diem_chuan": "23.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D78,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Phân tích dữ liệu kinh doanh",
+      "diem_chuan": "23.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D07,D23,D24",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Kế toán. Phân tích và Kiểm toán",
+      "diem_chuan": "22.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D96,D97",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Marketing (CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)",
+      "diem_chuan": "22.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D96,D97",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem_chuan": "22.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D96,D97",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ tài chính và Kinh doanh số",
+      "diem_chuan": "22.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D07,D23,D24",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Kỹ thuật hệ thống công nghiệp và Logistics",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D07,D23,D24",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin ứng dụng",
+      "diem_chuan": "21.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D07,D23,D24",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản lý (CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka – Hoa Kỳ)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D96,D97",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "\bTự động hoá và tin học (CTĐT CLC)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D07,D23,D24",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Tin học và Kỹ thuật máy tính",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D03,D06,D07,D23,D24",
+      "ghi_chu": ""
+    }
+  ]
+}

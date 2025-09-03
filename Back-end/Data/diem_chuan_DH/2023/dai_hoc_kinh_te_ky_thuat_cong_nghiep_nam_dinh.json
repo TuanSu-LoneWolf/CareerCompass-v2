@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Kinh tế Kỹ thuật công nghiệp Nam Định",
+  "ma_truong": "DKD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-ky-thuat-cong-nghiep-nam-dinh?keyword=DKD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh (Chuyên ngành Biên phiên dịch; Chuyên ngành giảng dạy)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử (Chuyên ngành Kỹ thuật Robot; Hệ thống cơ điện tử; Hệ thống cơ điện tử trên ô tô)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin (Chuyên ngành Công nghệ thông tin; Hệ thống thông tin; Truyền dữ liệu và mạng máy tính)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Marketing",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Logistics và quản lý chuỗi cung ứng",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kinh doanh Thương mại (Chuyên ngành Kinh doanh thương mại; Thương mại điện tử)",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ Kỹ thuật ô tô",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ kỹ thuật điện tử - Viễn thông (Chuyên ngành Kỹ thuật viễn thông; Kỹ thuật điện tử)",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh; Quản trị Marketing; Logistics và quản lý chuỗi cung ứng )",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa (Chuyên ngành Tự động hóa công nghiệp; Kỹ thuật điều khiển và hệ thống thông minh; Thiết bị đo thông minh)",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử (Chuyên ngành Điện dân dụng và công nghiệp; Hệ thống cung cấp điện; Thiết bị điện, điện tử",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ thực phẩm (Chuyên ngành Công nghệ đồ uống và đường, bánh kẹo; Công nghệ chế biến và bảo quản nông sản)",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ sợi , dệt",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu (Chuyên ngành Mạng máy tính và truyền thông dữ liệu; Chuyên ngành an toàn thông tin)",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Ngành Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghê dệt, may (Chuyên ngành Công nghệ may; Thiết kế thời trang)",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Khoa học dữ liệu",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Tài chính ngân hàng (Chuyên ngành Tài chính doanh nghiệp; Ngân hàng; Tài chính bảo hiểm; Đầu tư tài chính)",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Bảo hiểm",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ kỹ thuật máy tính",
+      "diem_chuan": "17.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    }
+  ]
+}

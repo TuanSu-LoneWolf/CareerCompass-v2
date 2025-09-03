@@ -1,0 +1,144 @@
+{
+  "ten_truong": "Đại học Công nghệ - Đại học Quốc gia Hà Nội",
+  "ma_truong": "QHI",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi?keyword=QHI",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Công nghệ Thông tin",
+      "diem_chuan": "27.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ thông tin định hướng thị trường Nhật Bản",
+      "diem_chuan": "27.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Khoa học máy tính",
+      "diem_chuan": "27.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Máy tính và Robot",
+      "diem_chuan": "27.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem_chuan": "27.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật điều khiển và tự động hóa",
+      "diem_chuan": "27.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Hệ thống thông tin",
+      "diem_chuan": "26.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Mạng máy tính và truyền thông dữ liệu",
+      "diem_chuan": "26.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Cơ kỹ thuật",
+      "diem_chuan": "25.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật Robot",
+      "diem_chuan": "25.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+      "diem_chuan": "25.15",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Công nghệ kỹ thuật cơ điện tử",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Vật lý kỹ thuật",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ Hàng không vũ trụ",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật năng lượng",
+      "diem_chuan": "23.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Công nghệ kỹ thuật xây dựng",
+      "diem_chuan": "23.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Công nghệ nông nghiệp*",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00",
+      "ghi_chu": ""
+    }
+  ]
+}

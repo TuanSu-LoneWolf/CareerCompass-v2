@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Thương mại",
+  "ma_truong": "TMA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thuong-mai?keyword=TMA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Marketing (Marketing thương mại)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "2",
+      "nganh": "Kinh doanh quốc tế (Thương mại quốc tế)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Marketing (Marketing số)",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Trung Quốc (Tiếng Trung thưong mại)",
+      "diem_chuan": "26.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D04",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Marketing (Quản trị thương hiệu)",
+      "diem_chuan": "26.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng (Logistics và Quản lý chuỗi cung ứng)",
+      "diem_chuan": "26.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh tế quốc tế (Kinh tế quốc tế)",
+      "diem_chuan": "26.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "8",
+      "nganh": "Thương mại điện tử (Quản trị Thương mại điện tử)",
+      "diem_chuan": "26.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh (Quản trị kinh doanh)",
+      "diem_chuan": "26.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị kinh doanh (Khởi nghiệp và phát triển kinh doanh)",
+      "diem_chuan": "26.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kiểm toán (Kiểm toán)",
+      "diem_chuan": "26.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "12",
+      "nganh": "Hệ thống thông tin quản lý (Quản trị Hệ thống thông tin)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kế toán (Kế toán doanh nghiệp)",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "14",
+      "nganh": "Tài chính - Ngân hàng (Tài chính - Ngân hàng thưong mại)",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "15",
+      "nganh": "Quản trị nhân lực (Quản trị nhân lực doanh nghiệp)",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kế toán( Kế toán công)",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Anh (Tiếng Anh thương mại)",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "18",
+      "nganh": "Kinh tế số (Phân tích kinh doanh trong môi trường số)",
+      "diem_chuan": "25.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "19",
+      "nganh": "Kinh tế (Quản lý kinh tế)",
+      "diem_chuan": "25.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "20",
+      "nganh": "Tài chính - Ngân hàng (Tài chính công)",
+      "diem_chuan": "25.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00; A01; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

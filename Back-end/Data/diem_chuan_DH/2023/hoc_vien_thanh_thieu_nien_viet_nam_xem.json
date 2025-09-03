@@ -1,0 +1,64 @@
+{
+  "ten_truong": "Học viện Thanh Thiếu Niên Việt Nam",
+  "ma_truong": "HTN",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-thanh-thieu-nien-viet-nam?keyword=HTN",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Quan hệ công chúng",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C20,D01,D66",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành Luật",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A09,C00,C20",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Tâm lý học",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A09,C00,C20,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản lý nhà nước",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A09,C00,C20,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Xây dựng Đảng và Chính quyền nhà nước",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A09,C00,C20,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Công tác thanh thiếu niên",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A09,C00,C20,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Công tác xã hội",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A09,C00,C20,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

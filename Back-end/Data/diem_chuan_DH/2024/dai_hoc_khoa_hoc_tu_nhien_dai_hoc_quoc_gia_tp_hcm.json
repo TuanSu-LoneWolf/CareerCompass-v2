@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM",
+  "ma_truong": "QST",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tp-hcm?keyword=QST",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học máy tính (Chương trình Tiên tiến)",
+      "diem_chuan": "28.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Khoa học máy tính (Chương trình Tiên tiến)",
+      "diem_chuan": "28.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B08,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem_chuan": "27.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Khoa học dữ liệu",
+      "diem_chuan": "26.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Nhóm ngành máy tính và Công nghệ thông tin",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Nhóm ngành máy tính và Công nghệ thông tin",
+      "diem_chuan": "26.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B08,D10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ thông tin (Chương trình tăng cường tiếng anh)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ Thông tin (CT Chất lượng cao)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B08,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Nhóm ngành kỹ thuật điện tử, thiết kế vi mạch",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật Điện tử - Viễn thông",
+      "diem_chuan": "25.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Nhóm ngành Toán học, Toán ứng dụng, Toán tin",
+      "diem_chuan": "25.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Nhóm ngành Toán học, Toán tin, Toán ứng dụng",
+      "diem_chuan": "25.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Hóa học",
+      "diem_chuan": "25.42",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật điện tử - viễn thông (Chương trình tăng cường tiếng anh)",
+      "diem_chuan": "25.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật Điện tử - Viễn thông (CT Chất lượng cao)",
+      "diem_chuan": "25.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học",
+      "diem_chuan": "25.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Nhóm ngành Vật lý học, công nghệ Vật lý điện tử và tin học",
+      "diem_chuan": "25.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Công nghệ kỹ thuật Hoá học (Chương trình tăng cường tiếng anh)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Công nghệ kỹ thuật Hoá học (Chất lượng cao)",
+      "diem_chuan": "25.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Công nghệ Sinh học",
+      "diem_chuan": "24.90",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    }
+  ]
+}

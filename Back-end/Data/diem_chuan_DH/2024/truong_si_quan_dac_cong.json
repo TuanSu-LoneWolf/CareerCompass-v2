@@ -1,0 +1,40 @@
+{
+  "ten_truong": "Trường Sĩ Quan Đặc Công",
+  "ma_truong": "DCH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/truong-si-quan-dac-cong?keyword=DCH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+      "diem_chuan": "22.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+      "diem_chuan": "22.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+      "diem_chuan": "22.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+      "diem_chuan": "22.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    }
+  ]
+}

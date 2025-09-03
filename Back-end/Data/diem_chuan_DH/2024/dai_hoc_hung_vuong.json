@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Hùng Vương",
+  "ma_truong": "THV",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-hung-vuong?keyword=THV",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Thể chất",
+      "diem_chuan": "34.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "T00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Mầm non",
+      "diem_chuan": "33.47",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Âm nhạc",
+      "diem_chuan": "33.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem_chuan": "28.44",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "28.13",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem_chuan": "26.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Toán học",
+      "diem_chuan": "26.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Điều dưỡng",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Công tác xã hội",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kế toán",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Kinh tế",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Thú y",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "ten_truong": "Đại học Tài nguyên và Môi trường TP HCM",
+  "ma_truong": "DTM",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-nguyen-va-moi-truong-tp-hcm?keyword=DTM",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản lý đất đai",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản lý tài nguyên và môi trường",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản lý đô thị và công trình",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Bất động sản",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản lý tổng hợp tài nguyên nước",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Hệ thống thông tin",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ kỹ thuật hoá học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật Môi trường",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ vật liệu",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Biến đổi khí hậu và phát triển bền vững",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Khí tượng và Khí hậu học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản lý tài nguyên và môi trường biển đảo*",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật trắc địa – bản đồ",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Địa chất học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Thủy văn học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Kinh tế tài nguyên thiên nhiên",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Kỹ thuật cấp thoát nước",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,B00",
+      "ghi_chu": ""
+    }
+  ]
+}

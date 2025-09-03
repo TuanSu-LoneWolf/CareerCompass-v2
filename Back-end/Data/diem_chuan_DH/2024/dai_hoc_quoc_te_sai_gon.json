@@ -1,0 +1,120 @@
+{
+  "ten_truong": "Đại học Quốc tế Sài Gòn",
+  "ma_truong": "TTQ",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-quoc-te-sai-gon?keyword=TTQ",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Truyền thông đa phương tiện",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,C00",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "2",
+      "nganh": "Quan hệ công chúng",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,C00",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ thông tin, gồm các chuyên ngành:\n- Công nghệ thông tin\n- Công nghệ thôn tin y tế\n- Thiết kế vi mạch\n- Thiết kế đồ hoa",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật kinh tế chuyên ngành:\n- Luật kinh tế quốc tế",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,C00",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Khoa học máy tính, gồm các chuyên ngành:\n- Trí tuệ nhân tạo\n- Hệ thống dữ liệu lớn\n- Kỹ thuật phần mềm\n- Mạng máy tính & An ninh thông tin",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị kinh doanh, gồm các chuyên ngành:\n- Quản trị kinh doanh\n- Thương mại quốc tế\n- Quản trị du lịch\n- Kinh tế đối ngoại\n- Marketing số\n- Kinh doanh số",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "7",
+      "nganh": "Ngôn ngữ Anh, gồm các chuyên ngành:\n- Tiếng Anh giảng dạy\n- Tiếng Anh thương mại",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D11,D12,D15",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "8",
+      "nganh": "Logistics & Quản lý chuỗi cung ứng",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ giáo dục",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "10",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "11",
+      "nganh": "Kế toán, gồm các chuyên ngành:\n- Kế toán - kiểm toán\n- Kế toán doanh nghiệp",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "13",
+      "nganh": "Tâm lý học chuyên ngành:\n- Tâm lý học tham vấn & trị liệu",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,C00,D14,D15",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "14",
+      "nganh": "Đông phương học, gồm các chuyên ngành:\n- Nhật Bản học\n- Hàn Quốc học\n- Trung Quốc học",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D04",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

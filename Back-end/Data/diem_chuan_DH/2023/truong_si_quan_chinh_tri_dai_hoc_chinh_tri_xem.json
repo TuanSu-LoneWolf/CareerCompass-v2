@@ -1,0 +1,56 @@
+{
+  "ten_truong": "Trường Sĩ Quan Chính Trị - Đại học Chính Trị",
+  "ma_truong": "LCH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-chinh-tri-dai-hoc-chinh-tri?keyword=LCH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành Xây dựng Đảng và chính quyền Nhà nước (Nam - Phía Bắc)",
+      "diem_chuan": "27.62",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Ngành Xây dựng Đảng và chính quyền Nhà nước (Nam - Phía Nam)",
+      "diem_chuan": "26.27",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Xây dựng Đảng và chính quyền Nhà nước (Nam - Phía Bắc)",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Xây dựng Đảng và chính quyền Nhà nước (Nam - Phía Bắc)",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Xây dựng Đảng và chính quyền Nhà nước (Nam - Phía Nam)",
+      "diem_chuan": "19.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Ngành Xây dựng Đảng và chính quyền Nhà nước (Nam - Phía Bắc)",
+      "diem_chuan": "19.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    }
+  ]
+}

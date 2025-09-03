@@ -1,0 +1,32 @@
+{
+  "ten_truong": "Đại Học Thể Dục Thể Thao Bắc Ninh",
+  "ma_truong": "TDB",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-the-duc-the-thao-bac-ninh?keyword=TDB",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Golf",
+      "diem_chuan": "18.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M08,T00,T01,T05",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Quản lý thể dục thể thao",
+      "diem_chuan": "18.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M08,T00,T01,T05",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Y sinh học thể dục thể thao",
+      "diem_chuan": "18.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M08,T00,T01,T05",
+      "ghi_chu": ""
+    }
+  ]
+}

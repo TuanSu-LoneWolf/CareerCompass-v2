@@ -1,0 +1,88 @@
+{
+  "ten_truong": "Đại học Giáo dục - Đại học Quốc gia Hà Nội",
+  "ma_truong": "QHS",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi?keyword=QHS",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "28.89",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "28.89",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Sư phạm Lịch sử",
+      "diem_chuan": "28.76",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Sư phạm Lịch sử",
+      "diem_chuan": "28.76",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Giáo dục mầm non",
+      "diem_chuan": "27.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Giáo dục mầm non",
+      "diem_chuan": "27.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Sinh học",
+      "diem_chuan": "26.58",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Sư phạm Sinh học",
+      "diem_chuan": "26.58",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị trường học",
+      "diem_chuan": "24.92",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị trường học",
+      "diem_chuan": "24.92",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C00,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

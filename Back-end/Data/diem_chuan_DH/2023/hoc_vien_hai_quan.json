@@ -1,0 +1,40 @@
+{
+  "ten_truong": "Học viện Hải Quân",
+  "ma_truong": "HQH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hai-quan?keyword=HQH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Chỉ huy tham mưu Hải quân (Nam - Phía Nam)",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Chỉ huy tham mưu Hải quân (Nam - Phía Nam)",
+      "diem_chuan": "24.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Chỉ huy tham mưu Hải quân (Nam - Phía Bắc)",
+      "diem_chuan": "23.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Chỉ huy tham mưu Hải quân (Nam - Phía Bắc)",
+      "diem_chuan": "23.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    }
+  ]
+}

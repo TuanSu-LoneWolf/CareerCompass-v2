@@ -1,0 +1,136 @@
+{
+  "ten_truong": "Học viện Tòa án",
+  "ma_truong": "HTA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/hoc-vien-toa-an?keyword=HTA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Luật (Nữ - Phía Bắc)",
+      "diem_chuan": "28.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Luật (Nam - Phía Bắc)",
+      "diem_chuan": "28.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Luật (Nữ - Phía Nam)",
+      "diem_chuan": "27.67",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Luật (Nam - Phía Nam)",
+      "diem_chuan": "27.67",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Luật (Nữ - Phía Bắc)",
+      "diem_chuan": "25.32",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Luật (Nam - Phía Bắc)",
+      "diem_chuan": "24.68",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Luật (Nữ - Phía Bắc)",
+      "diem_chuan": "24.49",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Luật (Nữ - Phía Nam)",
+      "diem_chuan": "24.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Luật (Nữ - Phía Nam)",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Luật (Nam - Phía Nam)",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Luật (Nam - Phía Bắc)",
+      "diem_chuan": "23.42",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Luật (Nữ - Phía Bắc)",
+      "diem_chuan": "22.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Luật (Nam - Phía Bắc)",
+      "diem_chuan": "22.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Luật (Nam - Phía Nam)",
+      "diem_chuan": "21.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Luật (Nữ - Phía Nam)",
+      "diem_chuan": "21.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Luật (Nam - Phía Nam)",
+      "diem_chuan": "21.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    }
+  ]
+}

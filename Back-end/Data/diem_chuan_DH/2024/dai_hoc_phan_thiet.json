@@ -1,0 +1,128 @@
+{
+  "ten_truong": "Đại học Phan Thiết",
+  "ma_truong": "DPT",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-phan-thiet?keyword=DPT",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật xét nghiệm y học",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Kế toán",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Kỹ thuật xây dựng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Kỹ thuật cơ khí",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kỹ thuật ô tô",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,C01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D14,D66,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Luật",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D14,D66,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D66",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "ten_truong": "Đại học Bạc Liêu",
+  "ma_truong": "DBL",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-bac-lieu?keyword=DBL",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "26.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C03,D01,D78",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Bảo vệ thực vật",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Chăn nuôi",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "ĐH Nuôi trồng thủy sản",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Khoa học môi trường",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,D07,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D09,D14,D78",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị Kinh doanh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D90",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Tiếng Việt & Văn hóa Việt Nam",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C03,D01,D78",
+      "ghi_chu": ""
+    }
+  ]
+}

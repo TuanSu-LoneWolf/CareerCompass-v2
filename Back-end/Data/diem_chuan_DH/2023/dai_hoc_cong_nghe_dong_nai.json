@@ -1,0 +1,128 @@
+{
+  "ten_truong": "Đại học Công nghệ Đồng Nai",
+  "ma_truong": "DCD",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-dong-nai?keyword=DCD",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kỹ thuật xét nghiệm y học",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A06,B00,B04,C08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Điều dưỡng",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A06,B00,B04,C08",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ kỹ thuật ô tô",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A04,A10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,A09,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,A09,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,A09,C00,C20",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ thực phẩm",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A06,B00,B04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,C20,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A04,A10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Kế toán",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A07,A09,D84",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,A09,C00,C20",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Đông phương học",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A07,C00,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ chế tạo máy",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A04,A10",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ kỹ thuật điện, điện tử",
+      "diem_chuan": "15.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A04,A10",
+      "ghi_chu": ""
+    }
+  ]
+}

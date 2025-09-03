@@ -1,0 +1,112 @@
+{
+  "ten_truong": "Đại học Công đoàn",
+  "ma_truong": "LDA",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-cong-doan?keyword=LDA",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "33.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D14,D15",
+      "ghi_chu": "TTNV<=3"
+    },
+    {
+      "stt": "2",
+      "nganh": "Luật",
+      "diem_chuan": "26.38",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01",
+      "ghi_chu": "TTNV<=5"
+    },
+    {
+      "stt": "3",
+      "nganh": "Du lịch",
+      "diem_chuan": "24.63",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14. D15",
+      "ghi_chu": "TTNV<=2"
+    },
+    {
+      "stt": "4",
+      "nganh": "Công tác xã hội",
+      "diem_chuan": "23.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01",
+      "ghi_chu": "TTNV<=4"
+    },
+    {
+      "stt": "5",
+      "nganh": "Tài chính - Ngân hàng",
+      "diem_chuan": "23.61",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=5"
+    },
+    {
+      "stt": "6",
+      "nganh": "Kế toán",
+      "diem_chuan": "23.60",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=2"
+    },
+    {
+      "stt": "7",
+      "nganh": "Kinh tế",
+      "diem_chuan": "23.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=3"
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "23.19",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=6"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "22.80",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=4"
+    },
+    {
+      "stt": "10",
+      "nganh": "Xã hội học",
+      "diem_chuan": "22.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01",
+      "ghi_chu": "TTNV<=11"
+    },
+    {
+      "stt": "11",
+      "nganh": "Việt Nam học",
+      "diem_chuan": "22.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14. D15",
+      "ghi_chu": "TTNV<=15"
+    },
+    {
+      "stt": "12",
+      "nganh": "Quan hệ lao động",
+      "diem_chuan": "19.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=5"
+    },
+    {
+      "stt": "13",
+      "nganh": "Bảo hộ lao động",
+      "diem_chuan": "15.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01",
+      "ghi_chu": "TTNV<=1"
+    }
+  ]
+}

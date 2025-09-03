@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Nha Trang",
+  "ma_truong": "TSN",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nha-trang?keyword=TSN",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Marketing",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "2",
+      "nganh": "Kinh doanh thương mại",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngôn ngữ Anh \n(04 chuyên ngành: Biên - phiên dịch; tiếng Anh du lịch; Giảng dạy tiếng Anh; Song ngữ Anh - Trung)",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Quản trị khách sạn \n(Chương trình song ngữ Anh-Việt)",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; B00; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Công nghệ thông tin \n(03 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; B00; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "8",
+      "nganh": "Kế toán \n(02 chuyên ngành: Kế toán; Kiểm toán)",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "9",
+      "nganh": "Quản trị kinh doanh \n(Chương trình song ngữ Anh-Việt)",
+      "diem_chuan": "20.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; B00; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị kinh doanh",
+      "diem_chuan": "20.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "11",
+      "nganh": "Tài chính - Ngân hàng \n(02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+      "diem_chuan": "20.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "12",
+      "nganh": "Khoa học hàng hải \n(02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+      "diem_chuan": "20.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; D01; D07; D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "13",
+      "nganh": "Kế toán \n(Chương trình song ngữ Anh-Việt)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; B00; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "14",
+      "nganh": "Công nghệ thông tin \n(Chương trình song ngữ Anh-Việt)",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; B00; D01; D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "15",
+      "nganh": "Kinh tế phát triển",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "16",
+      "nganh": "Kỹ thuật ô tô",
+      "diem_chuan": "20.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; D01; D07; D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "17",
+      "nganh": "Luật \n(02 chuyên ngành: Luật, Luật kinh tế)",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "18",
+      "nganh": "Hệ thống thông tin quản lý",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; D01; D07; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "19",
+      "nganh": "Kinh tế \n(02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01; D14; D15; D96",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "20",
+      "nganh": "Kỹ thuật điện \n(chuyên ngành Kỹ thuật điện, điện tử)",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01; D01; D07; D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

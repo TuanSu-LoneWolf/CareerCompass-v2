@@ -1,0 +1,88 @@
+{
+  "ten_truong": "Đại học Quốc tế Sài Gòn",
+  "ma_truong": "TTQ",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quoc-te-sai-gon?keyword=TTQ",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Kế toán",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Đông phương học",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D04",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Tâm lý học",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01,D11,D12,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Logistics và Quản lý chuỗi cung ứng",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Luật kinh tế",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Khoa học máy tính",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Quản trị khách sạn",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A07,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

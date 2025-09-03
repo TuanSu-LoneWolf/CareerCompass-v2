@@ -1,0 +1,104 @@
+{
+  "ten_truong": "Học viện Hàng không Việt Nam",
+  "ma_truong": "HHK",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hang-khong-viet-nam?keyword=HHK",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Quản lý hoạt động bay",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Kỹ thuật hàng không",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "21.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Ngành Kinh tế vận tải",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Quản trị kinh doanh - Tiếng Anh",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Quản trị doanh nghiệp",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ thông tin",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Công nghệ kỹ thuật xây dựng dân dụng và công nghiệp",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Điện tử - viễn thông",
+      "diem_chuan": "16.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,D07",
+      "ghi_chu": ""
+    }
+  ]
+}

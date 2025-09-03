@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Tây Nguyên",
+  "ma_truong": "TTN",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-tay-nguyen?keyword=TTN",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Sư phạm Ngữ văn",
+      "diem_chuan": "27.58",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Sư phạm Tiếng Anh",
+      "diem_chuan": "26.62",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Giáo dục Tiểu học",
+      "diem_chuan": "26.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Giáo dục Chính trị",
+      "diem_chuan": "26.36",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Sư phạm Toán học",
+      "diem_chuan": "25.91",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Sư phạm Vật lý",
+      "diem_chuan": "25.45",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Sư phạm Hóa học",
+      "diem_chuan": "25.32",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Giáo dục Thể chất",
+      "diem_chuan": "25.31",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "T01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Giáo dục Tiểu học - Tiếng J'rai",
+      "diem_chuan": "25.21",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Y khoa",
+      "diem_chuan": "25.01",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Sư phạm khoa học tự nhiên",
+      "diem_chuan": "24.34",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Sư phạm Sinh học",
+      "diem_chuan": "24.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A02",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Văn học",
+      "diem_chuan": "23.48",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Tâm lý học giáo dục",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Kỹ thuật xét nghiệm y học",
+      "diem_chuan": "21.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Giáo dục Mầm non",
+      "diem_chuan": "21.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "M01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Điều dưỡng",
+      "diem_chuan": "20.85",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Tài chính – Ngân hàng",
+      "diem_chuan": "20.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Kinh doanh thương mại",
+      "diem_chuan": "20.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Ngôn ngữ Anh",
+      "diem_chuan": "20.10",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "D01",
+      "ghi_chu": ""
+    }
+  ]
+}

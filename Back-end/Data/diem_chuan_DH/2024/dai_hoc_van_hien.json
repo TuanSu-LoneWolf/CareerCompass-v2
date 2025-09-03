@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Văn Hiến",
+  "ma_truong": "DVH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2024/truong/dai-hoc-van-hien?keyword=DVH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Điều dưỡng",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C08,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Việt Nam học",
+      "diem_chuan": "18.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Công nghệ điện ảnh. truyền hình",
+      "diem_chuan": "18.65",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,D01,H01,V00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Đạo diễn điện ảnh. truyền hình",
+      "diem_chuan": "18.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,D01,H01,V00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "5",
+      "nganh": "Quan hệ quốc tế",
+      "diem_chuan": "17.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "6",
+      "nganh": "Piano",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "7",
+      "nganh": "Thanh nhạc",
+      "diem_chuan": "17.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "N00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "8",
+      "nganh": "Văn học",
+      "diem_chuan": "16.75",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "C00,D01,D14,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ sinh học",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "10",
+      "nganh": "Đông phương học",
+      "diem_chuan": "16.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,C00,D01,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "11",
+      "nganh": "Tâm lý học",
+      "diem_chuan": "16.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,C00,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "12",
+      "nganh": "Thương mại điện tử",
+      "diem_chuan": "16.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "13",
+      "nganh": "Công nghệ thực phẩm",
+      "diem_chuan": "16.35",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A02,B00,D07",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "14",
+      "nganh": "Khoa học máy tính",
+      "diem_chuan": "16.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C01,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "15",
+      "nganh": "Du lịch",
+      "diem_chuan": "16.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "16",
+      "nganh": "Ngôn ngữ Nhật",
+      "diem_chuan": "16.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D10,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "17",
+      "nganh": "Ngôn ngữ Trung Quốc",
+      "diem_chuan": "16.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01,D01,D10,D15",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "18",
+      "nganh": "Quản trị nhân lực",
+      "diem_chuan": "16.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "19",
+      "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+      "diem_chuan": "16.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,C00,C04,D01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "20",
+      "nganh": "Kế toán",
+      "diem_chuan": "16.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,C04,D01",
+      "ghi_chu": ""
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "ten_truong": "Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM",
+  "ma_truong": "QST",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tp-hcm?keyword=QST",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Khoa học máy tính (Chương trình Tiên tiến)",
+      "diem_chuan": "28.05",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "2",
+      "nganh": "Trí tuệ nhân tạo",
+      "diem_chuan": "27.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "3",
+      "nganh": "Nhóm ngành máy tính và Công nghệ thông tin",
+      "diem_chuan": "26.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "4",
+      "nganh": "Khoa học dữ liệu",
+      "diem_chuan": "26.40",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "5",
+      "nganh": "Công nghệ thông tin (Chương trình Chất lượng cao)",
+      "diem_chuan": "26.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B08,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "6",
+      "nganh": "Nhóm ngành Toán học, Toán ứng dụng, Toán tin",
+      "diem_chuan": "25.30",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,A02,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "7",
+      "nganh": "Công nghệ kỹ thuật Hoá học (Chương trình Chất lượng cao)",
+      "diem_chuan": "24.70",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,D07,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "8",
+      "nganh": "Công nghệ Sinh học",
+      "diem_chuan": "24.68",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A02,B00,B08,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "9",
+      "nganh": "Công nghệ Sinh học (Chương trình Chất lượng cao)",
+      "diem_chuan": "24.68",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,D07,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "10",
+      "nganh": "Kỹ thuật điện tử - viễn thông",
+      "diem_chuan": "24.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "11",
+      "nganh": "Hoá học",
+      "diem_chuan": "24.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,D07,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "12",
+      "nganh": "Hóa học (Chương trình Chất lượng cao)",
+      "diem_chuan": "24.20",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,D07,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "13",
+      "nganh": "Vật lý y khoa",
+      "diem_chuan": "24.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "14",
+      "nganh": "Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao)",
+      "diem_chuan": "23.25",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "15",
+      "nganh": "Công nghệ Vật liệu",
+      "diem_chuan": "23.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,B00,B08,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "16",
+      "nganh": "Nhóm ngành Vật lý học, Công nghệ Vật lý điện tử và tin học",
+      "diem_chuan": "22.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,D07,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "17",
+      "nganh": "Sinh học",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "18",
+      "nganh": "Sinh học (Chương trình Chất lượng cao)",
+      "diem_chuan": "21.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "19",
+      "nganh": "Hải dương học",
+      "diem_chuan": "19.00",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "B00,D07,D90",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    },
+    {
+      "stt": "20",
+      "nganh": "Quản lý tài nguyên và môi trường",
+      "diem_chuan": "18.50",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00,A01,B00,D07",
+      "ghi_chu": "Xét duyệt điểm thi THPT"
+    }
+  ]
+}

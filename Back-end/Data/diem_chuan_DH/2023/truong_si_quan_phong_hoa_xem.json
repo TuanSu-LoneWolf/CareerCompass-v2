@@ -1,0 +1,40 @@
+{
+  "ten_truong": "Trường Sĩ Quan Phòng Hóa",
+  "ma_truong": "HGH",
+  "url": "https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-phong-hoa?keyword=HGH",
+  "phuong_thuc_tuyen_sinh": "",
+  "cac_nganh_dao_tao": [
+    {
+      "stt": "1",
+      "nganh": "Ngành Chỉ huy Kỹ thuật Hóa học (Thí sinh Nam miền Nam)",
+      "diem_chuan": "22.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "2",
+      "nganh": "Chỉ huy kỹ thuật hóa học phía Nam",
+      "diem_chuan": "22.55",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "3",
+      "nganh": "Ngành Chỉ huy Kỹ thuật Hóa học (Thí sinh Nam miền Bắc)",
+      "diem_chuan": "20.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A01",
+      "ghi_chu": ""
+    },
+    {
+      "stt": "4",
+      "nganh": "Ngành Chỉ huy Kỹ thuật Hóa học (Thí sinh Nam miền Bắc)",
+      "diem_chuan": "20.95",
+      "he_dao_tao": "Đại học",
+      "khoi_thi": "A00",
+      "ghi_chu": ""
+    }
+  ]
+}
