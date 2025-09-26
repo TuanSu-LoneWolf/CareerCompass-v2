@@ -12,16 +12,15 @@ DATA_DIR = os.path.join(BASE_DIR, "Data")
 def load_json_file(path):
     """Load 1 file JSON từ path"""
     with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+        content = f.read().strip()
+        if not content:
+            raise ValueError(f"File JSON rỗng: {path}")
+        try:
+            return json.loads(content)
+        except json.JSONDecodeError as e:
+            raise ValueError(f"File JSON không hợp lệ: {path}, lỗi: {e}")
 
-def transform_school_data(raw_data):
-    """
-    Chuyển dữ liệu thô từ file JSON thành dữ liệu phù hợp cho card:
-    SchoolCard + MajorCard
-    - method = table_title
-    - note = ghi chú
-    - không gộp các ngành trùng
-    """
+def transform_school_data(raw_data, year):
     school = {
         "school_code": raw_data.get("school_code"),
         "school_name": raw_data.get("school_name"),
@@ -32,35 +31,68 @@ def transform_school_data(raw_data):
         table_title = table.get("table_title", "")
         for row in table.get("data", []):
             name = row.get("Tên ngành")
-            subjects = row.get("Tổ hợp môn", "").split("; ")
+            subjects = [
+                s.strip() for s in row.get("Tổ hợp môn", "").replace(";", ",").split(",")
+                if s.strip()
+            ]
             score = row.get("Điểm chuẩn")
             note = row.get("Ghi chú")
 
-            # Không gộp ngành trùng, cứ tạo mới mỗi row
             major = {
                 "name": name,
                 "subjects": subjects,
-                "scores": [{"score": score, "method": table_title, "note": note}]
+                "scores": [{
+                    "year": year,
+                    "score": score,
+                    "method": table_title,
+                    "note": note
+                }]
             }
-
             school["majors"].append(major)
 
-    # Thêm số ngành (số object trong majors)
     school["major_count"] = len(school["majors"])
     return school
 
-
 def load_all_schools():
-    """Load tất cả file JSON trong Data/schools và transform"""
-    schools_dir = os.path.join(DATA_DIR, "schools")
-    all_schools = []
-    for filename in os.listdir(schools_dir):
-        if filename.endswith(".json"):
-            path = os.path.join(schools_dir, filename)
-            raw_data = load_json_file(path)
-            school = transform_school_data(raw_data)
-            all_schools.append(school)
-    return all_schools
+    year_dirs = {
+        "2024": os.path.join(DATA_DIR, "schools", "2024"),
+        "2025": os.path.join(DATA_DIR, "schools", "2025"),
+    }
+
+    merged_schools = {}
+
+    for year, school_dir in year_dirs.items():
+        if os.path.exists(school_dir):
+            for filename in os.listdir(school_dir):
+                if filename.endswith(".json"):
+                    path = os.path.join(school_dir, filename)
+                    print("Đang load file:", path)
+
+                    try:
+                        raw_data = load_json_file(path)
+                    except ValueError as e:
+                        print(f"[WARN] Bỏ qua file {path}: {e}")
+                        continue
+
+                    school_data = transform_school_data(raw_data, year)
+
+                    code = school_data["school_code"]
+                    if code not in merged_schools:
+                        merged_schools[code] = {
+                            "school_code": code,
+                            "school_name": school_data["school_name"],
+                            "majors": []
+                        }
+                    merged_schools[code]["majors"].extend(school_data["majors"])
+
+    for s in merged_schools.values():
+        s["major_count"] = len(s["majors"])
+
+    return list(merged_schools.values())
+
+# === Load dữ liệu 1 lần duy nhất ===
+all_schools = load_all_schools()
+print(f"[INFO] Đã load {len(all_schools)} trường vào bộ nhớ.")
 
 # === Routes ===
 @app.route("/")
@@ -69,22 +101,17 @@ def home():
 
 @app.route("/universities")
 def universities():
-    """Danh sách các trường + số ngành"""
-    schools = load_all_schools()
-    # Trả dữ liệu chỉ có info trường cho SchoolCard
     return jsonify([
         {
             "school_code": s["school_code"],
             "school_name": s["school_name"],
             "major_count": s["major_count"]
-        } for s in schools
+        } for s in all_schools
     ])
 
 @app.route("/universities/<school_code>")
 def university_detail(school_code):
-    """Chi tiết ngành trong 1 trường (MajorCard)"""
-    schools = load_all_schools()
-    school = next((s for s in schools if s["school_code"] == school_code), None)
+    school = next((s for s in all_schools if s["school_code"] == school_code), None)
     if not school:
         return jsonify({"error": "School not found"}), 404
     return jsonify(school["majors"])
