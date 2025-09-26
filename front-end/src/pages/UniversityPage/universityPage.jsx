@@ -25,6 +25,17 @@ export function UniversityPage() {
   });
 
   useEffect(() => {
+    setQuery("");
+    setDetailQuery("");
+    setFilters({
+      score: "",
+      subject: "",
+      method: "",
+      year: "",
+    });
+  }, [view]);
+
+  useEffect(() => {
     // mỗi khi view thay đổi, scroll lên đầu trang
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, [view]);
@@ -116,24 +127,24 @@ export function UniversityPage() {
   const goBack = () => {
     setView(backMap[view] ?? "entry");
     window.scrollTo({ top: 0, behavior: "smooth" });
+
     if (view === "universitiesDetail") {
       setMajors([]);
       setSelectedSchool(null);
     }
   };
 
+  // chỉ fetch 1 lần khi component mount
   useEffect(() => {
-    if (view === "universities") {
-      setLoading(true); // bắt đầu tải
-      fetch("http://localhost:5000/universities")
-        .then((res) => res.json())
-        .then((data) => {
-          setSchools(data);
-        })
-        .catch((err) => console.error(err))
-        .finally(() => setLoading(false)); // kết thúc tải
-    }
-  }, [view]);
+    setLoading(true);
+    fetch("http://localhost:5000/universities")
+      .then((res) => res.json())
+      .then((data) => {
+        setSchools(data);
+      })
+      .catch((err) => console.error(err))
+      .finally(() => setLoading(false));
+  }, []); // ← [] thay vì [view]
 
   return (
     <div
@@ -297,25 +308,26 @@ export function UniversityPage() {
             {majors
               // lọc theo search
               .filter((m) => {
-                const q = detailQuery.toLowerCase();
-                return (
-                  m.name.toLowerCase().includes(q) ||
-                  (m.code && m.code.toLowerCase().includes(q))
-                );
+                const q = (detailQuery || "").toLowerCase();
+                const name = (m.name || "").toLowerCase();
+                const code = (m.code || "").toLowerCase();
+
+                return name.includes(q) || code.includes(q);
               })
               // lọc theo filter
               .filter((m) => {
                 // --- Điểm ---
                 const matchesScore = filters.score
-                  ? m.scores.some((s) =>
-                      filters.score === "Cao (>=27)"
-                        ? s.score >= 27
+                  ? m.scores.some((s) => {
+                      const score = parseFloat(s.score) || 0; // ép số cho chắc
+                      return filters.score === "Cao (>=27)"
+                        ? score >= 27
                         : filters.score === "Trung bình (24-27)"
-                        ? s.score >= 24 && s.score < 27
+                        ? score >= 24 && score < 27
                         : filters.score === "Thấp (<24)"
-                        ? s.score < 24
-                        : true
-                    )
+                        ? score < 24
+                        : true;
+                    })
                   : true;
 
                 // --- Tổ hợp môn ---
@@ -342,16 +354,26 @@ export function UniversityPage() {
                 );
               })
 
-              .map((major, i) => (
-                <UniversityDetailCard
-                  key={i}
-                  name={major.name}
-                  subjects={major.subjects}
-                  scores={major.scores}
-                  method={major.method}
-                  year={major.year}
-                />
-              ))}
+              .map((major, i) => {
+                const safeName = (major.name || "")
+                  .replace(/\s+/g, "_")
+                  .slice(0, 80);
+                const yearPart =
+                  (major.scores && major.scores[0] && major.scores[0].year) ||
+                  "";
+                const majorKey = `${safeName}-${yearPart}-${i}`;
+
+                return (
+                  <UniversityDetailCard
+                    key={majorKey}
+                    name={major.name}
+                    subjects={major.subjects}
+                    scores={major.scores}
+                    method={major.method}
+                    year={major.year}
+                  />
+                );
+              })}
           </div>
         </div>
       )}

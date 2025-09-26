@@ -1,0 +1,186 @@
+{
+  "school_code": "LAH",
+  "school_name": "Trường Sĩ quan Lục quân 1 - Đại học Trần Quốc Tuấn",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT 2025",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7860201",
+          "Tên ngành": "Chỉ huy Tham mưu Lục quân",
+          "Tổ hợp môn": "A00; A01; C01",
+          "Điểm chuẩn": 24.2,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 1",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": 17.5,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 2",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": 16.5,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 3",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": 15.85,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 5,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 4",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": 20.25,
+          "Ghi chú": ""
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Điểm ĐGNL HN",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7860201",
+          "Tên ngành": "Chỉ huy Tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 845,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 1",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 71,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 2",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 68,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 3",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 67,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 5,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 4",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 80,
+          "Ghi chú": ""
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7860201",
+          "Tên ngành": "Chỉ huy Tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 94,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 1",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 565,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 2",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 540,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 3",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 515,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 5,
+          "Mã ngành": "7860222",
+          "Tên ngành": "Quân sự cơ sở - Quân khu 4",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 670,
+          "Ghi chú": ""
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7860201",
+          "Tên ngành": "Chỉ huy Tham mưu Lục quân",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.39,
+          "Ghi chú": "Xét tuyển thẳng diện huyện nghèo"
+        }
+      ]
+    }
+  ]
+}

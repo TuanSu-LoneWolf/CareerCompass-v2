@@ -1,0 +1,170 @@
+{
+  "school_code": "KQH",
+  "school_name": "Học viện Khoa học Quân sự",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT 2025",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+          "Tổ hợp môn": "A00; A01; X06",
+          "Điểm chuẩn": 27.75,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+          "Tổ hợp môn": "A00; A01; X06",
+          "Điểm chuẩn": 26.4,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nữ)",
+          "Tổ hợp môn": "A00; A01; X06",
+          "Điểm chuẩn": 28.83,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nữ)",
+          "Tổ hợp môn": "A00; A01; X06",
+          "Điểm chuẩn": 29.25,
+          "Ghi chú": ""
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Điểm ĐGNL HN",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": 27.75,
+          "Ghi chú": "Điểm đã quy đổi"
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": 26.4,
+          "Ghi chú": "Điểm đã quy đổi"
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nữ)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": 28.83,
+          "Ghi chú": "Điểm đã quy đổi"
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nữ)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": 29.25,
+          "Ghi chú": "Điểm đã quy đổi"
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.75,
+          "Ghi chú": "Điểm đã quy đổi"
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.4,
+          "Ghi chú": "Điểm đã quy đổi"
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nữ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.83,
+          "Ghi chú": "Điểm đã quy đổi"
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nữ)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 29.25,
+          "Ghi chú": "Điểm đã quy đổi"
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.1,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "QS",
+          "Tên ngành": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.1,
+          "Ghi chú": ""
+        }
+      ]
+    }
+  ]
+}
