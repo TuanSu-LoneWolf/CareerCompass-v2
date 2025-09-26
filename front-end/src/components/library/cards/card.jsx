@@ -208,3 +208,36 @@ export function UniversityCard({
     </div>
   );
 }
+
+// MBTI cards
+export function MBTICard() {
+  return (
+    <div className="mt-6">
+      <div className="card w-full p-6 flex flex-col gap-4 bg-[var(--card)] rounded-[var(--radius)] mt-6">
+        <div>
+          <p className="text-[var(--muted-foreground)] text-lg">
+            1. Ở bữa tiệc bạn thường
+          </p>
+        </div>
+        <div className="flex items-center justify-between">
+          <p className="text-[var(--primary)] text-center max-w-56">
+            Nói chuyện với nhiều người, kể cả người lạ
+          </p>
+          <div className="">
+            <div className="flex items-center gap-2">
+              <button className="flex-none flex justify-center items-center border-2 border-[var(--primary)] w-10 h-10 rounded-full"></button>
+              <button className="flex-none flex justify-center items-center border-2 border-[var(--primary)] w-8 h-8 rounded-full"></button>
+              <button className="flex-none flex justify-center items-center border-2 border-[var(--primary)] w-6 h-6 rounded-full"></button>
+              <button className="flex-none flex justify-center items-center border-2 border-[var(--secondary)] w-6 h-6 rounded-full"></button>
+              <button className="flex-none flex justify-center items-center border-2 border-[var(--secondary)] w-8 h-8 rounded-full"></button>
+              <button className="flex-none flex justify-center items-center border-2 border-[var(--secondary)] w-10 h-10 rounded-full"></button>
+            </div>
+          </div>
+          <p className="text-[var(--secondary)] text-center max-w-56">
+            Nói chuyện với số ít những người quen thân
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
