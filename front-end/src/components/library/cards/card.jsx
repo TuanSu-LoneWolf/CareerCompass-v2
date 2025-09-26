@@ -127,15 +127,17 @@ export function UniversityDetailCard({
           <h4 className="text-[var(--card-foreground)] group-hover:text-[var(--secondary)] leading-tight">
             {name}
           </h4>
-          {scores.map((s, i) => (
-            <>
-              {s.note && (
-                <p key={i} className="text-[var(--muted-foreground)]">
+          {scores.map(
+            (s, i) =>
+              s.note && (
+                <p
+                  key={`note-${s.year}-${i}`}
+                  className="text-[var(--muted-foreground)]"
+                >
                   {s.note || "-"}
                 </p>
-              )}
-            </>
-          ))}
+              )
+          )}
         </div>
       </div>
       <div>
@@ -147,14 +149,14 @@ export function UniversityDetailCard({
         )}
 
         {scores.map((s, i) => (
-          <>
-            <p key={i} className="text-[var(--muted-foreground)]">
+          <div key={`score-${s.year}-${s.method}-${i}`}>
+            <p className="text-[var(--muted-foreground)]">
               <strong>Điểm chuẩn:</strong> {s.score}
             </p>
-            <p key={i} className="text-[var(--muted-foreground)]">
+            <p className="text-[var(--muted-foreground)]">
               <strong>Phương thức:</strong> {s.method}
             </p>
-          </>
+          </div>
         ))}
       </div>
     </div>

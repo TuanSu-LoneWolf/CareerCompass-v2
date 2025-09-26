@@ -1,0 +1,51 @@
+{
+  "school_code": "KMA",
+  "school_name": "Học viện Kỹ thuật Mật Mã",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT 2025",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7480201KMA",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00; A01; X26; X06",
+          "Điểm chuẩn": 0,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "7480202KMA",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; X26; X06",
+          "Điểm chuẩn": 0,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "7480202KMP",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00; A01; X26; X06",
+          "Điểm chuẩn": 0,
+          "Ghi chú": "Đào tạo tại TPHCM"
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "7520207",
+          "Tên ngành": "Kỹ thuật điện tử - viễn thông",
+          "Tổ hợp môn": "A00; A01; X06",
+          "Điểm chuẩn": 0,
+          "Ghi chú": ""
+        }
+      ]
+    }
+  ]
+}
