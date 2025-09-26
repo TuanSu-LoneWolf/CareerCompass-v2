@@ -39,7 +39,7 @@ export function LoginForm({ logo, name }) {
 
       <div className="space-y-4">
         <Input
-          label="Email"
+          label="Email *"
           name="email"
           type="email"
           placeholder="Địa chỉ email"
@@ -48,7 +48,7 @@ export function LoginForm({ logo, name }) {
           error={errors.email}
         />
         <Input
-          label="Mật khẩu"
+          label="Mật khẩu *"
           name="password"
           type="password"
           placeholder="Mật khẩu"

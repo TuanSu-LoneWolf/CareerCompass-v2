@@ -115,6 +115,7 @@ export function UniversityPage() {
 
   const goBack = () => {
     setView(backMap[view] ?? "entry");
+    window.scrollTo({ top: 0, behavior: "smooth" });
     if (view === "universitiesDetail") {
       setMajors([]);
       setSelectedSchool(null);
@@ -166,7 +167,10 @@ export function UniversityPage() {
               title="Danh sách trường Đại học"
               subTitle="Khám phá thông tin các trường & ngành học với dữ liệu cập nhật về điểm chuẩn, phương thức xét tuyển"
               button="Khám phá ngay"
-              onClick={() => setView("universities")}
+              onClick={() => {
+                setView("universities");
+                window.scrollTo({ top: 0, behavior: "smooth" });
+              }}
             />
             <InfoCard
               icon={BookOpen}
@@ -174,7 +178,10 @@ export function UniversityPage() {
               title="Nhóm ngành đào tạo"
               subTitle="Khám phá các nhóm ngành & cơ hội học tập theo lĩnh vực chuyên môn phù hợp với sở thích"
               button="Khám phá ngay"
-              onClick={() => setView("majorGroup")}
+              onClick={() => {
+                setView("majorGroup");
+                window.scrollTo({ top: 0, behavior: "smooth" });
+              }}
             />
           </div>
         </div>
@@ -243,6 +250,7 @@ export function UniversityPage() {
                             setMajors(data);
                             setSelectedSchool(school);
                             setView("universitiesDetail");
+                            window.scrollTo({ top: 0, behavior: "smooth" });
                           });
                       }}
                     />
