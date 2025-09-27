@@ -1,0 +1,195 @@
+{
+  "school_code": "YHB",
+  "school_name": "Đại học Y Hà Nội",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2025",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7310401",
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": 23.7,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "7310401",
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "C00",
+          "Điểm chuẩn": 28.7,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "7310401",
+          "Tên ngành": "Tâm lý học",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": 26.7,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "7720101",
+          "Tên ngành": "Y khoa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": 28.13,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 5,
+          "Mã ngành": "7720101YHT",
+          "Tên ngành": "Y khoa Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": 25.8,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 6,
+          "Mã ngành": "7720110",
+          "Tên ngành": "Y học dự phòng",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": 17,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 7,
+          "Mã ngành": "7720115",
+          "Tên ngành": "Y học cổ truyền",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": 23.5,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 8,
+          "Mã ngành": "7720301",
+          "Tên ngành": "Điều dưỡng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 22.25,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 9,
+          "Mã ngành": "7720301YHT",
+          "Tên ngành": "Điều dưỡng Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 17,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 10,
+          "Mã ngành": "7720302",
+          "Tên ngành": "Hộ sinh",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 20.35,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 11,
+          "Mã ngành": "7720401",
+          "Tên ngành": "Dinh dưỡng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 18.75,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 12,
+          "Mã ngành": "7720501",
+          "Tên ngành": "Răng - Hàm - Mặt",
+          "Tổ hợp môn": "B00",
+          "Điểm chuẩn": 27.34,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 13,
+          "Mã ngành": "7720502",
+          "Tên ngành": "Kỹ thuật phục hình răng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 21.85,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 14,
+          "Mã ngành": "7720601",
+          "Tên ngành": "Kỹ thuật xét nghiệm y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 23.72,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 15,
+          "Mã ngành": "7720601YHT",
+          "Tên ngành": "Kỹ thuật xét nghiệm y học Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 18.35,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 16,
+          "Mã ngành": "7720602",
+          "Tên ngành": "Kỹ thuật hình ảnh y học",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 23.57,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 17,
+          "Mã ngành": "7720603",
+          "Tên ngành": "Kỹ thuật phục hồi chức năng",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 22.5,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 18,
+          "Mã ngành": "7720603YHT",
+          "Tên ngành": "Kỹ thuật phục hồi chức năng Phân hiệu Thanh Hóa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 17.3,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 19,
+          "Mã ngành": "7720699",
+          "Tên ngành": "Khúc xạ nhãn khoa",
+          "Tổ hợp môn": "A00; B00",
+          "Điểm chuẩn": 23.23,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 20,
+          "Mã ngành": "7720701",
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "B00; B08",
+          "Điểm chuẩn": 18.2,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 21,
+          "Mã ngành": "7720701",
+          "Tên ngành": "Y tế công cộng",
+          "Tổ hợp môn": "D01",
+          "Điểm chuẩn": 21.2,
+          "Ghi chú": ""
+        },
+        {
+          "STT": 22,
+          "Mã ngành": "7760101",
+          "Tên ngành": "Công tác xã hội",
+          "Tổ hợp môn": "A00; B00; B08",
+          "Điểm chuẩn": 17,
+          "Ghi chú": ""
+        }
+      ]
+    }
+  ]
+}

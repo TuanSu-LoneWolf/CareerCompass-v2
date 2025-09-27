@@ -6,6 +6,7 @@ import { SignUpPage } from './pages/SignUpPage/signUpPage.jsx';
 import { LoginPage } from './pages/LoginPage/loginPage.jsx'
 import { HomePage } from './pages/HomePage/homePage.jsx';
 import { UniversityPage } from './pages/UniversityPage/universityPage.jsx';
+import { CareerGuidancePage } from './pages/CareerGuidancePage/careerGuidancePage.jsx';
 
 function App() {
   const location = useLocation();
@@ -37,6 +38,7 @@ function App() {
           }
         />
         <Route path="/universities-majors" element={<UniversityPage />}></Route>
+        <Route path="/career-guidance" element={<CareerGuidancePage />}></Route>
         <Route path="/signup" element={<SignUpPage />} />
         <Route path="/login" element={<LoginPage />} />
       </Routes>

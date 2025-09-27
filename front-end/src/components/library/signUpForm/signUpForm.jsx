@@ -46,7 +46,7 @@ export function SignUpForm({ logo, name }) {
 
       <div className="space-y-4">
         <Input
-          label="Họ và tên"
+          label="Họ và tên *"
           name="name"
           type="text"
           placeholder="Họ và tên"
@@ -55,7 +55,7 @@ export function SignUpForm({ logo, name }) {
           error={errors.name}
         />
         <Input
-          label="Email"
+          label="Email *"
           name="email"
           type="email"
           placeholder="Địa chỉ email"
@@ -64,7 +64,7 @@ export function SignUpForm({ logo, name }) {
           error={errors.email}
         />
         <Input
-          label="Mật khẩu"
+          label="Mật khẩu *"
           name="password"
           type="password"
           placeholder="Mật khẩu"
@@ -73,8 +73,8 @@ export function SignUpForm({ logo, name }) {
           error={errors.password}
         />
         <Input
-          label="Xác nhận mật khẩu"
-          name="confirmpassword"
+          label="Xác nhận mật khẩu *"
+          name="confirmPassword"
           type="password"
           placeholder="Xác nhận mật khẩu"
           variant="primary"

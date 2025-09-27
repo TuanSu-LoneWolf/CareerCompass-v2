@@ -36,13 +36,15 @@ export function Input({
   return (
     <div className="flex flex-col w-full mb-2">
       {label && (
-        <label htmlFor={name} className={`mb-1 text-sm font-medium ${error ? "text-red-500" : "text-[var(--primary)]"} flex justify-between`}>
+        <label
+          htmlFor={name}
+          className={`mb-1 text-sm font-medium ${
+            error ? "text-red-500" : "text-[var(--primary)]"
+          } flex justify-between`}
+        >
           {label}
           {forgotPassword && (
-            <a
-              href="/"
-              className="text-sm hover:underline"
-            >
+            <a href="/" className="text-sm hover:underline">
               Quên mật khẩu?
             </a>
           )}
@@ -101,6 +103,68 @@ export function SearchBar({ onSearch }) {
   );
 }
 
+// ✅ StudentLevelRadio.jsx
+export function StudentLevelRadio({ value, onChange, error }) {
+  const baseStyle =
+    "px-4 py-2 rounded-lg border flex items-center gap-2 cursor-pointer transition-all";
+  const activeStyle = "text-[var(--primary)]";
+  const inactiveStyle =
+    "bg-[var(--input)] border-[var(--border)] text-[var(--input-foreground)] hover:border-[var(--primary)] hover:text-[var(--primary)]";
+  const errorStyle = "border-red-500 text-red-500";
+
+  return (
+    <div className="flex flex-col w-full mb-2">
+      <label
+        className={`mb-1 text-sm font-medium ${
+          error ? "text-red-500" : "text-[var(--primary)]"
+        }`}
+      >
+        Bạn là học sinh{" "}
+        <span className={error ? "text-red-500" : "text-[var(--primary)]"}>*</span>
+      </label>
+      <div className="flex flex-col sm:flex-row gap-3">
+        {/* Học sinh cấp 2 */}
+        <label
+          className={`${baseStyle} ${
+            value === "cap2" ? activeStyle : inactiveStyle
+          } ${error ? errorStyle : ""}`}
+        >
+          <input
+            type="radio"
+            name="hoc-sinh"
+            value="cap2"
+            checked={value === "cap2"}
+            onChange={() => onChange?.("cap2")}
+            className="w-4 h-4"
+          />
+          Học sinh cấp 2
+        </label>
+
+        {/* Học sinh cấp 3 */}
+        <label
+          className={`${baseStyle} ${
+            value === "cap3" ? activeStyle : inactiveStyle
+          } ${error ? errorStyle : ""}`}
+        >
+          <input
+            type="radio"
+            name="hoc-sinh"
+            value="cap3"
+            checked={value === "cap3"}
+            onChange={() => onChange?.("cap3")}
+            className="w-4 h-4"
+          />
+          Học sinh cấp 3
+        </label>
+      </div>
+      {error && <p className="text-red-500 text-sm mt-1">{error}</p>}
+    </div>
+  );
+}
+
+
+
+
 export function Demo() {
   return (
     <div className="space-y-4 max-w-md mx-auto p-4">
@@ -118,7 +182,9 @@ export function Demo() {
 
       {/* Disabled Input */}
       <Input type="text" placeholder="Không nhập được" disabled variant="secondary" />
+
+      {/* ✅ Radio Input */}
+      <StudentLevelRadio />
     </div>
   );
 }
-
