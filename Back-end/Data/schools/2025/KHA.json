@@ -1,0 +1,4131 @@
+{
+  "school_code": "KHA",
+  "school_name": "Đại Học Kinh tế Quốc Dân",
+  "tables": [
+    {
+      "table_title": "Điểm thi THPT năm 2025",
+      "headers": ["STT", "Tên ngành", "Tổ hợp môn", "Điểm chuẩn", "Ghi chú"],
+      "data": [
+        {
+          "STT": "1",
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.51",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "2",
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "3",
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "4",
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "5",
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "6",
+          "Tên ngành": "Kinh tế Đầu tư (CLC2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "7",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.77",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "8",
+          "Tên ngành": "Kinh tế phát triển (CLC1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "9",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "10",
+          "Tên ngành": "Kinh tế quốc tế (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "11",
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "12",
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "13",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.07",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "14",
+          "Tên ngành": "Quan hệ công chúng (CLC2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "15",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "16",
+          "Tên ngành": "Quản trị Kinh doanh (CLC2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "17",
+          "Tên ngành": "Quản trị kinh doanh (TT1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "18",
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.12",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "19",
+          "Tên ngành": "Digital Marketing (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "20",
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "21",
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "22",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "23",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế (TT2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "24",
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "25",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "26",
+          "Tên ngành": "Thương mại điện tử (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "27",
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "28",
+          "Tên ngành": "Ngân hàng (CLC1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "29",
+          "Tên ngành": "Tài chính doanh nghiệp (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "30",
+          "Tên ngành": "Kế hoạch tài chính (TT1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "31",
+          "Tên ngành": "Tài chính (TT2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "32",
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "33",
+          "Tên ngành": "Bảo hiểm tích hợp chứng chỉ ANZ11F (CLC1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "34",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "35",
+          "Tên ngành": "Kế toán (TT1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "36",
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.38",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "37",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ ACCA (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "38",
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "39",
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "40",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "41",
+          "Tên ngành": "Quản trị nhân lực (CLC2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "42",
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "43",
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "44",
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "45",
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.96",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "46",
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "47",
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "48",
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "49",
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "50",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "51",
+          "Tên ngành": "Công nghệ thông tin và chuyển đổi số (CLC1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "52",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "53",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "28.61",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "54",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (CLC3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "55",
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "56",
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "57",
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "58",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "59",
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "60",
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "61",
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "62",
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.64",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "63",
+          "Tên ngành": "Khởi nghiệp và phát triển kinh doanh (BBAE)/ngành QTKD (EP01)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "64",
+          "Tên ngành": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary) (EP02)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "65",
+          "Tên ngành": "Phân tích dữ liệu kinh tế (EDA) (EP03)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.78",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "66",
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB) (EP04)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "67",
+          "Tên ngành": "Kinh doanh số (E-BDB)/ngành QTKD (EP05)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "68",
+          "Tên ngành": "Phân tích kinh doanh (BA)/ngành QTKD (EP06)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "69",
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)/ngành QTKD (EP07)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "70",
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD (EP08)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "71",
+          "Tên ngành": "Công nghệ tài chính (BFT)/ngành TC-NH (EP09)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "72",
+          "Tên ngành": "Tài chính và Đầu tư (BFI)/ngành TC-NH (EP10)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "73",
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME) (EP11)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "74",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB) (EP12)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "75",
+          "Tên ngành": "Kinh tế học tài chính (FE)/ngành Kinh tế (EP13)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "76",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC) (EP14)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.69",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "77",
+          "Tên ngành": "Khoa học dữ liệu (EP15)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "78",
+          "Tên ngành": "Trí tuệ nhân tạo (EP16)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.44",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "79",
+          "Tên ngành": "Kỹ thuật phần mềm (EP17)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "80",
+          "Tên ngành": "Quản trị giải trí và sự kiện (EP18)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "81",
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)/ngành Kinh tế (EPMP)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "82",
+          "Tên ngành": "Quản trị khách sạn (POHE1)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "83",
+          "Tên ngành": "Quản trị lữ hành (POHE2)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "84",
+          "Tên ngành": "Truyền thông Marketing (POHE3)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "27.61",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "85",
+          "Tên ngành": "Luật kinh doanh (POHE4)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "86",
+          "Tên ngành": "Quản trị kinh doanh thương mại (POHE5)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "87",
+          "Tên ngành": "Quản lý thị trường (POHE6)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.66",
+          "Ghi chú": ""
+        },
+        {
+          "STT": "88",
+          "Tên ngành": "Thẩm định giá (POHE7)",
+          "Tổ hợp môn": "A00, A01, D01, D07",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": ""
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo ĐGNL HN",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": "1",
+          "Mã ngành": "7220201",
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.51",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "2",
+          "Mã ngành": "7310101_1",
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "3",
+          "Mã ngành": "7310101_2",
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "4",
+          "Mã ngành": "7310101_3",
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "5",
+          "Mã ngành": "7310104",
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "6",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Kinh tế Đầu tư",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "7",
+          "Mã ngành": "7310105",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.77",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "8",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "9",
+          "Mã ngành": "7310106",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "10",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "11",
+          "Mã ngành": "7310107",
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "12",
+          "Mã ngành": "7310108",
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "13",
+          "Mã ngành": "7320108",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.07",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "14",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "15",
+          "Mã ngành": "7340101",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "極6",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "17",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "ST極": "18",
+          "Mã ngành": "7340115",
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.12",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "19",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "20",
+          "Mã ngành": "7340116",
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "21",
+          "Mã ngành": "7340120",
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "22",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "23",
+          "Mã ngành": "TT2",
+          "極": "Quản trị Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "24",
+          "Mã ngành": "7340121",
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "25",
+          "Mã ngành": "7340122",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "26",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "27",
+          "Mã ngành": "7340201",
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "28",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "29",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Tài chính doanh nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "30",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế hoạch tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "31",
+          "Mã ngành": "TL2",
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "32",
+          "Mã ngành": "7340204",
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "33",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Bảo hiểm tích hợp chứng chỉ ANZ11F",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "34",
+          "Mã ngành": "7340301",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "35",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "36",
+          "Mã ngành": "7340302",
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "37",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ ACCA",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "38",
+          "Mã ngành": "7340401",
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "39",
+          "Mã ngành": "7340403",
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "40",
+          "Mã ngành": "7340404",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "41",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "42",
+          "Mã ngành": "7340405",
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "43",
+          "Mã ngành": "7340408",
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "44",
+          "Mã ngành": "7340409",
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "45",
+          "Mã ngành": "7380101",
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.96",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "46",
+          "Mã ngành": "7380107",
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "47",
+          "Mã ngành": "7380109",
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "48",
+          "Mã ngành": "7480101",
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "49",
+          "Mã ngành": "7480104",
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "50",
+          "Mã ngành": "7480201",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "51",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Công nghệ thông tin và chuyển đổi số",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "52",
+          "Mã ngành": "7480202",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "53",
+          "Mã ngành": "7510605",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "54",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "55",
+          "Mã ngành": "7620114",
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "56",
+          "Mã ngành": "7620115",
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "57",
+          "Mã ngành": "7810103",
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "58",
+          "Mã ngành": "7810201",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "59",
+          "Mã ngành": "7850101",
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "60",
+          "Mã ngành": "7850102",
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "61",
+          "Mã ngành": "7850103",
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "62",
+          "Mã ngành": "EBBA",
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.64",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "63",
+          "Mã ngành": "EP01",
+          "Tên ngành": "Khởi nghiệp và phát triển kinh doanh (BBAE)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "64",
+          "Mã ngành": "EP02",
+          "Tên ngành": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "65",
+          "Mã ngành": "EP03",
+          "Tên ngành": "Phân tích dữ liệu kinh tế (EDA)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.78",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "66",
+          "Mã ngành": "EP04",
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "67",
+          "Mã ngành": "EP05",
+          "Tên ngành": "Kinh doanh số (E-BDB)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "68",
+          "Mã ngành": "EP06",
+          "Tên ngành": "Phân tích kinh doanh (BA)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "69",
+          "Mã ngành": "EP07",
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "70",
+          "Mã ngành": "EP08",
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "71",
+          "Mã ngành": "EP09",
+          "Tên ngành": "Công nghệ tài chính (BFT)/ngành TC-NH",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "72",
+          "Mã ngành": "EP10",
+          "Tên ngành": "Tài chính và Đầu tư (BFI)/ngành TC-NH",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "73",
+          "Mã ngành": "EP11",
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "74",
+          "Mã ngành": "EP12",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "75",
+          "Mã ngành": "EP13",
+          "Tên ngành": "Kinh tế học tài chính (FE)/ngành Kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "76",
+          "Mã ngành": "EP14",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.69",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "77",
+          "Mã ngành": "EP15",
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "78",
+          "Mã ngành": "EP16",
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.44",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "79",
+          "Mã ngành": "EP17",
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "80",
+          "Mã ngành": "EP18",
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "81",
+          "Mã ngành": "EPMP",
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)/ngành Kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.6",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "82",
+          "Mã ngành": "POHE1",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "83",
+          "Mã ngành": "POHE2",
+          "Tên ngành": "Quản trị lữ hành",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "84",
+          "Mã ngành": "POHE3",
+          "Tên ngành": "Truyền thông Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "85",
+          "Mã ngành": "POHE4",
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "86",
+          "Mã ngành": "POHE5",
+          "Tên ngành": "Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "87",
+          "Mã ngành": "POHE6",
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.66",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "88",
+          "Mã ngành": "POHE7",
+          "Tên ngành": "Thẩm định giá",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": "Điểm đã được quy đổi"
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo ĐGNL HCM",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": "1",
+          "Mã ngành": "7220201",
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.51",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "2",
+          "Mã ngành": "7310101_1",
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "3",
+          "Mã ngành": "7310101_2",
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "4",
+          "Mã ngành": "7310101_3",
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "5",
+          "Mã ngành": "7310104",
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "6",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Kinh tế Đầu tư",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "7",
+          "Mã ngành": "7310105",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.77",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "8",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "9",
+          "Mã ngành": "7310106",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "10",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "11",
+          "Mã ngành": "7310107",
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "12",
+          "Mã ngành": "7310108",
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "13",
+          "Mã ngành": "7320108",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.07",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "14",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "15",
+          "Mã ngành": "7340101",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "16",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "17",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "18",
+          "Mã ngành": "7340115",
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.12",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "19",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "20",
+          "Mã ngành": "7340116",
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "21",
+          "Mã ngành": "7340120",
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "22",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "23",
+          "Mã ngành": "TT2",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "24",
+          "Mã ngành": "7340121",
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "25",
+          "Mã ngành": "7340122",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "26",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "27",
+          "Mã ngành": "7340201",
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "28",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "29",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Tài chính doanh nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "30",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế hoạch tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "31",
+          "Mã ngành": "TT2",
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "32",
+          "Mã ngành": "7340204",
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "33",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Bảo hiểm tích hợp chứng chỉ ANZ11F",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "34",
+          "Mã ngành": "7340301",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "35",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "36",
+          "Mã ngành": "7340302",
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "37",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ ACCA",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "38",
+          "Mã ngành": "7340401",
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "39",
+          "Mã ngành": "7340403",
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "40",
+          "Mã ngành": "7340404",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "41",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "42",
+          "Mã ngành": "7340405",
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "43",
+          "Mã ngành": "7340408",
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "44",
+          "Mã ngành": "7340409",
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "45",
+          "Mã ngành": "7380101",
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.96",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "46",
+          "Mã ngành": "7380107",
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "47",
+          "Mã ngành": "7380109",
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "48",
+          "Mã ngành": "7480101",
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "49",
+          "Mã ngành": "7480104",
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "50",
+          "Mã ngành": "7480201",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "51",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Công nghệ thông tin và chuyển đổi số",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "52",
+          "Mã ngành": "7480202",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "53",
+          "Mã ngành": "7510605",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "54",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "55",
+          "Mã ngành": "7620114",
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "56",
+          "Mã ngành": "7620115",
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "57",
+          "Mã ngành": "7810103",
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "58",
+          "Mã ngành": "7810201",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "59",
+          "Mã ngành": "7850101",
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "60",
+          "Mã ngành": "7850102",
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "61",
+          "Mã ngành": "7850103",
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "62",
+          "Mã ngành": "EBBA",
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.64",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "63",
+          "Mã ngành": "EP01",
+          "Tên ngành": "Khởi nghiệp và phát triển kinh doanh (BBAE)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "64",
+          "Mã ngành": "EP02",
+          "Tên ngành": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "65",
+          "Mã ngành": "EP03",
+          "Tên ngành": "Phân tích dữ liệu kinh tế (EDA)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.78",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "66",
+          "Mã ngành": "EP04",
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "67",
+          "Mã ngành": "EP05",
+          "Tên ngành": "Kinh doanh số (E-BDB)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "68",
+          "Mã ngành": "EP06",
+          "Tên ngành": "Phân tích kinh doanh (BA)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "69",
+          "Mã ngành": "EP07",
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "70",
+          "Mã ngành": "EP08",
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "71",
+          "Mã ngành": "EP09",
+          "Tên ngành": "Công nghệ tài chính (BFT)/ngành TC-NH",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "72",
+          "Mã ngành": "EP10",
+          "Tên ngành": "Tài chính và Đầu tư (BFI)/ngành TC-NH",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "73",
+          "Mã ngành": "EP11",
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "74",
+          "Mã ngành": "EP12",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "75",
+          "Mã ngành": "EP13",
+          "Tên ngành": "Kinh tế học tài chính (FE)/ngành Kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "76",
+          "Mã ngành": "EP14",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.69",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "77",
+          "Mã ngành": "EP15",
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "78",
+          "Mã ngành": "EP16",
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.44",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "79",
+          "Mã ngành": "EP17",
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "80",
+          "Mã ngành": "EP18",
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "81",
+          "Mã ngành": "EPMP",
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)/ngành Kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "82",
+          "Mã ngành": "POHE1",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "83",
+          "Mã ngành": "POHE2",
+          "Tên ngành": "Quản trị lữ hành",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "84",
+          "Mã ngành": "POHE3",
+          "Tên ngành": "Truyền thông Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "85",
+          "Mã ngành": "POHE4",
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "86",
+          "Mã ngành": "POHE5",
+          "Tên ngành": "Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "87",
+          "Mã ngành": "POHE6",
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.46",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "88",
+          "Mã ngành": "POHE7",
+          "Tên ngành": "Thẩm định giá",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": "Điểm đã được quy đổi"
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Đánh giá tư duy",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": "1",
+          "Mã ngành": "7220201",
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.51",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "2",
+          "Mã ngành": "7310101_1",
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "3",
+          "Mã ngành": "7310101_2",
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "4",
+          "Mã ngành": "7310101_3",
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "5",
+          "Mã ngành": "7310104",
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "6",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Kinh tế Đầu tư",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "7",
+          "Mã ngành": "7310105",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.77",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "8",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "9",
+          "Mã ngành": "7310106",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "10",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "11",
+          "Mã ngành": "7310107",
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "12",
+          "Mã ngành": "7310108",
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "13",
+          "Mã ngành": "7320108",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.07",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "14",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "15",
+          "Mã ngành": "7340101",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "16",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "17",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "18",
+          "Mã ngành": "7340115",
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.12",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "19",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "20",
+          "Mã ngành": "7340116",
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "21",
+          "Mã ngành": "7340120",
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "22",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "23",
+          "Mã ngành": "TT2",
+          "Tên ngành": "Quản trị kinh doanh quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "24",
+          "Mã ngành": "7340121",
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "25",
+          "Mã ngành": "7340122",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "26",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "27",
+          "Mã ngành": "7340201",
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "28",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "29",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Tài chính doanh nghiệp",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "极6.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "30",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế hoạch tài chính",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "31",
+          "Mã ngành": "TT2",
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "32",
+          "Mã ngành": "7340204",
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "33",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Bảo hiểm tích hợp chứng chỉ AXZLTE",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩ极": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "34",
+          "Mã ngành": "7340301",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "35",
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "36",
+          "Mã ngành": "7340302",
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "37",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "极iểm toán tích hợp chứng chỉ ACCA",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "38",
+          "Mã ngành": "7340401",
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "39",
+          "Mã ngành": "7340403",
+          "Tên ngành": "Quản lý cứng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "40",
+          "Mã ngành": "7340404",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "41",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "42",
+          "Mã ngành": "7340405",
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "43",
+          "Mã ngành": "7340408",
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "44",
+          "Mã ngành": "7340409",
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "45",
+          "Mã ngành": "7380101",
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.96",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "46",
+          "Mã ngành": "7380107",
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "47",
+          "Mã ngành": "7380109",
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "48",
+          "Mã ngành": "7480101",
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "49",
+          "Mã ngành": "7480104",
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "50",
+          "Mã ngành": "7480201",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "51",
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Công nghệ thông tin và chuyển đổi số",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "52",
+          "Mã ngành": "7480202",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "53",
+          "Mã ngành": "7510605",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "28.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "54",
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "55",
+          "Mã ngành": "7620114",
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "56",
+          "Mã ngành": "7620115",
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "57",
+          "Mã ngành": "7810103",
+          "Tên ngành": "Quản trị dịch vụ du lịch và từ hành",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "58",
+          "Mã ngành": "7810201",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "59",
+          "Mã ngành": "7850101",
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "60",
+          "Mã ngành": "7850102",
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "61",
+          "Mã ngành": "7850103",
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.38",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "62",
+          "Mã ngành": "EBBA",
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.64",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "63",
+          "Mã ngành": "EP01",
+          "Tên ngành": "Khởi nghiệp và phát triển kinh doanh (BBAB)/ngành QTKD",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.92",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "64",
+          "Mã ngành": "EP02",
+          "Tên ngành": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "65",
+          "Mã ngành": "EP03",
+          "Tên ngành": "Phân tích dữ liệu kinh tế (EDA)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.78",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "66",
+          "Mã ngành": "EP04",
+          "Tên ngành": "Kế toán tích hợp chứng chỉ quốc tế (UCAEW CFAB)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.9",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "67",
+          "Mã ngành": "EP05",
+          "Tên ngành": "Kinh doanh số (E-BDB)/ngành QTKD",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "68",
+          "Mã ngành": "EP06",
+          "Tên ngành": "Phân tích kinh doanh (BA)/ngành QTKD",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "69",
+          "Mã ngành": "EP07",
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM) /ngành QTKD",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.1",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "70",
+          "Mã ngành": "EP08",
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.2",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "71",
+          "Mã ngành": "EP09",
+          "Tên ngành": "Công nghệ tài chính (BFT)/ngành TC-NH",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "72",
+          "Mã ngành": "EP10",
+          "Tên ngành": "Tài chính và Đầu tư (BFI)/ngành TC-NH",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "73",
+          "Mã ngành": "EP11",
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "74",
+          "Mã ngành": "EP12",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.25",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "75",
+          "Mã ngành": "EP13",
+          "Tên ngành": "Kinh tế học tài chính (FE)/ngành Kinh tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "76",
+          "Mã ngành": "EP14",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC)",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.69",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "77",
+          "Mã ngành": "EP15",
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.13",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "78",
+          "Mã ngành": "EP16",
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.44",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "79",
+          "Mã ngành": "EP17",
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.7",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "80",
+          "Mã ngành": "EP18",
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "81",
+          "Mã ngành": "EPMP",
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)/ngành Kinh tế",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "23",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "82",
+          "Mã ngành": "POHE1",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "83",
+          "Mã ngành": "POHE2",
+          "Tên ngành": "Quản trị lữ hành",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.64",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "84",
+          "Mã ngành": "POHE3",
+          "Tên ngành": "Truyền thông Marketing",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "27.61",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "85",
+          "Mã ngành": "POHE4",
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "86",
+          "Mã ngành": "POHES",
+          "Tên ngành": "Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "26.29",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "87",
+          "Mã ngành": "POHEG",
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.66",
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": "88",
+          "Mã ngành": "POHE7",
+          "Tên ngành": "Thẩm định giá",
+          "Tổ hợp môn": "K00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": "Điểm đã được quy đổi"
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": "1",
+          "Mã ngành": "7220201",
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.51",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "2",
+          "Mã ngành": "7310101_1",
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.52",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "3",
+          "Mã ngành": "7310101_2",
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "25.8",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "4",
+          "Mã ngành": "7310101_3",
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "5",
+          "Mã ngành": "7310104",
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "6",
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Kinh tế Đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "7",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.77",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "8",
+          "Tên ngành": "Kinh tế phát triển (CLC1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "9",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.13",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "10",
+          "Tên ngành": "Kinh tế quốc tế (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "11",
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.79",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "12",
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.73",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "13",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.07",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "14",
+          "Tên ngành": "Quan hệ công chúng (CLC2)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "15",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "16",
+          "Tên ngành": "Quản trị Kinh doanh (CLC2)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "17",
+          "Tên ngành": "Quản trị kinh doanh (TT1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "18",
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.12",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "19",
+          "Tên ngành": "Digital Marketing (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "20",
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.41",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "21",
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.6",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "22",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "23",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế (TT2)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "24",
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "25",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.83",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "26",
+          "Tên ngành": "Thương mại điện tử (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "27",
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.34",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "28",
+          "Tên ngành": "Ngân hàng (CLC1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "29",
+          "Tên ngành": "Tài chính doanh nghiệp (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "30",
+          "Tên ngành": "Kế hoạch tài chính (TT1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "31",
+          "Tên ngành": "Tài chính (TT2)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "32",
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "33",
+          "Tên ngành": "Bảo hiểm tích hợp chứng chỉ ANZ1IF (CLC1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "34",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "35",
+          "Tên ngành": "Kế toán (TT1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "36",
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.38",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "37",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ ACCA (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "38",
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "39",
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "40",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "41",
+          "Tên ngành": "Quản trị nhân lực (CLC2)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "42",
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "43",
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "44",
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.63",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "45",
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.96",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "46",
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "47",
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.44",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "48",
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.27",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "49",
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.38",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "50",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.89",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "51",
+          "Tên ngành": "Công nghệ thông tin và chuyển đổi số (CLC1)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "52",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.59",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "53",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "28.61",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "54",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng (CLC3)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.42",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "55",
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "56",
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.35",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "57",
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.06",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "58",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "59",
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.17",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "60",
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "61",
+          "Tên ngành": "Khoa học môi trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "62",
+          "Tên ngành": "Kinh tế môi trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "63",
+          "Tên ngành": "Quản trị kinh doanh nông nghiệp",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.5",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "64",
+          "Tên ngành": "Quản lý phát triển đô thị và bất động sản",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.67",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "65",
+          "Tên ngành": "Kinh tế và quản lý công",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.83",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "66",
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.25",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "67",
+          "Tên ngành": "Thống kê kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.92",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "68",
+          "Tên ngành": "Kinh tế bảo hiểm",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.11",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "69",
+          "Tên ngành": "Quản lý chất lượng",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "23.92",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "70",
+          "Tên ngành": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.13",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "71",
+          "Tên ngành": "Kinh tế số",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "72",
+          "Tên ngành": "Phân tích kinh doanh (Business Analytics)",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.15",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "73",
+          "Tên ngành": "Thương mại quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.95",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "74",
+          "Tên ngành": "Quản trị sự kiện",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.05",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "75",
+          "Tên ngành": "Kinh tế chính trị",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.05",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "76",
+          "Tên ngành": "Kinh tế phát triển bền vững",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "25.75",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "77",
+          "Tên ngành": "Kinh tế tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.55",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "78",
+          "Tên ngành": "Tài chính quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.65",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "79",
+          "Tên ngành": "Quản trị tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "80",
+          "Tên ngành": "Kế toán quản trị",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.1",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "81",
+          "Tên ngành": "Kiểm toán quốc tế",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.8",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "82",
+          "Tên ngành": "Quản lý tài chính công",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "26.4",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "83",
+          "Tên ngành": "Tài chính ngân hàng số",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.2",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "84",
+          "Tên ngành": "Ngân hàng đầu tư",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.3",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "85",
+          "Tên ngành": "Phân tích tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.05",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "86",
+          "Tên ngành": "Đầu tư chứng khoán",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.4",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "87",
+          "Tên ngành": "Phân tích rủi ro tài chính",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "27.35",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        },
+        {
+          "STT": "88",
+          "Tên ngành": "Thẩm định giá",
+          "Tổ hợp môn": "Q00",
+          "Điểm chuẩn": "24.55",
+          "Ghi chú": "Điểm đã được quy đổi; Kết hợp HSA, V-ACT, TSA với CCTAQT; Kết hợp điểm thi tốt nghiệp THPT với CCTAQT"
+        }
+      ]
+    },
+    {
+      "table_title": "Điểm chuẩn theo phương thức Chúng chỉ quốc tế",
+      "headers": [
+        "STT",
+        "Mã ngành",
+        "Tên ngành",
+        "Tổ hợp môn",
+        "Điểm chuẩn",
+        "Ghi chú"
+      ],
+      "data": [
+        {
+          "STT": 1,
+          "Mã ngành": "7220201",
+          "Tên ngành": "Ngôn ngữ Anh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.51,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 2,
+          "Mã ngành": "7310101_1",
+          "Tên ngành": "Kinh tế học (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.52,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 3,
+          "Mã ngành": "7310101_2",
+          "Tên ngành": "Kinh tế và quản lý đô thị (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.8,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 4,
+          "Mã ngành": "7310101_3",
+          "Tên ngành": "Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.79,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 5,
+          "Mã ngành": "7310104",
+          "Tên ngành": "Kinh tế đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 6,
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Kinh tế Đầu tư",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 7,
+          "Mã ngành": "7310105",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.77,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 8,
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Kinh tế phát triển",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 9,
+          "Mã ngành": "7310106",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.13,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 10,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kinh tế quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 11,
+          "Mã ngành": "7310107",
+          "Tên ngành": "Thống kê kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.79,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 12,
+          "Mã ngành": "7310108",
+          "Tên ngành": "Toán kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.73,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 13,
+          "Mã ngành": "7320108",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.07,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 14,
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quan hệ công chúng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 15,
+          "Mã ngành": "7340101",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.1,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 16,
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị Kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 17,
+          "Mã ngành": "TT1",
+          "Tên ngành": "Quản trị kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.75,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 18,
+          "Mã ngành": "7340115",
+          "Tên ngành": "Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.12,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 19,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Digital Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 20,
+          "Mã ngành": "7340116",
+          "Tên ngành": "Bất động sản",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.41,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 21,
+          "Mã ngành": "7340120",
+          "Tên ngành": "Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.6,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 22,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 23,
+          "Mã ngành": "TT2",
+          "Tên ngành": "Quản trị Kinh doanh quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 24,
+          "Mã ngành": "7340121",
+          "Tên ngành": "Kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 25,
+          "Mã ngành": "7340122",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.83,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 26,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Thương mại điện tử",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 27,
+          "Mã ngành": "7340201",
+          "Tên ngành": "Tài chính - Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.34,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 28,
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Ngân hàng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 29,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Tài chính doanh nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 30,
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế hoạch tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.75,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 31,
+          "Mã ngành": "TT2",
+          "Tên ngành": "Tài chính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 32,
+          "Mã ngành": "7340204",
+          "Tên ngành": "Bảo hiểm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.75,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 33,
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Bảo hiểm tích hợp chứng chỉ ANZ1IF",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 34,
+          "Mã ngành": "7340301",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.1,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 35,
+          "Mã ngành": "TT1",
+          "Tên ngành": "Kế toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.75,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 36,
+          "Mã ngành": "7340302",
+          "Tên ngành": "Kiểm toán",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.38,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 37,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ ACCA",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 38,
+          "Mã ngành": "7340401",
+          "Tên ngành": "Khoa học quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.06,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 39,
+          "Mã ngành": "7340403",
+          "Tên ngành": "Quản lý công",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 40,
+          "Mã ngành": "7340404",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.1,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 41,
+          "Mã ngành": "CLC2",
+          "Tên ngành": "Quản trị nhân lực",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 42,
+          "Mã ngành": "7340405",
+          "Tên ngành": "Hệ thống thông tin quản lý",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 43,
+          "Mã ngành": "7340408",
+          "Tên ngành": "Quan hệ lao động",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 44,
+          "Mã ngành": "7340409",
+          "Tên ngành": "Quản lý dự án",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.63,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 45,
+          "Mã ngành": "7380101",
+          "Tên ngành": "Luật",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.96,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 46,
+          "Mã ngành": "7380107",
+          "Tên ngành": "Luật kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.75,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 47,
+          "Mã ngành": "7380109",
+          "Tên ngành": "Luật thương mại quốc tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.44,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 48,
+          "Mã ngành": "7480101",
+          "Tên ngành": "Khoa học máy tính",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.27,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 49,
+          "Mã ngành": "7480104",
+          "Tên ngành": "Hệ thống thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.38,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 50,
+          "Mã ngành": "7480201",
+          "Tên ngành": "Công nghệ thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.89,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 51,
+          "Mã ngành": "CLC1",
+          "Tên ngành": "Công nghệ thông tin và chuyển đổi số",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 52,
+          "Mã ngành": "7480202",
+          "Tên ngành": "An toàn thông tin",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.59,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 53,
+          "Mã ngành": "7510605",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 28.61,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 54,
+          "Mã ngành": "CLC3",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.42,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 55,
+          "Mã ngành": "7620114",
+          "Tên ngành": "Kinh doanh nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 23.75,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 56,
+          "Mã ngành": "7620115",
+          "Tên ngành": "Kinh tế nông nghiệp",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.35,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 57,
+          "Mã ngành": "7810103",
+          "Tên ngành": "Quản trị dịch vụ du lịch và lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.06,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 58,
+          "Mã ngành": "7810201",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 59,
+          "Mã ngành": "7850101",
+          "Tên ngành": "Quản lý tài nguyên và môi trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.17,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 60,
+          "Mã ngành": "7850102",
+          "Tên ngành": "Kinh tế tài nguyên thiên nhiên",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 23.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 61,
+          "Mã ngành": "7850103",
+          "Tên ngành": "Quản lý đất đai",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.38,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 62,
+          "Mã ngành": "EBBA",
+          "Tên ngành": "Quản trị kinh doanh (E-BBA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.64,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 63,
+          "Mã ngành": "EP01",
+          "Tên ngành": "Khởi nghiệp và phát triển kinh doanh (BBAE)/ngành QTKD",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.92,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 64,
+          "Mã ngành": "EP02",
+          "Tên ngành": "Định phí Bảo hiểm & Quản trị rủi ro (Actuary)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 65,
+          "Mã ngành": "EP03",
+          "Tên ngành": "Phân tích dữ liệu kinh tế (EDA)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.78,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 66,
+          "Mã ngành": "EP04",
+          "Tên ngành": "Kế toán tích hợp chứng chi quốc tế (JCAEW CFAB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.9,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 67,
+          "Mã ngành": "EP05",
+          "Tên ngành": "Kinh doanh số (E-BDB)/ngành QTKD",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.4,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 68,
+          "Mã ngành": "EP06",
+          "Tên ngành": "Phân tích kinh doanh (BA)/ngành QTKD",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 69,
+          "Mã ngành": "EP07",
+          "Tên ngành": "Quản trị điều hành thông minh (E-SOM) /ngành QTKD",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.1,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 70,
+          "Mã ngành": "EP08",
+          "Tên ngành": "Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.2,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 71,
+          "Mã ngành": "EP09",
+          "Tên ngành": "Công nghệ tài chính (BFT)/ngành TC-NH",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.29,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 72,
+          "Mã ngành": "EP10",
+          "Tên ngành": "Tài chính và Đầu tư (BFI)/ngành TC-NH",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.27,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 73,
+          "Mã ngành": "EP11",
+          "Tên ngành": "Quản trị khách sạn quốc tế (IHME)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 74,
+          "Mã ngành": "EP12",
+          "Tên ngành": "Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.25,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 75,
+          "Mã ngành": "EP13",
+          "Tên ngành": "Kinh tế học tài chính (FE)/ngành Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.41,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 76,
+          "Mã ngành": "EP14",
+          "Tên ngành": "Logistics và Quản lý chuỗi cung ứng tích hợp chứng chi quốc tế (LSIC)",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.69,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 77,
+          "Mã ngành": "EP15",
+          "Tên ngành": "Khoa học dữ liệu",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.13,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 78,
+          "Mã ngành": "EP16",
+          "Tên ngành": "Trí tuệ nhân tạo",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.44,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 79,
+          "Mã ngành": "EP17",
+          "Tên ngành": "Kỹ thuật phần mềm",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.7,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 80,
+          "Mã ngành": "EP18",
+          "Tên ngành": "Quản trị giải trí và sự kiện",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.89,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 81,
+          "Mã ngành": "EPMP",
+          "Tên ngành": "Quản lý công và Chính sách (E-PMP)/ngành Kinh tế",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 23,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 82,
+          "Mã ngành": "POHE1",
+          "Tên ngành": "Quản trị khách sạn",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.61,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 83,
+          "Mã ngành": "POHE2",
+          "Tên ngành": "Quản trị lữ hành",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.64,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 84,
+          "Mã ngành": "POHE3",
+          "Tên ngành": "Truyền thông Marketing",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 27.61,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 85,
+          "Mã ngành": "POHE4",
+          "Tên ngành": "Luật kinh doanh",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 25.5,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 86,
+          "Mã ngành": "POHE5",
+          "Tên ngành": "Quản trị kinh doanh thương mại",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 26.29,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 87,
+          "Mã ngành": "POHE6",
+          "Tên ngành": "Quản lý thị trường",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.66,
+          "Ghi chú": "Điểm đã được quy đổi"
+        },
+        {
+          "STT": 88,
+          "Mã ngành": "POHE7",
+          "Tên ngành": "Thẩm định giá",
+          "Tổ hợp môn": "",
+          "Điểm chuẩn": 24.55,
+          "Ghi chú": "Điểm đã được quy đổi"
+        }
+      ]
+    }
+  ]
+}

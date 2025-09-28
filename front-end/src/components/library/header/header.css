@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+.header {
+  @apply w-full shadow-md font-bold bg-[var(--header)] backdrop-blur-sm;
+}
+
+.header-container {
+  @apply max-w-6xl mx-auto px-4 flex items-center justify-between h-16;
+}
+
+.header-logo {
+  @apply text-xl font-bold flex items-center;
+}
+
+.header-logo img {
+  @apply h-10 w-auto;
+}
+
+.header-nav {
+  @apply hidden lg:flex gap-6;
+}
+
+.header-nav a {
+  @apply relative transition-colors text-[var(--foreground)] hover:text-[var(--primary)];
+} 
+
+.header-nav a::after {
+  content: "";
+  @apply absolute left-0 -bottom-1 w-0 h-[2px] bg-[var(--primary)] transition-all;
+}
+
+.header-nav a:hover::after {
+  @apply w-full;
+}
+
+.header-actions {
+  @apply items-center gap-3;
+}
+
+.header-menu-btn {
+  @apply p-2 rounded-lg hover:bg-[var(--mode-hover)] transition;
+}
+
+.header-link.active {
+  @apply text-[var(--primary)];
+}
+
+.header-link.active:hover {
+  @apply text-[var(--primary)];
+}
+
+.header-link.active:hover::after {
+  @apply w-0;
+}
+
+/* --- Mobile menu --- */
+/* Backdrop */
+.header-backdrop {
+  @apply fixed inset-0 bg-black/40 z-40;
+}
+
+/* Mobile off-canvas menu */
+.header-mobile {
+  @apply fixed top-0 left-0 h-screen w-md max-w-screen bg-[var(--header)] shadow-2xl p-6 flex flex-col z-50 transition-transform duration-300;
+  transform: translateX(-100%);
+}
+
+.header-mobile.open {
+  transform: translateX(0);
+}
+
+.header-mobile a {
+  @apply text-xl font-medium transition-colors text-[var(--foreground)];
+}
+
+.header-mobile a:hover {
+  @apply text-[var(--foreground)];
+}
+

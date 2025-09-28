@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .card-base {
+    @apply bg-white border border-[var(--border)] rounded-lg shadow-sm hover:shadow-md transition-shadow p-6
+  }
+}

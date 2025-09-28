@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer components{
+  .primary {
+    @apply px-4 py-2 rounded-xl font-bold cursor-pointer bg-[var(--primary)] text-[var(--primary-foreground)] hover:bg-[var(--primary-hover)] transition-all; 
+  }
+
+  .secondary {
+    @apply px-4 py-2 rounded-xl font-bold cursor-pointer bg-[var(--secondary)] text-[var(--secondary-foreground)] hover:bg-[var(--secondary-hover)] transition-all;
+  }
+
+  .outline {
+    @apply px-3.5 py-1.5 border rounded-xl font-bold cursor-pointer bg-[var(--header)] text-[var(--foreground)] border-gray-300 outline-none hover:bg-[var(--popover-hover)] dark:hover:bg-[var(--header)] hover:border-[var(--primary)] hover:text-[var(--primary)] transition-all;
+  }
+
+  .outline-secondary {
+    @apply px-3.5 py-1.5 border rounded-xl font-bold cursor-pointer bg-[var(--popover)] text-[var(--secondary)] border-[var(--secondary)] hover:bg-amber-50 transition-all;
+  }
+
+  .ghost {
+    @apply px-4 py-2 rounded-xl font-bold cursor-pointer bg-[var(--popover)] text-[var(--foreground)] hover:bg-[var(--popover-hover)] transition-all;
+  }
+
+  .loading, .disabled {
+    @apply opacity-50 flex justify-center items-center gap-2 cursor-not-allowed;
+  }
+}
+
