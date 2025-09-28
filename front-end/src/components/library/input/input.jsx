@@ -8,11 +8,14 @@ export function Input({
   type = "text",
   name,
   placeholder = "Nhập...",
-  variant = "primary", // "primary" | "secondary"
+  variant = "primary",
   iconLeft,
   iconRight,
   disabled,
   error,
+  rows = 4,
+  value, // thêm
+  onChange, // thêm
 }) {
   const [showPassword, setShowPassword] = useState(false);
 
@@ -32,6 +35,7 @@ export function Input({
   const IconRight = iconRight;
 
   const isPassword = type === "password";
+  const isTextarea = type === "textarea";
 
   return (
     <div className="flex flex-col w-full mb-2">
@@ -52,38 +56,59 @@ export function Input({
       )}
 
       <div className="relative flex items-center bg-[var(--input)] border-[var(--border)] text-[var(--input-foreground)] rounded-lg">
-        {IconLeft && (
+        {IconLeft && !isTextarea && (
           <IconLeft className="absolute left-3 text-gray-400 w-4 h-4 pointer-events-none" />
         )}
-        <input
-          id={name}
-          name={name}
-          type={isPassword ? (showPassword ? "text" : "password") : type}
-          placeholder={placeholder}
-          disabled={disabled}
-          className={`${base} ${error ? errorStyle : variants[variant]} ${
-            IconLeft ? "pl-10" : ""
-          } ${IconRight || isPassword ? "pr-10" : ""}`}
-        />
-        {isPassword ? (
-          <button
-            type="button"
-            onClick={() => setShowPassword(!showPassword)}
-            className="absolute right-3 text-gray-400 hover:text-gray-600 focus:outline-none"
-            aria-label={showPassword ? "Ẩn mật khẩu" : "Hiện mật khẩu"}
-          >
-            {showPassword ? (
-              <EyeOff className="w-4 h-4 hover:text-[var(--secondary)] cursor-pointer" />
-            ) : (
-              <Eye className="w-4 h-4 hover:text-[var(--secondary)] cursor-pointer" />
-            )}
-          </button>
+
+        {isTextarea ? (
+          <textarea
+            id={name}
+            name={name}
+            rows={rows}
+            placeholder={placeholder}
+            disabled={disabled}
+            value={value} // bind value
+            onChange={onChange} // bind onChange
+            className={`${base} ${
+              error ? errorStyle : variants[variant]
+            } resize-none`}
+          />
         ) : (
-          IconRight && (
-            <IconRight className="absolute right-3 text-gray-400 w-5 h-5 pointer-events-none" />
-          )
+          <>
+            <input
+              id={name}
+              name={name}
+              type={isPassword ? (showPassword ? "text" : "password") : type}
+              placeholder={placeholder}
+              disabled={disabled}
+              value={value} // bind value
+              onChange={onChange} // bind onChange
+              className={`${base} ${error ? errorStyle : variants[variant]} ${
+                IconLeft ? "pl-10" : ""
+              } ${IconRight || isPassword ? "pr-10" : ""}`}
+            />
+            {isPassword ? (
+              <button
+                type="button"
+                onClick={() => setShowPassword(!showPassword)}
+                className="absolute right-3 text-gray-400 hover:text-gray-600 focus:outline-none"
+                aria-label={showPassword ? "Ẩn mật khẩu" : "Hiện mật khẩu"}
+              >
+                {showPassword ? (
+                  <EyeOff className="w-4 h-4 hover:text-[var(--secondary)] cursor-pointer" />
+                ) : (
+                  <Eye className="w-4 h-4 hover:text-[var(--secondary)] cursor-pointer" />
+                )}
+              </button>
+            ) : (
+              IconRight && (
+                <IconRight className="absolute right-3 text-gray-400 w-5 h-5 pointer-events-none" />
+              )
+            )}
+          </>
         )}
       </div>
+
       {error && <p className="text-red-500 text-sm mt-1">{error}</p>}
     </div>
   );
@@ -120,7 +145,9 @@ export function StudentLevelRadio({ value, onChange, error }) {
         }`}
       >
         Bạn là học sinh{" "}
-        <span className={error ? "text-red-500" : "text-[var(--primary)]"}>*</span>
+        <span className={error ? "text-red-500" : "text-[var(--primary)]"}>
+          *
+        </span>
       </label>
       <div className="flex flex-col sm:flex-row gap-3">
         {/* Học sinh cấp 2 */}
@@ -162,26 +189,94 @@ export function StudentLevelRadio({ value, onChange, error }) {
   );
 }
 
+// ✅ Radio.jsx
+export function Radio({ label, options, value, name, onChange, error }) {
+  const baseStyle =
+    "px-4 py-2 rounded-lg border flex items-center gap-2 cursor-pointer transition-all";
+  const activeStyle = "text-[var(--primary)]";
+  const inactiveStyle =
+    "bg-[var(--input)] border-[var(--border)] text-[var(--input-foreground)] hover:border-[var(--primary)] hover:text-[var(--primary)]";
+  const errorStyle = "border-red-500 text-red-500";
 
-
+  return (
+    <div className="flex flex-col w-full mb-2">
+      <label
+        className={`mb-1 text-sm font-medium ${
+          error ? "text-red-500" : "text-[var(--primary)]"
+        }`}
+      >
+        {label}{" "}
+        <span className={error ? "text-red-500" : "text-[var(--primary)]"}>
+          *
+        </span>
+      </label>
+      <div className="flex flex-col sm:flex-row gap-3">
+        {options.map((opt) => (
+          <label
+            key={opt.key}
+            className={`${baseStyle} ${
+              value === opt.key ? activeStyle : inactiveStyle
+            } ${error ? errorStyle : ""}`}
+          >
+            <input
+              type="radio"
+              name={name || label}
+              value={opt.key}
+              checked={value === opt.key}
+              onChange={() => onChange?.(opt.key)}
+              className="w-4 h-4"
+            />
+            {opt.value}
+          </label>
+        ))}
+      </div>
+      {error && <p className="text-red-500 text-sm mt-1">{error}</p>}
+    </div>
+  );
+}
 
 export function Demo() {
   return (
     <div className="space-y-4 max-w-md mx-auto p-4">
       {/* Text Input Primary */}
-      <Input type="text" placeholder="Họ và tên" variant="primary" iconLeft={User} />
+      <Input
+        type="text"
+        placeholder="Họ và tên"
+        variant="primary"
+        iconLeft={User}
+      />
 
       {/* Mail Input */}
-      <Input type="email" placeholder="Địa chỉ email" variant="primary" iconLeft={Mail}></Input>
+      <Input
+        type="email"
+        placeholder="Địa chỉ email"
+        variant="primary"
+        iconLeft={Mail}
+      ></Input>
 
       {/* Password Input Secondary */}
-      <Input type="password" placeholder="Mật khẩu" variant="primary" iconLeft={Lock} />
+      <Input
+        type="password"
+        placeholder="Mật khẩu"
+        variant="primary"
+        iconLeft={Lock}
+      />
 
       {/* Search Input Primary */}
-      <Input type="search" placeholder="Tìm kiếm..." variant="primary" iconRight={Search} />
+      <Input
+        type="search"
+        placeholder="Tìm kiếm..."
+        variant="primary"
+        iconRight={Search}
+      />
 
       {/* Disabled Input */}
-      <Input type="text" placeholder="Không nhập được" disabled variant="secondary" />
+      <Input
+        type="text"
+        placeholder="Không nhập được"
+        disabled
+        variant="secondary"
+      />
 
       {/* ✅ Radio Input */}
       <StudentLevelRadio />

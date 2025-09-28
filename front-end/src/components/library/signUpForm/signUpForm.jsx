@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Input } from "../input/input.jsx";
 import { User, Mail, Lock } from "lucide-react";
+import { Link } from "react-router-dom";
 import "../cards/card.css";
 
 export function SignUpForm({ logo, name }) {
@@ -109,7 +110,7 @@ export function SignUpForm({ logo, name }) {
         </button>
         <div className="flex justify-center items-center gap-1 text-[var(--muted-foreground)]">
           <span>Đã có tài khoản?</span>
-          <a href="/login" className="text-[var(--primary)] font-bold">Đăng nhập</a>
+          <Link to="/login" className="text-[var(--primary)] font-bold">Đăng nhập</Link>
         </div>
       </div>
     </form>
