@@ -243,3 +243,51 @@ export function MBTICard() {
     </div>
   );
 }
+
+// Method card
+export function MethodCard({
+  icon,
+  bgColor,
+  textColor,
+  title,
+  subTitle,
+  benefits,
+  onClick,
+  key,
+  isSelected
+}) {
+  const Icon = icon;
+
+  return (
+    <div
+      key={key}
+      onClick={onClick}
+      className={`cursor-pointer zoom card bg-[var(--card)] rounded-[var(--radius)] max-w-sm p-6 flex flex-col gap-4 items-center border border-[var(--border)] justify-between ${isSelected ? "scale-105 border-[var(--secondary)]" : ""}`}
+    >
+      <div
+        className={`flex justify-center items-center w-12 h-12 rounded-[var(--radius)] bg-[var(${bgColor})] text-[var(${textColor})]`}
+      >
+        <Icon className="w-5 h-5" />
+      </div>
+      <div className="flex gap-2 flex-col items-center">
+        <h3 className={`text-[var(${textColor})] text-center`}>{title}</h3>
+        <p className="text-[var(--muted-foreground)] text-center">{subTitle}</p>
+      </div>
+      <div
+        className={`flex flex-col gap-1 bg-[var(${bgColor})] w-full p-4 rounded-[var(--radius)]`}
+      >
+        <h4 className={`text-[var(${textColor})] text-[14px]`}>
+          Những lợi ích:
+        </h4>
+        <ul className="list-disc list-inside">
+          {benefits.map((benefit, index) => (
+              <li key={index} className={`text-[var(${textColor})]`}>
+                {benefit}
+              </li>
+            )
+          )}
+        </ul>
+      </div>
+    </div>
+  );
+}
