@@ -4,6 +4,8 @@ import {
 } from "../../components/library/buttons/button.jsx";
 import { InfoCard } from "../../components/library/cards/card.jsx";
 import { GraduationCap, Compass, MessageCircle, FileText, Bot } from "lucide-react";
+import { ChatbotWidget } from "../../components/library/chatbotWidget/chatbotWidget.jsx";
+
 export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle, img }) {
   return (
     <>
@@ -96,6 +98,7 @@ export function HomePage({ Headline, SubHeadLine, FeatureTitle, FeatureSubTitle,
           </div>
         </div>
       </div>
+      <ChatbotWidget />
     </>
   );
 }

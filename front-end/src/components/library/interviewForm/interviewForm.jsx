@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Input, Radio } from "../input/input.jsx";
 import { Mail, Phone, User, ChevronDown, Check } from "lucide-react";
-import careersData from "../../../../../back-end/Data/interview/interview.json";
+import careersData from "../../../../../front-end/Data/interview/interview.json";
 
 export function InterviewForm({ onSuccess }) {
   const [errors, setErrors] = useState({});
