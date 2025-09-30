@@ -3,7 +3,7 @@ import { InterviewForm } from "../../components/library/interviewForm/interviewF
 import { MethodCard } from "../../components/library/cards/card";
 import { MessageCircle, Mic, User, Send } from "lucide-react";
 import { Button } from "../../components/library/buttons/button";
-import careersData from "../../../../back-end/Data/interview/interview.json";
+import careersData from "../../../../front-end/Data/interview/interview.json";
 import { Input } from "../../components/library/input/input";
 import { VoiceRecorderWithSTT } from "../../components/library/voiceRecorderWithSTT/voiceRecorderWithSTT";
 
@@ -81,17 +81,14 @@ export function InterviewPage() {
       answer: currentAnswer,
     };
 
-    // Tạo mảng answers mới
     const updatedAnswers = [...answers, newAnswer];
 
-    // Cập nhật state
     setAnswers(updatedAnswers);
-    setCurrentAnswer(""); // reset input
+    setCurrentAnswer("");
 
-    // Kiểm tra câu hỏi cuối
     if (currentQuestionIndex + 1 >= allQuestions.length) {
       setView("result");
-      console.log("Kết quả phỏng vấn:", updatedAnswers); // log đầy đủ 50 câu
+      console.log("Kết quả phỏng vấn:", updatedAnswers); 
     } else {
       setCurrentQuestionIndex((prev) => prev + 1);
     }
