@@ -621,7 +621,6 @@ export function MBTITest({ onFinish }) {
     const finalResult = { key: resultKey, percent, scores };
     setResult(finalResult);
 
-    // 👇 chỉ gọi onFinish khi thực sự muốn
     if (onFinish) onFinish(finalResult);
 
     window.scrollTo({ top: 0, behavior: "smooth" });
