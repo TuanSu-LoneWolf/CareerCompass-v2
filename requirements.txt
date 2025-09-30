@@ -19,3 +19,5 @@ requests
 typing-inspection
 pypdf
 python-dotenv
+gunicorn
+
