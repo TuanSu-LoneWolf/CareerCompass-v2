@@ -42,17 +42,17 @@ export function Header() {
     <header className="header sticky top-0 z-50">
       <div className="header-container">
         {/* Logo */}
-        <NavLink to="/" className="header-logo">
+        <NavLink  onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/" className="header-logo">
           <img src={Logo} alt="CareerCompass" className="h-10" />
         </NavLink>
 
         {/* Navigation */}
         <nav className="header-nav">
-          <NavLink to="/" className="header-link">Trang chủ</NavLink>
-          <NavLink to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
-          <NavLink to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
-          <NavLink to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
-          <NavLink to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/" className="header-link">Trang chủ</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
         </nav>
 
         {/* Actions (desktop) */}
@@ -65,10 +65,10 @@ export function Header() {
               ? <Sun className="w-5 h-5 text-yellow-400" />
               : <Moon className="w-5 h-5 text-gray-700" />}
           </button>
-          <Link to="/signup">
+          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/signup">
             <Button type="outline">Đăng ký</Button>
           </Link>
-          <Link to="/login">
+          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/login">
             <Button type="primary">Đăng nhập</Button>
           </Link>
         </div>
@@ -112,19 +112,19 @@ export function Header() {
         </div>
 
         <nav className="flex flex-col gap-6">
-          <NavLink to="/" className="header-link">Trang chủ</NavLink>
-          <NavLink to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
-          <NavLink to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
-          <NavLink to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
-          <NavLink to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/" className="header-link">Trang chủ</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
+          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
         </nav>
 
         {/* Actions (mobile) */}
         <div className="flex flex-col gap-3 mt-8">
-          <Link to="/signup">
+          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/signup">
             <Button type="outline" className="w-full">Đăng ký</Button>
           </Link>
-          <Link to="/login">
+          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/login">
             <Button type="primary" className="w-full">Đăng nhập</Button>
           </Link>
         </div>

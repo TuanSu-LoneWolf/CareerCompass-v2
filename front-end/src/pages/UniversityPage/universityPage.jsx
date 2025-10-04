@@ -137,7 +137,7 @@ export function UniversityPage() {
   // chỉ fetch 1 lần khi component mount
   useEffect(() => {
     setLoading(true);
-    fetch("http://localhost:5000/universities")
+    fetch("https://careercompass-v2-3.onrender.com/universities")
       .then((res) => res.json())
       .then((data) => {
         setSchools(data);
@@ -254,7 +254,7 @@ export function UniversityPage() {
                       subjects={`${school.major_count} ngành đào tạo`}
                       onClick={() => {
                         fetch(
-                          `http://localhost:5000/universities/${school.school_code}`
+                          `https://careercompass-v2-3.onrender.com/universities/${school.school_code}`
                         )
                           .then((res) => res.json())
                           .then((data) => {

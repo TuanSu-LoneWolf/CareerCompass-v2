@@ -53,46 +53,39 @@ def transform_school_data(raw_data, year):
     school["major_count"] = len(school["majors"])
     return school
 
-def load_all_schools():
+# ==== Chỉ load metadata (code + name + file paths) ====
+def load_school_metadata():
     year_dirs = {
         "2024": os.path.join(DATA_DIR, "schools", "2024"),
         "2025": os.path.join(DATA_DIR, "schools", "2025"),
     }
 
-    merged_schools = {}
+    schools = {}
 
     for year, school_dir in year_dirs.items():
         if os.path.exists(school_dir):
             for filename in os.listdir(school_dir):
                 if filename.endswith(".json"):
                     path = os.path.join(school_dir, filename)
-                    print("Đang load file:", path)
-
                     try:
                         raw_data = load_json_file(path)
-                    except ValueError as e:
-                        print(f"[WARN] Bỏ qua file {path}: {e}")
+                    except ValueError:
                         continue
 
-                    school_data = transform_school_data(raw_data, year)
-
-                    code = school_data["school_code"]
-                    if code not in merged_schools:
-                        merged_schools[code] = {
+                    code = raw_data.get("school_code")
+                    if code not in schools:
+                        schools[code] = {
                             "school_code": code,
-                            "school_name": school_data["school_name"],
-                            "majors": []
+                            "school_name": raw_data.get("school_name"),
+                            "paths": []
                         }
-                    merged_schools[code]["majors"].extend(school_data["majors"])
+                    schools[code]["paths"].append((year, path))
 
-    for s in merged_schools.values():
-        s["major_count"] = len(s["majors"])
+    return list(schools.values())
 
-    return list(merged_schools.values())
-
-# === Load dữ liệu 1 lần duy nhất ===
-all_schools = load_all_schools()
-print(f"[INFO] Đã load {len(all_schools)} trường vào bộ nhớ.")
+# Load metadata 1 lần duy nhất
+all_schools_meta = load_school_metadata()
+print(f"[INFO] Đã load metadata của {len(all_schools_meta)} trường vào bộ nhớ.")
 
 # === Routes ===
 @app.route("/")
@@ -105,16 +98,33 @@ def universities():
         {
             "school_code": s["school_code"],
             "school_name": s["school_name"],
-            "major_count": s["major_count"]
-        } for s in all_schools
+            "year_count": len(s["paths"])  # số năm có dữ liệu
+        } for s in all_schools_meta
     ])
 
 @app.route("/universities/<school_code>")
 def university_detail(school_code):
-    school = next((s for s in all_schools if s["school_code"] == school_code), None)
-    if not school:
+    school_meta = next((s for s in all_schools_meta if s["school_code"] == school_code), None)
+    if not school_meta:
         return jsonify({"error": "School not found"}), 404
-    return jsonify(school["majors"])
+
+    majors = []
+    for year, path in school_meta["paths"]:
+        try:
+            raw_data = load_json_file(path)
+            school_data = transform_school_data(raw_data, year)
+            majors.extend(school_data["majors"])
+        except ValueError:
+            continue
+
+    return jsonify({
+        "school_code": school_meta["school_code"],
+        "school_name": school_meta["school_name"],
+        "majors": majors,
+        "major_count": len(majors)
+    })
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
+
