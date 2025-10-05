@@ -3,7 +3,12 @@ from flask_cors import CORS
 import os, json
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={
+    r"/*": {"origins": [
+        "https://careercompass-nine.vercel.app",
+        "http://localhost:3000"
+    ]}
+})
 
 # Lấy đường dẫn tuyệt đối tới thư mục back-end
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
