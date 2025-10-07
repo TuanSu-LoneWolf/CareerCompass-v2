@@ -6,6 +6,7 @@
   --mode-hover: #E5E7EB;
   --filter-hover: #f1f5f9;
   --bg-progress: rgb(37, 99, 235, 0.2);
+  --border-dashed: #bfdbfe;
 
   /* Background từ Figma */
   --background: #EFF6FF;
@@ -27,6 +28,7 @@
   --muted-foreground: #717182;         
   --destructive: #d4183d;              
   --destructive-foreground: #ffffff;   
+  --bg-chart-top: #dbeafe;
 
   /* Các biến từ Figma thêm mới (không trùng) */
   --brand-primary: #2563EB;
@@ -115,6 +117,8 @@
   --header: rgba(30, 41, 59, 0.9);
   --mode-hover: #374151;
   --filter-hover: #374151;
+  --border-dashed: #2563eb;
+  --bg-chart-top: rgb(30, 58, 138, 0.3);
 }
 
 body {
