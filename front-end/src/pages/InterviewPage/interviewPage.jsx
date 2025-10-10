@@ -18,6 +18,26 @@ export function InterviewPage() {
   const [currentAnswer, setCurrentAnswer] = useState("");
   const [answers, setAnswers] = useState([]);
 
+  const startInterview = async () => {
+    try {
+      const token = localStorage.getItem("token");
+
+      const res = await fetch("http://localhost:5005/api/start-interview", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`,
+        },
+        body: JSON.stringify({ name: "Tuan", age: 22, job: "Lập trình viên" }),
+      });
+
+      const data = await res.json();
+      console.log("Server response:", data);
+    } catch (err) {
+      console.error("Lỗi khi gọi API:", err);
+    }
+  };
+
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, [view]);
@@ -88,7 +108,7 @@ export function InterviewPage() {
 
     if (currentQuestionIndex + 1 >= allQuestions.length) {
       setView("result");
-      console.log("Kết quả phỏng vấn:", updatedAnswers); 
+      console.log("Kết quả phỏng vấn:", updatedAnswers);
     } else {
       setCurrentQuestionIndex((prev) => prev + 1);
     }
@@ -190,7 +210,7 @@ export function InterviewPage() {
               <Button
                 onClick={() =>
                   isSelected && method
-                    ? setView(method)
+                    ? (setView(method), startInterview())
                     : alert("Vui lòng chọn phương thức phỏng vấn!")
                 }
                 type="primary"
@@ -436,10 +456,10 @@ export function InterviewPage() {
         </div>
       )}
 
-      {view === "result" && 
+      {view === "result" && (
         // Phần này em làm cho ra kết quả đánh giá, điểm của các tiêu chi đi rồi anh chỉnh lại front-end
         <div>Cảm ơn bạn đã sử dụng</div>
-      }
+      )}
     </div>
   );
 }

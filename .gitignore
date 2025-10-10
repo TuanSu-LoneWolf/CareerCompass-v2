@@ -1,2 +1,3 @@
-Back-end/config/firebase-admin-key.json
-Back-end/config/firebase-admin-key.json
+back-end/config/firebase-admin-key.json
+*.pyc
+__pycache__/

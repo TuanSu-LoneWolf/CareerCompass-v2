@@ -505,22 +505,86 @@ const choiceMap = [
 ];
 
 const mbtiDescriptions = {
-  ISTJ: { name: "ISTJ", overview: "Trung thực, trách nhiệm, thực tế." },
-  ISFJ: { name: "ISFJ", overview: "Chu đáo, tận tâm, thực tế." },
-  INFJ: { name: "INFJ", overview: "Trực giác sâu sắc, quan tâm người khác." },
-  INTJ: { name: "INTJ", overview: "Chiến lược, độc lập, định hướng mục tiêu." },
-  ISTP: { name: "ISTP", overview: "Thực tế, khéo tay, thích khám phá." },
-  ISFP: { name: "ISFP", overview: "Sáng tạo, hòa nhã, quan tâm trải nghiệm." },
-  INFP: { name: "INFP", overview: "Lý tưởng, sáng tạo, trung thành." },
-  INTP: { name: "INTP", overview: "Tư duy phân tích, tò mò, logic." },
-  ESTP: { name: "ESTP", overview: "Năng động, thực tế, thích hành động." },
-  ESFP: { name: "ESFP", overview: "Hòa đồng, vui vẻ, sống hiện tại." },
-  ENFP: { name: "ENFP", overview: "Nhiệt huyết, sáng tạo, hướng người." },
-  ENTP: { name: "ENTP", overview: "Tư duy nhanh, thích thử thách." },
-  ESTJ: { name: "ESTJ", overview: "Tổ chức tốt, quyết đoán, thực tế." },
-  ESFJ: { name: "ESFJ", overview: "Quan tâm đến người khác, chu đáo." },
-  ENFJ: { name: "ENFJ", overview: "Lãnh đạo cảm xúc, truyền cảm hứng." },
-  ENTJ: { name: "ENTJ", overview: "Lãnh đạo, chiến lược, quyết tâm." },
+  ISTJ: {
+    code: "ISTJ",
+    name: "Người Thanh tra (The Inspector)",
+    overview: "Trung thực, trách nhiệm, thực tế và có nguyên tắc rõ ràng.",
+  },
+  ISFJ: {
+    code: "ISFJ",
+    name: "Người Bảo vệ (The Protector)",
+    overview: "Chu đáo, tận tâm, trung thành và quan tâm đến người khác.",
+  },
+  INFJ: {
+    code: "INFJ",
+    name: "Người Cố vấn (The Counselor)",
+    overview: "Trực giác sâu sắc, quan tâm người khác và có lý tưởng mạnh mẽ.",
+  },
+  INTJ: {
+    code: "INTJ",
+    name: "Nhà Chiến lược (The Mastermind)",
+    overview: "Chiến lược, độc lập, định hướng mục tiêu và có tầm nhìn xa.",
+  },
+  ISTP: {
+    code: "ISTP",
+    name: "Người Thợ Cơ khí (The Crafter)",
+    overview: "Thực tế, khéo tay, thích khám phá và hành động thực tiễn.",
+  },
+  ISFP: {
+    code: "ISFP",
+    name: "Người Nghệ sĩ (The Artist)",
+    overview: "Sáng tạo, hòa nhã, quan tâm trải nghiệm và tự do cá nhân.",
+  },
+  INFP: {
+    code: "INFP",
+    name: "Người Hòa giải (The Mediator)",
+    overview: "Lý tưởng, sáng tạo, trung thành và sống theo giá trị nội tâm.",
+  },
+  INTP: {
+    code: "INTP",
+    name: "Nhà Tư duy (The Thinker)",
+    overview: "Phân tích logic, tò mò, yêu thích khám phá tri thức.",
+  },
+  ESTP: {
+    code: "ESTP",
+    name: "Người Thực thi (The Dynamo)",
+    overview: "Năng động, thực tế, thích hành động và đối mặt thử thách.",
+  },
+  ESFP: {
+    code: "ESFP",
+    name: "Người Biểu diễn (The Performer)",
+    overview: "Hòa đồng, vui vẻ, sống trong hiện tại và yêu thích trải nghiệm.",
+  },
+  ENFP: {
+    code: "ENFP",
+    name: "Người Truyền cảm hứng (The Inspirer)",
+    overview: "Nhiệt huyết, sáng tạo, hướng ngoại và yêu tự do.",
+  },
+  ENTP: {
+    code: "ENTP",
+    name: "Người Sáng tạo (The Inventor)",
+    overview: "Tư duy nhanh, thích thử thách, ham học hỏi và linh hoạt.",
+  },
+  ESTJ: {
+    code: "ESTJ",
+    name: "Người Quản lý (The Supervisor)",
+    overview: "Tổ chức tốt, quyết đoán, thực tế và thích kiểm soát trật tự.",
+  },
+  ESFJ: {
+    code: "ESFJ",
+    name: "Người Chăm sóc (The Caregiver)",
+    overview: "Quan tâm người khác, chu đáo, hòa đồng và đáng tin cậy.",
+  },
+  ENFJ: {
+    code: "ENFJ",
+    name: "Người Lãnh đạo (The Teacher)",
+    overview: "Lãnh đạo cảm xúc, truyền cảm hứng và luôn hỗ trợ người khác.",
+  },
+  ENTJ: {
+    code: "ENTJ",
+    name: "Nhà Điều hành (The Commander)",
+    overview: "Lãnh đạo mạnh mẽ, chiến lược, quyết đoán và có tầm nhìn.",
+  },
 };
 
 const ITEMS_PER_PAGE = 7;
@@ -621,9 +685,25 @@ export function MBTITest({ onFinish }) {
     const finalResult = { key: resultKey, percent, scores };
     setResult(finalResult);
 
-    if (onFinish) onFinish(finalResult);
+    // lấy mô tả từ object bằng resultKey (không dùng result.name)
+    const desc = mbtiDescriptions[resultKey] || {
+      name: "Không xác định",
+      overview: "",
+    };
+
+    const MBTIResult = {
+      "Mã tính cách": resultKey,
+      "Tên tính cách": desc.name,
+      "Tổng điểm": scores,
+    };
+
+    console.log(MBTIResult);
+
+    if (onFinish) onFinish(MBTIResult);
 
     window.scrollTo({ top: 0, behavior: "smooth" });
+
+    return MBTIResult
   };
 
   const restart = () => {
@@ -634,7 +714,7 @@ export function MBTITest({ onFinish }) {
 
   if (result) {
     const desc = mbtiDescriptions[result.key] || {
-      name: result.key,
+      code: result.key,
       overview: "Không có mô tả.",
     };
     return (
@@ -832,7 +912,7 @@ export function MBTITest({ onFinish }) {
           }}
           className="flex items-center gap-2 px-6 py-2 bg-yellow-500 text-white rounded-lg cursor-pointer"
         >
-          <Shuffle className="w-4 h-4"/>
+          <Shuffle className="w-4 h-4" />
           <p>Random Fill</p>
         </button>
 

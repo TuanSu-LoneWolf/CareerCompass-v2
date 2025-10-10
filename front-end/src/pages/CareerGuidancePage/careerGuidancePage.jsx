@@ -8,6 +8,33 @@ import { Target } from "lucide-react";
 export function CareerGuidancePage() {
   const [view, setView] = useState("form");
   const [doneMBTI, setDoneMBTI] = useState(false);
+  const [mbtiResult, setMbtiResult] = useState(null);
+
+  const handleSendToAI = async (mbti, riasec) => {
+    try {
+      const response = await fetch("http://localhost:5002/api/ai-career", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          mbti: {
+            code: mbti?.code,
+            name: mbti?.name,
+            overview: mbti?.overview,
+          },
+          riasec: {
+            code: riasec?.["Mã RIASEC"],
+            groups: riasec?.["Tên nhóm"],
+            scores: riasec?.["Tổng điểm"],
+          },
+        }),
+      });
+
+      const data = await response.json();
+      console.log("✅ Kết quả AI:", data);
+    } catch (err) {
+      console.error("❌ Lỗi gửi dữ liệu cho AI:", err);
+    }
+  };
 
   return (
     <div className="max-w-6xl mx-auto px-2 sm:px-4 lg:min-h-screen">
@@ -39,14 +66,31 @@ export function CareerGuidancePage() {
 
       {view === "testMBTI" && (
         <div className="max-w-3xl mx-auto mb-16">
-          <MBTITest onFinish={() => setDoneMBTI(true)} />
+          <MBTITest
+            onFinish={(MBTIResult) => {
+              setDoneMBTI(true),
+                setMbtiResult(MBTIResult),
+                console.log(mbtiResult);
+            }}
+          />
           {doneMBTI && (
-            <div onClick={() => {setView("testRIASEC"), window.scrollTo({top: 0, behavior: "smooth",})}} className="card border border-[var(--border)] bg-[var(--card)] rounded-[var(--radius)] w-full p-6 flex flex-col gap-3 cursor-pointer">
+            <div
+              onClick={() => {
+                setView("testRIASEC"),
+                  window.scrollTo({ top: 0, behavior: "smooth" });
+              }}
+              className="card border border-[var(--border)] bg-[var(--card)] rounded-[var(--radius)] w-full p-6 flex flex-col gap-3 cursor-pointer"
+            >
               <div className="flex flex-col gap-2">
                 <h4 className="text-[var(--foreground)]">Tiếp tục khám phá</h4>
-                <p className="text-[var(--muted-foreground)]">Thực hiện test RIASEC để tìm hiểu xu hướng nghề nghiệp phù hợp với bạn</p>
+                <p className="text-[var(--muted-foreground)]">
+                  Thực hiện test RIASEC để tìm hiểu xu hướng nghề nghiệp phù hợp
+                  với bạn
+                </p>
               </div>
-              <Button icon={Target} type="primary" start>Bắt đầu test RIASEC</Button>
+              <Button icon={Target} type="primary" start>
+                Bắt đầu test RIASEC
+              </Button>
             </div>
           )}
         </div>
@@ -54,7 +98,15 @@ export function CareerGuidancePage() {
 
       {view === "testRIASEC" && (
         <div className="max-w-3xl mx-auto">
-          <RIASECTest />
+          <RIASECTest
+            onFinish={(RIASECResult) => {
+              if (mbtiResult) {
+                handleSendToAI(mbtiResult, RIASECResult);
+              } else {
+                console.warn("⚠️ MBTI chưa có kết quả, chưa gửi AI.");
+              }
+            }}
+          />
         </div>
       )}
     </div>
