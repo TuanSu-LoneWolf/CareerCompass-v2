@@ -1,14 +1,23 @@
 import { NavLink, Link } from "react-router-dom";
 import { Button } from "../buttons/button.jsx";
 import { Menu, X, Sun, Moon } from "lucide-react";
-import { useState, useEffect } from "react"; 
+import { useState, useEffect, useRef } from "react";
 import "./header.css";
 import Logo from "../../../assets/Logo_CC_tron_co_chu.svg";
+import { useAuth } from "../../../context/AuthContext.jsx";
 
 export function Header() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false); // mobile menu
+  const [dropdownOpen, setDropdownOpen] = useState(false); // avatar dropdown
+  const dropdownRef = useRef(null);
 
-  // Dark mode: ưu tiên user đã chọn, nếu chưa thì sync system
+  const { user, userDetails, logout } = useAuth();
+
+  // avatar nguồn (fallbacks)
+  const avatarSrc =
+    user?.photoURL || userDetails?.photo || "/default-avatar.png";
+
+  // Dark mode (giữ logic hiện tại của bạn)
   const [darkMode, setDarkMode] = useState(() => {
     const saved = localStorage.getItem("theme");
     if (saved === "dark") return true;
@@ -16,7 +25,6 @@ export function Header() {
     return window.matchMedia("(prefers-color-scheme: dark)").matches;
   });
 
-  // Apply class "dark" và lưu vào localStorage
   useEffect(() => {
     if (darkMode) {
       document.documentElement.classList.add("dark");
@@ -27,82 +35,151 @@ export function Header() {
     }
   }, [darkMode]);
 
-  // Lắng nghe system theme thay đổi nhưng chỉ khi user chưa chọn
+  // đóng dropdown khi click ra ngoài
   useEffect(() => {
-    const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
-    const handleChange = (e) => {
-      const saved = localStorage.getItem("theme");
-      if (!saved) setDarkMode(e.matches);
+    const handleClickOutside = (e) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target)) {
+        setDropdownOpen(false);
+      }
     };
-    mediaQuery.addEventListener("change", handleChange);
-    return () => mediaQuery.removeEventListener("change", handleChange);
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
   return (
     <header className="header sticky top-0 z-50">
       <div className="header-container">
-        {/* Logo */}
-        <NavLink  onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/" className="header-logo">
+        {/* Logo app (trái) */}
+        <NavLink
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          to="/"
+          className="header-logo"
+        >
           <img src={Logo} alt="CareerCompass" className="h-10" />
         </NavLink>
 
-        {/* Navigation */}
+        {/* Navigation (giữa) */}
         <nav className="header-nav">
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/" className="header-link">Trang chủ</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
+          <NavLink to="/" className="header-link">
+            Trang chủ
+          </NavLink>
+          <NavLink to="/universities-majors" className="header-link">
+            Danh sách Đại học
+          </NavLink>
+          <NavLink to="/career-guidance" className="header-link">
+            Hướng nghiệp
+          </NavLink>
+          <NavLink to="/interview-practice" className="header-link">
+            Luyện phỏng vấn
+          </NavLink>
+          <NavLink to="/cv-check" className="header-link">
+            Kiểm tra CV
+          </NavLink>
         </nav>
 
-        {/* Actions (desktop) */}
+        {/* Actions (phải, desktop) */}
         <div className="header-actions hidden lg:flex items-center gap-3">
+          {/* dark toggle */}
           <button
             onClick={() => setDarkMode(!darkMode)}
             className="p-2 rounded-full transition cursor-pointer"
+            aria-label="Toggle theme"
           >
-            {darkMode
-              ? <Sun className="w-5 h-5 text-yellow-400" />
-              : <Moon className="w-5 h-5 text-gray-700" />}
+            {darkMode ? (
+              <Sun className="w-5 h-5 text-yellow-400" />
+            ) : (
+              <Moon className="w-5 h-5 text-gray-700" />
+            )}
           </button>
-          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/signup">
-            <Button type="outline">Đăng ký</Button>
-          </Link>
-          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/login">
-            <Button type="primary">Đăng nhập</Button>
-          </Link>
+
+          {/* Nếu đã login: hiện avatar + dropdown */}
+          {user ? (
+            <div className="relative" ref={dropdownRef}>
+              {/* avatar button */}
+              <button
+                onClick={() => setDropdownOpen((s) => !s)}
+                className="flex items-center focus:outline-none"
+                aria-haspopup="true"
+                aria-expanded={dropdownOpen}
+                title={user.displayName || user.email}
+              >
+                <img
+                  src={avatarSrc}
+                  alt="Avatar"
+                  className="w-9 h-9 rounded-full border border-gray-300 dark:border-gray-600 cursor-pointer"
+                />
+              </button>
+
+              {/* dropdown: căn giữa theo avatar */}
+              {dropdownOpen && (
+                <div
+                  className={`absolute left-1/2 transform -translate-x-1/2 mt-3 w-44 rounded-xl shadow-lg z-50
+                    ${darkMode ? "bg-gray-800 border border-gray-700" : "bg-white border border-gray-200"}`}
+                >
+                  <Link
+                    to="/profile"
+                    onClick={() => setDropdownOpen(false)}
+                    className={`block px-4 py-2 text-sm rounded-t-xl ${
+                      darkMode ? "text-gray-200 hover:bg-gray-700" : "text-gray-800 hover:bg-gray-100"
+                    }`}
+                  >
+                    Trang cá nhân
+                  </Link>
+                  <button
+                    onClick={() => {
+                      logout?.();
+                      setDropdownOpen(false);
+                    }}
+                    className={`block w-full text-left px-4 py-2 text-sm rounded-b-xl ${
+                      darkMode ? "text-gray-200 hover:bg-gray-700" : "text-gray-800 hover:bg-gray-100"
+                    }`}
+                  >
+                    Đăng xuất
+                  </button>
+                </div>
+              )}
+            </div>
+          ) : (
+            // nếu chưa login: show buttons
+            <>
+              <Link to="/signup">
+                <Button type="outline">Đăng ký</Button>
+              </Link>
+              <Link to="/login">
+                <Button type="primary">Đăng nhập</Button>
+              </Link>
+            </>
+          )}
         </div>
 
-        {/* Mobile menu button */}
-        <div className="flex lg:hidden">
+        {/* Mobile controls */}
+        <div className="flex lg:hidden items-center gap-2">
           <button
             onClick={() => setDarkMode(!darkMode)}
             className="p-2 rounded-full transition cursor-pointer"
+            aria-label="Toggle theme"
           >
-            {darkMode
-              ? <Sun className="w-5 h-5 text-yellow-400" />
-              : <Moon className="w-5 h-5 text-gray-700" />}
+            {darkMode ? (
+              <Sun className="w-5 h-5 text-yellow-400" />
+            ) : (
+              <Moon className="w-5 h-5 text-gray-700" />
+            )}
           </button>
+
           <button
             className="header-menu-btn"
             onClick={() => setIsOpen(!isOpen)}
+            aria-label="Toggle menu"
           >
-            {isOpen
-              ? <X className="w-6 h-6 text-[--foreground]" />
-              : <Menu className="w-6 h-6 text-[--foreground]" />}
+            {isOpen ? <X className="w-6 h-6 text-[--foreground]" /> : <Menu className="w-6 h-6 text-[--foreground]" />}
           </button>
         </div>
       </div>
 
-      {/* Backdrop */}
-      {isOpen && (
-        <div
-          className="header-backdrop md:hidden"
-          onClick={() => setIsOpen(false)}
-        />
-      )}
+      {/* Backdrop (mobile) */}
+      {isOpen && <div className="header-backdrop md:hidden" onClick={() => setIsOpen(false)} />}
 
-      {/* Off-canvas mobile menu */}
+      {/* Mobile off-canvas */}
       <div className={`header-mobile ${isOpen ? "open" : ""} md:hidden`}>
         <div className="flex justify-between items-center pb-4 mb-4 border-b border-[var(--border)]">
           <img src={Logo} alt="CareerCompass" className="h-10" />
@@ -112,21 +189,27 @@ export function Header() {
         </div>
 
         <nav className="flex flex-col gap-6">
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/" className="header-link">Trang chủ</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
-          <NavLink onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
+          <NavLink to="/" className="header-link">Trang chủ</NavLink>
+          <NavLink to="/universities-majors" className="header-link">Danh sách Đại học</NavLink>
+          <NavLink to="/career-guidance" className="header-link">Hướng nghiệp</NavLink>
+          <NavLink to="/interview-practice" className="header-link">Luyện phỏng vấn</NavLink>
+          <NavLink to="/cv-check" className="header-link">Kiểm tra CV</NavLink>
         </nav>
 
-        {/* Actions (mobile) */}
         <div className="flex flex-col gap-3 mt-8">
-          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/signup">
-            <Button type="outline" className="w-full">Đăng ký</Button>
-          </Link>
-          <Link onClick={() => window.scrollTo({top: 0, behavior: "smooth"})} to="/login">
-            <Button type="primary" className="w-full">Đăng nhập</Button>
-          </Link>
+          {user ? (
+            <>
+              <Link to="/profile">
+                <Button type="outline" className="w-full">Trang cá nhân</Button>
+              </Link>
+              <Button type="primary" className="w-full" onClick={logout}>Đăng xuất</Button>
+            </>
+          ) : (
+            <>
+              <Link to="/signup"><Button type="outline" className="w-full">Đăng ký</Button></Link>
+              <Link to="/login"><Button type="primary" className="w-full">Đăng nhập</Button></Link>
+            </>
+          )}
         </div>
       </div>
     </header>
