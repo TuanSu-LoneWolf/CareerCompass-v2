@@ -91,7 +91,7 @@ def get_careers():
 
 @app.route('/api/start-interview', methods=['POST'])
 @firebase_required
-# ĐÃ LOẠI BỎ: @premium_required
+
 @rate_limit(limit=5, window=3600, per_user=True)
 def start_interview():
     data = request.json or {}
