@@ -51,19 +51,34 @@ docs = splitter.split_documents(raw_docs)  # tách thành các đoạn nhỏ
 # -----------------------
 embedding_model = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
-if os.path.exists(FAISS_INDEX_DIR):
-    # Nếu FAISS index đã tồn tại, load từ disk → không tốn request embedding
-    vectorstore = FAISS.load_local(FAISS_INDEX_DIR, embedding_model, allow_dangerous_deserialization=True)
-else:
-    # Nếu chưa tồn tại, build FAISS từ documents → tốn request embedding
+faiss_loaded = False
+if os.path.exists(FAISS_INDEX_DIR) and os.listdir(FAISS_INDEX_DIR):
+    try:
+        vectorstore = FAISS.load_local(
+            FAISS_INDEX_DIR, 
+            embedding_model, 
+            allow_dangerous_deserialization=True
+        )
+        print("✅ Đã load FAISS index từ ổ đĩa.")
+        faiss_loaded = True
+    except Exception as e:
+        print("⚠️ Lỗi khi load FAISS, sẽ rebuild lại:", e)
+
+if not faiss_loaded:
+    print("⏳ Đang tạo mới FAISS index...")
     vectorstore = FAISS.from_documents(docs, embedding_model)
-    # Lưu index ra disk để lần sau load, tránh build lại
     vectorstore.save_local(FAISS_INDEX_DIR)
+    print("✅ Đã tạo và lưu FAISS index mới.")
+
 
 # -----------------------
 # Step 3: LLM + Prompt
 # -----------------------
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.1)
+llm = ChatGoogleGenerativeAI(
+    model="gemini-1.5-flash",
+    temperature=0.1,
+    max_output_tokens=300  # Giới hạn câu trả lời tối đa 300 token
+)
 
 prompt_template = PromptTemplate.from_template(
     """Bạn là một trợ lý AI chuyên về tư vấn hướng nghiệp cho học sinh, sinh viên hoặc người đang tìm kiếm định hướng nghề nghiệp. Dưới đây là ngữ cảnh tài liệu bạn có thể tham khảo để đưa ra câu trả lời phù hợp và chính xác:
@@ -80,8 +95,10 @@ Dựa trên ngữ cảnh trên, hãy trả lời một cách rõ ràng, chuyên 
 # -----------------------
 qa_chain = RetrievalQA.from_chain_type(
     llm=llm,
-    retriever=vectorstore.as_retriever(),
-    chain_type_kwargs={"prompt": prompt_template}
+    retriever=vectorstore.as_retriever(search_kwargs={"k": 1}),  # chỉ lấy 1 đoạn ngữ cảnh ~200 token
+    chain_type_kwargs={"prompt": prompt_template},
+    input_key="question",
+    output_key="result"
 )
 
 # -----------------------
@@ -90,8 +107,19 @@ qa_chain = RetrievalQA.from_chain_type(
 def answer_question(question: str) -> str:
     """
     Trả về câu trả lời từ RAG.
-    Lưu ý:
-    - Chỉ tốn request LLM (không tốn embedding) nếu FAISS đã được build trước đó.
-    - Nếu FAISS chưa tồn tại, lần đầu build sẽ tốn request embedding → cần quota.
+    Có giới hạn:
+    - input tối đa 200 token
+    - output tối đa 300 token
     """
-    return qa_chain.run(question)
+    try:
+        # cắt input nếu quá dài (≈ 200 token ~ 800 ký tự)
+        if len(question) > 800:
+            question = question[:800] + "..."
+
+        result = qa_chain.invoke({"question": question})  # ✅ đúng key
+        return result["result"]
+    except Exception as e:
+        print("❌ Lỗi khi gọi RAG:", e)
+        return "Xin lỗi, có lỗi khi xử lý yêu cầu của bạn."
+
+

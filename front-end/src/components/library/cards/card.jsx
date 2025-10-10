@@ -254,7 +254,7 @@ export function MethodCard({
   benefits,
   onClick,
   key,
-  isSelected
+  isSelected,
 }) {
   const Icon = icon;
 
@@ -262,7 +262,9 @@ export function MethodCard({
     <div
       key={key}
       onClick={onClick}
-      className={`cursor-pointer zoom card bg-[var(--card)] rounded-[var(--radius)] max-w-sm p-6 flex flex-col gap-4 items-center border border-[var(--border)] justify-between ${isSelected ? "scale-105 border-[var(--secondary)]" : ""}`}
+      className={`cursor-pointer zoom card bg-[var(--card)] rounded-[var(--radius)] max-w-sm p-6 flex flex-col gap-4 items-center border border-[var(--border)] justify-between ${
+        isSelected ? "scale-105 border-[var(--secondary)]" : ""
+      }`}
     >
       <div
         className={`flex justify-center items-center w-12 h-12 rounded-[var(--radius)] bg-[var(${bgColor})] text-[var(${textColor})]`}
@@ -281,12 +283,56 @@ export function MethodCard({
         </h4>
         <ul className="list-disc list-inside">
           {benefits.map((benefit, index) => (
-              <li key={index} className={`text-[var(${textColor})]`}>
-                {benefit}
-              </li>
-            )
-          )}
+            <li key={index} className={`text-[var(${textColor})]`}>
+              {benefit}
+            </li>
+          ))}
         </ul>
+      </div>
+    </div>
+  );
+}
+
+// Major detail cards
+export function MajorDetailCard({
+  name,
+  subjects,
+  score,
+  score2,
+  method,
+  className = "",
+}) {
+  return (
+    <div
+      className={`card zoom justify-between cursor-pointer hover:shadow-xl transition-all flex flex-col gap-2 p-6 border border-[var(--border)] rounded-xl group hover:border-[rgb(245,158,11,0.3)] bg-[var(--card)] z-10 ${className}`}
+    >
+      <div className="flex shrink-0 gap-4 items-center mb-4">
+        <div className="flex shrink-0 grow-0 justify-center items-center rounded-xl w-12 h-12 text-[var(--chart-1)] bg-[var(--bg-chart-1)] leading-none">
+          <BookOpen className="w-5 h-5" />
+        </div>
+        <div className="flex flex-col gap-1">
+          <h4 className="text-[var(--card-foreground)] group-hover:text-[var(--secondary)] leading-tight">
+            {name}
+          </h4>
+        </div>
+      </div>
+      <div>
+        <p className="text-[var(--muted-foreground)]">
+          <strong>Tổ hợp môn:</strong> {subjects.replaceAll(";", ",")}
+        </p>
+        <p className="text-[var(--muted-foreground)]">
+          <strong>Điểm chuẩn 2024:</strong> {score}
+        </p>
+        {score2 && (
+          <p className="text-[var(--muted-foreground)]">
+            <strong>Điểm chuẩn 2023:</strong> {score2}
+          </p>
+        )}
+        {method && (
+          <p className="text-[var(--muted-foreground)]">
+            <strong>Phương thức:</strong> {method}
+          </p>
+        )}
       </div>
     </div>
   );
