@@ -1,2 +1,12 @@
 Back-end/config/firebase-admin-key.json
 Back-end/config/firebase-admin-key.json
+
+# Environment
+.env
+back-end/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
