@@ -11,26 +11,35 @@ export function CareerGuidancePage() {
   const [mbtiResult, setMbtiResult] = useState(null);
 
   const handleSendToAI = async (mbti, riasec) => {
+    console.log("🚀 Gửi dữ liệu lên AI:", { mbti, riasec });
+    
     try {
       const response = await fetch("http://localhost:5002/api/ai-career", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           mbti: {
-            code: mbti?.code,
-            name: mbti?.name,
+            code: mbti?.code || mbti?.["Mã tính cách"],
+            name: mbti?.name || mbti?.["Tên tính cách"],
             overview: mbti?.overview,
           },
           riasec: {
-            code: riasec?.["Mã RIASEC"],
-            groups: riasec?.["Tên nhóm"],
-            scores: riasec?.["Tổng điểm"],
+            code: riasec?.code,
+            description: riasec?.description,
+            scores: riasec?.scores,
           },
         }),
       });
 
       const data = await response.json();
       console.log("✅ Kết quả AI:", data);
+      
+      if (data.status === "success") {
+        // Xử lý kết quả AI thành công ở đây
+        console.log("🎯 Đề xuất nghề nghiệp:", data.suggestion);
+      } else {
+        console.error("❌ Lỗi từ server:", data.message);
+      }
     } catch (err) {
       console.error("❌ Lỗi gửi dữ liệu cho AI:", err);
     }
@@ -68,16 +77,16 @@ export function CareerGuidancePage() {
         <div className="max-w-3xl mx-auto mb-16">
           <MBTITest
             onFinish={(MBTIResult) => {
-              setDoneMBTI(true),
-                setMbtiResult(MBTIResult),
-                console.log(mbtiResult);
+              console.log("🎯 MBTI Result:", MBTIResult);
+              setDoneMBTI(true);
+              setMbtiResult(MBTIResult);
             }}
           />
           {doneMBTI && (
             <div
               onClick={() => {
-                setView("testRIASEC"),
-                  window.scrollTo({ top: 0, behavior: "smooth" });
+                setView("testRIASEC");
+                window.scrollTo({ top: 0, behavior: "smooth" });
               }}
               className="card border border-[var(--border)] bg-[var(--card)] rounded-[var(--radius)] w-full p-6 flex flex-col gap-3 cursor-pointer"
             >
@@ -100,6 +109,7 @@ export function CareerGuidancePage() {
         <div className="max-w-3xl mx-auto">
           <RIASECTest
             onFinish={(RIASECResult) => {
+              console.log("🎯 RIASEC Result:", RIASECResult);
               if (mbtiResult) {
                 handleSendToAI(mbtiResult, RIASECResult);
               } else {

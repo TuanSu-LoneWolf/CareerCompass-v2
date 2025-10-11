@@ -692,12 +692,16 @@ export function MBTITest({ onFinish }) {
     };
 
     const MBTIResult = {
-      "Mã tính cách": resultKey,
-      "Tên tính cách": desc.name,
-      "Tổng điểm": scores,
+      code: resultKey,
+      name: desc.name,
+      overview: desc.overview,
+      scores: scores,
     };
 
     console.log(MBTIResult);
+
+    // ✅ LƯU KẾT QUẢ VÀO LOCALSTORAGE
+    localStorage.setItem('mbtiResult', JSON.stringify(MBTIResult));
 
     if (onFinish) onFinish(MBTIResult);
 

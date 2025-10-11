@@ -6,12 +6,14 @@ import { Button } from "../../components/library/buttons/button";
 import careersData from "../../../../front-end/Data/interview/interview.json";
 import { Input } from "../../components/library/input/input";
 import { VoiceRecorderWithSTT } from "../../components/library/voiceRecorderWithSTT/voiceRecorderWithSTT";
+import { InterviewResult } from "../../components/library/interviewResult/interviewResult.jsx";
 
 export function InterviewPage() {
   const [view, setView] = useState("form");
   const [method, setMethod] = useState();
   const [isSelected, setIsSelected] = useState(false);
   const [userForm, setUserForm] = useState({});
+  const [sessionId, setSessionId] = useState(null);
 
   // Chat states
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -28,11 +30,20 @@ export function InterviewPage() {
           "Content-Type": "application/json",
           "Authorization": `Bearer ${token}`,
         },
-        body: JSON.stringify({ name: "Tuan", age: 22, job: "Lập trình viên" }),
+        body: JSON.stringify({ 
+          name: userForm.name || "Tuan", 
+          age: 22, 
+          job: userForm.career || "Lập trình viên" 
+        }),
       });
 
       const data = await res.json();
       console.log("Server response:", data);
+      
+      // Lưu sessionId từ response
+      if (data.session_id) {
+        setSessionId(data.session_id);
+      }
     } catch (err) {
       console.error("Lỗi khi gọi API:", err);
     }
@@ -257,11 +268,11 @@ export function InterviewPage() {
                 <div
                   className="h-3 rounded-full bg-[var(--primary)]"
                   style={{
-                    width: `${
+                    width: `${(
                       ((getCurrentCriterionIndex() + 1) /
                         selectedCareer.criteria.length) *
                       100
-                    }%`,
+                    )}%`,
                   }}
                 ></div>
               </div>
@@ -365,11 +376,11 @@ export function InterviewPage() {
                 <div
                   className="h-3 rounded-full bg-[var(--secondary)]"
                   style={{
-                    width: `${
+                    width: `${(
                       ((getCurrentCriterionIndex() + 1) /
                         selectedCareer.criteria.length) *
                       100
-                    }%`,
+                    )}%`,
                   }}
                 ></div>
               </div>
@@ -456,9 +467,21 @@ export function InterviewPage() {
         </div>
       )}
 
+      {/* Result View */}
       {view === "result" && (
-        // Phần này em làm cho ra kết quả đánh giá, điểm của các tiêu chi đi rồi anh chỉnh lại front-end
-        <div>Cảm ơn bạn đã sử dụng</div>
+        <InterviewResult 
+          userForm={userForm}
+          answers={answers}
+          method={method}
+          sessionId={sessionId}
+          onRestart={() => {
+            setView("interviewMethods");
+            setCurrentQuestionIndex(0);
+            setAnswers([]);
+            setCurrentAnswer("");
+            setSessionId(null);
+          }}
+        />
       )}
     </div>
   );

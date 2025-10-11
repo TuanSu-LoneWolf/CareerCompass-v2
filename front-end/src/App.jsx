@@ -10,6 +10,9 @@ import { CareerGuidancePage } from './pages/CareerGuidancePage/careerGuidancePag
 import { InterviewPage } from './pages/InterviewPage/interviewPage.jsx';
 import { CheckCVPage } from './pages/CheckCVPage/checkCVPage.jsx';
 
+// **Import page kết quả test**
+import { TestResultPage } from './pages/TestResultPage/TestResultPage.jsx';
+
 function App() {
   const location = useLocation();
   const hideLayout = ["/signup", "/login"].includes(location.pathname);
@@ -31,7 +34,7 @@ function App() {
               SubHeadLine="Career Compass giúp bạn khám phá bản thân, chọn ngành học và ngôi trường phù hợp, đồng thời hỗ trợ luyện phỏng vấn và kiểm tra CV. Đây là nền tảng đồng hành cùng bạn trong từng bước chuẩn bị, để hành trình sự nghiệp thành công bắt đầu từ hôm nay."
               FeatureTitle={
                 <>
-                Tính năng nổi bật của{" "}<span className="text-[var(--primary)]">Career Compass</span>               
+                  Tính năng nổi bật của{" "}<span className="text-[var(--primary)]">Career Compass</span>               
                 </>
               }
               FeatureSubTitle="Khám phá các công cụ mạnh mẽ giúp bạn định hướng và phát triển sự nghiệp một cách hiệu quả"
@@ -45,6 +48,9 @@ function App() {
         <Route path="/cv-check" element={<CheckCVPage />}></Route>
         <Route path="/signup" element={<SignUpPage />} />
         <Route path="/login" element={<LoginPage />} />
+
+        {/* ✅ Route mới cho trang hiển thị kết quả 2 bài test + AI Top 5 ngành nghề */}
+        <Route path="/test-result" element={<TestResultPage />} />
       </Routes>
 
       {!hideLayout && <Footer />}

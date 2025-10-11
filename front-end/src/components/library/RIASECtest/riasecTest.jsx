@@ -1,6 +1,6 @@
 // RIASECTest.jsx
 import { useState, useEffect, useRef } from "react";
-import { Target, Check, Shuffle } from "lucide-react";
+import { Target, Check, Shuffle, Brain } from "lucide-react";
 import {
   Hammer,
   FlaskConical,
@@ -305,6 +305,9 @@ export function RIASECTest({ onFinish }) {
   const [answers, setAnswers] = useState({});
   const [step, setStep] = useState(0);
   const [result, setResult] = useState(null);
+  const [careerSuggestions, setCareerSuggestions] = useState(null);
+  const [loading, setLoading] = useState(false);
+  
   useEffect(() => {
     if (result && resultRef.current) {
       resultRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -328,6 +331,30 @@ export function RIASECTest({ onFinish }) {
     g.questions.every((q) => answers[q.id])
   ).length;
   const riasecProgress = Math.round((completedGroups / totalGroups) * 100);
+
+  const fetchCareerSuggestions = async (riasecResult, mbtiResult) => {
+    setLoading(true);
+    try {
+      const response = await fetch("http://localhost:5002/api/ai-career", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          mbti: mbtiResult,
+          riasec: riasecResult,
+        }),
+      });
+
+      const data = await response.json();
+      if (data.status === "success") {
+        setCareerSuggestions(data.suggestion);
+      } else {
+        console.error("Lỗi từ server:", data.message);
+      }
+    } catch (error) {
+      console.error("Lỗi fetch API:", error);
+    }
+    setLoading(false);
+  };
 
   const handleSelect = (qId, value) => {
     setAnswers((prev) => ({ ...prev, [qId]: value }));
@@ -374,17 +401,29 @@ export function RIASECTest({ onFinish }) {
       const top3 = sorted.slice(0, 3);
       const code = top3.map(([k]) => k).join("");
 
-      // ✅ Lấy tên nhóm tương ứng (VD: ["Thực tế", "Nghiên cứu", "Nghệ thuật"])
-      const top3Names = top3.map(([k]) => riasecTitles[k].title);
+      // ✅ Lấy mô tả
+      const description = top3.map(([k]) => riasecTitles[k].title).join(", ");
 
       // ✅ Chuẩn hóa kết quả để truyền ra
       const RIASECResult = {
         code,
-        top3Names,
+        description,
         scores,
+        top3: top3.map(([type, score]) => ({ type, score }))
       };
 
+      // ✅ LƯU KẾT QUẢ VÀO LOCALSTORAGE
+      localStorage.setItem('riasecResult', JSON.stringify(RIASECResult));
+
       setResult(RIASECResult);
+      
+      // ✅ Gọi API để lấy đề xuất nghề nghiệp
+      // Lấy kết quả MBTI từ localStorage (giả sử đã lưu trước đó)
+      const savedMBTI = JSON.parse(localStorage.getItem('mbtiResult'));
+      if (savedMBTI) {
+        fetchCareerSuggestions(RIASECResult, savedMBTI);
+      }
+
       if (onFinish) onFinish(RIASECResult);
 
       // Cuộn lên đầu trang
@@ -419,7 +458,7 @@ export function RIASECTest({ onFinish }) {
 
         {/* Top 3 cards */}
         <div className="grid grid-cols-1 gap-4 mt-6">
-          {result.top3Names.map(([type, score], idx) => {
+          {result.top3.map(({type, score}, idx) => {
             const Icon = riasecIcons[type];
             const rank = idx + 1;
             const rankStyle = rankColors[rank];
@@ -497,13 +536,96 @@ export function RIASECTest({ onFinish }) {
           </div>
         </div>
 
+        {/* PHẦN MỚI: Kết quả MBTI (nếu có) */}
+        {(() => {
+          const savedMBTI = JSON.parse(localStorage.getItem('mbtiResult'));
+          if (savedMBTI) {
+            return (
+              <div className="mt-8 p-6 bg-[var(--card)] border border-[var(--border)] rounded-[var(--radius)]">
+                <div className="flex items-center gap-3 mb-4">
+                  <div className="w-10 h-10 bg-[var(--bg-chart-1)] rounded-[var(--radius)] flex items-center justify-center">
+                    <Brain className="w-5 h-5 text-[var(--primary)]" />
+                  </div>
+                  <h3 className="text-xl font-bold text-[var(--primary)]">
+                    Kết Quả MBTI
+                  </h3>
+                </div>
+                
+                <div className="grid md:grid-cols-2 gap-4">
+                  <div>
+                    <h4 className="font-semibold mb-2">Thông tin cơ bản</h4>
+                    <p><strong>Mã:</strong> {savedMBTI.code}</p>
+                    <p><strong>Tên:</strong> {savedMBTI.name}</p>
+                    <p><strong>Mô tả:</strong> {savedMBTI.overview}</p>
+                  </div>
+                  <div>
+                    <h4 className="font-semibold mb-2">Điểm số chi tiết</h4>
+                    {Object.entries(savedMBTI.scores).map(([dim, score]) => (
+                      <p key={dim}><strong>{dim}:</strong> {score}</p>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            );
+          }
+          return null;
+        })()}
+
+        {/* PHẦN MỚI: Top 5 ngành nghề phù hợp */}
+        <div className="mt-8 p-6 bg-[var(--card)] border border-[var(--border)] rounded-[var(--radius)]">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 bg-[var(--bg-chart-1)] rounded-[var(--radius)] flex items-center justify-center">
+              <Brain className="w-5 h-5 text-[var(--primary)]" />
+            </div>
+            <h3 className="text-xl font-bold text-[var(--primary)]">
+              Top 5 ngành nghề phù hợp
+            </h3>
+          </div>
+
+          {loading ? (
+            <div className="text-center py-4">
+              <p className="text-[var(--muted-foreground)]">Đang phân tích và đề xuất nghề nghiệp...</p>
+            </div>
+          ) : careerSuggestions ? (
+            <div>
+              <div className="space-y-3 mb-4">
+                {careerSuggestions.career_path.map((career, index) => (
+                  <div 
+                    key={index}
+                    className="p-3 bg-[var(--bg)] border border-[var(--border)] rounded-[var(--radius)]"
+                  >
+                    <div className="flex items-center gap-2">
+                      <span className="w-6 h-6 bg-[var(--primary)] text-white rounded-full flex items-center justify-center text-sm">
+                        {index + 1}
+                      </span>
+                      <span className="font-medium text-[var(--primary)]">{career}</span>
+                    </div>
+                  </div>
+                ))}
+              </div>
+              
+              {careerSuggestions.summary && (
+                <div className="p-4 bg-[var(--bg)] border border-[var(--border)] rounded-[var(--radius)]">
+                  <h4 className="font-bold mb-2 text-[var(--primary)]">Tổng quan:</h4>
+                  <p className="text-[var(--muted-foreground)]">{careerSuggestions.summary}</p>
+                </div>
+              )}
+            </div>
+          ) : (
+            <div className="text-center py-4">
+              <p className="text-[var(--muted-foreground)]">Không thể tải đề xuất nghề nghiệp</p>
+            </div>
+          )}
+        </div>
+
         <button
           onClick={() => {
             setAnswers({});
             setStep(0);
             setResult(null);
+            setCareerSuggestions(null);
           }}
-          className="mt-8 px-4 py-2 bg-[var(--primary)] text-white rounded"
+          className="mt-8 px-6 py-2 bg-[var(--primary)] text-white rounded-lg cursor-pointer"
         >
           Làm lại
         </button>

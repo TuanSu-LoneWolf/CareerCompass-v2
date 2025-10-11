@@ -21,7 +21,7 @@ except ImportError:
 
 # Import custom decorators (cấu trúc đúng: from [package].[module] import name)
 try:
-    from auth.auth import firebase_required # Đã bỏ premium_required
+    from auth.auth import firebase_required
     from auth.rate_limiter import rate_limit
     from auth.auth_routes import auth_bp
 except ImportError as e:
@@ -33,10 +33,12 @@ except ImportError as e:
 app = Flask(__name__)
 app.config.from_object(Config)
 
-# Enable CORS
+# Enable CORS với cấu hình chi tiết
 CORS(app,
-     origins=getattr(Config, "ALLOWED_ORIGINS", "*"),
-     supports_credentials=True)
+     origins=["http://localhost:5173", "http://127.0.0.1:5173", "http://localhost:3000"],
+     supports_credentials=True,
+     methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+     allow_headers=["Content-Type", "Authorization", "X-Requested-With"])
 
 # Register auth blueprint if available
 try:
@@ -76,6 +78,24 @@ def load_data():
 career_data, model_data = load_data()
 sessions = {}
 
+# Thêm middleware để xử lý CORS headers
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', 'http://localhost:5173')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+    response.headers.add('Access-Control-Allow-Credentials', 'true')
+    return response
+
+# Xử lý OPTIONS request cho preflight
+@app.route('/api/start-interview', methods=['OPTIONS'])
+@app.route('/api/submit-answer', methods=['OPTIONS'])
+@app.route('/api/finish-interview', methods=['OPTIONS'])
+@app.route('/api/listen', methods=['OPTIONS'])
+@app.route('/api/careers', methods=['OPTIONS'])
+def options_handler():
+    return '', 200
+
 @app.route('/')
 def api_root():
     return jsonify({
@@ -90,7 +110,7 @@ def get_careers():
     return jsonify(careers)
 
 @app.route('/api/start-interview', methods=['POST'])
-@firebase_required
+# @firebase_required
 
 @rate_limit(limit=5, window=3600, per_user=True)
 def start_interview():

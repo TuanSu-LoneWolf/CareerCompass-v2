@@ -15,7 +15,7 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 
 def get_ai_suggestion(mbti, riasec):
-    """Hàm gọi AI với model gemini-1.5-pro"""
+    """Hàm gọi AI với model gemini-2.0-flash để lấy đề xuất nghề nghiệp"""
     try:
         prompt = f"""
         Bạn là chuyên gia hướng nghiệp. Hãy phân tích tính cách MBTI và xu hướng RIASEC để đề xuất 5 ngành nghề phù hợp nhất.
@@ -49,8 +49,8 @@ def get_ai_suggestion(mbti, riasec):
         
         print("🤖 Đang gọi Gemini 1.5 Pro...")
         
-        # Sử dụng model gemini-1.5-pro
-        model = genai.GenerativeModel('gemini-1.5-pro')
+        # Sử dụng model gemini-2.0-flash
+        model = genai.GenerativeModel('gemini-2.0-flash')
         response = model.generate_content(prompt)
         
         ai_text = response.text.strip()
@@ -227,14 +227,14 @@ def health_check():
         "status": "healthy", 
         "message": "Server is running",
         "api_key": "✅ Found" if GEMINI_API_KEY else "❌ Missing",
-        "model": "gemini-1.5-pro"
+        "model": "gemini-2.0-flash"
     })
 
 @app.route("/api/test-ai", methods=["GET"])
 def test_ai():
     """Endpoint test AI connection"""
     try:
-        model = genai.GenerativeModel('gemini-1.5-pro')
+        model = genai.GenerativeModel('gemini-2.0-flash')
         response = model.generate_content("Xin chào! Hãy trả lời ngắn gọn: Bạn có hoạt động không?")
         return jsonify({
             "status": "success",
@@ -248,8 +248,8 @@ def test_ai():
         }), 500
 
 if __name__ == "__main__":
-    print("🚀 Khởi động server career AI với Gemini 1.5 Pro...")
+    print("🚀 Khởi động server career AI với Gemini 2.0-flash...")
     print(f"🔑 API Key: {'✅ Found' if GEMINI_API_KEY else '❌ Missing'}")
-    print("🎯 Model: gemini-2.5-pro")
+    print("🎯 Model: gemini-2.0-flash")
     
     app.run(port=5002, debug=True)
