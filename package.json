@@ -1,5 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "firebase": "^12.4.0"
+=======
+    "firebase": "^12.4.0",
+    "react-markdown": "^10.1.0"
+>>>>>>> main
   }
 }
