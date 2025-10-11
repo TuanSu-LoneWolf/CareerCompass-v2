@@ -141,7 +141,6 @@ qa_chain = RetrievalQA.from_chain_type(
 # Step 4: Hàm truy vấn
 # -----------------------
 def answer_question(question: str) -> str:
-
     """Trả về câu trả lời từ hệ thống RAG (có debug chi tiết)."""
     print(f"🧠 Nhận câu hỏi: {question}")
     try:
