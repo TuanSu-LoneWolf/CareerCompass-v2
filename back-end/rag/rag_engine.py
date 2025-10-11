@@ -141,24 +141,6 @@ qa_chain = RetrievalQA.from_chain_type(
 # Step 4: Hàm truy vấn
 # -----------------------
 def answer_question(question: str) -> str:
-<<<<<<< HEAD
-    """
-    Trả về câu trả lời từ RAG.
-    Có giới hạn:
-    - input tối đa 200 token
-    - output tối đa 300 token
-    """
-    try:
-        # cắt input nếu quá dài (≈ 200 token ~ 800 ký tự)
-        if len(question) > 800:
-            question = question[:800] + "..."
-
-        result = qa_chain.invoke({"question": question})  # ✅ đúng key
-        return result["result"]
-    except Exception as e:
-        print("❌ Lỗi khi gọi RAG:", e)
-        return "Xin lỗi, có lỗi khi xử lý yêu cầu của bạn."
-=======
     """Trả về câu trả lời từ hệ thống RAG (có debug chi tiết)."""
     print(f"🧠 Nhận câu hỏi: {question}")
     try:
@@ -180,6 +162,5 @@ def answer_question(question: str) -> str:
         print(f"❌ Error message: {e}")
         return "Xin lỗi, hệ thống gặp lỗi khi xử lý câu hỏi của bạn."
 
->>>>>>> 4636e35 (fix counseling-chatbot)
 
 
