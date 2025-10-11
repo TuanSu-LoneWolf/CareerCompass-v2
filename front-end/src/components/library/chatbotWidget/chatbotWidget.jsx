@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from "react";
-import { Bot, User, Send, X } from "lucide-react";
+import { Bot, Send, X } from "lucide-react";
+import ReactMarkdown from "react-markdown";
 
 export function ChatbotWidget() {
   const [messages, setMessages] = useState([]);
@@ -151,7 +152,7 @@ export function ChatbotWidget() {
                     className="whitespace-pre-wrap break-words"
                     style={{ overflowWrap: "anywhere" }}
                   >
-                    {msg.text}
+                    <ReactMarkdown>{msg.text}</ReactMarkdown>
                   </div>
                   <div className="text-[10px] text-[var(--muted-foreground)] mt-1">
                     {msg.time}
