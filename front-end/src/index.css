@@ -117,7 +117,7 @@
   --header: rgba(30, 41, 59, 0.9);
   --mode-hover: #374151;
   --filter-hover: #374151;
-  --border-dashed: #2563eb;
+  --border-dashed: rgba(59, 130, 246, 0.2);
   --bg-chart-top: rgb(30, 58, 138, 0.3);
 }
 

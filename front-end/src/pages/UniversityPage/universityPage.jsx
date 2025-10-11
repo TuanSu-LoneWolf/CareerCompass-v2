@@ -5,6 +5,7 @@ import {
   InfoCard,
   UniversityCard,
   UniversityDetailCard,
+  MajorDetailCard
 } from "../../components/library/cards/card";
 import { GraduationCap, BookOpen } from "lucide-react";
 import { SearchBar } from "../../components/library/searchBar + filter/searchBar.jsx";
@@ -14,7 +15,9 @@ export function UniversityPage() {
   const [schools, setSchools] = useState([]);
   const [loading, setLoading] = useState(false); // ← state mới
   const [majors, setMajors] = useState([]);
+  const [majorGroups, setMajorGroups] = useState([]);
   const [selectedSchool, setSelectedSchool] = useState(null);
+  const [selectedMajorGroup, setSelectedMajorGroup] = useState(null);
   const [query, setQuery] = useState("");
   const [detailQuery, setDetailQuery] = useState("");
   const [filters, setFilters] = useState({
@@ -105,6 +108,60 @@ export function UniversityPage() {
     [majors]
   );
 
+  const majorFilterConfig = useMemo(
+    () => [
+      {
+        key: "score",
+        label: "Điểm chuẩn",
+        type: "select",
+        options: ["Cao (>=27)", "Trung bình (24-27)", "Thấp (<24)"],
+      },
+      {
+        key: "subject",
+        label: "Tổ hợp môn",
+        type: "select",
+        options: [
+          ...new Set(
+            majors.flatMap((m) => (Array.isArray(m.subjects) ? m.subjects : []))
+          ),
+        ].filter(Boolean),
+      },
+      {
+        key: "method",
+        label: "Phương thức",
+        type: "select",
+        options: [
+          ...new Set(
+            majors.flatMap((m) =>
+              Array.isArray(m.scores)
+                ? m.scores
+                    .map((s) =>
+                      s.method?.replace(/\b(năm\s*)?20\d{2}\b/, "").trim()
+                    )
+                    .filter(Boolean)
+                : []
+            )
+          ),
+        ],
+      },
+      {
+        key: "year",
+        label: "Năm",
+        type: "select",
+        options: [
+          ...new Set(
+            majors.flatMap((m) =>
+              Array.isArray(m.scores)
+                ? m.scores.map((s) => extractYear(s.method)).filter(Boolean)
+                : []
+            )
+          ),
+        ],
+      },
+    ],
+    [majors]
+  );
+
   const totalSchools = schools.length;
   const totalMajors = schools.reduce((sum, s) => sum + s.major_count, 0);
   const displayedSchools = schools.filter((s) => s.major_count !== 0).length;
@@ -112,10 +169,9 @@ export function UniversityPage() {
   // lọc theo tên và mã
   const filteredSchools = schools.filter((s) => {
     const q = query.toLowerCase();
-    return (
-      s.school_name.toLowerCase().includes(q) ||
-      s.school_code.toLowerCase().includes(q)
-    );
+    const name = (s.school_name || "").toLowerCase();
+    const code = (s.school_code || "").toLowerCase();
+    return name.includes(q) || code.includes(q);
   });
 
   const backMap = {
@@ -137,7 +193,7 @@ export function UniversityPage() {
   // chỉ fetch 1 lần khi component mount
   useEffect(() => {
     setLoading(true);
-    fetch("https://careercompass-v2-3.onrender.com/universities")
+    fetch("http://localhost:5000/universities")
       .then((res) => res.json())
       .then((data) => {
         setSchools(data);
@@ -145,6 +201,16 @@ export function UniversityPage() {
       .catch((err) => console.error(err))
       .finally(() => setLoading(false));
   }, []); // ← [] thay vì [view]
+
+  useEffect(() => {
+    fetch("http://localhost:5001/major-groups")
+      .then((res) => res.json())
+      .then((data) => setMajorGroups(data))
+      .catch((err) => console.error("Lỗi khi load nhóm ngành:", err));
+  }, []);
+
+  console.log("VIEW:", view);
+  console.log("MAJOR GROUPS:", majorGroups);
 
   return (
     <div
@@ -254,7 +320,7 @@ export function UniversityPage() {
                       subjects={`${school.major_count} ngành đào tạo`}
                       onClick={() => {
                         fetch(
-                          `https://careercompass-v2-3.onrender.com/universities/${school.school_code}`
+                          `http://localhost:5000/universities/${school.school_code}`
                         )
                           .then((res) => res.json())
                           .then((data) => {
@@ -379,7 +445,185 @@ export function UniversityPage() {
       )}
 
       {/* MajorGroup */}
-      {view === "majorGroup" && <div></div>}
+      {/* MajorGroup: danh sách nhóm ngành */}
+      {view === "majorGroup" && (
+        <div className="pb-20">
+          <h1 className="text-3xl text-[var(--card-foreground)] text-center mb-2">
+            Nhóm ngành đào tạo
+          </h1>
+          <p className="text-[var(--muted-foreground)] text-center mb-8">
+            Chọn một nhóm ngành để xem các ngành học chi tiết
+          </p>
+
+          {majorGroups.length === 0 ? (
+            <div className="text-center py-10 text-[var(--muted-foreground)]">
+              Đang tải dữ liệu...
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {majorGroups.map((group) => (
+                <InfoCard
+                  icon={BookOpen}
+                  color="text-[var(--primary)] bg-[var(--bg-chart-1)]"
+                  key={group.nhom_nganh}
+                  title={group.nhom_nganh}
+                  subTitle="Xem các ngành đào tạo"
+                  button="Khám phá"
+                  onClick={() => {
+                    setLoading(true);
+                    fetch(
+                      `http://localhost:5001/major-groups/${encodeURIComponent(
+                        group.nhom_nganh
+                      )}`
+                    )
+                      .then((res) => res.json())
+                      .then((data) => {
+                        setMajors(data.danh_sach_nganh || []);
+                        setSelectedMajorGroup(data.nhom_nganh);
+                        setView("majorList");
+                        window.scrollTo({ top: 0, behavior: "smooth" });
+                      })
+                      .catch((err) => console.error(err))
+                      .finally(() => setLoading(false));
+                  }}
+                />
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* MajorList: danh sách ngành trong nhóm */}
+      {view === "majorList" && selectedMajorGroup && (
+        <div className="pb-20">
+          <h1 className="text-3xl text-[var(--card-foreground)] text-center mb-4">
+            {selectedMajorGroup}
+          </h1>
+
+          {/* Thanh tìm kiếm ngành */}
+          <SearchBar
+            placeholder="Tìm theo tên ngành..."
+            onSearch={setDetailQuery}
+            className="mx-auto mb-6 max-w-3xl"
+          />
+
+          {/* Bộ lọc ngành */}
+          <FilterBar
+            filters={filters}
+            setFilters={setFilters}
+            config={majorFilterConfig}
+            data={majors}
+          />
+
+          {/* Grid danh sách ngành */}
+          {loading ? (
+            <div className="text-center py-10 text-[var(--muted-foreground)]">
+              Đang tải danh sách ngành...
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
+              {majors
+                // Search theo tên ngành
+                .filter((m) =>
+                  (m.ten_nganh || "")
+                    .toLowerCase()
+                    .includes((detailQuery || "").toLowerCase())
+                )
+                // Filter theo score, subject, method, year
+                .filter((m) => {
+                  const matchesScore = filters.score
+                    ? m.scores?.some((s) => {
+                        const score = parseFloat(s.score) || 0;
+                        return filters.score === "Cao (>=27)"
+                          ? score >= 27
+                          : filters.score === "Trung bình (24-27)"
+                          ? score >= 24 && score < 27
+                          : filters.score === "Thấp (<24)"
+                          ? score < 24
+                          : true;
+                      })
+                    : true;
+
+                  const matchesSubject = filters.subject
+                    ? m.subjects?.includes(filters.subject)
+                    : true;
+
+                  const matchesMethod = filters.method
+                    ? m.scores?.some((s) =>
+                        s.method
+                          ?.toLowerCase()
+                          .includes(filters.method.toLowerCase())
+                      )
+                    : true;
+
+                  const matchesYear = filters.year
+                    ? m.scores?.some((s) => s.method?.includes(filters.year))
+                    : true;
+
+                  return (
+                    matchesScore &&
+                    matchesSubject &&
+                    matchesMethod &&
+                    matchesYear
+                  );
+                })
+                .map((major, i) => (
+                  <InfoCard
+                    key={i}
+                    color="text-[var(--primary)] bg-[var(--bg-chart-1)]"
+                    title={major.ten_nganh}
+                    subTitle={`${major.tong_so_truong} trường`}
+                    button="Xem trường"
+                    icon={BookOpen}
+                    onClick={() => {
+                      setLoading(true);
+                      fetch(
+                        `http://localhost:5001/majors/${encodeURIComponent(
+                          selectedMajorGroup
+                        )}/${encodeURIComponent(major.ten_nganh)}`
+                      )
+                        .then((res) => res.json())
+                        .then((data) => {
+                          setSchools(data.truong || []);
+                          setView("schoolList");
+                          window.scrollTo({ top: 0, behavior: "smooth" });
+                        })
+                        .catch((err) => console.error(err))
+                        .finally(() => setLoading(false));
+                    }}
+                  />
+                ))}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* SchoolList: danh sách trường theo ngành */}
+      {view === "schoolList" && (
+        <div className="pb-20">
+          <h1 className="text-3xl text-[var(--card-foreground)] text-center mb-8">
+            Danh sách trường
+          </h1>
+
+          {loading ? (
+            <div className="text-center py-10 text-[var(--muted-foreground)]">
+              Đang tải danh sách trường...
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {schools.map((school, i) => (
+                <MajorDetailCard
+                  key={i}
+                  name={school.ten_truong}
+                  subjects={school.to_hop_mon}
+                  score={school.diem_chuan_2024}
+                  score2={school.diem_chuan_2023}
+                />
+              ))}
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Back Button */}
       {view !== "entry" && (

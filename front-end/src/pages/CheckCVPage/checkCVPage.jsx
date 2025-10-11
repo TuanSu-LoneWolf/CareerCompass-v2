@@ -6,7 +6,7 @@ export function CheckCVPage() {
   const [view, setView] = useState("result");
 
   const result =
-    "Cảm ơn bạn đã lắng ngheCV của bạn được trình bày khá rõ ràng và có cấu trúc hợp lý, tuy nhiên phần nội dung còn thiếu điểm nhấn. AI nhận thấy phần Kinh nghiệm làm việc mới chỉ dừng lại ở việc mô tả nhiệm vụ, chưa thể hiện được kết quả hoặc tác động cụ thể mà bạn đã tạo ra trong công việc. Bạn nên bổ sung các số liệu hoặc ví dụ minh họa để tăng tính thuyết phục, chẳng hạn như “tăng doanh thu 20%” hoặc “giảm 30% thời gian xử lý quy trình”. Bên cạnh đó, phần Kỹ năng có thể được chia nhóm theo chuyên môn để người đọc dễ theo dõi hơn. Tổng thể, CV thể hiện một nền tảng tốt nhưng cần thêm yếu tố cá nhân hóa để gây ấn tượng mạnh hơn. Cảm ơn bạn đã lắng ngheCV của bạn được trình bày khá rõ ràng và có cấu trúc hợp lý, tuy nhiên phần nội dung còn thiếu điểm nhấn. AI nhận thấy phần Kinh nghiệm làm việc mới chỉ dừng lại ở việc mô tả nhiệm vụ, chưa thể hiện được kết quả hoặc tác động cụ thể mà bạn đã tạo ra trong công việc. Bạn nên bổ sung các số liệu hoặc ví dụ minh họa để tăng tính thuyết phục, chẳng hạn như “tăng doanh thu 20%” hoặc “giảm 30% thời gian xử lý quy trình”. Bên cạnh đó, phần Kỹ năng có thể được chia nhóm theo chuyên môn để người đọc dễ theo dõi hơn. Tổng thể, CV thể hiện một nền tảng tốt nhưng cần thêm yếu tố cá nhân hóa để gây ấn tượng mạnh hơn. Cảm ơn bạn đã lắng ngheCV của bạn được trình bày khá rõ ràng và có cấu trúc hợp lý, tuy nhiên phần nội dung còn thiếu điểm nhấn. AI nhận thấy phần Kinh nghiệm làm việc mới chỉ dừng lại ở việc mô tả nhiệm vụ, chưa thể hiện được kết quả hoặc tác động cụ thể mà bạn đã tạo ra trong công việc. Bạn nên bổ sung các số liệu hoặc ví dụ minh họa để tăng tính thuyết phục, chẳng hạn như “tăng doanh thu 20%” hoặc “giảm 30% thời gian xử lý quy trình”. Bên cạnh đó, phần Kỹ năng có thể được chia nhóm theo chuyên môn để người đọc dễ theo dõi hơn. Tổng thể, CV thể hiện một nền tảng tốt nhưng cần thêm yếu tố cá nhân hóa để gây ấn tượng mạnh hơn.";
+    "";
 
   return (
     <div className="flex flex-col items-center justify-center pb-16 sm:min-h-screen w-full max-w-6xl mx-auto px-2">
@@ -72,7 +72,7 @@ export function CheckCVPage() {
           </div>
           {view === "result" && (
             <div className="overflow-y-auto hide-scrollbar text-[var(--muted-foreground)] text-justify p-4 border-2 border-dashed border-[var(--border-dashed)] rounded-[var(--radius)] w-full h-full">
-                {result}
+              {result}
             </div>
           )}
         </div>

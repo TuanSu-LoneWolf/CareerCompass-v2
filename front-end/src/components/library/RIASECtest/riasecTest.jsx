@@ -362,25 +362,34 @@ export function RIASECTest({ onFinish }) {
         });
       }, 100);
     } else {
-      // ... tính kết quả
+      // ✅ Tính điểm
       const scores = { R: 0, I: 0, A: 0, S: 0, E: 0, C: 0 };
       for (const q of riasecQuestions) {
         const value = answers[q.id];
         if (value) scores[q.type] += value;
       }
+
+      // ✅ Lấy top 3 cao nhất
       const sorted = Object.entries(scores).sort((a, b) => b[1] - a[1]);
       const top3 = sorted.slice(0, 3);
       const code = top3.map(([k]) => k).join("");
-      const finalResult = { scores, code, top3 };
-      setResult(finalResult);
-      if (onFinish) onFinish(finalResult);
 
-      // 👉 sửa chỗ này
+      // ✅ Lấy tên nhóm tương ứng (VD: ["Thực tế", "Nghiên cứu", "Nghệ thuật"])
+      const top3Names = top3.map(([k]) => riasecTitles[k].title);
+
+      // ✅ Chuẩn hóa kết quả để truyền ra
+      const RIASECResult = {
+        code,
+        top3Names,
+        scores,
+      };
+
+      setResult(RIASECResult);
+      if (onFinish) onFinish(RIASECResult);
+
+      // Cuộn lên đầu trang
       setTimeout(() => {
-        window.scrollTo({
-          top: 0,
-          behavior: "smooth",
-        });
+        window.scrollTo({ top: 0, behavior: "smooth" });
       }, 100);
     }
   };
@@ -410,7 +419,7 @@ export function RIASECTest({ onFinish }) {
 
         {/* Top 3 cards */}
         <div className="grid grid-cols-1 gap-4 mt-6">
-          {result.top3.map(([type, score], idx) => {
+          {result.top3Names.map(([type, score], idx) => {
             const Icon = riasecIcons[type];
             const rank = idx + 1;
             const rankStyle = rankColors[rank];
@@ -620,18 +629,18 @@ export function RIASECTest({ onFinish }) {
           onClick={handleRandomFill}
           className="flex items-center gap-2 px-4 py-2 bg-yellow-400 text-white rounded-lg cursor-pointer"
         >
-          <Shuffle className="w-4 h-4"/>
+          <Shuffle className="w-4 h-4" />
           <p>Random Fill</p>
         </button>
-          <button
-            onClick={handleNext}
-            disabled={!isGroupComplete()}
-            className={`px-6 py-2 rounded-lg text-white bg-[var(--primary)] cursor-pointer ${
-              isGroupComplete() ? "" : "opacity-60 cursor-not-allowed"
-            }`}
-          >
-            {step < groupedQuestions.length - 1 ? "Tiếp tục" : "Xem kết quả"}
-          </button>
+        <button
+          onClick={handleNext}
+          disabled={!isGroupComplete()}
+          className={`px-6 py-2 rounded-lg text-white bg-[var(--primary)] cursor-pointer ${
+            isGroupComplete() ? "" : "opacity-60 cursor-not-allowed"
+          }`}
+        >
+          {step < groupedQuestions.length - 1 ? "Tiếp tục" : "Xem kết quả"}
+        </button>
       </div>
     </div>
   );
